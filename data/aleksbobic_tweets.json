@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1453725918191505418,
+        "created_at": "Thu Oct 28 14:10:42 +0000 2021",
+        "full_text": [
+            "Unnamed company: Oh my god we care so much about the environment. We're adapting our business to be more #environmentallyFriendly! \n\nSame unnamed company: Proceeds to spam me with piles of paper ads instead of simply sending a monthly email. \n\nMake up your mind... 🙄"
+        ],
+        "favorite_count": 1
+    },
+    {
+        "id": 1451244514363035655,
+        "created_at": "Thu Oct 21 17:50:29 +0000 2021",
+        "full_text": [
+            "@mervenoyann What’s a pretty PR? 👀 … ok but on a serious note: that might be a cool blog post for future data scientists or folks not working with production data science systems! 🤔"
+        ],
+        "favorite_count": 0
+    },
+    {
+        "id": 1451207416402653187,
+        "created_at": "Thu Oct 21 15:23:04 +0000 2021",
+        "full_text": [
+            "RT @CoDiSLabGraz: We’re happy to share the tree contributions made by members of @CoDiSLabGraz @tugraz @tugraz_csbme @CERN at the 3rd Inter…"
+        ],
+        "favorite_count": 0
+    },
+    {
+        "id": 1447480811952001025,
+        "created_at": "Mon Oct 11 08:34:53 +0000 2021",
+        "full_text": [
+            "@mervenoyann Let me know if you find a way to avoid this! I have the same issue with Twitter and Reddit 😅"
+        ],
+        "favorite_count": 1
+    },
+    {
+        "id": 1447177456100724742,
+        "created_at": "Sun Oct 10 12:29:27 +0000 2021",
+        "full_text": [
+            "People standing in line for 20min before boarding and standing up 10min before it’s your turn to get of a plane what do you do with the extra 2 milliseconds you gain by doing so? 🤔 #traveling #flying"
+        ],
+        "favorite_count": 4
+    }
+]

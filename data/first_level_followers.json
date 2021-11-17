@@ -1,0 +1,106 @@
+{
+    "mizzaro": [
+        {
+            "id": 998681467696885761,
+            "name": "Oleg Zendel",
+            "screen_name": "OlegZendel",
+            "location": "Melbourne, Victoria",
+            "description": "IR Ph.D. candidate at @RMIT",
+            "protected": false,
+            "followers_count": 91,
+            "friends_count": 513
+        },
+        {
+            "id": 1369078711,
+            "name": "Lynda Said Lhadj",
+            "screen_name": "LyndaSaidLhadj",
+            "location": "Algiers",
+            "description": "Assistant Professor @esi_ex_ini, former Post-doc at MLIA LIP6, interested in Information Access and Retrieval, Applied NLP, and Applied Machine/deep learning.",
+            "protected": false,
+            "followers_count": 339,
+            "friends_count": 763
+        },
+        {
+            "id": 1400407060311851009,
+            "name": "acai2021",
+            "screen_name": "acai2021",
+            "location": "Berlin",
+            "description": "The 18th European Advanced Course on AI: Human-centred AI",
+            "protected": false,
+            "followers_count": 184,
+            "friends_count": 53
+        },
+        {
+            "id": 1265795638551212032,
+            "name": "Rodger Benham",
+            "screen_name": "rodger_benham",
+            "location": "",
+            "description": "Software Engineer at @RubiconWater in the final stages of a Computer Science PhD at @RMIT.",
+            "protected": false,
+            "followers_count": 133,
+            "friends_count": 270
+        },
+        {
+            "id": 740410382,
+            "name": "ἀν-ἀρχή",
+            "screen_name": "ColoursRiot",
+            "location": "",
+            "description": "",
+            "protected": false,
+            "followers_count": 27,
+            "friends_count": 235
+        }
+    ],
+    "Miccighel_": [
+        {
+            "id": 1455458703524700161,
+            "name": "Federico",
+            "screen_name": "Il_Bale_",
+            "location": "",
+            "description": "",
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 20
+        },
+        {
+            "id": 822006673267159040,
+            "name": "Outsider 🐝",
+            "screen_name": "Outsider289",
+            "location": "",
+            "description": "Never settle.\n⬇️👩🏻‍🍳🧁⬇️",
+            "protected": false,
+            "followers_count": 125,
+            "friends_count": 117
+        },
+        {
+            "id": 18932422,
+            "name": "mizzaro",
+            "screen_name": "mizzaro",
+            "location": "",
+            "description": "",
+            "protected": false,
+            "followers_count": 162,
+            "friends_count": 358
+        },
+        {
+            "id": 2478451308,
+            "name": "EURO ARTISTS",
+            "screen_name": "EUROARTISTS",
+            "location": "",
+            "description": "Management of Symphony and Chamber orchestra and big events",
+            "protected": false,
+            "followers_count": 185,
+            "friends_count": 463
+        },
+        {
+            "id": 860108790645084160,
+            "name": "Francesco",
+            "screen_name": "fra_bomba6",
+            "location": "Lignano Sabbiadoro, Friuli-Ven",
+            "description": "",
+            "protected": false,
+            "followers_count": 10,
+            "friends_count": 62
+        }
+    ]
+}

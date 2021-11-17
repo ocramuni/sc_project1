@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1445738077293408261,
+        "created_at": "Wed Oct 06 13:09:52 +0000 2021",
+        "full_text": [
+            "RT @AntoinDoucet: Full details: https://t.co/Vs7M1yhsGM and https://t.co/eZ4yvbOUaj"
+        ],
+        "favorite_count": 0
+    },
+    {
+        "id": 1434888197998264324,
+        "created_at": "Mon Sep 06 14:36:19 +0000 2021",
+        "full_text": [
+            "Welcome to @AlexandrePerier who joins @IMAGE_GreycLab for a 4-month internship on Unsupervised Generation of Humorous Quotes."
+        ],
+        "favorite_count": 3
+    },
+    {
+        "id": 1434887940669333509,
+        "created_at": "Mon Sep 06 14:35:18 +0000 2021",
+        "full_text": [
+            "Our paper on Multimodal Web Page Segmentation Using Self-organized Multi-objective Clustering with S. Jayashree, @Judithjfreeda S. Saha, @maurel_fabrice and S. Ferrari accepted at @acmtois. #WebAcessibility #VisuallyImpairedPeople"
+        ],
+        "favorite_count": 3
+    },
+    {
+        "id": 1390379518133784580,
+        "created_at": "Thu May 06 18:54:43 +0000 2021",
+        "full_text": [
+            "RT @jgmorenof: bravo @HoussamAkhmouch !!!! our paper \"Understanding Feature Focus in Multitask Settings for Lexico-semantic Relation Identi…"
+        ],
+        "favorite_count": 0
+    },
+    {
+        "id": 1383090478212640770,
+        "created_at": "Fri Apr 16 16:10:41 +0000 2021",
+        "full_text": [
+            "Our paper on Improving Neural Text Style Transfer by Introducing Loss Function Sequentiality with @chinmayrane16, Lechervy A. and Ekbal A. accepted at #SIGIR2021 @IMAGE_GreycLab @IITPAT"
+        ],
+        "favorite_count": 5
+    }
+]
