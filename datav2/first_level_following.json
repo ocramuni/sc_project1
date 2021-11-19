@@ -1,0 +1,126 @@
+{
+    "mizzaro": [
+        {
+            "public_metrics": {
+                "followers_count": 211,
+                "following_count": 197,
+                "tweet_count": 267,
+                "listed_count": 9
+            },
+            "username": "MaxZancanaro",
+            "protected": false,
+            "name": "Massimo Zancanaro",
+            "id": "1239642882"
+        },
+        {
+            "public_metrics": {
+                "followers_count": 37,
+                "following_count": 100,
+                "tweet_count": 21,
+                "listed_count": 1
+            },
+            "username": "CIRES_AU",
+            "protected": false,
+            "name": "ARC Training Centre for Information Resilience",
+            "id": "1425660262653120517"
+        },
+        {
+            "public_metrics": {
+                "followers_count": 50,
+                "following_count": 83,
+                "tweet_count": 3359,
+                "listed_count": 0
+            },
+            "username": "mccart_richard",
+            "protected": false,
+            "name": "Richard McCart",
+            "id": "1020854242150453253"
+        },
+        {
+            "public_metrics": {
+                "followers_count": 330,
+                "following_count": 213,
+                "tweet_count": 10886,
+                "listed_count": 19
+            },
+            "username": "Miccighel_",
+            "protected": false,
+            "name": "Michael Soprano",
+            "id": "15750573"
+        },
+        {
+            "public_metrics": {
+                "followers_count": 171,
+                "following_count": 120,
+                "tweet_count": 168,
+                "listed_count": 4
+            },
+            "username": "rmit_cidda",
+            "protected": false,
+            "name": "Centre for Information Discovery & Data Analytics",
+            "id": "1187585868493537280"
+        }
+    ],
+    "Miccighel_": [
+        {
+            "protected": false,
+            "id": "860108790645084160",
+            "name": "Francesco",
+            "public_metrics": {
+                "followers_count": 10,
+                "following_count": 62,
+                "tweet_count": 14,
+                "listed_count": 0
+            },
+            "username": "fra_bomba6"
+        },
+        {
+            "protected": false,
+            "id": "822006673267159040",
+            "name": "Outsider 🐝",
+            "public_metrics": {
+                "followers_count": 125,
+                "following_count": 117,
+                "tweet_count": 1368,
+                "listed_count": 0
+            },
+            "username": "Outsider289"
+        },
+        {
+            "protected": false,
+            "id": "700064764",
+            "name": "ELISA",
+            "public_metrics": {
+                "followers_count": 601,
+                "following_count": 863,
+                "tweet_count": 6096,
+                "listed_count": 1
+            },
+            "username": "BiancolinoElisa"
+        },
+        {
+            "protected": false,
+            "id": "778856886",
+            "name": "Zuzana Pinkosova",
+            "public_metrics": {
+                "followers_count": 261,
+                "following_count": 599,
+                "tweet_count": 125,
+                "listed_count": 3
+            },
+            "username": "ZuzanPink"
+        },
+        {
+            "protected": false,
+            "id": "19659370",
+            "name": "Gianluca Demartini",
+            "public_metrics": {
+                "followers_count": 633,
+                "following_count": 679,
+                "tweet_count": 412,
+                "listed_count": 36
+            },
+            "username": "eglu81"
+        }
+    ]
+}
