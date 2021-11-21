@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-15T17:44:59.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1460302825867595789",
+        "lang": "en",
+        "text": "@im_eleni @ACM_ISS glad you liked it 😎 so next we need safety-aware shape-changing doors!"
+    },
+    {
+        "created_at": "2021-11-14T21:14:38.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1459993196239413255",
+        "lang": "en",
+        "text": "@im_eleni @ComputingCrowd Thanks, and ditto! 👌 Cool to see your new work!"
+    },
+    {
+        "created_at": "2021-11-07T18:10:32.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1457410152630558728",
+        "lang": "und",
+        "text": "https://t.co/W3bwQEt7wp"
+    },
+    {
+        "created_at": "2021-11-07T18:10:32.000Z",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 4,
+            "like_count": 8,
+            "quote_count": 1
+        },
+        "id": "1457410150973726734",
+        "lang": "en",
+        "text": "What do spatial experience, HCI, and safety have in common?\n\nMy first published article! 🎆\n\nRead here👉https://t.co/5ISbKpR1fY\n\n@ComputingCrowd"
+    },
+    {
+        "created_at": "2021-10-09T09:41:24.000Z",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "id": "1446772777323831299",
+        "lang": "fi",
+        "text": "Huhhuh, paljon kiitoksia @wihurinrahasto:lle tuesta! 🙏 \n\nNyt on hieno jatkaa väitöskirjatutkimusta liittyen tilakokemukseen ja empatiaan teknologiakontekstissa @ubicomp_oulu @UniOulu  \n\nEkan artikkelin julkaisukin on aivan nurkan takana! https://t.co/Ojhnh54T6P"
+    }
+]

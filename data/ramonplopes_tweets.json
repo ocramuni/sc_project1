@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1436340272682700801",
+        "text": "@ir_glasgow @claclarke Are the discussion meetings live streamed?",
+        "created_at": "2021-09-10T14:46:21.000Z"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1435542075597070339",
+        "text": "@olivierjeunen @goethals @BenCarterette Could you tell me if it will be live streamed?",
+        "created_at": "2021-09-08T09:54:36.000Z"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "id": "1408185670284218369",
+        "text": "@yoichi_chika I really recommend the video lectures and textbook: https://t.co/cSgW8ThuxY",
+        "created_at": "2021-06-24T22:10:01.000Z"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1404547470198292488",
+        "text": "@roydanroy https://t.co/bpQldgfkgR\nAlgorithms by Robert Sedgewick and Kevin Wayne",
+        "created_at": "2021-06-14T21:13:06.000Z"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 405,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1265393196542111745",
+        "text": "RT @sannykimchi: If you're bored at home or just want to learn something new, check out these 15 amazing reading groups/virtual seminars co…",
+        "created_at": "2020-05-26T21:23:42.000Z"
+    }
+]

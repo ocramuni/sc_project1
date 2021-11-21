@@ -1,0 +1,222 @@
+[
+    {
+        "id": "1183967166443376640",
+        "description": "",
+        "name": "Stella.Ye",
+        "username": "yexincheng1",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 32,
+            "tweet_count": 2,
+            "listed_count": 0
+        }
+    },
+    {
+        "id": "386277982",
+        "description": "Engineering and Technology at The University of Queensland.\n\nCRICOS Provider No: 00025B \nUQ's Social Media Community Guidelines: https://t.co/khVGboLZpW",
+        "name": "UQ Engineering and Technology",
+        "username": "UQ_EAIT",
+        "location": "Brisbane, Australia.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2020,
+            "following_count": 1288,
+            "tweet_count": 5938,
+            "listed_count": 111
+        }
+    },
+    {
+        "id": "1432708124427919364",
+        "description": "Master of Applied Linguistics (TESOL), UQ",
+        "name": "Zhiyi_Liu",
+        "username": "zhiyi_liu21",
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 22,
+            "tweet_count": 4,
+            "listed_count": 0
+        }
+    },
+    {
+        "id": "1570094562",
+        "description": "عائلتي غايتي وماعداها وسيلة ...أعشق القهوة وصنعها وأحب تدريس البرمجة وقواعد البيانات ومناجمها... محاضر في قسم علوم الحاسب بجامعة جازان",
+        "name": "Ismail",
+        "username": "ismail_sabei",
+        "location": "Brisbane",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 178,
+            "following_count": 524,
+            "tweet_count": 507,
+            "listed_count": 1
+        }
+    },
+    {
+        "id": "217377296",
+        "description": "Professor \"Big Data Analytics\", Martin-Luther-Universität Halle-Wittenberg",
+        "name": "Matthias Hagen",
+        "username": "matthias_hagen",
+        "location": "Halle (Saale), Germany",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 678,
+            "following_count": 776,
+            "tweet_count": 285,
+            "listed_count": 19
+        }
+    },
+    {
+        "id": "1192991154452615168",
+        "description": "PhD candidate in MRI reconstruction at the University of Queensland.",
+        "name": "Karen Xinwen Liu",
+        "username": "KXinwen",
+        "location": "Queensland, Australia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 259,
+            "tweet_count": 1,
+            "listed_count": 0
+        }
+    },
+    {
+        "id": "736893980",
+        "description": "PhD Student, AI Programmer, Data Enthusiast\n\nThrow Away Your Books, Rally in the Streets",
+        "name": "Sebastian Cross",
+        "username": "Sebastiancrossx",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 79,
+            "tweet_count": 52,
+            "listed_count": 2
+        }
+    },
+    {
+        "id": "2903173148",
+        "description": "Research Computing Centre at The University of Queensland: supporting UQ researchers in advanced computation, data analysis and other digital research tools",
+        "name": "UQ Research Computing Centre",
+        "username": "RCCUQ",
+        "location": "Brisbane",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1631,
+            "following_count": 2122,
+            "tweet_count": 6390,
+            "listed_count": 109
+        }
+    },
+    {
+        "id": "1189786677318807552",
+        "description": "",
+        "name": "Bing Liu",
+        "username": "BingLiu1011",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 51,
+            "tweet_count": 5,
+            "listed_count": 0
+        }
+    },
+    {
+        "id": "768288307532836864",
+        "description": "PhD student @ University of Queensland. Interested in Information Retrieval, Machine Learning, Statistics.",
+        "name": "Shuyi(Karly) Wang",
+        "username": "shuyiwang_karly",
+        "location": "Brisbane",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 103,
+            "tweet_count": 10,
+            "listed_count": 1
+        }
+    },
+    {
+        "id": "1708743114",
+        "description": "Postdoc at The University of Queensland 🎓 \nInformation Retrieval 🔎\nhttps://t.co/VGjAc3MJ2Q 🌏\n@ielabgroup 🌳",
+        "name": "Harry Scells",
+        "username": "hscells",
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 192,
+            "following_count": 270,
+            "tweet_count": 218,
+            "listed_count": 1
+        }
+    },
+    {
+        "id": "429259920",
+        "description": "Postdoc at UQ, Computer Science | searchin 4 my RI | triathlete in the making",
+        "name": "Ahmed Mourad",
+        "username": "ahsmourad",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 144,
+            "following_count": 257,
+            "tweet_count": 267,
+            "listed_count": 1
+        }
+    },
+    {
+        "id": "1182908622113660929",
+        "description": "CS/IR PhD Candidate @IELabGroup The University of Queensland 🇦🇺. @UMNComputerSci 🇺🇸 alumni. Information Retrieval. Find me at https://t.co/WRT9MS2sbY",
+        "name": "Hang Li",
+        "username": "hanglics",
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 248,
+            "following_count": 809,
+            "tweet_count": 261,
+            "listed_count": 2
+        }
+    },
+    {
+        "id": "1162690737516863494",
+        "description": "PhD student @ The University of Queensland, working on information retrieval.",
+        "name": "Shengyao Zhuang",
+        "username": "ShengyaoZhuang",
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 121,
+            "tweet_count": 52,
+            "listed_count": 1
+        }
+    },
+    {
+        "id": "544737616",
+        "description": "Associate Professor at The University of Queensland",
+        "name": "Guido Zuccon",
+        "username": "guidozuc",
+        "location": "Brisbane, Australia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 820,
+            "following_count": 506,
+            "tweet_count": 4961,
+            "listed_count": 47
+        }
+    },
+    {
+        "id": "984275749824638976",
+        "description": "The Information Engineering Group @ The University of Queensland (UQ) \n\n🌏 https://t.co/c9U1VHZKUt\n▶️  https://t.co/pWQiROb2sd…",
+        "name": "ielab",
+        "username": "IELabGroup",
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 124,
+            "following_count": 80,
+            "tweet_count": 96,
+            "listed_count": 4
+        }
+    }
+]

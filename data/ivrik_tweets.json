@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-20T03:22:56.000Z",
+        "public_metrics": {
+            "retweet_count": 84,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @kolezev: Иркутский союз библиофилов признали иностранным агентом.\n\nНе шутка!",
+        "lang": "ru",
+        "id": "1461897824040226818"
+    },
+    {
+        "created_at": "2021-11-20T02:10:39.000Z",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @nytimestech: Researchers unveiled technology designed to make moral judgments, calling it Delphi. @cademetz writes that it is by turns…",
+        "lang": "en",
+        "id": "1461879631649251331"
+    },
+    {
+        "created_at": "2021-11-19T17:06:24.000Z",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @jbrucj: How does math help us understand the cognitive processing of language?\n\nLearn from @AnyDs with us in 5! \n\nhttps://t.co/jBn2tG3Y…",
+        "lang": "en",
+        "id": "1461742666467528705"
+    },
+    {
+        "created_at": "2021-11-19T16:42:54.000Z",
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @ryandcotterell: Exciting article on using machine learning to make moral judgments by @CadeMetz!\n\nRead it here https://t.co/8XWeEzsaj9.",
+        "lang": "en",
+        "id": "1461736752616329219"
+    },
+    {
+        "created_at": "2021-11-19T16:39:06.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@ryandcotterell @CadeMetz Congrats! \n\nPS Feeling so excited since my brother recently appeared on top Ru news channels, and now you're also on NYT!",
+        "lang": "en",
+        "id": "1461735799272062985"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "lang": "en",
+        "text": "We proposed a novel adversarial learning sample generation approach for image based deep learning system testing by following a #blackboxtesting paradigm (i.e. without knowing about the internal technical details of a system).\n#deeplearning #testing #softwaretesting",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1457512111223963652",
+        "created_at": "2021-11-08T00:55:41.000Z"
+    },
+    {
+        "lang": "en",
+        "text": "Our paper \"CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing for Image-based Deep Learning Systems\" recently accepted by IEEE Transactions on Software Engineering (CORE-A*) is now accessible from https://t.co/YAyEXPUHIz. @RMITComputing",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1457511846819164160",
+        "created_at": "2021-11-08T00:54:38.000Z"
+    },
+    {
+        "lang": "en",
+        "text": "This is the first work in this field that explores the use of deep learning technologies and non-privacy-sensitive user profile data for detecting social media identity cloning attacks. #SocialMedia #identity",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1455343431140601856",
+        "created_at": "2021-11-02T01:18:07.000Z"
+    },
+    {
+        "lang": "en",
+        "text": "Our paper \"Privacy-Aware Identity Cloning Detection based on Deep Forest\" recently accepted by 19th International Conference on Service-Oriented Computing (ICSOC 2021) (CORE-A) is now available at https://t.co/6esRtSGH5B. #SocialSecurity #privacy @RMITComputing @Rmitccsri",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "id": "1455342887026102278",
+        "created_at": "2021-11-02T01:15:57.000Z"
+    },
+    {
+        "lang": "en",
+        "text": "This model can also tolerate the unevenly distributed and noisily annotated nature of trust information and meet the low communication overheads and high scalability requirements demanded by mobile edge networks. #datadriven #trustworthiness #edgecomputing #iot #machinelearning",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1453553974905171969",
+        "created_at": "2021-10-28T02:47:28.000Z"
+    }
+]

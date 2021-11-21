@@ -1,0 +1,1208 @@
+[
+    {
+        "location": "South Tyrol",
+        "public_metrics": {
+            "followers_count": 1154,
+            "following_count": 1269,
+            "tweet_count": 3553,
+            "listed_count": 61
+        },
+        "username": "ohnewein",
+        "id": "17448424",
+        "name": "Patrick Ohnewein",
+        "description": "Free Software community member dedicated to create the SMART Green Region South Tyrol. Loves to speak German, Italian, English, Java and some Python.",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 171,
+            "following_count": 517,
+            "tweet_count": 1836,
+            "listed_count": 13
+        },
+        "username": "MandBeasley",
+        "id": "586813654",
+        "name": "Mandy Beasley",
+        "description": "All opinions expressed are only my own",
+        "protected": false
+    },
+    {
+        "location": "Around the World",
+        "public_metrics": {
+            "followers_count": 91939,
+            "following_count": 69496,
+            "tweet_count": 5641,
+            "listed_count": 934
+        },
+        "username": "andy_fitze",
+        "id": "3335731978",
+        "name": "THE AI ANDY FITZE",
+        "description": "Global #AI Advisor | Thought Leader in AI | Co-Founder #SwissCognitive | #CIO #CDO | #Speaker | #AI | #DigitalTransformation | CIO of Year Award | #CIO2020",
+        "protected": false
+    },
+    {
+        "location": "Switzerland",
+        "public_metrics": {
+            "followers_count": 139712,
+            "following_count": 94637,
+            "tweet_count": 20434,
+            "listed_count": 1433
+        },
+        "username": "SwissCognitive",
+        "id": "808051518242979841",
+        "name": "SwissCognitive, World-Leading AI Network",
+        "description": "Cross-industry global community of business leaders & #AI experts unleashing the potentials of #ArtificialIntelligence",
+        "protected": false
+    },
+    {
+        "location": "Manhattan, Kansas",
+        "public_metrics": {
+            "followers_count": 2027,
+            "following_count": 1333,
+            "tweet_count": 1667,
+            "listed_count": 53
+        },
+        "username": "pascalhitzler",
+        "id": "2606773789",
+        "name": "Pascal Hitzler",
+        "description": "Professor;\nEndowed Lloyd T. Smith Creativity in Engineering Chair;\nDirector, Institute for Artificial Intelligence and Data Science;\nKansas State University",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 745,
+            "following_count": 331,
+            "tweet_count": 3886,
+            "listed_count": 14
+        },
+        "username": "KarinagibertK",
+        "id": "2218606214",
+        "name": "kg",
+        "description": "Catedràtica d IDEAI at UPC #ai\n\nVicedegana del Col.legi Oficial d Enginyeria Informàtica de Catalunya\n\nFunda donesCOEINF i donesIAcat\n#donaTIC #womenintech",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 275,
+            "following_count": 792,
+            "tweet_count": 1905,
+            "listed_count": 0
+        },
+        "username": "fabio_cuzzolin",
+        "id": "1322585505867976705",
+        "name": "Fabio Cuzzolin",
+        "description": "I'm a professor of AI @ Oxford Brookes and the director of the Visual AI Lab. I was born in Jesolo Italy. I lived and worked in 5 countries & speak 8 languages.",
+        "protected": false
+    },
+    {
+        "location": "College Park, Maryland",
+        "public_metrics": {
+            "followers_count": 9464,
+            "following_count": 1612,
+            "tweet_count": 2621,
+            "listed_count": 598
+        },
+        "username": "benbendc",
+        "id": "17268874",
+        "name": "Ben Shneiderman",
+        "description": "Univ of MD, Human-Centered AI, HCI, InfoVis & Social Media Prof in CS Dept, Member HCIL & NAE, skier, photographer",
+        "protected": false
+    },
+    {
+        "location": "Barcelona, Spain",
+        "public_metrics": {
+            "followers_count": 343,
+            "following_count": 332,
+            "tweet_count": 3889,
+            "listed_count": 0
+        },
+        "username": "Davide__Cirillo",
+        "id": "91675521",
+        "name": "Davide Cirillo",
+        "description": "postdoc in Comp Biol @BSC_CNS | multilayering the universe | real pages no ebooks | pizza interval workout",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 112,
+            "following_count": 37,
+            "tweet_count": 119,
+            "listed_count": 2
+        },
+        "username": "epsilon_XAI",
+        "id": "1194190452834082818",
+        "name": "epsilon",
+        "description": "Research lab working on explanation (interfaces) for AI. Recsys/HCI/Diversification/NLG Web: https://t.co/1Gp4w3iZgb PI: @navatintarev",
+        "protected": false
+    },
+    {
+        "location": "Sunshine Coast BC Canada",
+        "public_metrics": {
+            "followers_count": 742,
+            "following_count": 2649,
+            "tweet_count": 1937,
+            "listed_count": 17
+        },
+        "username": "robinc",
+        "id": "10090732",
+        "name": "Robin Ranjit Singh Chauhan",
+        "description": "🌱 Head of Eng @AgFunder  🧠 Reinforcement Learning/AI/ML/DL/NLP\n🎙️Host @TalkRLPodcast  💳 ex-@Microsoft ecomm PgmMgr 🤖 @UWaterloo CompEng 🇨🇦 🇮🇳",
+        "protected": false
+    },
+    {
+        "location": "London, England",
+        "public_metrics": {
+            "followers_count": 814,
+            "following_count": 425,
+            "tweet_count": 907,
+            "listed_count": 15
+        },
+        "username": "AvilaGarcez",
+        "id": "985933610174812162",
+        "name": "Artur d'Avila Garcez",
+        "description": "Professor of Computer Science, author of 'Neural-symbolic Learning Systems', founder of Cognitive Intelligence, #AI, #ML, #DeepLearning, #DataScience",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1635,
+            "following_count": 1211,
+            "tweet_count": 5170,
+            "listed_count": 73
+        },
+        "username": "navatintarev",
+        "id": "12031032",
+        "name": "Nava",
+        "description": "Full Professor of XAI @ Maastricht(/TUD). Computer Scientist: explanations, viewpoint diversity, bias, HCI/Recsys/NLP. PI @epsilon_XAI (she/her)",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 74,
+            "tweet_count": 152,
+            "listed_count": 0
+        },
+        "username": "dariogargas",
+        "id": "1361640629764304899",
+        "name": "Dario Garcia-Gasulla",
+        "description": "AI researcher at @bsc_cns. \nFounder of @hpai_bsc. \nLecturer at @la_UPC.\nProcrastinator @home.",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 397,
+            "following_count": 223,
+            "tweet_count": 276,
+            "listed_count": 3
+        },
+        "username": "ExplainableNL",
+        "id": "1181276757032407042",
+        "name": "explAInable.NL",
+        "description": "Tweeting about Explainable AI in the Netherlands. Account run by @wzuidema  (https://t.co/TyjUIfRiyb) and others.\n\nhttps://t.co/BMbmDrKBjB",
+        "protected": false
+    },
+    {
+        "location": "Santiago de Compostela, España",
+        "public_metrics": {
+            "followers_count": 232,
+            "following_count": 238,
+            "tweet_count": 363,
+            "listed_count": 6
+        },
+        "username": "albugadiz",
+        "id": "3266432995",
+        "name": "Alberto Bugarín Diz",
+        "description": "Full Professor of #AI @citiususc @etse_usc, Universidade de Santiago de Compostela @universidadeusc",
+        "protected": false
+    },
+    {
+        "location": "Spain",
+        "public_metrics": {
+            "followers_count": 148,
+            "following_count": 105,
+            "tweet_count": 419,
+            "listed_count": 7
+        },
+        "username": "sepajma",
+        "id": "235261868",
+        "name": "Jose M. Alonso",
+        "description": "Ramon y Cajal Researcher @citiususc . Ph.D. degree in Telecommunication Engineering @La_UPM",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 755,
+            "following_count": 4998,
+            "tweet_count": 177,
+            "listed_count": 6
+        },
+        "username": "CognitiveFor",
+        "id": "1341742829257764864",
+        "name": "CognitiveDesignForArtificialMinds",
+        "description": "Cognitive Design for Artificial Minds (T&F '21 by @antoniolieto) shows how to use cognitive research for building AI systems. Order @ https://t.co/FuqinDtNRn",
+        "protected": false
+    },
+    {
+        "location": "Italia",
+        "public_metrics": {
+            "followers_count": 174,
+            "following_count": 988,
+            "tweet_count": 44,
+            "listed_count": 2
+        },
+        "username": "RiccardoBReady",
+        "id": "2306427653",
+        "name": "Riccardo Busetti",
+        "description": "I am a meticulous individual who strives for excellence and has a strong willpower to learn.",
+        "protected": false
+    },
+    {
+        "location": "Bolzano, Trentino-Alto Adige",
+        "public_metrics": {
+            "followers_count": 89,
+            "following_count": 176,
+            "tweet_count": 51,
+            "listed_count": 1
+        },
+        "username": "Ludoviku",
+        "id": "600418191",
+        "name": "Ludo (ˈluːdəʊ)",
+        "description": "I am Ludovik Coba, a Researcher at @cs_unibz, interested in #RecSys and #MachineLearning.",
+        "protected": false
+    },
+    {
+        "location": "Cambridge, MA",
+        "public_metrics": {
+            "followers_count": 1094,
+            "following_count": 1216,
+            "tweet_count": 1806,
+            "listed_count": 57
+        },
+        "username": "catherinehavasi",
+        "id": "15209898",
+        "name": "Catherine Havasi",
+        "description": "NLP & ML, Storytelling and world building, technology strategy, innovation and startups. ConceptNet/@medialab /Dalang/@LuminosoInsight.",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 111,
+            "following_count": 379,
+            "tweet_count": 87,
+            "listed_count": 4
+        },
+        "username": "BeneWagner",
+        "id": "228298725",
+        "name": "Ben Wagner",
+        "description": "PhD candidate in Machine Learning | Data Science || London",
+        "protected": false
+    },
+    {
+        "location": "Amsterdam  ",
+        "public_metrics": {
+            "followers_count": 1544,
+            "following_count": 857,
+            "tweet_count": 1255,
+            "listed_count": 53
+        },
+        "username": "IOSPress_STM",
+        "id": "151019768",
+        "name": "IOS Press",
+        "description": "Impacting the World of Science - STM publisher - science - (e)books - (e)journals",
+        "protected": false
+    },
+    {
+        "location": "London",
+        "public_metrics": {
+            "followers_count": 387,
+            "following_count": 268,
+            "tweet_count": 66,
+            "listed_count": 13
+        },
+        "username": "tweyde",
+        "id": "2178510532",
+        "name": "Tillman Weyde",
+        "description": "Research in AI, ML, DSP, Deep Learning. Academic in Computer Science,  Research Center for Machine Learning & Data Science Institute, City, University of London",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 119,
+            "following_count": 172,
+            "tweet_count": 1524,
+            "listed_count": 2
+        },
+        "username": "thaniars",
+        "id": "24922600",
+        "name": "Thaniana",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 28,
+            "tweet_count": 497,
+            "listed_count": 0
+        },
+        "username": "camilao77688232",
+        "id": "1227378056949575680",
+        "name": "camila osorio",
+        "description": "Musica DJ.---rave",
+        "protected": false
+    },
+    {
+        "location": "Frankfurt, Germany",
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 180,
+            "tweet_count": 91,
+            "listed_count": 1
+        },
+        "username": "DanieleGadler",
+        "id": "1128269122696032257",
+        "name": "Daniele Gadler",
+        "description": "Data Scientist, MSc in Computer Science and Networking from the University of Pisa and Scuola Superiore Sant'Anna.",
+        "protected": false
+    },
+    {
+        "location": "Stockholm, Sweden",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 37,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "username": "hedblom_maria",
+        "id": "1269545055586586627",
+        "name": "Maria Hedblom",
+        "description": "Researcher by profession, writer by desire and life enthusiast by necessity!",
+        "protected": false
+    },
+    {
+        "location": "Tarragona",
+        "public_metrics": {
+            "followers_count": 719,
+            "following_count": 1044,
+            "tweet_count": 10210,
+            "listed_count": 54
+        },
+        "username": "ToniMorenoURV",
+        "id": "28068840",
+        "name": "Antonio Moreno",
+        "description": "Full Professor of Artificial Intelligence at URV. ITAKA research group. Deputy director of URV Engineering School.",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 326,
+            "following_count": 463,
+            "tweet_count": 1175,
+            "listed_count": 11
+        },
+        "username": "atcortesm",
+        "id": "1433028426",
+        "name": "Àtia Cortés",
+        "description": "PhD in AI | Post-doc researcher at @BSC_CNS | Co-director of @AI4EU Observatory on Society and AI | Passionate about #AIEthics #GenderEquality #Gastronomy",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 96,
+            "following_count": 627,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "lopersemanuela",
+        "id": "1227620286373269510",
+        "name": "lopersemanuela",
+        "description": "lopers \nlopers",
+        "protected": false
+    },
+    {
+        "location": "Tampere, Finland",
+        "public_metrics": {
+            "followers_count": 577,
+            "following_count": 559,
+            "tweet_count": 948,
+            "listed_count": 7
+        },
+        "username": "vale_lenarduzzi",
+        "id": "961960226013548544",
+        "name": "Valentina Lenarduzzi",
+        "description": "Researcher #software quality, maintenance, #technicaldebt, #empiricalsoftwareengineering\n@UniLUT @LUTsoftware",
+        "protected": false
+    },
+    {
+        "location": "Barcelona, Spain",
+        "public_metrics": {
+            "followers_count": 1033,
+            "following_count": 3901,
+            "tweet_count": 2821,
+            "listed_count": 15
+        },
+        "username": "Angele_Benard35",
+        "id": "3898120535",
+        "name": "Angèle Bénard-Sankaran",
+        "description": "PhD, MBA, Scientific and Global Health Manager #science #globalhealth #internationalhealthmanagement #bioinformatics",
+        "protected": false
+    },
+    {
+        "location": "España",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 307,
+            "tweet_count": 625,
+            "listed_count": 6
+        },
+        "username": "click7def",
+        "id": "153669818",
+        "name": "Mirian",
+        "description": "Soy graduada en Informática, me gusta todo lo que tiene que ver con el mundo del Internet. Me encanta también leer  y ver peliculas :D.",
+        "protected": false
+    },
+    {
+        "location": "Umeå, Sverige",
+        "public_metrics": {
+            "followers_count": 911,
+            "following_count": 2342,
+            "tweet_count": 1798,
+            "listed_count": 3
+        },
+        "username": "Zahoorgtech",
+        "id": "197407793",
+        "name": "Zahoorgtech",
+        "description": "PhD student @Wasp_Research #ResponsibleAI #AI4EU",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 277,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Matho21969795",
+        "id": "1065734803415289862",
+        "name": "Mathéo",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Seeking Eudaimonia.",
+        "public_metrics": {
+            "followers_count": 17224,
+            "following_count": 11909,
+            "tweet_count": 40175,
+            "listed_count": 1070
+        },
+        "username": "johnchavens",
+        "id": "3427261",
+        "name": "John C. Havens",
+        "description": "E.D., IEEE Global Initiative on Ethics of AI Systems. Founder and E.D., Council on Extended Intelligence. Tweets mine. Author, Heartificial Intelligence.",
+        "protected": false
+    },
+    {
+        "location": "Wellington, New Zealand",
+        "public_metrics": {
+            "followers_count": 1717,
+            "following_count": 4996,
+            "tweet_count": 7026,
+            "listed_count": 67
+        },
+        "username": "vicwray",
+        "id": "92475907",
+        "name": "Victoria Wray",
+        "description": "Public servant doing digital stuff. Windy Wellington resident.  Views my own.",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 1041,
+            "following_count": 1714,
+            "tweet_count": 1655,
+            "listed_count": 76
+        },
+        "username": "robertohuertasm",
+        "id": "101880165",
+        "name": "Roberto Huertas",
+        "description": "A Barcelona-based web & mobile developer wandering through cyberspace. Organizer of @bcnrust. Currently working at @KoaHealth.",
+        "protected": false
+    },
+    {
+        "location": "Paris, France",
+        "public_metrics": {
+            "followers_count": 1656,
+            "following_count": 1948,
+            "tweet_count": 1897,
+            "listed_count": 64
+        },
+        "username": "mortendahlcs",
+        "id": "106149941",
+        "name": "Morten Dahl",
+        "description": "Encrypted and privacy-preserving machine learning. @capeprivacy @tf_encrypted",
+        "protected": false
+    },
+    {
+        "location": "Princeton, NJ",
+        "public_metrics": {
+            "followers_count": 10574,
+            "following_count": 689,
+            "tweet_count": 665,
+            "listed_count": 351
+        },
+        "username": "TaniaLombrozo",
+        "id": "939949219",
+        "name": "Tania Lombrozo",
+        "description": "Writes about cognitive science and philosophy. Professes psychology at Princeton University. Devours chocolate and fiction.",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2030,
+            "following_count": 2977,
+            "tweet_count": 714,
+            "listed_count": 29
+        },
+        "username": "KathleenACreel",
+        "id": "1016781948038066176",
+        "name": "Kathleen Creel",
+        "description": "Embedded EthiCS Fellow @StanfordHAI & @StanfordEthics. Machine learning & scientific knowledge; ethics of automated decision-making.",
+        "protected": false
+    },
+    {
+        "location": "Sant Pol de Mar, España",
+        "public_metrics": {
+            "followers_count": 302,
+            "following_count": 1205,
+            "tweet_count": 4315,
+            "listed_count": 16
+        },
+        "username": "tsimbalar",
+        "id": "80086131",
+        "name": "Thibaud Desodt",
+        "description": "Software developer & craftsman - TDD enthousiast - perpetual learner - pun addict",
+        "protected": false
+    },
+    {
+        "location": "London, England",
+        "public_metrics": {
+            "followers_count": 534,
+            "following_count": 2103,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "GloryIsrael12",
+        "id": "1146167902640451587",
+        "name": "Chrissy Kinsella",
+        "description": "i Studied Banking in London University where i Obtained my PHD on Banking and Finance .also Bank auditor",
+        "protected": false
+    },
+    {
+        "location": "Sweden",
+        "public_metrics": {
+            "followers_count": 121,
+            "following_count": 216,
+            "tweet_count": 188,
+            "listed_count": 3
+        },
+        "username": "jc_nieves",
+        "id": "191942208",
+        "name": "Juan Carlos Nieves",
+        "description": "AI researcher  #AI4EU #DigForASP #ArtificialIntelligence #TrustworthyAI",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 902,
+            "following_count": 760,
+            "tweet_count": 2028,
+            "listed_count": 27
+        },
+        "username": "MSlavkovik",
+        "id": "1011585253423665152",
+        "name": "Marija Slavkovik",
+        "description": "Your basic AI researcher.\nHead of @infomedia_uib at @UiB, but tweets here are personal opinions.",
+        "protected": false
+    },
+    {
+        "location": "Umeå, Sverige",
+        "public_metrics": {
+            "followers_count": 2371,
+            "following_count": 1004,
+            "tweet_count": 4062,
+            "listed_count": 91
+        },
+        "username": "RecklessCoding",
+        "id": "2357079560",
+        "name": "Andreas Theodorou",
+        "description": "Research Fellow in @vdignum 's Responsible AI group @UmeaUniversity | AI Ethics, Governance, Systems AI, and a bit of HCI/HRI | alumni of @j2bryson’s lab",
+        "protected": false
+    },
+    {
+        "location": "London, England",
+        "public_metrics": {
+            "followers_count": 293,
+            "following_count": 1010,
+            "tweet_count": 1636,
+            "listed_count": 11
+        },
+        "username": "corbyjerez",
+        "id": "279833291",
+        "name": "Jose A. Corbacho",
+        "description": "Senior Software Engineer at Sky. \nOpenMined Core Contributor.\nMachine Learning and Privacy.  Opinions my own 🔎",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2467,
+            "following_count": 1430,
+            "tweet_count": 2513,
+            "listed_count": 70
+        },
+        "username": "albertobeta",
+        "id": "8595132",
+        "name": "Alberto Betella",
+        "description": "Tech Entrepreneur | Co-founder at @rss",
+        "protected": false
+    },
+    {
+        "location": "London, UK",
+        "public_metrics": {
+            "followers_count": 176,
+            "following_count": 263,
+            "tweet_count": 123,
+            "listed_count": 2
+        },
+        "username": "ollieharrison",
+        "id": "43143206",
+        "name": "Dr Oliver Harrison",
+        "description": "CEO - Koa Health.  Mental wellbeing, for everyone.",
+        "protected": false
+    },
+    {
+        "location": "Catalunya",
+        "public_metrics": {
+            "followers_count": 546,
+            "following_count": 236,
+            "tweet_count": 1341,
+            "listed_count": 24
+        },
+        "username": "acia_cat",
+        "id": "4046794876",
+        "name": "ACIA.CAT",
+        "description": "Associació Catalana d'Intel·ligència Artificial. The Catalan Association for Artificial Intelligence. Member of EurAi.",
+        "protected": false
+    },
+    {
+        "location": "(CE) Italy",
+        "public_metrics": {
+            "followers_count": 961,
+            "following_count": 862,
+            "tweet_count": 1728,
+            "listed_count": 22
+        },
+        "username": "antoniolieto",
+        "id": "11409082",
+        "name": "Antonio Lieto",
+        "description": "AI Researcher @diunito, Dist. Speaker @TheOfficialACM, Vice-Pres @aisc_assoc. Author of \"Cognitive Design for Artificial Minds\" https://t.co/LQrj68XIpi",
+        "protected": false
+    },
+    {
+        "location": "Krakow, Poland",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 6,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "szymonbobek",
+        "id": "97392468",
+        "name": "Szymon Bobek",
+        "description": "Researcher, Android developer",
+        "protected": false
+    },
+    {
+        "location": "Kraków, Polska",
+        "public_metrics": {
+            "followers_count": 213,
+            "following_count": 269,
+            "tweet_count": 890,
+            "listed_count": 67
+        },
+        "username": "EdytaBrzychczy",
+        "id": "797856637298077701",
+        "name": "Edyta Brzychczy",
+        "description": "Professor at AGH University of Science and Technology in Cracow, PL. Interested in Data Science, Process Mining and Expert Systems in the mining industry.",
+        "protected": false
+    },
+    {
+        "location": "Barcellona, Spagna",
+        "public_metrics": {
+            "followers_count": 680,
+            "following_count": 2396,
+            "tweet_count": 245,
+            "listed_count": 0
+        },
+        "username": "Sil_CatSolarz",
+        "id": "4834489720",
+        "name": "Silvina Catuara 🧠",
+        "description": "Passionate about Digital Health & Neuroscience. Start-up mentor at @EITHealth Supporter of @womensbrainpro Alumnus of @CRGenomica @imimat @UCIrvine @CNB_CSIC",
+        "protected": false
+    },
+    {
+        "location": "Barcellona, Spagna",
+        "public_metrics": {
+            "followers_count": 565,
+            "following_count": 1217,
+            "tweet_count": 1525,
+            "listed_count": 31
+        },
+        "username": "PauRueQ",
+        "id": "817500956",
+        "name": "Pau Rué",
+        "description": "ML/AI 🤖, NLP 💬, data 📊 and more 🚀 • Director of Machine Learning and Data Platform @typeform • Views are my own • he/him",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 252,
+            "following_count": 342,
+            "tweet_count": 457,
+            "listed_count": 20
+        },
+        "username": "carlosmerida",
+        "id": "16365164",
+        "name": "carlosmerida",
+        "description": "Always innovating (now in Accenture). Technology hooligan. Pasionate about almost everything.",
+        "protected": false
+    },
+    {
+        "location": "Berlin, Deutschland",
+        "public_metrics": {
+            "followers_count": 832,
+            "following_count": 338,
+            "tweet_count": 1322,
+            "listed_count": 33
+        },
+        "username": "jeublanc",
+        "id": "28303395",
+        "name": "Tarek R. Besold",
+        "description": "Strategic #AI @DEKRADIGITAL || #TrustworthyTech || #ResponsibleAI || Standardization || #DigitalHealth || #Moonshots",
+        "protected": false
+    },
+    {
+        "location": "Universidad de Oviedo en Gijón",
+        "public_metrics": {
+            "followers_count": 1036,
+            "following_count": 956,
+            "tweet_count": 1427,
+            "listed_count": 12
+        },
+        "username": "Ant_Bahamonde",
+        "id": "963747675479986177",
+        "name": "Antonio Bahamonde",
+        "description": "Profesor de Ciencias de la Computación e Inteligencia Artificial @uniovi_info\nMiembro de la Academia Asturiana de Ciencia e Ingeniería @aaci_asturiana",
+        "protected": false
+    },
+    {
+        "location": "Castellón de la Plana, Spain",
+        "public_metrics": {
+            "followers_count": 366,
+            "following_count": 737,
+            "tweet_count": 432,
+            "listed_count": 11
+        },
+        "username": "zfalomir",
+        "id": "473361521",
+        "name": "Dr.-Ing. Zoe Falomir",
+        "description": "💻Researcher in AI & Spatial Cognition\n\n📍Spain @ujiuniversitat RyC @ANIRC_EU\n🔗Germany @bscc_bremen @UniBremen @HWK_IAS\n\n❤My daughter👧🏼 Music🎶 Travel🗺",
+        "protected": false
+    },
+    {
+        "location": "Cerdanyola del Vallès, Spain",
+        "public_metrics": {
+            "followers_count": 1663,
+            "following_count": 330,
+            "tweet_count": 1657,
+            "listed_count": 57
+        },
+        "username": "IIIACSIC",
+        "id": "976446546",
+        "name": "IIIA-CSIC",
+        "description": "The Artificial Intelligence Research Institute (IIIA) is a research center of the Spanish National Research Council (CSIC).",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 85,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "username": "echerrabe",
+        "id": "155030123",
+        "name": "e",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 205,
+            "following_count": 1688,
+            "tweet_count": 65,
+            "listed_count": 1
+        },
+        "username": "trashnewss",
+        "id": "2333786196",
+        "name": "Trash News",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Cape Town, South Africa",
+        "public_metrics": {
+            "followers_count": 171,
+            "following_count": 400,
+            "tweet_count": 714,
+            "listed_count": 9
+        },
+        "username": "mpompoli",
+        "id": "679793",
+        "name": "Matteo Pompoli",
+        "description": "http://t.co/0mhhHjOL",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 440,
+            "following_count": 660,
+            "tweet_count": 5201,
+            "listed_count": 6
+        },
+        "username": "ulisescortes",
+        "id": "38628675",
+        "name": "Ulises Cortés",
+        "description": "Waiting for the sun. Rulebreaker @IdeaiUpc @BSC_CNS @smia_mx",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 204,
+            "tweet_count": 14,
+            "listed_count": 1
+        },
+        "username": "HourlySelf",
+        "id": "1653642097",
+        "name": "HourlySelf",
+        "description": "HourlySelf provides a self improvement framework based on timed quantified self data collection. \nWe are now on @startupMOOC ! Tweet about us to help us climb.",
+        "protected": false
+    },
+    {
+        "location": "Romania",
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 261,
+            "tweet_count": 2,
+            "listed_count": 2
+        },
+        "username": "PrintMeApp",
+        "id": "1724755710",
+        "name": "PrintMeApp!",
+        "description": "Design business cards online and then select a print shop to finish the job for you.",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 375,
+            "following_count": 1312,
+            "tweet_count": 854,
+            "listed_count": 13
+        },
+        "username": "SorayaHidalgo2",
+        "id": "306936532",
+        "name": "Soraya Hidalgo",
+        "description": "R&I Advisor at @la_UPC. Strategy and foresight. Streetphotgrapher. Music lover. The essential is invisible to the eyes. Here my own opinions",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 19,
+            "tweet_count": 332,
+            "listed_count": 1
+        },
+        "username": "ignasigomez",
+        "id": "138055959",
+        "name": "Ignasi Gómez",
+        "description": "Mad AI scientist, thinker and tinkerer 🎮🎫🐰👽📚📷🤖",
+        "protected": false
+    },
+    {
+        "location": "Barcelona, Spain",
+        "public_metrics": {
+            "followers_count": 107,
+            "following_count": 192,
+            "tweet_count": 204,
+            "listed_count": 10
+        },
+        "username": "arthurtejeda",
+        "id": "124150649",
+        "name": "Arthur TG",
+        "description": "Data engineer at @gsngames; Clojurian & Scala guy; Body builder; Piano player & Tech geek",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 31,
+            "tweet_count": 27,
+            "listed_count": 0
+        },
+        "username": "NeritanMilaqi",
+        "id": "334042284",
+        "name": "Neritan Milaqi",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 169,
+            "following_count": 81,
+            "tweet_count": 458,
+            "listed_count": 21
+        },
+        "username": "victorcodina",
+        "id": "115058238",
+        "name": "Victor Codina",
+        "description": "Data Scientist at @Adevinta #RecSys #MachineLearning #BigData",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 18,
+            "tweet_count": 6,
+            "listed_count": 2
+        },
+        "username": "kemlg_upc",
+        "id": "186008073",
+        "name": "KEMLg",
+        "description": "The Knowledge Engineering and Machine Learning group (KEMLg) belongs to the Software Department (LSI) of the Technical University of Catalonia (UPC).",
+        "protected": false
+    },
+    {
+        "location": "Alto da Lapa",
+        "public_metrics": {
+            "followers_count": 459,
+            "following_count": 262,
+            "tweet_count": 770,
+            "listed_count": 10
+        },
+        "username": "aproveprint",
+        "id": "74142578",
+        "name": "Aproveprint Gráfica",
+        "description": "Impressos Corporativos • Papelaria Personalizada",
+        "protected": false
+    },
+    {
+        "location": "Redwood City, CA",
+        "public_metrics": {
+            "followers_count": 161,
+            "following_count": 249,
+            "tweet_count": 479,
+            "listed_count": 7
+        },
+        "username": "guiemb",
+        "id": "229750600",
+        "name": "Guiem",
+        "description": "Computer scientist working on Artificial Intelligence, psychologist, yoga teacher and very amateur sax and chess player :)",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 569,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "DelfinaReed246",
+        "id": "85432406",
+        "name": "DelfinaReed",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 563,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "MarcieBrady646",
+        "id": "84742595",
+        "name": "MarcieBrady",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 111,
+            "following_count": 1065,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "Mendoza_689",
+        "id": "81607308",
+        "name": "HellenMendoza",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Torredembarra / Barcelona",
+        "public_metrics": {
+            "followers_count": 477,
+            "following_count": 3504,
+            "tweet_count": 1816,
+            "listed_count": 35
+        },
+        "username": "msonsona",
+        "id": "70793105",
+        "name": "Miquel Sonsona",
+        "description": "👨‍👩‍👧‍👦🐶 Husband, father 💻 software engineer @typeform 🤹‍♂️ ball juggling aficionado 🦎 🏈 Lizards Flag Football 🕺he/him 🧐 opinions my own",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 149,
+            "following_count": 224,
+            "tweet_count": 9349,
+            "listed_count": 3
+        },
+        "username": "guilleJB",
+        "id": "16509376",
+        "name": "guilleJB",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 110,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "emktbitlonia",
+        "id": "16013915",
+        "name": "emktbitlonia",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "vilaseca, tarragona, kf",
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 191,
+            "tweet_count": 15,
+            "listed_count": 1
+        },
+        "username": "J4son",
+        "id": "15852254",
+        "name": "[Jason]",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Barcelona (Catalunya)",
+        "public_metrics": {
+            "followers_count": 265,
+            "following_count": 205,
+            "tweet_count": 8292,
+            "listed_count": 17
+        },
+        "username": "catmidia",
+        "id": "13862512",
+        "name": "catmidia",
+        "description": "Traducció col·laborativa al català",
+        "protected": false
+    },
+    {
+        "location": "Barcelona, Spain",
+        "public_metrics": {
+            "followers_count": 815,
+            "following_count": 2104,
+            "tweet_count": 86,
+            "listed_count": 81
+        },
+        "username": "clickair",
+        "id": "14627545",
+        "name": "clickair",
+        "description": "Contact us for addtional info",
+        "protected": false
+    },
+    {
+        "location": "Barcelona & Austin",
+        "public_metrics": {
+            "followers_count": 4196,
+            "following_count": 860,
+            "tweet_count": 10826,
+            "listed_count": 259
+        },
+        "username": "njyx",
+        "id": "13126052",
+        "name": "Steven Willmott",
+        "description": "New Head of API Infrastructure at Red Hat Inc. Tweets are my own. Personal blog at https://t.co/zANT7bih1e",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 28,
+            "tweet_count": 61,
+            "listed_count": 1
+        },
+        "username": "jsousalopes",
+        "id": "14374587",
+        "name": "Joao",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 32,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "username": "panagiotidi",
+        "id": "14378071",
+        "name": "sofia",
+        "description": "",
+        "protected": false
+    },
+    {
+        "location": "Barcelona",
+        "public_metrics": {
+            "followers_count": 264,
+            "following_count": 304,
+            "tweet_count": 1793,
+            "listed_count": 22
+        },
+        "username": "sergioalvarez",
+        "id": "14374565",
+        "name": "Sergio Alvarez",
+        "description": "PhD in AI, cinematographer, clojurista. Currently in the HPAI research group @BSC_CNS",
+        "protected": false
+    }
+]

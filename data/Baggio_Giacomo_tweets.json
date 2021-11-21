@@ -1,0 +1,62 @@
+[
+    {
+        "text": "@liluzisert io butto un nano nel forno",
+        "created_at": "2021-01-30T07:58:15.000Z",
+        "id": "1355425078624874497",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "text": "@liluzisert https://t.co/CZYqenXuS5",
+        "created_at": "2021-01-22T09:53:26.000Z",
+        "id": "1352554962484662272",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "lang": "und"
+    },
+    {
+        "text": "@liluzisert Goldone",
+        "created_at": "2021-01-20T11:48:33.000Z",
+        "id": "1351859153833238528",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "text": "ma esattamente cosa vuole il pagliaccio di Renzi?",
+        "created_at": "2021-01-14T07:09:26.000Z",
+        "id": "1349614584483737604",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "text": "@itHNTR la par fin vera",
+        "created_at": "2020-11-24T17:04:47.000Z",
+        "id": "1331282628474003467",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "es"
+    }
+]

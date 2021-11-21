@@ -1,0 +1,62 @@
+[
+    {
+        "text": "@ColoursRiot povera Lisetta",
+        "created_at": "2013-07-15T15:13:31.000Z",
+        "id": "356793655933140994",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "text": "@ColoursRiot no me piace, serio, ho anche detto a Niccoli che mi piace e lei tipo \"ah rimaniamo amici\"",
+        "created_at": "2013-07-14T22:30:10.000Z",
+        "id": "356541154365419521",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "text": "@ColoursRiot lei non la vedo molto presa, ben disposta, capito?",
+        "created_at": "2013-07-14T11:40:54.000Z",
+        "id": "356377761138479105",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "text": "@ColoursRiot non riesco a prenderla però, consigli",
+        "created_at": "2013-07-13T23:30:37.000Z",
+        "id": "356193979039088643",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "text": "@ColoursRiot Secco ma quant'è bella Milazzo!?!",
+        "created_at": "2013-07-13T06:34:26.000Z",
+        "id": "355938248348008450",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "it"
+    }
+]

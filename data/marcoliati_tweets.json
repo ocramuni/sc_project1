@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1458909281215000577",
+        "created_at": "2021-11-11T21:27:32.000Z",
+        "text": "@aaaameeeliaaaa Dovresti studiare matematica.",
+        "lang": "it",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1458529608257708042",
+        "created_at": "2021-11-10T20:18:51.000Z",
+        "text": "#TB a me perplesso in TV. https://t.co/aNhaI5yJEJ",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1453035829396389895",
+        "created_at": "2021-10-26T16:28:32.000Z",
+        "text": "@MrJamesMay Ti vogliamo bene James.",
+        "lang": "it",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1448734415467778049",
+        "created_at": "2021-10-14T19:36:15.000Z",
+        "text": "@maxxxks @ecoInsubria @Uni_Insubria Buonasera.\nMi scusi per il ritardo della risposta: ho appena pubblicato la tesi su una collana elettronica open access.\nTrova il link per scaricarla nel mio ultimo tweet.\nGrazie per i complimenti.",
+        "lang": "it",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1448734077088055297",
+        "created_at": "2021-10-14T19:34:54.000Z",
+        "text": "@Roby__one @dinatalepippo @ecoInsubria @Uni_Insubria Buonasera.\nMi scusi per il ritardo della risposta: ho appena pubblicato la tesi su una collana elettronica open access.\nTrova il link per scaricarla nel mio ultimo tweet.",
+        "lang": "it",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    }
+]

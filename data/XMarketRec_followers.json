@@ -1,0 +1,370 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 7,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "lee48429050",
+        "description": "",
+        "protected": false,
+        "name": "Jarvis",
+        "id": "1458625983456501769"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 133,
+            "following_count": 434,
+            "tweet_count": 38,
+            "listed_count": 1
+        },
+        "username": "m_sertkan",
+        "description": "Research assistant and PhD student @tuvienna; working on user-modeling and recommender systems",
+        "location": "Vienna, Austria",
+        "protected": false,
+        "name": "Mete Sertkan",
+        "id": "1222267653047365633"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 19,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "hieuleminhh",
+        "description": "",
+        "location": "Việt Nam",
+        "protected": false,
+        "name": "Le Minh Hieu",
+        "id": "847779403023097857"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 325,
+            "following_count": 762,
+            "tweet_count": 1207,
+            "listed_count": 33
+        },
+        "username": "sainathadapa",
+        "description": "Machine Learning Engineer @spotify",
+        "location": "Stockholm, Sweden",
+        "protected": false,
+        "name": "Sainath Adapa",
+        "id": "72447186"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 48,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "hamna_kaleem",
+        "description": "",
+        "protected": false,
+        "name": "Hamna Kaleem",
+        "id": "1446374763186827310"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 155,
+            "following_count": 304,
+            "tweet_count": 2110,
+            "listed_count": 3
+        },
+        "username": "marlesson",
+        "description": "",
+        "protected": false,
+        "name": "Marlesson Santana",
+        "id": "38406043"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 286,
+            "following_count": 778,
+            "tweet_count": 442,
+            "listed_count": 4
+        },
+        "username": "vingovan",
+        "description": "",
+        "protected": false,
+        "name": "Vi Ngo Van",
+        "id": "258349384"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 28,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "hardtogetanm",
+        "description": "",
+        "protected": true,
+        "name": "hello",
+        "id": "1225728850144837637"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 44,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "seanhealyie",
+        "description": "PhD student in responsible AI and personalised information retrieval.\nhttps://t.co/0Ycr2WSSO2",
+        "protected": false,
+        "name": "Seán Healy",
+        "id": "1352668939931807749"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 261,
+            "following_count": 811,
+            "tweet_count": 779,
+            "listed_count": 13
+        },
+        "username": "samarthbhargav",
+        "description": "PhD Candidate at the UvA @irlab_amsterdam\nInterested in AI and how it will shape the future.",
+        "location": "Amsterdam, The Netherlands",
+        "protected": false,
+        "name": "Samarth Bhargav",
+        "id": "2576823960"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 56,
+            "following_count": 116,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "negin__ghasemi",
+        "description": "IR Researcher | PhD Candidate at Radboud University",
+        "location": "Nijmegen, Nederland",
+        "protected": false,
+        "name": "Negin Ghasemi",
+        "id": "1234046957158576128"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 171,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "username": "ylyuliang",
+        "description": "PhD Candidate at JADS & TU/e | Recommender systems | Data science | User-centric research",
+        "protected": false,
+        "name": "Yu Liang",
+        "id": "1513804890"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 895,
+            "following_count": 402,
+            "tweet_count": 217,
+            "listed_count": 19
+        },
+        "username": "ekanou",
+        "description": "Professor at the University of Amsterdam",
+        "location": "Amsterdam, The Netherlands",
+        "protected": false,
+        "name": "Evangelos Kanoulas",
+        "id": "18417153"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1173,
+            "following_count": 1535,
+            "tweet_count": 2323,
+            "listed_count": 22
+        },
+        "username": "maliannejadi",
+        "description": "Postdoc researcher at UvA. \nInformation Retrieval, Conversation Search, Crowdsourcing.",
+        "location": "Amsterdam, The Netherlands",
+        "protected": false,
+        "name": "Mohammad Aliannejadi",
+        "id": "341000847"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 463,
+            "following_count": 1379,
+            "tweet_count": 638,
+            "listed_count": 11
+        },
+        "username": "ManelSlokom",
+        "description": "Phd student on Privacy for Recommender Systems",
+        "location": "Delft, Nederland",
+        "protected": false,
+        "name": "Manel Slokom",
+        "id": "4904393518"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1061,
+            "following_count": 889,
+            "tweet_count": 710,
+            "listed_count": 71
+        },
+        "username": "bugraa",
+        "description": "Engineering Manager @facebook; I like machine learning, data, Python and PyTorch, not necessarily in that order.",
+        "location": "Brooklyn, NY",
+        "protected": false,
+        "name": "Bugra Akyildiz",
+        "id": "17185395"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 328,
+            "following_count": 931,
+            "tweet_count": 198,
+            "listed_count": 3
+        },
+        "username": "srahmanidashti",
+        "description": "Visiting Researcher at WI (@ucl_wi_group). Data Scientist at SanayCo. Interested in RecSyS, IR, and ML",
+        "location": "Iran",
+        "protected": false,
+        "name": "Hossein A. (Saeed) Rahmani",
+        "id": "975115762712096768"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 284,
+            "following_count": 583,
+            "tweet_count": 99,
+            "listed_count": 1
+        },
+        "username": "hamedrab",
+        "description": "Interning at Amazon Science & PhD Candidate, Center for Intelligent Information Retrieval (CIIR) Interested in IR, NLP, and ML, UMass CICS @umasscs",
+        "location": "Massachusetts, USA",
+        "protected": false,
+        "name": "Hamed Bonab",
+        "id": "272376633"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 193,
+            "following_count": 386,
+            "tweet_count": 74,
+            "listed_count": 1
+        },
+        "username": "sophiaalthammer",
+        "description": "PhD Candidate in IR and NLP for domain specific search at TU Vienna at the @DossierProject 🇪🇺\n\nhttps://t.co/wScFIIbrCq",
+        "location": "Wien, Österreich",
+        "protected": false,
+        "name": "sophiaalthammer",
+        "id": "1105880439506587648"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 105,
+            "following_count": 61,
+            "tweet_count": 29,
+            "listed_count": 1
+        },
+        "username": "AliVardasbi",
+        "description": "PhD candidate,\nUniversity of Amsterdam,\nILPS",
+        "protected": false,
+        "name": "AliV",
+        "id": "1152873548798746624"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 561,
+            "following_count": 836,
+            "tweet_count": 370,
+            "listed_count": 12
+        },
+        "username": "YashMosh",
+        "description": "Associate Professor in Data Science at Department of Computer and Information Sciences at Univeristy of Strathclyde",
+        "location": "Glasgow, UK",
+        "protected": false,
+        "name": "Yashar Moshfeghi",
+        "id": "66722583"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 249,
+            "following_count": 230,
+            "tweet_count": 272,
+            "listed_count": 2
+        },
+        "username": "sisinflab",
+        "description": "Information Systems Research Group (SisInf Lab) at Polytechnic University of Bari, Italy. Researching on #RecSys #AI #CyberSecurity",
+        "location": "Bari, Apulia",
+        "protected": false,
+        "name": "SisInfLab - Polytechnic of Bari",
+        "id": "869963328466112512"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 411,
+            "following_count": 595,
+            "tweet_count": 453,
+            "listed_count": 6
+        },
+        "username": "yashardel",
+        "description": "Asst. Professor @polibaofficial;  Recommender Systems; Multimedia RecSys; Conversational Systems; Casual Inference; Fairness and Biases; Adversarial Learning.",
+        "location": "Bari, Apulia",
+        "protected": false,
+        "name": "Yashar Deldjoo",
+        "id": "826177782560518148"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 64,
+            "following_count": 202,
+            "tweet_count": 35,
+            "listed_count": 0
+        },
+        "username": "elianapastor7",
+        "description": "Post-doc @ Polito",
+        "protected": false,
+        "name": "Eliana Pastor",
+        "id": "1162751245603524608"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 261,
+            "following_count": 599,
+            "tweet_count": 125,
+            "listed_count": 3
+        },
+        "username": "ZuzanPink",
+        "description": "• PhD student at Uni of Strathclyde 🏴󠁧󠁢󠁳󠁣󠁴󠁿 • Neuroscience • Information Retrieval • Psychology • I 🧠 Brains • views are my own",
+        "protected": false,
+        "name": "Zuzana Pinkosova",
+        "id": "778856886"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 498,
+            "following_count": 3886,
+            "tweet_count": 1301,
+            "listed_count": 10
+        },
+        "username": "hammad_khan23",
+        "description": "MSc Data Science @UofGlasgow 2021 | Previously @HuaweiUK @AlibabaGroup | IR | NLP | RecSys",
+        "location": "Sheffield, England",
+        "protected": false,
+        "name": "Muhammad Hammad Khan",
+        "id": "1609328383"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 96,
+            "following_count": 313,
+            "tweet_count": 42,
+            "listed_count": 0
+        },
+        "username": "elzein_research",
+        "description": "PhD candidate at @Uca_research @Laboratoire_I3S\nTeaching assistant  @Uca_education\nWorking on #InformationRetreival and #Multiagents",
+        "location": "Nice (06000)",
+        "protected": false,
+        "name": "Dima El Zein",
+        "id": "1299808581433384960"
+    }
+]

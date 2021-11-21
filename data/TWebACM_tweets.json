@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-09-30T01:11:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1443382937253154819",
+        "text": "For questions and further information, please contact Hao Peng / penghao@buaa.edu.cn",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-09-30T01:07:01.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1443381837502377986",
+        "text": "Important Dates\n• Submissions open: December 15, 2021\n• Submission deadline: January 31, 2022\n• First-round review decisions: April 30, 2022\n• Deadline for revision submissions: June 30, 2022\n• Final decisions notification: August 31, 2022\n• Tentative publication: Late 2022",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-09-30T01:05:41.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1443381500326473729",
+        "text": "• Graph-based Social Recommendation System on the Web\n• Analysis of Social Networks, Web of Things, Ubiquitous, Mobile Computing, etc.\n• Graph Mining for Natural Language Processing, Text Mining, and the Semantic Web",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-09-30T01:05:30.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1443381454906347520",
+        "text": "• Pre-training Strategies for Graph Mining on the Web\n• Distributed Training for Graph Mining on the Web\n• Efficient Strategies for Complicated Graphs on the Web\n• Graph Anomaly Detection on the Web\n• Link Prediction, Clustering, and Community Detection on the Web",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-09-30T01:05:16.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1443381395229794306",
+        "text": "Topics of interest include:\n• Graph Mining Models and Paradigms on the Web\n• Safety and Robustness of Graph Mining Techniques (Adversarial Attacks, Threats, Defenses) on the Web\n• Explainable Graph Mining on the Web\n• Optimization Algorithms for Graph Mining on the Web",
+        "lang": "en"
+    }
+]

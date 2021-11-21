@@ -1,0 +1,4742 @@
+[
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2444,
+            "following_count": 4531,
+            "tweet_count": 1215,
+            "listed_count": 5
+        },
+        "id": "1275912964915302403",
+        "username": "miniapeur",
+        "name": "Mathieu Alain"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 184,
+            "following_count": 53,
+            "tweet_count": 41,
+            "listed_count": 2
+        },
+        "id": "1400407060311851009",
+        "username": "acai2021",
+        "name": "acai2021"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4858,
+            "following_count": 5128,
+            "tweet_count": 3428,
+            "listed_count": 165
+        },
+        "id": "735418346896818176",
+        "username": "mona_sloane",
+        "name": "Dr. Mona Sloane"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 62148,
+            "following_count": 83,
+            "tweet_count": 3589,
+            "listed_count": 337
+        },
+        "id": "2533655155",
+        "username": "DrREpstein",
+        "name": "Dr. Robert Epstein"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15926,
+            "following_count": 3932,
+            "tweet_count": 36205,
+            "listed_count": 623
+        },
+        "id": "619603",
+        "username": "axbom",
+        "name": "Per Axbom"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1196,
+            "following_count": 123,
+            "tweet_count": 3168,
+            "listed_count": 36
+        },
+        "id": "120878647",
+        "username": "DavidIkkersheim",
+        "name": "David Ikkersheim"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8361,
+            "following_count": 1452,
+            "tweet_count": 1460,
+            "listed_count": 57
+        },
+        "id": "2302027682",
+        "username": "Bushra_Ebadi",
+        "name": "Bushra Ebadi"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 642,
+            "following_count": 172,
+            "tweet_count": 46,
+            "listed_count": 9
+        },
+        "id": "1407690208275992578",
+        "username": "DDC_SDU",
+        "name": "Digital Democracy Centre"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9151,
+            "following_count": 3205,
+            "tweet_count": 3701,
+            "listed_count": 151
+        },
+        "id": "983214548",
+        "username": "gabramosp",
+        "name": "Gabriela Ramos"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2146,
+            "following_count": 2228,
+            "tweet_count": 5943,
+            "listed_count": 119
+        },
+        "id": "564721501",
+        "username": "TaraChk",
+        "name": "Tara Chklovski"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3890,
+            "following_count": 579,
+            "tweet_count": 61032,
+            "listed_count": 85
+        },
+        "id": "294932830",
+        "username": "EinsteinsAttic",
+        "name": "Phil Booth"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3450,
+            "following_count": 583,
+            "tweet_count": 9232,
+            "listed_count": 54
+        },
+        "id": "1403214757",
+        "username": "Unescosverige",
+        "name": "Unesco Sverige"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16740,
+            "following_count": 2252,
+            "tweet_count": 4599,
+            "listed_count": 98
+        },
+        "id": "1000160267282583553",
+        "username": "ManonGarciaFR",
+        "name": "Manon Garcia"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 693,
+            "following_count": 398,
+            "tweet_count": 469,
+            "listed_count": 23
+        },
+        "id": "14150390",
+        "username": "pcbrock",
+        "name": "Peter Clutton-Brock"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1253,
+            "following_count": 601,
+            "tweet_count": 331,
+            "listed_count": 27
+        },
+        "id": "1201811382091554817",
+        "username": "LynnHKaack",
+        "name": "Lynn Kaack"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2322,
+            "following_count": 621,
+            "tweet_count": 813,
+            "listed_count": 66
+        },
+        "id": "2894532745",
+        "username": "priyald17",
+        "name": "Priya L. Donti"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2394,
+            "following_count": 234,
+            "tweet_count": 177,
+            "listed_count": 46
+        },
+        "id": "3004166806",
+        "username": "david_rolnick",
+        "name": "David Rolnick"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2716,
+            "following_count": 180,
+            "tweet_count": 5953,
+            "listed_count": 126
+        },
+        "id": "759610003",
+        "username": "n_miailhe",
+        "name": "Nicolas Miailhe"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 880,
+            "following_count": 384,
+            "tweet_count": 358,
+            "listed_count": 13
+        },
+        "id": "3387726225",
+        "username": "tegan_maharaj",
+        "name": "Tegan Maharaj"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 154,
+            "following_count": 220,
+            "tweet_count": 57,
+            "listed_count": 2
+        },
+        "id": "576249970",
+        "username": "hpdas17",
+        "name": "Hari Prasanna Das"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2340,
+            "following_count": 1503,
+            "tweet_count": 2705,
+            "listed_count": 51
+        },
+        "id": "2979008907",
+        "username": "SashaMTL",
+        "name": "Dr. Sasha Luccioni 💻🌎✨"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2686,
+            "following_count": 1198,
+            "tweet_count": 659,
+            "listed_count": 93
+        },
+        "id": "744373541966123008",
+        "username": "NathalieSmuha",
+        "name": "Nathalie Smuha"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4061,
+            "following_count": 234,
+            "tweet_count": 2078,
+            "listed_count": 95
+        },
+        "id": "73355398",
+        "username": "wooldridgemike",
+        "name": "Michael Wooldridge"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16618,
+            "following_count": 4457,
+            "tweet_count": 64181,
+            "listed_count": 1316
+        },
+        "id": "1036761",
+        "username": "MiaD",
+        "name": "Mia Shah-Dand is away 🛫"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6410,
+            "following_count": 5556,
+            "tweet_count": 16327,
+            "listed_count": 171
+        },
+        "id": "1222769455",
+        "username": "David_Gunkel",
+        "name": "David J. Gunkel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 22277,
+            "following_count": 450,
+            "tweet_count": 39908,
+            "listed_count": 1157
+        },
+        "id": "23117374",
+        "username": "rcalo",
+        "name": "Ryan Calo"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5309,
+            "following_count": 510,
+            "tweet_count": 13892,
+            "listed_count": 148
+        },
+        "id": "36524036",
+        "username": "TobyWalsh",
+        "name": "Toby Walsh. Hiring PhDs. 💉💉"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7837,
+            "following_count": 1513,
+            "tweet_count": 83880,
+            "listed_count": 370
+        },
+        "id": "6411962",
+        "username": "lilianedwards",
+        "name": "lilian edwards"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7284,
+            "following_count": 3670,
+            "tweet_count": 12777,
+            "listed_count": 510
+        },
+        "id": "146536061",
+        "username": "dmonett",
+        "name": "Dagmar Monett"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14649,
+            "following_count": 254,
+            "tweet_count": 3700,
+            "listed_count": 441
+        },
+        "id": "823519451756855296",
+        "username": "SandraWachter5",
+        "name": "Sandra Wachter"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 37276,
+            "following_count": 21999,
+            "tweet_count": 79716,
+            "listed_count": 1224
+        },
+        "id": "371017223",
+        "username": "FrankPasquale",
+        "name": "Frank Pasquale"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6542,
+            "following_count": 1080,
+            "tweet_count": 28958,
+            "listed_count": 226
+        },
+        "id": "446461168",
+        "username": "mireillemoret",
+        "name": "Mireille Hildebrandt"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15842,
+            "following_count": 11339,
+            "tweet_count": 19466,
+            "listed_count": 480
+        },
+        "id": "16556796",
+        "username": "maria_axente",
+        "name": "Maria Luciana Axente"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 148,
+            "following_count": 1096,
+            "tweet_count": 2257,
+            "listed_count": 10
+        },
+        "id": "102404869",
+        "username": "unimatrix9",
+        "name": "l.scheelings"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11353,
+            "following_count": 395,
+            "tweet_count": 10201,
+            "listed_count": 373
+        },
+        "id": "271601706",
+        "username": "vdignum",
+        "name": "Virginia Dignum"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9279,
+            "following_count": 1172,
+            "tweet_count": 34747,
+            "listed_count": 155
+        },
+        "id": "14196979",
+        "username": "fonolog",
+        "name": "Marc van Oostendorp"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1940,
+            "following_count": 722,
+            "tweet_count": 772,
+            "listed_count": 61
+        },
+        "id": "2829968159",
+        "username": "justin_salamon",
+        "name": "Justin Salamon"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 356,
+            "following_count": 483,
+            "tweet_count": 425,
+            "listed_count": 5
+        },
+        "id": "1057741124104847363",
+        "username": "UVMCompSci",
+        "name": "UVM Computer Science"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1925,
+            "following_count": 573,
+            "tweet_count": 2289,
+            "listed_count": 47
+        },
+        "id": "86916436",
+        "username": "merpeltje",
+        "name": "Marieke van Erp"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 774,
+            "following_count": 271,
+            "tweet_count": 986,
+            "listed_count": 31
+        },
+        "id": "42755923",
+        "username": "matthiasmauch",
+        "name": "Matthias Mauch"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8097,
+            "following_count": 1963,
+            "tweet_count": 17422,
+            "listed_count": 362
+        },
+        "id": "202211003",
+        "username": "alan_winfield",
+        "name": "Alan Winfield 💙"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 518,
+            "following_count": 36,
+            "tweet_count": 136,
+            "listed_count": 20
+        },
+        "id": "117388102",
+        "username": "markbsandler",
+        "name": "Mark Sandler"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7661,
+            "following_count": 950,
+            "tweet_count": 1219,
+            "listed_count": 163
+        },
+        "id": "734995453813641216",
+        "username": "VeredShwartz",
+        "name": "Vered Shwartz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4969,
+            "following_count": 663,
+            "tweet_count": 841,
+            "listed_count": 100
+        },
+        "id": "776074951262699521",
+        "username": "iatitov",
+        "name": "Ivan Titov"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 52289,
+            "following_count": 1300,
+            "tweet_count": 10700,
+            "listed_count": 1487
+        },
+        "id": "90258002",
+        "username": "sfiscience",
+        "name": "Santa Fe Institute"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1083,
+            "following_count": 87,
+            "tweet_count": 266,
+            "listed_count": 18
+        },
+        "id": "3393719411",
+        "username": "KNAWHuC",
+        "name": "KNAWHumCluster"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20757,
+            "following_count": 367,
+            "tweet_count": 2974,
+            "listed_count": 431
+        },
+        "id": "4558314927",
+        "username": "srush_nlp",
+        "name": "Sasha Rush"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7227,
+            "following_count": 188,
+            "tweet_count": 406,
+            "listed_count": 146
+        },
+        "id": "712806842011922432",
+        "username": "cambridgenlp",
+        "name": "CambridgeNLP"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1697,
+            "following_count": 2077,
+            "tweet_count": 1545,
+            "listed_count": 61
+        },
+        "id": "594447887",
+        "username": "SabrinaVerhage",
+        "name": "Sabrina Verhage"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 41903,
+            "following_count": 1647,
+            "tweet_count": 10939,
+            "listed_count": 886
+        },
+        "id": "18850305",
+        "username": "zacharylipton",
+        "name": "Zachary Lipton"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4065,
+            "following_count": 452,
+            "tweet_count": 3706,
+            "listed_count": 133
+        },
+        "id": "1468007250",
+        "username": "CreativeCodeBLN",
+        "name": "Creative Code Berlin"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 64628,
+            "following_count": 32,
+            "tweet_count": 340,
+            "listed_count": 1054
+        },
+        "id": "138840988",
+        "username": "NeurIPSConf",
+        "name": "NeurIPS Conference"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5939,
+            "following_count": 1010,
+            "tweet_count": 1044,
+            "listed_count": 110
+        },
+        "id": "237918251",
+        "username": "cocoweixu",
+        "name": "Wei Xu"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10406,
+            "following_count": 694,
+            "tweet_count": 3703,
+            "listed_count": 192
+        },
+        "id": "1467127267",
+        "username": "drmichaellevin",
+        "name": "Michael Levin"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 36485,
+            "following_count": 3252,
+            "tweet_count": 1998,
+            "listed_count": 651
+        },
+        "id": "246939962",
+        "username": "Thom_Wolf",
+        "name": "Thomas Wolf"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9299,
+            "following_count": 1023,
+            "tweet_count": 23160,
+            "listed_count": 389
+        },
+        "id": "119837224",
+        "username": "jasonbaldridge",
+        "name": "Jason Baldridge"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5950,
+            "following_count": 508,
+            "tweet_count": 1004,
+            "listed_count": 144
+        },
+        "id": "408714449",
+        "username": "ChrisGPotts",
+        "name": "Christopher Potts"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5074,
+            "following_count": 479,
+            "tweet_count": 2828,
+            "listed_count": 115
+        },
+        "id": "589816525",
+        "username": "meertens_knaw",
+        "name": "Meertens Instituut"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6746,
+            "following_count": 147,
+            "tweet_count": 748,
+            "listed_count": 144
+        },
+        "id": "3716745856",
+        "username": "uwnlp",
+        "name": "UW NLP"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17246,
+            "following_count": 2383,
+            "tweet_count": 5312,
+            "listed_count": 300
+        },
+        "id": "338526004",
+        "username": "sleepinyourhat",
+        "name": "Prof. Sam Bowman"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 51544,
+            "following_count": 469,
+            "tweet_count": 6958,
+            "listed_count": 1135
+        },
+        "id": "11766442",
+        "username": "dennybritz",
+        "name": "Denny Britz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 33645,
+            "following_count": 108,
+            "tweet_count": 273,
+            "listed_count": 595
+        },
+        "id": "989251872107085824",
+        "username": "quocleix",
+        "name": "Quoc Le"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7617,
+            "following_count": 131,
+            "tweet_count": 751,
+            "listed_count": 141
+        },
+        "id": "862649978170245120",
+        "username": "EdinburghNLP",
+        "name": "EdinburghNLP"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39849,
+            "following_count": 1106,
+            "tweet_count": 1328,
+            "listed_count": 840
+        },
+        "id": "2902658140",
+        "username": "sedielem",
+        "name": "Sander Dieleman"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 108903,
+            "following_count": 76,
+            "tweet_count": 790,
+            "listed_count": 1942
+        },
+        "id": "3918111614",
+        "username": "OriolVinyalsML",
+        "name": "Oriol Vinyals"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 418,
+            "following_count": 797,
+            "tweet_count": 432,
+            "listed_count": 11
+        },
+        "id": "521339082",
+        "username": "rjhsmeets",
+        "name": "Roel Smeets"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 396,
+            "following_count": 358,
+            "tweet_count": 519,
+            "listed_count": 6
+        },
+        "id": "1064263241566695429",
+        "username": "Mindlabs2",
+        "name": "MindLabs"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 92545,
+            "following_count": 480,
+            "tweet_count": 2352,
+            "listed_count": 1853
+        },
+        "id": "70831441",
+        "username": "soumithchintala",
+        "name": "Soumith Chintala"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 63954,
+            "following_count": 219,
+            "tweet_count": 3856,
+            "listed_count": 1409
+        },
+        "id": "153196789",
+        "username": "ch402",
+        "name": "Chris Olah"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10595,
+            "following_count": 773,
+            "tweet_count": 385,
+            "listed_count": 178
+        },
+        "id": "14408924",
+        "username": "redpony",
+        "name": "Chris Dyer"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 130273,
+            "following_count": 23,
+            "tweet_count": 52,
+            "listed_count": 1764
+        },
+        "id": "1084212657761148928",
+        "username": "geoffreyhinton",
+        "name": "Geoffrey Hinton"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 85693,
+            "following_count": 488,
+            "tweet_count": 7562,
+            "listed_count": 1795
+        },
+        "id": "29843511",
+        "username": "NandoDF",
+        "name": "Nando de Freitas"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40525,
+            "following_count": 340,
+            "tweet_count": 332,
+            "listed_count": 690
+        },
+        "id": "2577596593",
+        "username": "chelseabfinn",
+        "name": "Chelsea Finn"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 392234,
+            "following_count": 636,
+            "tweet_count": 1787,
+            "listed_count": 4331
+        },
+        "id": "130745589",
+        "username": "drfeifei",
+        "name": "Fei-Fei Li"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 97361,
+            "following_count": 576,
+            "tweet_count": 2752,
+            "listed_count": 1793
+        },
+        "id": "3333052551",
+        "username": "hugo_larochelle",
+        "name": "Hugo Larochelle"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 623832,
+            "following_count": 598,
+            "tweet_count": 1402,
+            "listed_count": 8390
+        },
+        "id": "216939636",
+        "username": "AndrewYNg",
+        "name": "Andrew Ng"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 284839,
+            "following_count": 465,
+            "tweet_count": 8458,
+            "listed_count": 4641
+        },
+        "id": "48008938",
+        "username": "ylecun",
+        "name": "Yann LeCun"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 85939,
+            "following_count": 114,
+            "tweet_count": 1221,
+            "listed_count": 1488
+        },
+        "id": "2956121356",
+        "username": "rsalakhu",
+        "name": "Russ Salakhutdinov"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 108214,
+            "following_count": 99,
+            "tweet_count": 8202,
+            "listed_count": 2470
+        },
+        "id": "118263124",
+        "username": "stanfordnlp",
+        "name": "Stanford NLP Group"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5429,
+            "following_count": 2013,
+            "tweet_count": 2663,
+            "listed_count": 297
+        },
+        "id": "14283504",
+        "username": "DoctorJosh",
+        "name": "Josh Bongard"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3567,
+            "following_count": 780,
+            "tweet_count": 1530,
+            "listed_count": 68
+        },
+        "id": "2827622290",
+        "username": "CC_Amsterdam",
+        "name": "Creative Coding AMS"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2438,
+            "following_count": 336,
+            "tweet_count": 9102,
+            "listed_count": 154
+        },
+        "id": "24443979",
+        "username": "mclduk",
+        "name": "Dan Stowell"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 259,
+            "following_count": 50,
+            "tweet_count": 93,
+            "listed_count": 6
+        },
+        "id": "910880332861362177",
+        "username": "MaxLouwerse",
+        "name": "Max Louwerse"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 210,
+            "following_count": 344,
+            "tweet_count": 346,
+            "listed_count": 4
+        },
+        "id": "2353050380",
+        "username": "rgalhama",
+        "name": "Raquel G. Alhama"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 123,
+            "following_count": 225,
+            "tweet_count": 53,
+            "listed_count": 2
+        },
+        "id": "626417376",
+        "username": "klincewiczm",
+        "name": "michal klincewicz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 168,
+            "tweet_count": 25,
+            "listed_count": 1
+        },
+        "id": "1179881820382466048",
+        "username": "JulijaVaitonyte",
+        "name": "Julija Vaitonytė"
+    },
+    {
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 284,
+            "following_count": 702,
+            "tweet_count": 2140,
+            "listed_count": 10
+        },
+        "id": "184827876",
+        "username": "Charlotte_S_C",
+        "name": "Charlotte Croucher"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 734,
+            "following_count": 294,
+            "tweet_count": 906,
+            "listed_count": 21
+        },
+        "id": "93647895",
+        "username": "clipsua",
+        "name": "CLiPS"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 345,
+            "following_count": 335,
+            "tweet_count": 3733,
+            "listed_count": 55
+        },
+        "id": "869602524",
+        "username": "kadarakos",
+        "name": "Akos Kadar"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 724,
+            "following_count": 2334,
+            "tweet_count": 1409,
+            "listed_count": 31
+        },
+        "id": "27375578",
+        "username": "hurrial",
+        "name": "Dr. Ali Hürriyetoğlu"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 179,
+            "following_count": 328,
+            "tweet_count": 865,
+            "listed_count": 13
+        },
+        "id": "3020046891",
+        "username": "tulkenss",
+        "name": "Stephan Tulkens"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1229,
+            "following_count": 275,
+            "tweet_count": 2294,
+            "listed_count": 56
+        },
+        "id": "23067650",
+        "username": "antalvdb",
+        "name": "Antal van den Bosch"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 85389,
+            "following_count": 97,
+            "tweet_count": 1300,
+            "listed_count": 1509
+        },
+        "id": "2815077014",
+        "username": "chrmanning",
+        "name": "Christopher Manning"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21764,
+            "following_count": 307,
+            "tweet_count": 126,
+            "listed_count": 515
+        },
+        "id": "14968475",
+        "username": "jurafsky",
+        "name": "Dan Jurafsky"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 433,
+            "following_count": 582,
+            "tweet_count": 1107,
+            "listed_count": 35
+        },
+        "id": "14547956",
+        "username": "proycon",
+        "name": "Maarten van Gompel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 191,
+            "following_count": 276,
+            "tweet_count": 318,
+            "listed_count": 9
+        },
+        "id": "926136612",
+        "username": "SimonSuster",
+        "name": "Simon Šuster"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28296,
+            "following_count": 601,
+            "tweet_count": 10363,
+            "listed_count": 601
+        },
+        "id": "5620142",
+        "username": "egrefen",
+        "name": "Edward Grefenstette 🇪🇺"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13712,
+            "following_count": 437,
+            "tweet_count": 1171,
+            "listed_count": 319
+        },
+        "id": "15823641",
+        "username": "mrtz",
+        "name": "Moritz Hardt"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11022,
+            "following_count": 2178,
+            "tweet_count": 1773,
+            "listed_count": 311
+        },
+        "id": "98073161",
+        "username": "clmt",
+        "name": "Clément Farabet"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6927,
+            "following_count": 790,
+            "tweet_count": 1275,
+            "listed_count": 180
+        },
+        "id": "180333300",
+        "username": "NicolasPapernot",
+        "name": "Nicolas Papernot"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6452,
+            "following_count": 569,
+            "tweet_count": 1821,
+            "listed_count": 300
+        },
+        "id": "2153743237",
+        "username": "RadimRehurek",
+        "name": "Radim Řehůřek"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8395,
+            "following_count": 1682,
+            "tweet_count": 2704,
+            "listed_count": 203
+        },
+        "id": "102708234",
+        "username": "jacobeisenstein",
+        "name": "Jacob Eisenstein"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8412,
+            "following_count": 1157,
+            "tweet_count": 3340,
+            "listed_count": 205
+        },
+        "id": "1640407356",
+        "username": "dirk_hovy",
+        "name": "Dirk Hovy"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 155,
+            "following_count": 376,
+            "tweet_count": 464,
+            "listed_count": 26
+        },
+        "id": "2948934598",
+        "username": "koepermx",
+        "name": "Maximilian Koeper"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4928,
+            "following_count": 205,
+            "tweet_count": 2400,
+            "listed_count": 174
+        },
+        "id": "24083751",
+        "username": "TomAugspurger",
+        "name": "Tom Augspurger"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 120,
+            "tweet_count": 48,
+            "listed_count": 2
+        },
+        "id": "718360419912585216",
+        "username": "CassaniGiovanni",
+        "name": "Giovanni Cassani"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 308,
+            "following_count": 436,
+            "tweet_count": 506,
+            "listed_count": 10
+        },
+        "id": "219885899",
+        "username": "madhumitasushil",
+        "name": "Madhumita Sushil"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 72,
+            "tweet_count": 27,
+            "listed_count": 10
+        },
+        "id": "2766615588",
+        "username": "SukharevaMaria",
+        "name": "Maria Sukhareva"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2131,
+            "following_count": 1655,
+            "tweet_count": 1287,
+            "listed_count": 49
+        },
+        "id": "725639768663576576",
+        "username": "lucie_nlp",
+        "name": "lucie_nlp"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 406,
+            "following_count": 640,
+            "tweet_count": 784,
+            "listed_count": 37
+        },
+        "id": "2896075806",
+        "username": "interro_gator",
+        "name": "Danny McDonald"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2042,
+            "following_count": 424,
+            "tweet_count": 2808,
+            "listed_count": 43
+        },
+        "id": "8164582",
+        "username": "delliott",
+        "name": "Desmond Elliott"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 29385,
+            "following_count": 1149,
+            "tweet_count": 12075,
+            "listed_count": 814
+        },
+        "id": "438301250",
+        "username": "fhuszar",
+        "name": "Ferenc Huszár"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9150,
+            "following_count": 993,
+            "tweet_count": 2699,
+            "listed_count": 208
+        },
+        "id": "507704346",
+        "username": "IAugenstein",
+        "name": "Isabelle Augenstein"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 233,
+            "following_count": 351,
+            "tweet_count": 108,
+            "listed_count": 3
+        },
+        "id": "826407093079044096",
+        "username": "nannevn",
+        "name": "Nanne"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 55,
+            "following_count": 55,
+            "tweet_count": 9,
+            "listed_count": 2
+        },
+        "id": "48754100",
+        "username": "EricOnnoPostma",
+        "name": "Eric Postma"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1102,
+            "following_count": 2647,
+            "tweet_count": 2720,
+            "listed_count": 24
+        },
+        "id": "29411815",
+        "username": "Willlum",
+        "name": "Willem Huijbers"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 114,
+            "following_count": 58,
+            "tweet_count": 6,
+            "listed_count": 5
+        },
+        "id": "1192769100",
+        "username": "WalterDaelemans",
+        "name": "Walter Daelemans"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1533,
+            "following_count": 1796,
+            "tweet_count": 689,
+            "listed_count": 22
+        },
+        "id": "3406278903",
+        "username": "marcos_zampieri",
+        "name": "Marcos Zampieri"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3952,
+            "following_count": 1086,
+            "tweet_count": 14674,
+            "listed_count": 129
+        },
+        "id": "215113195",
+        "username": "nsaphra",
+        "name": "Naomi Saphra"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 850,
+            "following_count": 584,
+            "tweet_count": 530,
+            "listed_count": 38
+        },
+        "id": "133617958",
+        "username": "gkatzia",
+        "name": "Dimitra Gkatzia"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 94,
+            "following_count": 266,
+            "tweet_count": 132,
+            "listed_count": 10
+        },
+        "id": "859403676",
+        "username": "carvalho_mb",
+        "name": "Maira Carvalho"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 269,
+            "following_count": 25,
+            "tweet_count": 22,
+            "listed_count": 7
+        },
+        "id": "633842748",
+        "username": "afraalishahi",
+        "name": "afra alishahi"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7005,
+            "following_count": 490,
+            "tweet_count": 278,
+            "listed_count": 118
+        },
+        "id": "893369040181182464",
+        "username": "adveisner",
+        "name": "Jason Eisner"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 586,
+            "following_count": 1174,
+            "tweet_count": 181,
+            "listed_count": 7
+        },
+        "id": "786941656859811840",
+        "username": "valentina__py",
+        "name": "Valentina Pyatkin"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 359,
+            "following_count": 645,
+            "tweet_count": 2154,
+            "listed_count": 22
+        },
+        "id": "3307350611",
+        "username": "LisaEvelynR",
+        "name": "Lisa Evelyn"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 141,
+            "following_count": 217,
+            "tweet_count": 162,
+            "listed_count": 2
+        },
+        "id": "231960037",
+        "username": "Yevgen_M",
+        "name": "Yevgen Matusevych"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 23595,
+            "following_count": 217,
+            "tweet_count": 345,
+            "listed_count": 413
+        },
+        "id": "25263396",
+        "username": "dpkingma",
+        "name": "Durk Kingma"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8138,
+            "following_count": 2226,
+            "tweet_count": 2159,
+            "listed_count": 181
+        },
+        "id": "412628332",
+        "username": "FeryalMP",
+        "name": "Feryal"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19194,
+            "following_count": 349,
+            "tweet_count": 3043,
+            "listed_count": 447
+        },
+        "id": "14622002",
+        "username": "_inesmontani",
+        "name": "Ines Montani 〰️"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 459,
+            "tweet_count": 87,
+            "listed_count": 7
+        },
+        "id": "2207119189",
+        "username": "Eslefeve",
+        "name": "Els Lefever"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 86257,
+            "following_count": 793,
+            "tweet_count": 9221,
+            "listed_count": 2045
+        },
+        "id": "1408142352",
+        "username": "math_rachel",
+        "name": "Rachel Thomas"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 30749,
+            "following_count": 397,
+            "tweet_count": 1479,
+            "listed_count": 668
+        },
+        "id": "22385548",
+        "username": "janexwang",
+        "name": "Jane Wang"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 158,
+            "following_count": 210,
+            "tweet_count": 167,
+            "listed_count": 1
+        },
+        "id": "841603747344207872",
+        "username": "KoelDC",
+        "name": "Koel Dutta Chowdhury"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 30253,
+            "following_count": 295,
+            "tweet_count": 8247,
+            "listed_count": 622
+        },
+        "id": "768092862",
+        "username": "tdietterich",
+        "name": "Thomas G. Dietterich"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1858,
+            "following_count": 355,
+            "tweet_count": 623,
+            "listed_count": 47
+        },
+        "id": "33113669",
+        "username": "eltimster",
+        "name": "Tim Baldwin"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16715,
+            "following_count": 230,
+            "tweet_count": 1934,
+            "listed_count": 302
+        },
+        "id": "352013269",
+        "username": "beenwrekt",
+        "name": "Ben Recht"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12622,
+            "following_count": 441,
+            "tweet_count": 1553,
+            "listed_count": 270
+        },
+        "id": "76080258",
+        "username": "riedelcastro",
+        "name": "Sebastian Riedel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2353,
+            "following_count": 326,
+            "tweet_count": 599,
+            "listed_count": 67
+        },
+        "id": "1017373138500378624",
+        "username": "AmsterdamNLP",
+        "name": "AmsterdamNLP"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 76929,
+            "following_count": 3300,
+            "tweet_count": 9952,
+            "listed_count": 2573
+        },
+        "id": "19968025",
+        "username": "katecrawford",
+        "name": "Dr. Kate Crawford"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1079,
+            "following_count": 24,
+            "tweet_count": 98,
+            "listed_count": 29
+        },
+        "id": "1055832302650081281",
+        "username": "sigrep_acl",
+        "name": "SIGREP"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1028,
+            "following_count": 145,
+            "tweet_count": 163,
+            "listed_count": 12
+        },
+        "id": "908673384611041281",
+        "username": "_dieuwke_",
+        "name": "Dieuwke Hupkes"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "2954515989",
+        "username": "willemsenbram",
+        "name": "B. Willemsen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13334,
+            "following_count": 1144,
+            "tweet_count": 9390,
+            "listed_count": 418
+        },
+        "id": "196481854",
+        "username": "ShannonVallor",
+        "name": "Shannon Vallor"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1279,
+            "following_count": 327,
+            "tweet_count": 495,
+            "listed_count": 25
+        },
+        "id": "62071829",
+        "username": "dongng",
+        "name": "Dong Nguyen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 478020,
+            "following_count": 790,
+            "tweet_count": 106202,
+            "listed_count": 7653
+        },
+        "id": "65375759",
+        "username": "zeynep",
+        "name": "zeynep tufekci"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 616,
+            "following_count": 413,
+            "tweet_count": 308,
+            "listed_count": 8
+        },
+        "id": "1420733971",
+        "username": "susanvermeer",
+        "name": "Susan Vermeer"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 469,
+            "following_count": 276,
+            "tweet_count": 456,
+            "listed_count": 5
+        },
+        "id": "19626509",
+        "username": "_Guz_",
+        "name": "Gustavo Penha (Guz)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 90,
+            "following_count": 206,
+            "tweet_count": 129,
+            "listed_count": 2
+        },
+        "id": "456665119",
+        "username": "DBerecz",
+        "name": "Daniel Berecz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 134,
+            "following_count": 224,
+            "tweet_count": 36,
+            "listed_count": 2
+        },
+        "id": "3336967221",
+        "username": "rk_konoth",
+        "name": "Radhesh Krishnan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 47,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1088832575576203265",
+        "username": "PaisaTudor",
+        "name": "Tudor Paisa"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 84534,
+            "following_count": 210,
+            "tweet_count": 10082,
+            "listed_count": 2038
+        },
+        "id": "10834752",
+        "username": "random_walker",
+        "name": "Arvind Narayanan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 45311,
+            "following_count": 3533,
+            "tweet_count": 13567,
+            "listed_count": 1080
+        },
+        "id": "2492917412",
+        "username": "mer__edith",
+        "name": "Meredith Whittaker"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7026,
+            "following_count": 533,
+            "tweet_count": 2351,
+            "listed_count": 104
+        },
+        "id": "5850692",
+        "username": "Aaroth",
+        "name": "Aaron Roth"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 286,
+            "following_count": 1328,
+            "tweet_count": 345,
+            "listed_count": 5
+        },
+        "id": "482114991",
+        "username": "EMJHuisintVeld",
+        "name": "Elisabeth Huis in ‘t Veld, PhD, MBA"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 0,
+            "tweet_count": 1414,
+            "listed_count": 1
+        },
+        "id": "825007651717316608",
+        "username": "PigandRye",
+        "name": "Pig & Rye"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18847,
+            "following_count": 342,
+            "tweet_count": 710,
+            "listed_count": 173
+        },
+        "id": "92096034",
+        "username": "wellingmax",
+        "name": "Max Welling"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3498,
+            "following_count": 591,
+            "tweet_count": 3232,
+            "listed_count": 108
+        },
+        "id": "89705228",
+        "username": "nhelberger",
+        "name": "natalihelberger"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3959,
+            "following_count": 831,
+            "tweet_count": 5570,
+            "listed_count": 145
+        },
+        "id": "20062160",
+        "username": "linnetelwin",
+        "name": "linnet taylor"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4993,
+            "following_count": 1537,
+            "tweet_count": 3408,
+            "listed_count": 160
+        },
+        "id": "916385678",
+        "username": "finck_m",
+        "name": "Michèle Finck"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2356,
+            "following_count": 666,
+            "tweet_count": 642,
+            "listed_count": 33
+        },
+        "id": "24344110",
+        "username": "berkustun",
+        "name": "Berk Ustun"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 766,
+            "following_count": 107,
+            "tweet_count": 96,
+            "listed_count": 31
+        },
+        "id": "57082583",
+        "username": "tobias_blanke",
+        "name": "Tobias Blanke"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 438,
+            "following_count": 551,
+            "tweet_count": 1314,
+            "listed_count": 27
+        },
+        "id": "3000991143",
+        "username": "RoboNaudts",
+        "name": "Laurens Naudts is an immersive sim NPC"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 481,
+            "following_count": 664,
+            "tweet_count": 288,
+            "listed_count": 27
+        },
+        "id": "2791446946",
+        "username": "l_dallacorte",
+        "name": "Lorenzo"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 765,
+            "following_count": 361,
+            "tweet_count": 8860,
+            "listed_count": 25
+        },
+        "id": "15068044",
+        "username": "beck_daniel",
+        "name": "Daniel Beck"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 308,
+            "following_count": 403,
+            "tweet_count": 67,
+            "listed_count": 6
+        },
+        "id": "1016764586228412421",
+        "username": "DPGMediaAI",
+        "name": "DPG Media AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 45,
+            "following_count": 113,
+            "tweet_count": 22,
+            "listed_count": 4
+        },
+        "id": "903154194491813889",
+        "username": "bertrand_higy",
+        "name": "Bertrand Higy"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2348,
+            "following_count": 2071,
+            "tweet_count": 5517,
+            "listed_count": 36
+        },
+        "id": "1002638800575782912",
+        "username": "SeeTedTalk",
+        "name": "Ted Pedersen is @ #HST2021"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4351,
+            "following_count": 1183,
+            "tweet_count": 1648,
+            "listed_count": 81
+        },
+        "id": "2583592880",
+        "username": "MicheleNuijten",
+        "name": "Dr. Michèle Nuijten"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14039,
+            "following_count": 4765,
+            "tweet_count": 80707,
+            "listed_count": 339
+        },
+        "id": "16136933",
+        "username": "jeffbigham",
+        "name": "Jeff Bigham"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1181,
+            "following_count": 542,
+            "tweet_count": 1073,
+            "listed_count": 16
+        },
+        "id": "3123589192",
+        "username": "HenrikSingmann",
+        "name": "Henrik Singmann"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28137,
+            "following_count": 1173,
+            "tweet_count": 16163,
+            "listed_count": 357
+        },
+        "id": "44073696",
+        "username": "roydanroy",
+        "name": "Dan Roy"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27056,
+            "following_count": 0,
+            "tweet_count": 38,
+            "listed_count": 353
+        },
+        "id": "1163786515144724485",
+        "username": "SchmidhuberAI",
+        "name": "Jürgen Schmidhuber"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11581,
+            "following_count": 605,
+            "tweet_count": 24209,
+            "listed_count": 362
+        },
+        "id": "1368571",
+        "username": "geomblog",
+        "name": "Suresh Venkatasubramanian"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 59821,
+            "following_count": 376,
+            "tweet_count": 20391,
+            "listed_count": 1861
+        },
+        "id": "19959946",
+        "username": "runasand",
+        "name": "Runa Sandvik"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2650,
+            "following_count": 1619,
+            "tweet_count": 3950,
+            "listed_count": 76
+        },
+        "id": "1082308703670415365",
+        "username": "Boring_AI",
+        "name": "Scott Robbins AKA Boring AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 163,
+            "following_count": 321,
+            "tweet_count": 431,
+            "listed_count": 2
+        },
+        "id": "1118170282630492160",
+        "username": "amkamelabad",
+        "name": "Alireza M. Kamelabad"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4932,
+            "following_count": 1981,
+            "tweet_count": 2034,
+            "listed_count": 109
+        },
+        "id": "45144224",
+        "username": "benzevgreen",
+        "name": "Ben Green"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 704,
+            "following_count": 516,
+            "tweet_count": 598,
+            "listed_count": 23
+        },
+        "id": "831805863035863040",
+        "username": "MidasNouwens",
+        "name": "Midas Nouwens"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 338167,
+            "following_count": 1673,
+            "tweet_count": 16173,
+            "listed_count": 8946
+        },
+        "id": "22790881",
+        "username": "briankrebs",
+        "name": "briankrebs"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 954,
+            "following_count": 1357,
+            "tweet_count": 1731,
+            "listed_count": 29
+        },
+        "id": "534652653",
+        "username": "f_bruneault",
+        "name": "Frédérick Bruneault"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4409,
+            "following_count": 310,
+            "tweet_count": 1379,
+            "listed_count": 164
+        },
+        "id": "14556945",
+        "username": "yvesalexandre",
+        "name": "Yves-A. de Montjoye"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 497,
+            "following_count": 1546,
+            "tweet_count": 192,
+            "listed_count": 28
+        },
+        "id": "766731070674984960",
+        "username": "AndraneSabouri2",
+        "name": "Andréane Sabourin Laflamme"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 599,
+            "following_count": 154,
+            "tweet_count": 198,
+            "listed_count": 0
+        },
+        "id": "882521793239691264",
+        "username": "AriannaBisazza",
+        "name": "Arianna Bisazza"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 123,
+            "following_count": 253,
+            "tweet_count": 571,
+            "listed_count": 1
+        },
+        "id": "38188124",
+        "username": "turkmenf",
+        "name": "Fatih Turkmen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1878,
+            "following_count": 177,
+            "tweet_count": 334,
+            "listed_count": 24
+        },
+        "id": "1179401500478468096",
+        "username": "florian_tramer",
+        "name": "Florian Tramèr"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6670,
+            "following_count": 383,
+            "tweet_count": 2370,
+            "listed_count": 155
+        },
+        "id": "2716674754",
+        "username": "carmelatroncoso",
+        "name": "Carmela Troncoso"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5387,
+            "following_count": 1716,
+            "tweet_count": 4388,
+            "listed_count": 149
+        },
+        "id": "14907468",
+        "username": "kennyog",
+        "name": "kennyog"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2095,
+            "following_count": 973,
+            "tweet_count": 1266,
+            "listed_count": 23
+        },
+        "id": "1467438402",
+        "username": "limufar",
+        "name": "Fatemeh (Niloofar)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 390,
+            "following_count": 901,
+            "tweet_count": 626,
+            "listed_count": 3
+        },
+        "id": "800976810246832128",
+        "username": "lucacarbone__lc",
+        "name": "Luca Carbone (he/they/them)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1476,
+            "following_count": 372,
+            "tweet_count": 1811,
+            "listed_count": 19
+        },
+        "id": "3313654890",
+        "username": "SarahEskens",
+        "name": "Sarah Eskens"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2148,
+            "following_count": 2589,
+            "tweet_count": 1103,
+            "listed_count": 32
+        },
+        "id": "4890000754",
+        "username": "debora_nozza",
+        "name": "Debora Nozza"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 644,
+            "following_count": 797,
+            "tweet_count": 231,
+            "listed_count": 31
+        },
+        "id": "1138939449457426432",
+        "username": "MarkRyanEthics",
+        "name": "Mark Ryan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6576,
+            "following_count": 1338,
+            "tweet_count": 6172,
+            "listed_count": 164
+        },
+        "id": "289570721",
+        "username": "lizjosullivan",
+        "name": "Liz O’Sullivan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 122991,
+            "following_count": 1896,
+            "tweet_count": 16505,
+            "listed_count": 1293
+        },
+        "id": "359831209",
+        "username": "timnitGebru",
+        "name": "Timnit Gebru"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 887561,
+            "following_count": 3,
+            "tweet_count": 1772,
+            "listed_count": 3916
+        },
+        "id": "427089628",
+        "username": "lexfridman",
+        "name": "Lex Fridman"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 359,
+            "following_count": 578,
+            "tweet_count": 963,
+            "listed_count": 7
+        },
+        "id": "284664146",
+        "username": "ana_ferdz",
+        "name": "Ana Fernández"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4637,
+            "following_count": 1419,
+            "tweet_count": 22960,
+            "listed_count": 240
+        },
+        "id": "1611641905",
+        "username": "murakamiwood",
+        "name": "keep your electric eye on me"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 408,
+            "following_count": 1356,
+            "tweet_count": 203,
+            "listed_count": 2
+        },
+        "id": "37941977",
+        "username": "proneat",
+        "name": "Praneeth Vepakomma"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 392,
+            "following_count": 123,
+            "tweet_count": 146,
+            "listed_count": 6
+        },
+        "id": "826422008971943936",
+        "username": "AbusiveLangWS",
+        "name": "Workshop on Online Abuse and Harms (Prev. ALW)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 67,
+            "tweet_count": 69,
+            "listed_count": 2
+        },
+        "id": "975075249430679552",
+        "username": "GonzaloNapoles",
+        "name": "Gonzalo NÁPOLES"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3104,
+            "following_count": 118,
+            "tweet_count": 455,
+            "listed_count": 64
+        },
+        "id": "1364653237",
+        "username": "SurvSoc_Journal",
+        "name": "Surveillance & Society"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 474,
+            "following_count": 897,
+            "tweet_count": 71,
+            "listed_count": 1
+        },
+        "id": "1201265355336798208",
+        "username": "eneelou",
+        "name": "Eugene Neelou"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 111,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "id": "1323207505913196547",
+        "username": "KvanEijndhoven",
+        "name": "Kyana van Eijndhoven"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 382,
+            "following_count": 558,
+            "tweet_count": 526,
+            "listed_count": 4
+        },
+        "id": "89449041",
+        "username": "AngelicaMaineri",
+        "name": "Angelica Maineri"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2534,
+            "following_count": 4372,
+            "tweet_count": 3959,
+            "listed_count": 64
+        },
+        "id": "25047190",
+        "username": "estherkey",
+        "name": "Esther Keymolen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 380,
+            "following_count": 230,
+            "tweet_count": 117,
+            "listed_count": 9
+        },
+        "id": "20633612",
+        "username": "hannesdatta",
+        "name": "Hannes Datta"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 74,
+            "tweet_count": 221,
+            "listed_count": 3
+        },
+        "id": "189159882",
+        "username": "muznysaurus",
+        "name": "Felix Muzny"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 175,
+            "following_count": 279,
+            "tweet_count": 93,
+            "listed_count": 2
+        },
+        "id": "984342960757248000",
+        "username": "Wietsedv",
+        "name": "Wietse de Vries"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 43,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "id": "939261603186438144",
+        "username": "rastislav_",
+        "name": "Rastislav Hronský"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 76,
+            "following_count": 121,
+            "tweet_count": 161,
+            "listed_count": 2
+        },
+        "id": "874857791990763520",
+        "username": "JPourmostafa",
+        "name": "Javad Pourmostafa"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 122875,
+            "following_count": 948,
+            "tweet_count": 72326,
+            "listed_count": 3223
+        },
+        "id": "106234268",
+        "username": "matthew_d_green",
+        "name": "Matthew Green"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 32470,
+            "following_count": 806,
+            "tweet_count": 18296,
+            "listed_count": 997
+        },
+        "id": "162441059",
+        "username": "kcimc",
+        "name": "Kyle McDonald"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2729,
+            "following_count": 2640,
+            "tweet_count": 10073,
+            "listed_count": 45
+        },
+        "id": "19989030",
+        "username": "luislamb",
+        "name": "Luis Lamb"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18400,
+            "following_count": 272,
+            "tweet_count": 14602,
+            "listed_count": 486
+        },
+        "id": "82542317",
+        "username": "daphnehk",
+        "name": "Daphne Keller"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 88863,
+            "following_count": 931,
+            "tweet_count": 20643,
+            "listed_count": 2228
+        },
+        "id": "14357273",
+        "username": "mgeist",
+        "name": "Michael Geist"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2057,
+            "following_count": 587,
+            "tweet_count": 1417,
+            "listed_count": 47
+        },
+        "id": "22476490",
+        "username": "EmilyLaidlaw",
+        "name": "Emily Laidlaw"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 320,
+            "following_count": 185,
+            "tweet_count": 114,
+            "listed_count": 3
+        },
+        "id": "1224322420825346049",
+        "username": "MalvinaNissim",
+        "name": "Malvina Nissim"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7567,
+            "following_count": 61,
+            "tweet_count": 1040,
+            "listed_count": 0
+        },
+        "id": "897060827316072448",
+        "username": "FAccTConference",
+        "name": "ACM FAccT (formerly ACM FAT*)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 146,
+            "following_count": 313,
+            "tweet_count": 47,
+            "listed_count": 1
+        },
+        "id": "1220292387777413126",
+        "username": "AnaMariaCretu5",
+        "name": "Ana-Maria Cretu"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 91,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "id": "1429744295347695618",
+        "username": "evyvanweelden",
+        "name": "Evy van Weelden"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2124,
+            "following_count": 595,
+            "tweet_count": 4584,
+            "listed_count": 39
+        },
+        "id": "1125849026308575239",
+        "username": "BlancheMinerva",
+        "name": "Stella Rose Biderman"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 23,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1436626417547104257",
+        "username": "M_Alimardani_",
+        "name": "Maryam Alimardani"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 188,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "id": "881494965297262592",
+        "username": "MA_M0usavi",
+        "name": "Mohammad Ali Mousavi"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 8,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "id": "1341352477816475648",
+        "username": "tilburgscience",
+        "name": "Tilburg Science Hub"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 187,
+            "tweet_count": 220,
+            "listed_count": 0
+        },
+        "id": "752868109439164417",
+        "username": "azqa_nadeem",
+        "name": "Azqa"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 372,
+            "following_count": 28,
+            "tweet_count": 70,
+            "listed_count": 1
+        },
+        "id": "1388406109107539969",
+        "username": "prisec_ml",
+        "name": "prisec_ml"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 494,
+            "following_count": 1456,
+            "tweet_count": 266,
+            "listed_count": 6
+        },
+        "id": "892679289832951809",
+        "username": "ecekt2",
+        "name": "Ece Takmaz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20081,
+            "following_count": 1594,
+            "tweet_count": 38783,
+            "listed_count": 507
+        },
+        "id": "20309837",
+        "username": "mikarv",
+        "name": "Michael Veale"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 31926,
+            "following_count": 1916,
+            "tweet_count": 71973,
+            "listed_count": 605
+        },
+        "id": "229005889",
+        "username": "Abebab",
+        "name": "Abeba Birhane"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 118800,
+            "following_count": 1032,
+            "tweet_count": 22250,
+            "listed_count": 2219
+        },
+        "id": "2895499182",
+        "username": "hardmaru",
+        "name": "hardmaru"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1363,
+            "following_count": 325,
+            "tweet_count": 2301,
+            "listed_count": 25
+        },
+        "id": "43543495",
+        "username": "wzuidema",
+        "name": "Jelle Zuidema"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5539,
+            "following_count": 991,
+            "tweet_count": 2244,
+            "listed_count": 111
+        },
+        "id": "3232640646",
+        "username": "barbara_plank",
+        "name": "Barbara Plank"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 31986,
+            "following_count": 1682,
+            "tweet_count": 9972,
+            "listed_count": 563
+        },
+        "id": "48642190",
+        "username": "kchonyc",
+        "name": "Kyunghyun Cho"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 250,
+            "following_count": 506,
+            "tweet_count": 192,
+            "listed_count": 2
+        },
+        "id": "1114162306856947712",
+        "username": "_tjwiltshire",
+        "name": "Travis J. Wiltshire"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20514,
+            "following_count": 1698,
+            "tweet_count": 92137,
+            "listed_count": 458
+        },
+        "id": "39547749",
+        "username": "yoavgo",
+        "name": "(((ل()(ل() 'yoav))))👾"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25119,
+            "following_count": 302,
+            "tweet_count": 15724,
+            "listed_count": 655
+        },
+        "id": "158106469",
+        "username": "haldaume3",
+        "name": "Hal Daumé III"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 668,
+            "following_count": 429,
+            "tweet_count": 637,
+            "listed_count": 7
+        },
+        "id": "1137824216",
+        "username": "Evanmassenhove",
+        "name": "Eva Vanmassenhove"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 24645,
+            "following_count": 1906,
+            "tweet_count": 21668,
+            "listed_count": 428
+        },
+        "id": "172179385",
+        "username": "emilymbender",
+        "name": "Emily M. Bender, professionally unimpressed"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17917,
+            "following_count": 377,
+            "tweet_count": 2601,
+            "listed_count": 334
+        },
+        "id": "185910194",
+        "username": "gneubig",
+        "name": "Graham Neubig"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 411,
+            "following_count": 328,
+            "tweet_count": 555,
+            "listed_count": 3
+        },
+        "id": "741242773635014656",
+        "username": "DShterionov",
+        "name": "Dimitar Shterionov"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6369,
+            "following_count": 682,
+            "tweet_count": 4048,
+            "listed_count": 87
+        },
+        "id": "743696568939753475",
+        "username": "ryandcotterell",
+        "name": "Ryan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 295,
+            "following_count": 582,
+            "tweet_count": 1062,
+            "listed_count": 6
+        },
+        "id": "815964533852401665",
+        "username": "liekegelderloos",
+        "name": "Lieke Gelderloos"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 260,
+            "following_count": 199,
+            "tweet_count": 197,
+            "listed_count": 17
+        },
+        "id": "2731882176",
+        "username": "_cmry",
+        "name": "ᴄнʀɪѕ ᴇᴍᴍᴇʀʏ"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 169407,
+            "following_count": 0,
+            "tweet_count": 133199,
+            "listed_count": 1321
+        },
+        "id": "919860212",
+        "username": "Montreal_AI",
+        "name": "MONTREAL.AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 54238,
+            "following_count": 176,
+            "tweet_count": 1273,
+            "listed_count": 1032
+        },
+        "id": "1059680847425527808",
+        "username": "StanfordAILab",
+        "name": "Stanford AI Lab"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 60160,
+            "following_count": 191,
+            "tweet_count": 475,
+            "listed_count": 1217
+        },
+        "id": "891077171673931776",
+        "username": "berkeley_ai",
+        "name": "Berkeley AI Research"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6098,
+            "following_count": 729,
+            "tweet_count": 1789,
+            "listed_count": 119
+        },
+        "id": "913491951013564422",
+        "username": "BorealisAI",
+        "name": "Borealis AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10951,
+            "following_count": 16,
+            "tweet_count": 508,
+            "listed_count": 223
+        },
+        "id": "744095828013424640",
+        "username": "explosion_ai",
+        "name": "Explosion 💥"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 49334,
+            "following_count": 571,
+            "tweet_count": 7231,
+            "listed_count": 810
+        },
+        "id": "748528569064710145",
+        "username": "mmitchell_ai",
+        "name": "MMitchell"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 35461,
+            "following_count": 236,
+            "tweet_count": 1632,
+            "listed_count": 859
+        },
+        "id": "3442793834",
+        "username": "allen_ai",
+        "name": "Allen Institute for AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 621291,
+            "following_count": 0,
+            "tweet_count": 521,
+            "listed_count": 5870
+        },
+        "id": "4398626122",
+        "username": "OpenAI",
+        "name": "OpenAI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 30910,
+            "following_count": 3815,
+            "tweet_count": 17926,
+            "listed_count": 875
+        },
+        "id": "705850200473010178",
+        "username": "ruchowdh",
+        "name": "Rumman Chowdhury"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4554,
+            "following_count": 985,
+            "tweet_count": 20317,
+            "listed_count": 123
+        },
+        "id": "156640604",
+        "username": "EmergTechEthics",
+        "name": "Mairtín Cunneen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1313,
+            "following_count": 934,
+            "tweet_count": 6193,
+            "listed_count": 25
+        },
+        "id": "824527831640186880",
+        "username": "MarankeWieringa",
+        "name": "Maranke Wieringa"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 452,
+            "following_count": 289,
+            "tweet_count": 266,
+            "listed_count": 9
+        },
+        "id": "125914828",
+        "username": "arjanvandenborn",
+        "name": "arjan van den born"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 46895,
+            "following_count": 1104,
+            "tweet_count": 1542,
+            "listed_count": 1187
+        },
+        "id": "840618056678293504",
+        "username": "AINowInstitute",
+        "name": "AI Now Institute"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40503,
+            "following_count": 243,
+            "tweet_count": 4456,
+            "listed_count": 609
+        },
+        "id": "929791330519322624",
+        "username": "black_in_ai",
+        "name": "Black in AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16461,
+            "following_count": 2133,
+            "tweet_count": 4488,
+            "listed_count": 289
+        },
+        "id": "39289455",
+        "username": "alliekmiller",
+        "name": "Allie K. Miller"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5711,
+            "following_count": 3789,
+            "tweet_count": 1876,
+            "listed_count": 198
+        },
+        "id": "724532781720702976",
+        "username": "ALLAI_EU",
+        "name": "ALLAI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7255,
+            "following_count": 4261,
+            "tweet_count": 9639,
+            "listed_count": 250
+        },
+        "id": "966263603576889345",
+        "username": "DorotheaBaur",
+        "name": "Dorothea Baur (Dr.)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8177,
+            "following_count": 1171,
+            "tweet_count": 2107,
+            "listed_count": 167
+        },
+        "id": "871111526282911746",
+        "username": "women_in_ai",
+        "name": "Women in AI"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18172,
+            "following_count": 6489,
+            "tweet_count": 35991,
+            "listed_count": 525
+        },
+        "id": "339941459",
+        "username": "RobMcCargow",
+        "name": "Rob McCargow"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6646,
+            "following_count": 881,
+            "tweet_count": 2714,
+            "listed_count": 238
+        },
+        "id": "882956199112650752",
+        "username": "aimeevanrobot",
+        "name": "Aimee van Wynsberghe"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17226,
+            "following_count": 11908,
+            "tweet_count": 40175,
+            "listed_count": 1070
+        },
+        "id": "3427261",
+        "username": "johnchavens",
+        "name": "John C. Havens"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4306,
+            "following_count": 3022,
+            "tweet_count": 4086,
+            "listed_count": 193
+        },
+        "id": "3918564203",
+        "username": "MullerCatelijne",
+        "name": "Catelijne Muller"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27521,
+            "following_count": 4590,
+            "tweet_count": 54629,
+            "listed_count": 1173
+        },
+        "id": "2919151",
+        "username": "j2bryson",
+        "name": "Joanna J Bryson"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1753,
+            "following_count": 4791,
+            "tweet_count": 18827,
+            "listed_count": 337
+        },
+        "id": "2388400813",
+        "username": "happybandits",
+        "name": "Arjan Haring 🤗"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8454,
+            "following_count": 7268,
+            "tweet_count": 11511,
+            "listed_count": 272
+        },
+        "id": "778904697293996032",
+        "username": "WorldSummitAI",
+        "name": "World Summit AI: No.1 AI community worldwide"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 168,
+            "following_count": 624,
+            "tweet_count": 253,
+            "listed_count": 1
+        },
+        "id": "147306272",
+        "username": "m_vanwingerden",
+        "name": "Marijn"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 1181,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "id": "859383686248189952",
+        "username": "VerneJools",
+        "name": "Jools Verne"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 810,
+            "following_count": 1447,
+            "tweet_count": 759,
+            "listed_count": 35
+        },
+        "id": "95083618",
+        "username": "jeu1987",
+        "name": "Daan Kolkman"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1559,
+            "following_count": 295,
+            "tweet_count": 504,
+            "listed_count": 34
+        },
+        "id": "705512331191709696",
+        "username": "jadatascience",
+        "name": "JADS"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 626,
+            "following_count": 2376,
+            "tweet_count": 1325,
+            "listed_count": 23
+        },
+        "id": "39026510",
+        "username": "wjliebregts",
+        "name": "Werner Liebregts"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 193,
+            "following_count": 1459,
+            "tweet_count": 898,
+            "listed_count": 1
+        },
+        "id": "119570660",
+        "username": "joan_uros",
+        "name": "Joan López"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 616,
+            "following_count": 1040,
+            "tweet_count": 1201,
+            "listed_count": 3
+        },
+        "id": "1074259332274053120",
+        "username": "mammadasghari",
+        "name": "Mohammad Asghari"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 723,
+            "following_count": 1043,
+            "tweet_count": 1791,
+            "listed_count": 20
+        },
+        "id": "51770399",
+        "username": "stijnvanrooij",
+        "name": "Stijn van Rooij"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 521,
+            "following_count": 979,
+            "tweet_count": 710,
+            "listed_count": 11
+        },
+        "id": "1023066253",
+        "username": "fcozbugday",
+        "name": "Fatih Cemil Ozbugday"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 410,
+            "following_count": 467,
+            "tweet_count": 705,
+            "listed_count": 6
+        },
+        "id": "165724075",
+        "username": "marliesbrouwer",
+        "name": "Marlies van Wissen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 914,
+            "following_count": 1344,
+            "tweet_count": 20342,
+            "listed_count": 52
+        },
+        "id": "146403105",
+        "username": "jpsoree",
+        "name": "Jean-Paul Sorée"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 530,
+            "following_count": 610,
+            "tweet_count": 8221,
+            "listed_count": 4
+        },
+        "id": "277136678",
+        "username": "orkunous",
+        "name": "Berk Orkun"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 520,
+            "following_count": 404,
+            "tweet_count": 29031,
+            "listed_count": 5
+        },
+        "id": "944009412",
+        "username": "__enes18__",
+        "name": "Enes"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 479,
+            "following_count": 1341,
+            "tweet_count": 3529,
+            "listed_count": 5
+        },
+        "id": "124128923",
+        "username": "RalfWhiteRoom",
+        "name": "Meneer Ralf"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1038,
+            "following_count": 698,
+            "tweet_count": 5927,
+            "listed_count": 20
+        },
+        "id": "986232469",
+        "username": "ProfSwanenberg",
+        "name": "Jos Swanenberg"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 874,
+            "following_count": 887,
+            "tweet_count": 10022,
+            "listed_count": 42
+        },
+        "id": "7570682",
+        "username": "karinslegers",
+        "name": "Karin Slegers"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1967,
+            "following_count": 1832,
+            "tweet_count": 9439,
+            "listed_count": 1
+        },
+        "id": "4240585276",
+        "username": "erdemtheerdem",
+        "name": "M. Erdem Erdem"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1898,
+            "following_count": 705,
+            "tweet_count": 3475,
+            "listed_count": 23
+        },
+        "id": "170726086",
+        "username": "thijskeeper",
+        "name": "Thijs"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2453,
+            "following_count": 1356,
+            "tweet_count": 19691,
+            "listed_count": 69
+        },
+        "id": "257505584",
+        "username": "pensioenschijf",
+        "name": "Michael Visser"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 501,
+            "following_count": 503,
+            "tweet_count": 2265,
+            "listed_count": 4
+        },
+        "id": "233637759",
+        "username": "FloortjeMols",
+        "name": "Floortje Mols"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1000,
+            "following_count": 1445,
+            "tweet_count": 7659,
+            "listed_count": 38
+        },
+        "id": "1487768678",
+        "username": "PuckvanTilburg",
+        "name": "Puck van Tilburg"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 375,
+            "following_count": 720,
+            "tweet_count": 1071,
+            "listed_count": 3
+        },
+        "id": "1221890852",
+        "username": "SuzannevdrBeek",
+        "name": "Suzanne van der Beek"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 686,
+            "following_count": 912,
+            "tweet_count": 1091,
+            "listed_count": 12
+        },
+        "id": "610584188",
+        "username": "Roel_Mehlkopf",
+        "name": "Roel Mehlkopf"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 462,
+            "following_count": 1174,
+            "tweet_count": 137,
+            "listed_count": 12
+        },
+        "id": "363602857",
+        "username": "ConstantPieters",
+        "name": "Constant Pieters"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 356,
+            "following_count": 319,
+            "tweet_count": 987,
+            "listed_count": 9
+        },
+        "id": "244957893",
+        "username": "Kristel__D",
+        "name": "Kristel Doreleijers"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 683,
+            "following_count": 780,
+            "tweet_count": 1883,
+            "listed_count": 8
+        },
+        "id": "709930023743049728",
+        "username": "tunc_necip",
+        "name": "Mehmet Necip Tunç"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7318,
+            "following_count": 1067,
+            "tweet_count": 8868,
+            "listed_count": 17
+        },
+        "id": "802151690875076609",
+        "username": "ZaireKrieger",
+        "name": "Dea Ex Machina 🇸🇷"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 721,
+            "following_count": 260,
+            "tweet_count": 2109,
+            "listed_count": 19
+        },
+        "id": "385410686",
+        "username": "Stefan_de_J",
+        "name": "Stefan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 239,
+            "following_count": 325,
+            "tweet_count": 116,
+            "listed_count": 4
+        },
+        "id": "854335232971087872",
+        "username": "Sangita_BJ",
+        "name": "Sangita Bajulaiye"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 82,
+            "following_count": 30,
+            "tweet_count": 383,
+            "listed_count": 0
+        },
+        "id": "89713479",
+        "username": "TilburgUnix",
+        "name": "TilburgU LIS Unix"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 540,
+            "following_count": 532,
+            "tweet_count": 761,
+            "listed_count": 9
+        },
+        "id": "747421952",
+        "username": "VuurenDaniel",
+        "name": "Daniel van Vuuren"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 923,
+            "following_count": 1590,
+            "tweet_count": 7976,
+            "listed_count": 30
+        },
+        "id": "1340072852",
+        "username": "Marijeliesbeth1",
+        "name": "Marije van der Lee"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1249,
+            "following_count": 1374,
+            "tweet_count": 3257,
+            "listed_count": 15
+        },
+        "id": "2231859260",
+        "username": "Tomas_Frederic",
+        "name": "Frédéric Tomas"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 505,
+            "following_count": 466,
+            "tweet_count": 449,
+            "listed_count": 7
+        },
+        "id": "2179881955",
+        "username": "EeskevanRoekel",
+        "name": "Eeske van Roekel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 754,
+            "following_count": 201,
+            "tweet_count": 4715,
+            "listed_count": 0
+        },
+        "id": "821069492201684994",
+        "username": "JosMoonsSJ",
+        "name": "Jos Moons SJ"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 379,
+            "following_count": 98,
+            "tweet_count": 601,
+            "listed_count": 11
+        },
+        "id": "1086768462",
+        "username": "TilburgU_Pedel",
+        "name": "TilburgU_Pedel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "4709736506",
+        "username": "TilburgU_RS",
+        "name": "TilburgU_research"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 464,
+            "following_count": 1725,
+            "tweet_count": 636,
+            "listed_count": 2
+        },
+        "id": "904585998289567744",
+        "username": "BauwensRobin",
+        "name": "Robin Bauwens"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 380,
+            "following_count": 246,
+            "tweet_count": 1241,
+            "listed_count": 0
+        },
+        "id": "3019983743",
+        "username": "Jvargasleal",
+        "name": "Juliana Vargas Leal"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 617,
+            "tweet_count": 225,
+            "listed_count": 2
+        },
+        "id": "884902700",
+        "username": "mehmet_kosa",
+        "name": "Mehmet Kosa"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 221,
+            "following_count": 993,
+            "tweet_count": 271,
+            "listed_count": 1
+        },
+        "id": "1168585426656997376",
+        "username": "tjasa_pet",
+        "name": "Tjaša Petročnik"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 493,
+            "following_count": 816,
+            "tweet_count": 1914,
+            "listed_count": 46
+        },
+        "id": "2365538390",
+        "username": "SebastiaanPeek",
+        "name": "Sebastiaan Peek"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 298,
+            "following_count": 921,
+            "tweet_count": 344,
+            "listed_count": 9
+        },
+        "id": "4371143783",
+        "username": "lachlandeer",
+        "name": "Lachlan Deer"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 302,
+            "following_count": 374,
+            "tweet_count": 181,
+            "listed_count": 1
+        },
+        "id": "3252191259",
+        "username": "AyseGMermer",
+        "name": "Ayşe Gül Mermer"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 575,
+            "following_count": 1595,
+            "tweet_count": 15226,
+            "listed_count": 2
+        },
+        "id": "264191813",
+        "username": "bellanggi",
+        "name": "Abellia A Wardani"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 793,
+            "following_count": 903,
+            "tweet_count": 1647,
+            "listed_count": 29
+        },
+        "id": "20498209",
+        "username": "kweekcom",
+        "name": "Kweek Communicatie"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 492,
+            "following_count": 464,
+            "tweet_count": 343,
+            "listed_count": 6
+        },
+        "id": "970636702887837696",
+        "username": "JanCrusius",
+        "name": "Jan Crusius"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 364,
+            "following_count": 785,
+            "tweet_count": 1122,
+            "listed_count": 9
+        },
+        "id": "2574934160",
+        "username": "GertMeyers",
+        "name": "Gert Meyers"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 306,
+            "following_count": 385,
+            "tweet_count": 509,
+            "listed_count": 5
+        },
+        "id": "379358751",
+        "username": "_CZucca",
+        "name": "Claudia Zucca"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 511,
+            "following_count": 1101,
+            "tweet_count": 168,
+            "listed_count": 2
+        },
+        "id": "1858445570",
+        "username": "ScholzFrederike",
+        "name": "Frederike Scholz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 481,
+            "following_count": 444,
+            "tweet_count": 260,
+            "listed_count": 4
+        },
+        "id": "824194748252622848",
+        "username": "ChristofVanMol",
+        "name": "Christof Van Mol"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 634,
+            "following_count": 464,
+            "tweet_count": 1376,
+            "listed_count": 8
+        },
+        "id": "1077670555510288396",
+        "username": "Ricardo_Duque_",
+        "name": "Ricardo Duque Gabriel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 602,
+            "following_count": 688,
+            "tweet_count": 1020,
+            "listed_count": 26
+        },
+        "id": "2508558838",
+        "username": "patrick_kenis",
+        "name": "Patrick Kenis"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 444,
+            "following_count": 133,
+            "tweet_count": 336,
+            "listed_count": 0
+        },
+        "id": "1115210531479195649",
+        "username": "Kim_De_Roover",
+        "name": "Kim De Roover"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 475,
+            "following_count": 455,
+            "tweet_count": 309,
+            "listed_count": 14
+        },
+        "id": "936583957159796737",
+        "username": "benjamingrama",
+        "name": "Ben Grama"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 91,
+            "following_count": 94,
+            "tweet_count": 666,
+            "listed_count": 1
+        },
+        "id": "939393108",
+        "username": "chaplainnl",
+        "name": "TilburgU Chaplaincy"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 501,
+            "following_count": 310,
+            "tweet_count": 293,
+            "listed_count": 10
+        },
+        "id": "101262956",
+        "username": "SanderVerhaegh",
+        "name": "Sander Verhaegh"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 178,
+            "following_count": 242,
+            "tweet_count": 324,
+            "listed_count": 0
+        },
+        "id": "871901730",
+        "username": "TilburguOpendag",
+        "name": "Tilburg University"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 579,
+            "following_count": 704,
+            "tweet_count": 7597,
+            "listed_count": 24
+        },
+        "id": "70920485",
+        "username": "PaulaUvT",
+        "name": "Dr. Paula Mommersteeg"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 544,
+            "following_count": 805,
+            "tweet_count": 649,
+            "listed_count": 6
+        },
+        "id": "3171169985",
+        "username": "Stblancke",
+        "name": "Stefaan Blancke"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 539,
+            "following_count": 691,
+            "tweet_count": 370,
+            "listed_count": 6
+        },
+        "id": "1038920580395945984",
+        "username": "BrouwerHuub",
+        "name": "Huub Brouwer"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 325,
+            "following_count": 620,
+            "tweet_count": 425,
+            "listed_count": 5
+        },
+        "id": "1651041572",
+        "username": "thiagocasfer",
+        "name": "Thiago Castro Ferreira 🇧🇷"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 418,
+            "following_count": 869,
+            "tweet_count": 179,
+            "listed_count": 11
+        },
+        "id": "1111305762943455234",
+        "username": "robocarmen",
+        "name": "Carmen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 315,
+            "following_count": 613,
+            "tweet_count": 354,
+            "listed_count": 5
+        },
+        "id": "901440815746215942",
+        "username": "esthermaassen",
+        "name": "Esther Maassen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 194,
+            "following_count": 382,
+            "tweet_count": 75,
+            "listed_count": 1
+        },
+        "id": "4010554823",
+        "username": "HriscuAna",
+        "name": "ana hriscu"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 598,
+            "following_count": 738,
+            "tweet_count": 2159,
+            "listed_count": 20
+        },
+        "id": "21745657",
+        "username": "marknorman",
+        "name": "Mark Norman"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 177,
+            "following_count": 523,
+            "tweet_count": 398,
+            "listed_count": 0
+        },
+        "id": "1049285654063075334",
+        "username": "OumaimaHaj_",
+        "name": "Oumaima"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 992,
+            "following_count": 513,
+            "tweet_count": 1899,
+            "listed_count": 12
+        },
+        "id": "3033251831",
+        "username": "bruno_nicenboim",
+        "name": "Bruno Nicenboim"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 646,
+            "following_count": 604,
+            "tweet_count": 571,
+            "listed_count": 5
+        },
+        "id": "1038132758877560832",
+        "username": "raklein3",
+        "name": "Rick Klein"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 455,
+            "following_count": 598,
+            "tweet_count": 389,
+            "listed_count": 2
+        },
+        "id": "4654667776",
+        "username": "BorisLeeuwen",
+        "name": "Boris van Leeuwen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 441,
+            "following_count": 1042,
+            "tweet_count": 717,
+            "listed_count": 2
+        },
+        "id": "1055572604680093697",
+        "username": "vandermeer_rm",
+        "name": "Martijn van der Meer"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 481,
+            "following_count": 851,
+            "tweet_count": 919,
+            "listed_count": 9
+        },
+        "id": "752149753425788928",
+        "username": "carlogarofal0",
+        "name": "Carlo Garofalo"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 495,
+            "following_count": 421,
+            "tweet_count": 498,
+            "listed_count": 32
+        },
+        "id": "20249298",
+        "username": "amirmasoudabdol",
+        "name": "Amir"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 377,
+            "following_count": 347,
+            "tweet_count": 603,
+            "listed_count": 4
+        },
+        "id": "1052917084202692608",
+        "username": "ShuaiChenEcon",
+        "name": "Shuai CHEN 陈帅 陳帥"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1147,
+            "following_count": 176,
+            "tweet_count": 1667,
+            "listed_count": 12
+        },
+        "id": "151440931",
+        "username": "willemsleegers",
+        "name": "Willem Sleegers"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 759,
+            "following_count": 764,
+            "tweet_count": 762,
+            "listed_count": 11
+        },
+        "id": "3117708497",
+        "username": "g_catolino",
+        "name": "Gemma Catolino"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 274,
+            "following_count": 101,
+            "tweet_count": 699,
+            "listed_count": 6
+        },
+        "id": "211076747",
+        "username": "TilburgU_REM",
+        "name": "TilburgU_REM"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 243,
+            "following_count": 126,
+            "tweet_count": 529,
+            "listed_count": 19
+        },
+        "id": "404741748",
+        "username": "TEDxTilburgU",
+        "name": "TEDx TilburgU"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 434,
+            "following_count": 427,
+            "tweet_count": 800,
+            "listed_count": 4
+        },
+        "id": "1091589077034549248",
+        "username": "SaschaSchendel",
+        "name": "Sascha van Schendel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 651,
+            "following_count": 717,
+            "tweet_count": 959,
+            "listed_count": 12
+        },
+        "id": "541530555",
+        "username": "DanielaHeerdt",
+        "name": "Daniela Heerdt"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 301,
+            "following_count": 391,
+            "tweet_count": 795,
+            "listed_count": 14
+        },
+        "id": "1858210272",
+        "username": "BrianosaurRex",
+        "name": "Brian Fabo"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 385,
+            "following_count": 663,
+            "tweet_count": 3833,
+            "listed_count": 40
+        },
+        "id": "20371632",
+        "username": "GAHK",
+        "name": "George Knox"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 725,
+            "following_count": 911,
+            "tweet_count": 2934,
+            "listed_count": 7
+        },
+        "id": "95984453",
+        "username": "ZainChaudhry",
+        "name": "Zain Chaudhry"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1016,
+            "following_count": 362,
+            "tweet_count": 6362,
+            "listed_count": 43
+        },
+        "id": "10639742",
+        "username": "tomvanhout",
+        "name": "Tom Van Hout"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 611,
+            "following_count": 1058,
+            "tweet_count": 802,
+            "listed_count": 10
+        },
+        "id": "885222665665081345",
+        "username": "NunaZekic",
+        "name": "Nuna Zekić"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 668,
+            "following_count": 394,
+            "tweet_count": 777,
+            "listed_count": 33
+        },
+        "id": "33265709",
+        "username": "shleyMetz",
+        "name": "Ashley Metz"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1135,
+            "following_count": 1288,
+            "tweet_count": 1681,
+            "listed_count": 7
+        },
+        "id": "1148530742722531328",
+        "username": "EAydogdu94",
+        "name": "Ertunc Aydogdu"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1013,
+            "following_count": 886,
+            "tweet_count": 738,
+            "listed_count": 10
+        },
+        "id": "1537533121",
+        "username": "ana_c_moura",
+        "name": "Ana Moura"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 878,
+            "following_count": 1577,
+            "tweet_count": 13229,
+            "listed_count": 182
+        },
+        "id": "1054825998",
+        "username": "LolaSciubba",
+        "name": "Dr. Eleonora Sciubba is still wearing a mask"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 399,
+            "following_count": 440,
+            "tweet_count": 256,
+            "listed_count": 0
+        },
+        "id": "1022776939671633920",
+        "username": "mavscheppingen",
+        "name": "Manon A. van Scheppingen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 864,
+            "following_count": 373,
+            "tweet_count": 4708,
+            "listed_count": 87
+        },
+        "id": "1198777788",
+        "username": "shazjameson",
+        "name": "Shaz Jameson"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1188,
+            "following_count": 1277,
+            "tweet_count": 2417,
+            "listed_count": 43
+        },
+        "id": "207425688",
+        "username": "Lottewilms",
+        "name": "Lotte Wilms (she/her)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 665,
+            "following_count": 569,
+            "tweet_count": 1980,
+            "listed_count": 24
+        },
+        "id": "251145696",
+        "username": "AlexTheloudis",
+        "name": "Alexander Theloudis"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 200,
+            "following_count": 173,
+            "tweet_count": 301,
+            "listed_count": 8
+        },
+        "id": "1270049160",
+        "username": "TilburgU_Junior",
+        "name": "TilburgU Junior"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 749,
+            "following_count": 192,
+            "tweet_count": 382,
+            "listed_count": 11
+        },
+        "id": "838935078",
+        "username": "vanderwindt",
+        "name": "Peter van der Windt"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1532,
+            "following_count": 190,
+            "tweet_count": 991,
+            "listed_count": 0
+        },
+        "id": "3468312675",
+        "username": "JanKabatek",
+        "name": "Jan Kabátek"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4957,
+            "following_count": 899,
+            "tweet_count": 73,
+            "listed_count": 148
+        },
+        "id": "622784277",
+        "username": "gchrupala",
+        "name": "Grzegorz Chrupała 🇪🇺"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1415,
+            "following_count": 983,
+            "tweet_count": 2350,
+            "listed_count": 67
+        },
+        "id": "2497300458",
+        "username": "kamara_irene",
+        "name": "Irene Kamara"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1439,
+            "following_count": 705,
+            "tweet_count": 1374,
+            "listed_count": 35
+        },
+        "id": "1860243234",
+        "username": "Nadya_Purtova",
+        "name": "Nadya Purtova"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4888,
+            "following_count": 997,
+            "tweet_count": 3586,
+            "listed_count": 138
+        },
+        "id": "109507118",
+        "username": "stanveuger",
+        "name": "Stan Veuger"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2726,
+            "following_count": 822,
+            "tweet_count": 636,
+            "listed_count": 189
+        },
+        "id": "26370519",
+        "username": "PernotLeplay",
+        "name": "Emmanuel Pernot-Leplay"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 711,
+            "following_count": 565,
+            "tweet_count": 167,
+            "listed_count": 3
+        },
+        "id": "1087703282343133184",
+        "username": "HajarYagkoubi",
+        "name": "Hajar Yagkoubi"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1259,
+            "following_count": 1458,
+            "tweet_count": 321,
+            "listed_count": 16
+        },
+        "id": "770315986155212800",
+        "username": "nora_wait",
+        "name": "Nora Waitkus"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1791,
+            "following_count": 1298,
+            "tweet_count": 5249,
+            "listed_count": 45
+        },
+        "id": "1264753303",
+        "username": "julianisland",
+        "name": "Julian Hanna"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1276,
+            "following_count": 894,
+            "tweet_count": 587,
+            "listed_count": 10
+        },
+        "id": "1056155136047923201",
+        "username": "MariePetersmann",
+        "name": "Marie Petersmann"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5445,
+            "following_count": 3530,
+            "tweet_count": 10455,
+            "listed_count": 136
+        },
+        "id": "725455076",
+        "username": "visual_linguist",
+        "name": "Neil Cohn PhD"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39594,
+            "following_count": 804,
+            "tweet_count": 3980,
+            "listed_count": 187
+        },
+        "id": "1475571222",
+        "username": "Jackie_10_",
+        "name": "Jackie Groenen"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2782,
+            "following_count": 1532,
+            "tweet_count": 10494,
+            "listed_count": 91
+        },
+        "id": "23045894",
+        "username": "rosamunde_vb",
+        "name": "Rosamunde van Brakel"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1507,
+            "following_count": 886,
+            "tweet_count": 2760,
+            "listed_count": 72
+        },
+        "id": "127820351",
+        "username": "JusTechne",
+        "name": "Nicolo Zingales"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4241,
+            "following_count": 325,
+            "tweet_count": 2618,
+            "listed_count": 123
+        },
+        "id": "191413731",
+        "username": "wvdaalst",
+        "name": "Wil van der Aalst"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2227,
+            "following_count": 807,
+            "tweet_count": 3145,
+            "listed_count": 11
+        },
+        "id": "4029700937",
+        "username": "DSchindlerEcon",
+        "name": "David Schindler"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 78468,
+            "following_count": 672,
+            "tweet_count": 3078,
+            "listed_count": 249
+        },
+        "id": "3298497218",
+        "username": "AmmarMaleki",
+        "name": "Ammar Maleki-عمار ملکی"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 829,
+            "following_count": 641,
+            "tweet_count": 1578,
+            "listed_count": 4
+        },
+        "id": "718183887",
+        "username": "LeonieReins",
+        "name": "LeonieReins"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3040,
+            "following_count": 799,
+            "tweet_count": 1894,
+            "listed_count": 68
+        },
+        "id": "50668311",
+        "username": "tilburgresearch",
+        "name": "TilburgU Research"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 198,
+            "following_count": 153,
+            "tweet_count": 311,
+            "listed_count": 2
+        },
+        "id": "1690260314",
+        "username": "TilburgU_CoRPS",
+        "name": "CoRPS"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 419,
+            "following_count": 151,
+            "tweet_count": 119,
+            "listed_count": 19
+        },
+        "id": "1067393413115457537",
+        "username": "OpenTilburg",
+        "name": "Open Science Community Tilburg"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 799,
+            "following_count": 90,
+            "tweet_count": 278,
+            "listed_count": 2
+        },
+        "id": "1042691168977543168",
+        "username": "TiUEconomics",
+        "name": "TilburgEconomics"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 388,
+            "following_count": 358,
+            "tweet_count": 720,
+            "listed_count": 4
+        },
+        "id": "2243830208",
+        "username": "TilburgU_LIS_RS",
+        "name": "LIS Research Support - Tilburg University"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 293,
+            "following_count": 266,
+            "tweet_count": 316,
+            "listed_count": 5
+        },
+        "id": "1192533901",
+        "username": "TilburgU_DevPsy",
+        "name": "TilburgU_DevPsy"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1441,
+            "following_count": 1420,
+            "tweet_count": 927,
+            "listed_count": 31
+        },
+        "id": "50672486",
+        "username": "TilburgU_Alumni",
+        "name": "TilburgU_Alumni"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 582,
+            "following_count": 92,
+            "tweet_count": 877,
+            "listed_count": 12
+        },
+        "id": "1971820440",
+        "username": "OrgStudies_TiU",
+        "name": "Organization Studies @Tilburg Uni"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 389,
+            "following_count": 234,
+            "tweet_count": 432,
+            "listed_count": 2
+        },
+        "id": "845552499155243008",
+        "username": "TilburgU_TESC",
+        "name": "TESC"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 533,
+            "following_count": 8,
+            "tweet_count": 545,
+            "listed_count": 27
+        },
+        "id": "3367293933",
+        "username": "DataScienceTiU",
+        "name": "Data Science Tilburg"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 282,
+            "following_count": 48,
+            "tweet_count": 494,
+            "listed_count": 7
+        },
+        "id": "3410398888",
+        "username": "TIG_Tilburg",
+        "name": "TIG"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1645,
+            "following_count": 284,
+            "tweet_count": 2345,
+            "listed_count": 35
+        },
+        "id": "239732373",
+        "username": "TilburgLaw",
+        "name": "Tilburg Law School"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2064,
+            "following_count": 176,
+            "tweet_count": 816,
+            "listed_count": 37
+        },
+        "id": "4927796391",
+        "username": "TilburgU_TILT",
+        "name": "TilburgU_TILT"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13842,
+            "following_count": 118,
+            "tweet_count": 4418,
+            "listed_count": 298
+        },
+        "id": "50655273",
+        "username": "TilburgU",
+        "name": "Tilburg University"
+    }
+]

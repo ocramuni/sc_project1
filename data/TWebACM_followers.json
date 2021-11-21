@@ -1,0 +1,1686 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 114,
+            "following_count": 644,
+            "tweet_count": 161,
+            "listed_count": 2
+        },
+        "id": "1721425735",
+        "location": "Bonn, Germany",
+        "protected": false,
+        "name": "Md Shajalal",
+        "description": "Marie Curie Early Stage Researcher @Farunhofer_FIT | PhD Fellow @UniSiegen\nhttps://t.co/APRileau2c in Computer Science @TUT, Japan.\nWorking on XAI, IR, NLP & RecSys",
+        "username": "shajalalhossain"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 49,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "id": "1422485025438638087",
+        "protected": false,
+        "name": "ASIS&T SIG AI",
+        "description": "ASIS&T SIG AI provides a forum for discussion about research, development, and use of artificial intelligence in information science and technology.",
+        "username": "ASIST_SigAI"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1215,
+            "following_count": 2805,
+            "tweet_count": 4152,
+            "listed_count": 19
+        },
+        "id": "54875928",
+        "location": "Glasgow",
+        "protected": false,
+        "name": "Martin Halvey",
+        "description": "Reader (Associate Professor) Computer and Info Sciences at University of Strathclyde, Irish guy, will watch any competitive sports. Views my own etc.",
+        "username": "martinhalvey"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 15,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1453671211997798403",
+        "protected": false,
+        "name": "LeQua2022",
+        "description": "LeQua2022 is the 1st edition of the CLEF “Learning to Quantify” lab, a machine learning competition on Quantification for Text.",
+        "username": "LeQua2022"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 264,
+            "following_count": 320,
+            "tweet_count": 129,
+            "listed_count": 4
+        },
+        "id": "90109488",
+        "location": "Beijing",
+        "protected": false,
+        "name": "Jiaxin Mao",
+        "description": "Asst. Prof. at GSAI of Renmin University of China",
+        "username": "maojiaxin"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 320,
+            "following_count": 393,
+            "tweet_count": 316,
+            "listed_count": 4
+        },
+        "id": "3061660476",
+        "location": "Glasgow, Scotland",
+        "protected": false,
+        "name": "Xi Wang",
+        "description": "PhD candidate@TerrierTeam, University of Glasgow. Research interests: Text Mining, Information Retrieval, Recommendation.",
+        "username": "wangxieric"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 493,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1251034648492138498",
+        "location": "Chittagong, Bangladesh",
+        "protected": true,
+        "name": "Tashin Hossain",
+        "description": "CSE undergrad, University of Chittagong",
+        "username": "tashin_cu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 257,
+            "following_count": 412,
+            "tweet_count": 119,
+            "listed_count": 1
+        },
+        "id": "713164296604090368",
+        "location": "Norman, OK",
+        "protected": false,
+        "name": "Jiqun Liu, PhD",
+        "description": "Assistant Professor @UofOklahoma: bounded rationality; bias-aware interactive system; computational economics. Previously: @RutgersU. RT ≠ endorsement",
+        "username": "JiqunL"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 328,
+            "following_count": 931,
+            "tweet_count": 198,
+            "listed_count": 3
+        },
+        "id": "975115762712096768",
+        "location": "Iran",
+        "protected": false,
+        "name": "Hossein A. (Saeed) Rahmani",
+        "description": "Visiting Researcher at WI (@ucl_wi_group). Data Scientist at SanayCo. Interested in RecSyS, IR, and ML",
+        "username": "srahmanidashti"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 118,
+            "tweet_count": 33,
+            "listed_count": 0
+        },
+        "id": "1166182988071211009",
+        "protected": true,
+        "name": "Aida Sheshbolouki",
+        "description": "https://t.co/8sqMKBpjwb",
+        "username": "iSheshbolouki"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1686,
+            "following_count": 418,
+            "tweet_count": 961,
+            "listed_count": 76
+        },
+        "id": "129746032",
+        "protected": false,
+        "name": "Anastasia Dimou",
+        "description": "tenure-track assistant professor @DTAI_KULeuven @CW_KULeuven @KU_Leuven\nassociated partner @IDLabResearch @ugent\nSemantic Web, Knowledge Graphs & AI",
+        "username": "natadimou"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 293,
+            "following_count": 550,
+            "tweet_count": 24,
+            "listed_count": 2
+        },
+        "id": "1268018841977671680",
+        "location": "Beijing",
+        "protected": false,
+        "name": "Libo Qin",
+        "description": "Ph.D. Candidate @ HIT. Research Intern @Microsoft Research Asia. Remote Visiting Student @wing_nus. Previously Visiting Student @WestlakeNLP",
+        "username": "yizhen_NLP"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 197,
+            "following_count": 362,
+            "tweet_count": 671,
+            "listed_count": 7
+        },
+        "id": "71167669",
+        "location": "Melbourne, Australia",
+        "protected": false,
+        "name": "Ruey-Cheng Chen",
+        "description": "Computer Scientist, Theoretician, NLP/IR Junkie. Bored. Will work for beers.",
+        "username": "rueycheng"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 385,
+            "following_count": 278,
+            "tweet_count": 458,
+            "listed_count": 11
+        },
+        "id": "153327232",
+        "location": "Pisa",
+        "protected": false,
+        "name": "Nicola Tonellotto",
+        "description": "IR Researcher",
+        "username": "ntonellotto"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 122,
+            "following_count": 698,
+            "tweet_count": 108,
+            "listed_count": 2
+        },
+        "id": "1237788674168774656",
+        "location": "United States",
+        "protected": false,
+        "name": "Chris Samarinas",
+        "description": "CS PhD at CIIR @umasscs. Research in #ML, #NLProc, IR, aiming to improve the way we discover information.",
+        "username": "CSamarinas"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 153,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1440919645771337728",
+        "location": "Dinajpur, Bangladesh.",
+        "protected": false,
+        "name": "Mst. Maksuda",
+        "description": "Student(CSE) of Hajee Mohammad Danesh Science & Technology University.",
+        "username": "MaksudaBilkis"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 462,
+            "following_count": 2973,
+            "tweet_count": 7459,
+            "listed_count": 6
+        },
+        "id": "109432452",
+        "location": "SEA",
+        "protected": false,
+        "name": "Hannah Jade NO JUSTICE NO PEACE",
+        "description": "Aspiring. SJW. Blasian🐼. adhd persistent & learning ❤ research & data. pan koptrash/she/her. Trying to build. Helper sub #AccessIsLove. Global Political Econ",
+        "username": "HannahsJade"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 496,
+            "tweet_count": 62,
+            "listed_count": 0
+        },
+        "id": "1227657491128946694",
+        "protected": false,
+        "name": "Khushnood Abbas",
+        "description": "I am a researcher interested in network science. Currently working on Deep learning on graphs.",
+        "username": "khushnood_abbas"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 90,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "id": "3513576552",
+        "protected": false,
+        "name": "DimaG",
+        "description": "",
+        "username": "DimGold1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 288,
+            "following_count": 263,
+            "tweet_count": 154,
+            "listed_count": 2
+        },
+        "id": "3988959013",
+        "protected": false,
+        "name": "Pengjie Ren",
+        "description": "Professor at Shandong University working on NLP and IR.",
+        "username": "jayren3"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 804,
+            "following_count": 561,
+            "tweet_count": 259,
+            "listed_count": 9
+        },
+        "id": "255590123",
+        "location": "USA",
+        "protected": false,
+        "name": "Jiliang Tang",
+        "description": "Associate Professor at MSU. Author of the Deep Learning on Graphs book (https://t.co/1JyC3kmNph…). SIGKDD Rising Star Award 2020 and PC Chair of WSDM2022",
+        "username": "tangjiliang"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 158,
+            "tweet_count": 107,
+            "listed_count": 0
+        },
+        "id": "1017826393676185600",
+        "location": "Washington, DC",
+        "protected": false,
+        "name": "Eugene Yang",
+        "description": "Postdoc at HLTCOE@JHU, CS PhD, originally from Taiwan",
+        "username": "EYangTW"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 48,
+            "following_count": 301,
+            "tweet_count": 302,
+            "listed_count": 1
+        },
+        "id": "2399958332",
+        "protected": false,
+        "name": "Soumya Sarkar",
+        "description": "",
+        "username": "its_Soumya_"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 495,
+            "tweet_count": 29,
+            "listed_count": 1
+        },
+        "id": "1422627607611199488",
+        "location": "NIT Silchar, India",
+        "protected": false,
+        "name": "ICON 2021",
+        "description": "The official account of ICON 2021 NLP Conference organized by NLP Association India and CNLP, Dept. of CSE at NIT Silchar, India #icon2021nlp",
+        "username": "icon2021nlp"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1154,
+            "following_count": 683,
+            "tweet_count": 959,
+            "listed_count": 27
+        },
+        "id": "2878552400",
+        "location": "New Delhi, India",
+        "protected": false,
+        "name": "Tanmoy Chakraborty",
+        "description": "Asst. Prof., & Ramanujan Fellow @IIITDelhi; Lab @lcs2iiitd; Alumni @UofMaryland @iitkgp Project Director @AnubhutiIhub #NetworkScience #NLP #SocialComputing",
+        "username": "Tanmoy_Chak"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 442,
+            "following_count": 415,
+            "tweet_count": 128,
+            "listed_count": 6
+        },
+        "id": "200466843",
+        "location": "Piscataway, NJ",
+        "protected": false,
+        "name": "Yongfeng Zhang",
+        "description": "Assistant Professor in Computer Science at Rutgers University",
+        "username": "yongfengzhang9"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 426,
+            "following_count": 80,
+            "tweet_count": 84,
+            "listed_count": 9
+        },
+        "id": "126132953",
+        "location": "Palo Alto, CA, USA",
+        "protected": false,
+        "name": "Marc Najork",
+        "description": "Research Engineering Director at Google",
+        "username": "marc_najork"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 311,
+            "following_count": 848,
+            "tweet_count": 1917,
+            "listed_count": 75
+        },
+        "id": "406303880",
+        "location": "Toulouse, France",
+        "protected": false,
+        "name": "Md Zia Ullah",
+        "description": "Postdoc at IRIT, CNRS. Research interests Information retrieval.",
+        "username": "zuacsea"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 284,
+            "following_count": 583,
+            "tweet_count": 99,
+            "listed_count": 1
+        },
+        "id": "272376633",
+        "location": "Massachusetts, USA",
+        "protected": false,
+        "name": "Hamed Bonab",
+        "description": "Interning at Amazon Science & PhD Candidate, Center for Intelligent Information Retrieval (CIIR) Interested in IR, NLP, and ML, UMass CICS @umasscs",
+        "username": "hamedrab"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 106,
+            "tweet_count": 84,
+            "listed_count": 4
+        },
+        "id": "852083180182147072",
+        "location": "London, England",
+        "protected": false,
+        "name": "Shuo Zhang",
+        "description": "Research Scientist at Bloomberg. Working with table search, generation and augmentation. Opinions are my own.",
+        "username": "imsure318"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1275,
+            "following_count": 229,
+            "tweet_count": 200,
+            "listed_count": 18
+        },
+        "id": "35404512",
+        "location": "Beijing",
+        "protected": false,
+        "name": "Zhiyuan  Liu",
+        "description": "Associate Professor @TsinghuaNLP. Research interests include NLP, KG and social computation.",
+        "username": "zibuyu9"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 188,
+            "following_count": 645,
+            "tweet_count": 99,
+            "listed_count": 2
+        },
+        "id": "220124272",
+        "location": "Amsterdam, The Netherlands",
+        "protected": false,
+        "name": "Antonios Minas Krasakis",
+        "description": "PhD candidate @irlab_amsterdam (University of Amsterdam), working on Conversational search",
+        "username": "tonylittlewine"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 418,
+            "following_count": 201,
+            "tweet_count": 453,
+            "listed_count": 7
+        },
+        "id": "1049826110",
+        "location": "Homburg, Deutschland",
+        "protected": false,
+        "name": "Rishiraj Saha Roy",
+        "description": "Senior Researcher, Max Planck Institute for Informatics at Saarbruecken, Germany. Question Answering. Information Retrieval. Explainable Systems.",
+        "username": "RishirajSahaRoy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 374,
+            "following_count": 459,
+            "tweet_count": 77,
+            "listed_count": 8
+        },
+        "id": "827392886",
+        "location": "San Francisco, CA",
+        "protected": false,
+        "name": "Jinfeng Rao",
+        "description": "TLM, Researcher at Google Assistant, work on NLG. PhD from @umdcs in IR & NLP.",
+        "username": "Jeffy_Sailing"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 173,
+            "following_count": 281,
+            "tweet_count": 79,
+            "listed_count": 1
+        },
+        "id": "921029370264850432",
+        "location": "Cambridge, England",
+        "protected": false,
+        "name": "Zaiqiao Meng",
+        "description": "Specialized in NLP, IR, Graph Mining and Recommender Systems.",
+        "username": "mengzaiqiao"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 248,
+            "following_count": 809,
+            "tweet_count": 261,
+            "listed_count": 2
+        },
+        "id": "1182908622113660929",
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "name": "Hang Li",
+        "description": "CS/IR PhD Candidate @IELabGroup The University of Queensland 🇦🇺. @UMNComputerSci 🇺🇸 alumni. Information Retrieval. Find me at https://t.co/WRT9MS2sbY",
+        "username": "hanglics"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 499,
+            "following_count": 489,
+            "tweet_count": 500,
+            "listed_count": 12
+        },
+        "id": "92071137",
+        "protected": false,
+        "name": "Martin Potthast",
+        "description": "Juniorprofessor for Text Mining and Retrieval @unileipzig",
+        "username": "martinpotthast"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 43,
+            "following_count": 226,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "id": "1170743792",
+        "location": "Lehigh University",
+        "protected": false,
+        "name": "Zhiyu Chen",
+        "description": "IR; NLP;",
+        "username": "colozoy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 79,
+            "following_count": 132,
+            "tweet_count": 81,
+            "listed_count": 1
+        },
+        "id": "3435222029",
+        "location": "Rochester, NY",
+        "protected": false,
+        "name": "Behrooz Mansouri",
+        "description": "PhD student in Computer Science working on Math Information Retrieval.",
+        "username": "behrouzmansoury"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5939,
+            "following_count": 1010,
+            "tweet_count": 1044,
+            "listed_count": 110
+        },
+        "id": "237918251",
+        "location": "Atlanta, GA",
+        "protected": false,
+        "name": "Wei Xu",
+        "description": "Assistant Professor in CS @GeorgiaTech @ICatGT @mlatgt. Natural language processing, machine learning, social media research.",
+        "username": "cocoweixu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 521,
+            "following_count": 367,
+            "tweet_count": 1185,
+            "listed_count": 20
+        },
+        "id": "327122348",
+        "location": "Singapore",
+        "protected": false,
+        "name": "Aixin Sun",
+        "description": "Do a bit of research in text mining, information retrieval, and a bit in recommender systems.",
+        "username": "AixinSG"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 116,
+            "following_count": 632,
+            "tweet_count": 16,
+            "listed_count": 1
+        },
+        "id": "812055605510803456",
+        "location": "Maryland, USA",
+        "protected": false,
+        "name": "Suraj Nair",
+        "description": "Computer Science PhD student at @umdcs. Interested in cross-language IR and NLP",
+        "username": "srnair04"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 928,
+            "following_count": 1003,
+            "tweet_count": 206,
+            "listed_count": 6
+        },
+        "id": "2555855011",
+        "location": "Boston, MA",
+        "protected": false,
+        "name": "Huaizu Jiang",
+        "description": "Assistant Professor at Northeastern University.  Previously Postdoc at Caltech and Visiting Researcher at NVIDIA. PhD from UMass Amherst.",
+        "username": "HuaizuJiang"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 342,
+            "following_count": 1025,
+            "tweet_count": 48,
+            "listed_count": 5
+        },
+        "id": "718777726291853313",
+        "location": "Rochester, NY, USA",
+        "protected": false,
+        "name": "CAIR Lab at RIT",
+        "description": "CAIR is the Center for Accessibility and Inclusion Research at RIT. Faculty and students conduct accessibility and assistive technology research.",
+        "username": "CAIRLab_RIT"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 379,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1251044618835070976",
+        "protected": false,
+        "name": "Jannatun Naim Piyal",
+        "description": "Undergraduate student at University of Chittagong || Machine learning & Data Science Enthusiast\nLinkedIn: https://t.co/KFqrnHyjhW",
+        "username": "Jannatu84152263"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 285,
+            "tweet_count": 132,
+            "listed_count": 4
+        },
+        "id": "114146587",
+        "location": "Toulouse",
+        "protected": false,
+        "name": "Moh Boughanem",
+        "description": "",
+        "username": "MohBoughanem"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 246,
+            "following_count": 292,
+            "tweet_count": 102,
+            "listed_count": 14
+        },
+        "id": "41098784",
+        "protected": false,
+        "name": "Debora Donato",
+        "description": "@Mix",
+        "username": "donadeb"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 13,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1432770136436576260",
+        "protected": false,
+        "name": "Osmany Ruiz Leyva",
+        "description": "",
+        "username": "OsmanyRuizLeyv1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 563,
+            "following_count": 180,
+            "tweet_count": 672,
+            "listed_count": 5
+        },
+        "id": "1288854529459597317",
+        "location": "Madison, Wisconsin",
+        "protected": false,
+        "name": "UW Madison-Computer, Data & Information Sciences",
+        "description": "Bringing together the departments of Computer Sciences, Statistics, and the Information School to serve the computing, data and information needs of society.",
+        "username": "uwcdis"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 685,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1416803441154748421",
+        "location": "Chittagong, Bangladesh",
+        "protected": false,
+        "name": "Atanu Kumar Dey",
+        "description": "Undergrad Student at the University of Chittagong. Interested in AI, Machine-learning, Embedded Systems.",
+        "username": "AtanuKumarDey7"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 237,
+            "tweet_count": 49,
+            "listed_count": 0
+        },
+        "id": "3143131951",
+        "location": "Glasgow, Scotland",
+        "protected": false,
+        "name": "JiaxinZhang",
+        "description": "CS PhD student in University of Strathclyde. Master degree from University of Sheffield. Make the world better place.",
+        "username": "KnightZhang625"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 776,
+            "tweet_count": 122,
+            "listed_count": 2
+        },
+        "id": "335038158",
+        "location": "Berlin, Germany",
+        "protected": false,
+        "name": "Kai Hui",
+        "description": "Software Engineer at Google AI working on deep models for NLP and IR.",
+        "username": "kaihuibj"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 476,
+            "tweet_count": 195,
+            "listed_count": 1
+        },
+        "id": "72102865",
+        "location": "IIT Kharagpur, India",
+        "protected": false,
+        "name": "Rajdeep Mukherjee",
+        "description": "Ph.D. Candidate, @cnerg, Dept. of CSE, IIT Kharagpur. Working at the intersection of #NLProc and Information Retrieval",
+        "username": "rajdeep345"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 622,
+            "tweet_count": 152,
+            "listed_count": 6
+        },
+        "id": "2409117643",
+        "location": "Minneapolis, USA",
+        "protected": false,
+        "name": "Debarati Das",
+        "description": "PhD Student @UMNComputerSci. \nEvent Coordinator @cscigrads.\nNLP | Computational Advertising | Social Networks.\nGrad student by day, Noob Chef by night. 💁",
+        "username": "geekylildeb"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 2024,
+            "tweet_count": 174,
+            "listed_count": 0
+        },
+        "id": "2609217150",
+        "protected": true,
+        "name": "kate mahes",
+        "description": "",
+        "username": "katemahes"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 271,
+            "following_count": 520,
+            "tweet_count": 216,
+            "listed_count": 5
+        },
+        "id": "906922846412267521",
+        "location": "Leipzig, Germany",
+        "protected": false,
+        "name": "alexander bondarenko",
+        "description": "PhD student: NLProc, IR, Argumentation @UniHalle @webis_de",
+        "username": "albondarenko2"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 762,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "2289023460",
+        "location": "Chittagong, Bangladesh",
+        "protected": false,
+        "name": "Abu Nowshed Chy",
+        "description": "Assistant Professor in CSE @UChittagong. PhD from @Toyohashi_Tech. Research Interests: Multimodal Information Retrieval, Opinion Mining, and NLP in IR.",
+        "username": "nowshed_bd"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1626,
+            "following_count": 755,
+            "tweet_count": 971,
+            "listed_count": 82
+        },
+        "id": "146195370",
+        "location": "London, England",
+        "protected": false,
+        "name": "Edgar Meij",
+        "description": "Head of Bloomberg AI Discovery. Semantic search, information retrieval, question answering, NLP, machine learning, and knowledge graphs. Views are mine.",
+        "username": "edgarmeij"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 30,
+            "following_count": 63,
+            "tweet_count": 37,
+            "listed_count": 0
+        },
+        "id": "361971478",
+        "protected": false,
+        "name": "Saad Aloteibi",
+        "description": "Information Retrieval & Machine learning.",
+        "username": "SAloteibi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 678,
+            "following_count": 776,
+            "tweet_count": 285,
+            "listed_count": 19
+        },
+        "id": "217377296",
+        "location": "Halle (Saale), Germany",
+        "protected": false,
+        "name": "Matthias Hagen",
+        "description": "Professor \"Big Data Analytics\", Martin-Luther-Universität Halle-Wittenberg",
+        "username": "matthias_hagen"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 891,
+            "following_count": 623,
+            "tweet_count": 1377,
+            "listed_count": 44
+        },
+        "id": "91697719",
+        "location": "Sheffield",
+        "protected": false,
+        "name": "Frank T. Hopfgartner",
+        "description": "Senior Lecturer in Data Science and Head of the IR Group at @SheffieldUni, working on Information Retrieval, #RecSys, and Quantified Self.",
+        "username": "FTHopf"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10150,
+            "following_count": 3461,
+            "tweet_count": 10390,
+            "listed_count": 395
+        },
+        "id": "9271782",
+        "location": "California",
+        "protected": false,
+        "name": "Ed H. Chi",
+        "description": "Distinguished Scientist at Google Brain & Research Lead for Neural Recommender, Reinforcement Learning, RobustML. *Opinions my own*.",
+        "username": "edchi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 270,
+            "tweet_count": 126,
+            "listed_count": 4
+        },
+        "id": "1158317142447706112",
+        "location": "Copenhagen, Denmark",
+        "protected": false,
+        "name": "Stephanie Brandl",
+        "description": "Post-Doctoral researcher in Fairness and Interpretability in NLP @coastalcph. Previous PhD student in Machine Leaning and NLP @TUBerlin. she/her",
+        "username": "StephanieBrandl"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 246,
+            "following_count": 260,
+            "tweet_count": 12,
+            "listed_count": 3
+        },
+        "id": "1369990207714508800",
+        "protected": false,
+        "name": "The Information Retrieval Anthology",
+        "description": "The IR Anthology is a search and browsing tool for the collected publications on information retrieval.",
+        "username": "IRanthology"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8751,
+            "following_count": 5254,
+            "tweet_count": 19054,
+            "listed_count": 204
+        },
+        "id": "804775",
+        "location": "iPhone: 9.552756,100.069801",
+        "protected": false,
+        "name": "Dr. James Landay",
+        "description": "Professor of Computer Science, Stanford - HCI & Design. Personal opinions, not Stanford's, appear here.",
+        "username": "landay"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2345,
+            "following_count": 115,
+            "tweet_count": 709,
+            "listed_count": 76
+        },
+        "id": "3107101390",
+        "location": "U.S.",
+        "protected": false,
+        "name": "WSDM 2022 Conference",
+        "description": "The official feed from the ACM WSDM 2022 conference #WSDM2022 -- https://t.co/SGoH0UTZ31",
+        "username": "WSDMSocial"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 438,
+            "following_count": 356,
+            "tweet_count": 16,
+            "listed_count": 8
+        },
+        "id": "396680992",
+        "location": "Madison, WI",
+        "protected": false,
+        "name": "WiscIR Lab",
+        "description": "WiscIR (pronounced \"whisker\"): the Information Retrieval lab at @UWMadiSchool.",
+        "username": "wiscir"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 600,
+            "following_count": 588,
+            "tweet_count": 575,
+            "listed_count": 20
+        },
+        "id": "99015174",
+        "location": "Shandong",
+        "protected": false,
+        "name": "Zhaochun Ren",
+        "description": "Professor at Shandong University, working on Information Retrieval and Natural Language Processing",
+        "username": "zhaochun_ren"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 64,
+            "following_count": 348,
+            "tweet_count": 173,
+            "listed_count": 1
+        },
+        "id": "993781393724293120",
+        "location": "Tsukuba-shi, Ibaraki",
+        "protected": false,
+        "name": "Junjie H. Xu",
+        "description": "GameNLP, SciNLP, IR, FinTech, V&L. Former ICELab@RU, Intern@NTT人間情報研究所. Currently M2 in KASYS@UTsukuba, Visiting student in NLPLab@NTU, 発信は個人の見解。🎹✈️🥃🎮",
+        "username": "JhuiJack"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1105,
+            "following_count": 2024,
+            "tweet_count": 1847,
+            "listed_count": 9
+        },
+        "id": "2932426928",
+        "location": "Tsukuba, Ibaraki, Japan",
+        "protected": false,
+        "name": "新田洸平 / Kohei Shinden",
+        "description": "所属研究室: @kasys_lab / Research Interests: Information retrieval / 未踏2020",
+        "username": "KoheiShinden"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 147,
+            "following_count": 268,
+            "tweet_count": 105,
+            "listed_count": 1
+        },
+        "id": "955520482983505921",
+        "protected": false,
+        "name": "Jiaming Shen",
+        "description": "Research Scientist in Google Research, working on data mining, NLP, IR, and applied machine learning.",
+        "username": "jmshen1994"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5672,
+            "following_count": 6236,
+            "tweet_count": 17535,
+            "listed_count": 285
+        },
+        "id": "231845623",
+        "location": "New York, NY",
+        "protected": false,
+        "name": "ACM Education & Learning Center",
+        "description": "ACM Learning Center and Education initiatives. Tweet does not = endorsement.",
+        "username": "acmeducation"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2729,
+            "following_count": 2640,
+            "tweet_count": 10073,
+            "listed_count": 45
+        },
+        "id": "19989030",
+        "location": "Porto Alegre, Brazil",
+        "protected": false,
+        "name": "Luis Lamb",
+        "description": "Full Professor, Foundations of CS & #AI; PhD Computer Science from @imperialcollege; PQ1A CNPq;Secretary of Innovation, Science&Tech,Rio Grande Sul,🇧🇷#bekind",
+        "username": "luislamb"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 627,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1119949992691585024",
+        "protected": true,
+        "name": "Magic Dragon",
+        "description": "",
+        "username": "MagicDr94878540"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1204,
+            "following_count": 432,
+            "tweet_count": 1250,
+            "listed_count": 52
+        },
+        "id": "11892372",
+        "location": "iPhone: 43.720302,10.424058",
+        "protected": false,
+        "name": "Fabrizio Silvestri",
+        "description": "Computer Scientist, Search and Big Data Geek.",
+        "username": "fabreetseo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 627,
+            "following_count": 557,
+            "tweet_count": 1390,
+            "listed_count": 29
+        },
+        "id": "4893681",
+        "location": "Lisbon, Portugal",
+        "protected": false,
+        "name": "Flavio Martins",
+        "description": "Assistant Professor @istecnico | Previously @vohcolab | https://t.co/6xqjED9Gk0",
+        "username": "flaviomartins"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3649,
+            "following_count": 5000,
+            "tweet_count": 3204,
+            "listed_count": 111
+        },
+        "id": "547871798",
+        "location": "Doha, Qatar",
+        "protected": false,
+        "name": "Ingmar Weber",
+        "description": "Research Director for Social Computing @QatarComputing. Sophie's dad. #DigitalDemography, #D4D, #Migration, #DigitalDivide. He/his.",
+        "username": "ingmarweber"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2279,
+            "following_count": 1039,
+            "tweet_count": 30203,
+            "listed_count": 92
+        },
+        "id": "40576466",
+        "location": "Tokyo",
+        "protected": false,
+        "name": "Tetsuya Sakai (酒井哲也)",
+        "description": "Researcher/Professor@Waseda University CS Department. Self-proclaimed singer/songwriter. 研究者。早稲田情報理工教授。自称シンガー／ソングライター。\nhttps://t.co/cWFHrAcFOH",
+        "username": "tetsuyasakai"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1243,
+            "following_count": 1200,
+            "tweet_count": 6947,
+            "listed_count": 73
+        },
+        "id": "78269677",
+        "location": "Wolverhampton, UK",
+        "protected": false,
+        "name": "Ingo Frommholz",
+        "description": "Reader in Data Science @wlv_uni. Mainly tweeting about Information Retrieval, Data Science and Digital Libraries. Retweet isn't agreement.",
+        "username": "iFromm"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2266,
+            "following_count": 1446,
+            "tweet_count": 11728,
+            "listed_count": 141
+        },
+        "id": "13507112",
+        "location": "Amsterdam",
+        "protected": false,
+        "name": "David Graus",
+        "description": "AI @RandstadNL, board @SETUPUtrecht, PhD from @IRLab_Amsterdam, co-organizer @RecSysHR, local outreach @ACMRecSys. Prev: @FD_Nieuws @BNR @MSFTResearch (intern)",
+        "username": "dvdgrs"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3015,
+            "following_count": 2351,
+            "tweet_count": 4042,
+            "listed_count": 47
+        },
+        "id": "512275659",
+        "location": "London, England",
+        "protected": false,
+        "name": "Pasquale Minervini",
+        "description": "Researcher at University College London (@UCLCS, @AI_UCL) with @UCL_NLP and @UCL_DARK, PI for @CLARIFY2020 🇪🇺 @EU_H2020. Website: https://t.co/WydvfU7Wr1 (he/they)",
+        "username": "PMinervini"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 52,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "574403082",
+        "protected": false,
+        "name": "Jingzheng Qin",
+        "description": "",
+        "username": "JingzhengQin"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 216,
+            "following_count": 4352,
+            "tweet_count": 2110,
+            "listed_count": 24
+        },
+        "id": "3303639662",
+        "location": "Wild West",
+        "protected": false,
+        "name": "Taka Shinagawa",
+        "description": "Zen mind with millions of new & old ideas one by one",
+        "username": "blueviggen"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 457,
+            "following_count": 1086,
+            "tweet_count": 355,
+            "listed_count": 11
+        },
+        "id": "125483940",
+        "location": "Pisa, Toscana",
+        "protected": false,
+        "name": "Franco Maria Nardini",
+        "description": "Senior Researcher @ ISTI-CNR, Pisa, Italy. Information Retrieval, Machine/Deep Learning, Data/Web Mining, Parallel/Distributed Processing.",
+        "username": "fmnardini"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 81,
+            "following_count": 537,
+            "tweet_count": 11,
+            "listed_count": 0
+        },
+        "id": "1690763647",
+        "location": "Paesi Bassi",
+        "protected": false,
+        "name": "Peide Zhu",
+        "description": "PhD Candidate at TuDelft.",
+        "username": "PeideZhu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 234,
+            "following_count": 380,
+            "tweet_count": 727,
+            "listed_count": 2
+        },
+        "id": "43286828",
+        "location": "Piscataway, NJ",
+        "protected": false,
+        "name": "Souvick Ghosh, Ph.D.",
+        "description": "Assistant Prof. @SJSU | Ph.D. | Information and Computer Scientist | Footballer in Soul | Amateur Photographer | etc.| Tweets are my own",
+        "username": "ohmyghosh_"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 167,
+            "following_count": 1161,
+            "tweet_count": 130,
+            "listed_count": 0
+        },
+        "id": "732713436",
+        "location": "Dover, NH",
+        "protected": false,
+        "name": "Shubham Chatterjee",
+        "description": "PhD candidate | University of New Hampshire, Durham, USA | Information Retrieval | Natural Language Processing | Building Entity-oriented Search Systems",
+        "username": "ShubhamC526"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 652,
+            "following_count": 696,
+            "tweet_count": 76,
+            "listed_count": 9
+        },
+        "id": "139499786",
+        "location": "Amsterdam, Netherlands",
+        "protected": false,
+        "name": "Andrew Yates",
+        "description": "Assistant Professor at the University of Amsterdam. Information Retrieval, Natural Language Processing, and AI.",
+        "username": "andrewyates"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1908,
+            "following_count": 515,
+            "tweet_count": 27,
+            "listed_count": 80
+        },
+        "id": "17773969",
+        "location": "Santa Clara, CA",
+        "protected": false,
+        "name": "Don Metzler",
+        "description": "At Google. Ex-Yahoo! Ex-USC/ISI. Research interests: Information Retrieval, Natural Language Processing, Social Media, Web Search, Large-Scale Text Mining.",
+        "username": "metzlerd"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1551,
+            "following_count": 1427,
+            "tweet_count": 286,
+            "listed_count": 76
+        },
+        "id": "17076940",
+        "location": "Atlanta, GA",
+        "protected": false,
+        "name": "Eugene Agichtein",
+        "description": "CS Professor at Emory @emory_CSI @EmoryIRLab: web search, user behavior, conversational AI. also \"Amazon Scholar\" in Alexa (part-time).",
+        "username": "eugeneAgichtein"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 488,
+            "following_count": 1128,
+            "tweet_count": 1555,
+            "listed_count": 28
+        },
+        "id": "496430086",
+        "location": "Marsiglia, Francia",
+        "protected": false,
+        "name": "Ismail Badache ★",
+        "description": "Associate Professor of Com💻ter Science. Information Retrieval • Social Networks • NLP • Digital Education — Latest work: https://t.co/w9ODa3bTsK and https://t.co/rfHesJsaI8",
+        "username": "Ismail_badache"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 553,
+            "following_count": 108,
+            "tweet_count": 488,
+            "listed_count": 6
+        },
+        "id": "1184821524534059008",
+        "location": "Glasgow",
+        "protected": false,
+        "name": "Glasgow IR Group",
+        "description": "Glasgow Information Retrieval Group @GlasgowCS",
+        "username": "ir_glasgow"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 519,
+            "following_count": 998,
+            "tweet_count": 371,
+            "listed_count": 6
+        },
+        "id": "33970089",
+        "location": "Ann Arbor, MI",
+        "protected": false,
+        "name": "Kevyn Collins-Thompson",
+        "description": "Assoc Prof, Info & Comp Sci. @UMich @UMSI | Affiliate @UMichCSE+@michigan_AI+@um_midas. Former @MSFTResearch, PhD @SCSatCMU, Ugrad @WaterlooMath. Opinions mine.",
+        "username": "kevynct"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1883,
+            "following_count": 278,
+            "tweet_count": 2304,
+            "listed_count": 76
+        },
+        "id": "59504716",
+        "location": "Glasgow",
+        "protected": false,
+        "name": "Craig Macdonald",
+        "description": "IR Researcher",
+        "username": "craig_macdonald"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 151,
+            "tweet_count": 9,
+            "listed_count": 1
+        },
+        "id": "1330708819761004545",
+        "location": "Melbourne, Australia",
+        "protected": false,
+        "name": "Sachin PC",
+        "description": "PhD Student @RMITUniversity.\nData Scientist @Five9",
+        "username": "SachinPC10"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2410,
+            "following_count": 285,
+            "tweet_count": 3930,
+            "listed_count": 120
+        },
+        "id": "17078917",
+        "location": "Glasgow",
+        "protected": false,
+        "name": "Iadh Ounis",
+        "description": "Professor; Information Retrieval Researcher;  Former Director of Knowledge Exchange @ SICSA",
+        "username": "iadh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1998,
+            "following_count": 975,
+            "tweet_count": 4333,
+            "listed_count": 74
+        },
+        "id": "25134469",
+        "location": "Glasgow",
+        "protected": false,
+        "name": "Leif Azzopardi",
+        "description": "Scientist, Educator & Academic. Researching how people search and seek information. Author of https://t.co/QlzeJHNdzV publications: https://t.co/s4tm1xHej0",
+        "username": "leifos"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 561,
+            "following_count": 836,
+            "tweet_count": 370,
+            "listed_count": 12
+        },
+        "id": "66722583",
+        "location": "Glasgow, UK",
+        "protected": false,
+        "name": "Yashar Moshfeghi",
+        "description": "Associate Professor in Data Science at Department of Computer and Information Sciences at Univeristy of Strathclyde",
+        "username": "YashMosh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 963,
+            "following_count": 821,
+            "tweet_count": 2835,
+            "listed_count": 55
+        },
+        "id": "132646210",
+        "location": "Melbourne, Australia",
+        "protected": false,
+        "name": "Damiano Spina",
+        "description": "PhD in Computer Science. Lecturer & DECRA at @RMIT, @RMITComputing, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira @ACDP_Australia. Percussionist at @Wombatuque.",
+        "username": "damiano10"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2159,
+            "following_count": 1019,
+            "tweet_count": 4896,
+            "listed_count": 57
+        },
+        "id": "65915718",
+        "location": "Amherst, MA",
+        "protected": false,
+        "name": "Hamed Zamani",
+        "description": "Asst. Prof. @UMassCS. Associate Director of the Center for Intelligent Information Retrieval (CIIR). Ex-Researcher at Microsoft. Interested in IR, RecSys & ML.",
+        "username": "HamedZamani"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3730,
+            "following_count": 1265,
+            "tweet_count": 3673,
+            "listed_count": 103
+        },
+        "id": "242868086",
+        "location": "Montréal, Québec",
+        "protected": false,
+        "name": "Fernando Diaz",
+        "description": "Research Scientist, Google.  Evaluation and design of information retrieval and recommendation systems, including their societal impacts.",
+        "username": "841io"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1285,
+            "following_count": 268,
+            "tweet_count": 4770,
+            "listed_count": 72
+        },
+        "id": "30339571",
+        "location": "SF Bay Area, CA",
+        "protected": false,
+        "name": "Omar Alonso",
+        "description": "Data gaucho. Information retrieval, timelines, knowledge graphs, crowdsourcing, human computation. Author: https://t.co/EtByobb5Uu And the beautiful game.",
+        "username": "elunca"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1275,
+            "following_count": 237,
+            "tweet_count": 1462,
+            "listed_count": 26
+        },
+        "id": "220939171",
+        "location": "Stony Brook, NY, USA",
+        "protected": false,
+        "name": "Nick Nikiforakis",
+        "description": "Associate Professor @ Stony Brook University. Maker of @CardanoPhishing. Working on practical, hands-on computer security and privacy. Opinions are my mom's.",
+        "username": "nicknikiforakis"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 898,
+            "tweet_count": 41,
+            "listed_count": 0
+        },
+        "id": "783375925043953664",
+        "location": "Κύπρος, Ελλάδα ",
+        "protected": true,
+        "name": "Anna",
+        "description": "",
+        "username": "annatwittee"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 502,
+            "tweet_count": 345,
+            "listed_count": 1
+        },
+        "id": "974982884292521986",
+        "location": "India",
+        "protected": false,
+        "name": "Soumyadeep Roy",
+        "description": "PhD @ CSE- IIT Kharagpur |@cnerg, Research Associate @AiLeibniz |Present: Incorporating Domain Knowledge in ML4Healthcare | Clinical Trial Search",
+        "username": "roysoumya1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 463,
+            "following_count": 1379,
+            "tweet_count": 638,
+            "listed_count": 11
+        },
+        "id": "4904393518",
+        "location": "Delft, Nederland",
+        "protected": false,
+        "name": "Manel Slokom",
+        "description": "Phd student on Privacy for Recommender Systems",
+        "username": "ManelSlokom"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 669,
+            "following_count": 1344,
+            "tweet_count": 1397,
+            "listed_count": 42
+        },
+        "id": "23761309",
+        "location": "Kolding, Danmark",
+        "protected": false,
+        "name": "Ying-Hsang Liu",
+        "description": "Senior Researcher at Oslo Metropolitan University (OsloMet). All views my own.",
+        "username": "ruyhliu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 495,
+            "tweet_count": 686,
+            "listed_count": 0
+        },
+        "id": "272159579",
+        "location": "Rio de Janeiro",
+        "protected": false,
+        "name": "Marcelo Tibau",
+        "description": "A guy with some ideas on his mind and a strong desire to share them",
+        "username": "marcelo_tibau"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 326,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1594631822",
+        "location": "People's Republic of China",
+        "protected": false,
+        "name": "SHEN Chao",
+        "description": "Game Developer",
+        "username": "sc1991327"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1181,
+            "following_count": 1614,
+            "tweet_count": 1749,
+            "listed_count": 14
+        },
+        "id": "244060651",
+        "location": "Aalborg, Denmark",
+        "protected": false,
+        "name": "Niels van Berkel",
+        "description": "Associate Professor in Human-Computer Interaction at @CompSciAAU 🇩🇰\nresearch: experience sampling #ESM/#EMA, human-AI, knowledge of the crowd.",
+        "username": "nielsvberkel"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 202,
+            "tweet_count": 8,
+            "listed_count": 0
+        },
+        "id": "1212259236",
+        "protected": true,
+        "name": "Akila Siriweera",
+        "description": "",
+        "username": "siriweera"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 223,
+            "following_count": 1426,
+            "tweet_count": 259,
+            "listed_count": 0
+        },
+        "id": "1353788278412095490",
+        "location": "United Kingdom",
+        "protected": false,
+        "name": "BCS Human-Computer Interaction Conference",
+        "description": "35th Internationsl BCS Human Computer Interaction Conference\n11-13th July 2022, Keele University, UK",
+        "username": "BCSHCI2022"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 571,
+            "following_count": 176,
+            "tweet_count": 3444,
+            "listed_count": 34
+        },
+        "id": "37908775",
+        "location": "the Netherlands",
+        "protected": false,
+        "name": "Geert-Jan Houben",
+        "description": "Web, WIS, Data, Delft, & more",
+        "username": "gjhouben"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 259,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "id": "1264748783474098177",
+        "location": "San Francisco, CA",
+        "protected": false,
+        "name": "yiscre.chang",
+        "description": "Hobby of machine learning",
+        "username": "yiscre_z"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 141,
+            "following_count": 5003,
+            "tweet_count": 872,
+            "listed_count": 2
+        },
+        "id": "1309253847165161473",
+        "protected": false,
+        "name": "Hassan🅰️lmahdi⚡",
+        "description": "‏‏‏‏‏‏",
+        "username": "ham89x"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 94,
+            "following_count": 148,
+            "tweet_count": 180,
+            "listed_count": 3
+        },
+        "id": "1312390959179730945",
+        "location": "Minna, Nigeria",
+        "protected": false,
+        "name": "ACM FUTMINNA",
+        "description": "Association  for Computing  Machinery - Advancing  Computing as a science  & profession.\r\n\n | #Email:acmfutminna@gmail.com | Lead: @EA_Atom",
+        "username": "acm_futminna"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 310,
+            "following_count": 230,
+            "tweet_count": 403,
+            "listed_count": 4
+        },
+        "id": "1227852139055239173",
+        "protected": false,
+        "name": "ACM Transactions on Accessible Computing (TACCESS)",
+        "description": "#HCI and #Accessibility research journal, editors-in-chief Stephanie Ludi and @tjvguerreiro, managed by @alexafay and @rauschii",
+        "username": "acmtaccess"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 482,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "id": "904090461203304449",
+        "protected": false,
+        "name": "Nesrine Mansouri",
+        "description": "Research student",
+        "username": "NesrineRim94"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6011,
+            "following_count": 26,
+            "tweet_count": 1240,
+            "listed_count": 112
+        },
+        "id": "322711407",
+        "protected": false,
+        "name": "ACM Digital Library",
+        "description": "A research, discovery and networking platform from @TheOfficialACM  focused exclusively on the field of computing.",
+        "username": "ACMDL"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 62330,
+            "following_count": 833,
+            "tweet_count": 12981,
+            "listed_count": 1546
+        },
+        "id": "115763683",
+        "location": "New York, NY",
+        "protected": false,
+        "name": "Association for Computing Machinery",
+        "description": "ACM is the world’s largest educational and scientific computing society with nearly 100,000 members. Be Creative. Stay Connected. Keep Inventing.",
+        "username": "TheOfficialACM"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 13,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "id": "148866520",
+        "protected": false,
+        "name": "Laura Lander",
+        "description": "",
+        "username": "LauraLander14"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3592,
+            "following_count": 1729,
+            "tweet_count": 5513,
+            "listed_count": 207
+        },
+        "id": "5734242",
+        "location": "ⴲ",
+        "protected": false,
+        "name": "𝘾𝙖𝙧𝙡𝙤𝙨 \"𝘾𝙝𝙖𝙏𝙤\" 𝘾𝙖𝙨𝙩𝙞𝙡𝙡𝙤",
+        "description": "Professor @DTIC_UPF @UPFBarcelona leading the Web Science & Social Computing group @WSSC_UPF - algorithmic fairness, social computing, @BigCrisisData (he/him)",
+        "username": "ChaToX"
+    }
+]

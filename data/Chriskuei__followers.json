@@ -1,0 +1,193 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 60,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "id": "1184087659603361793",
+        "protected": false,
+        "name": "Xinyu Ma",
+        "description": "PhD. student at ICT, CAS in China",
+        "username": "xinyuma8"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 1966,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "id": "1256391779428925440",
+        "location": "People's Republic of China",
+        "protected": false,
+        "name": "苹果树",
+        "description": "",
+        "username": "pluepapaya"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1173,
+            "following_count": 1535,
+            "tweet_count": 2323,
+            "listed_count": 22
+        },
+        "id": "341000847",
+        "location": "Amsterdam, The Netherlands",
+        "protected": false,
+        "name": "Mohammad Aliannejadi",
+        "description": "Postdoc researcher at UvA. \nInformation Retrieval, Conversation Search, Crowdsourcing.",
+        "username": "maliannejadi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 424,
+            "following_count": 2089,
+            "tweet_count": 51,
+            "listed_count": 1
+        },
+        "id": "1087167596632395776",
+        "location": "Washington, DC",
+        "protected": false,
+        "name": "DataDems",
+        "description": "Training the next generation of progressive data leaders with @datadiva_net & @TweetsbyMatt",
+        "username": "DataDems"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 560,
+            "following_count": 238,
+            "tweet_count": 89,
+            "listed_count": 13
+        },
+        "id": "1070321898951753728",
+        "location": "Lisbona, Portugal",
+        "protected": false,
+        "name": "ECIR 2020",
+        "description": "42nd European Conference on Information Retrieval | Lisbon | 14-17 April 2020",
+        "username": "ecir2020"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 182,
+            "following_count": 799,
+            "tweet_count": 20,
+            "listed_count": 3
+        },
+        "id": "808050049867481089",
+        "location": "Global",
+        "protected": false,
+        "name": "Art & Design Apps",
+        "description": "",
+        "username": "ArtDesignapps"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 111,
+            "tweet_count": 49,
+            "listed_count": 0
+        },
+        "id": "735642311648907265",
+        "location": "Beijing",
+        "protected": false,
+        "name": "Apocalypse烛龙",
+        "description": "休閒 動漫 生活方式 娛樂 音樂",
+        "username": "ApocalypseYun"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 107,
+            "following_count": 979,
+            "tweet_count": 272,
+            "listed_count": 15
+        },
+        "id": "2886788601",
+        "protected": false,
+        "name": "Ben Lacroix",
+        "description": "Vlogger!! 🤓Suivez moi sur YouTube !",
+        "username": "benobab83"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 264,
+            "following_count": 229,
+            "tweet_count": 131,
+            "listed_count": 5
+        },
+        "id": "2429589444",
+        "location": "New York, NY",
+        "protected": false,
+        "name": "Fitness Tech NY",
+        "description": "Get the latest news about #fitnesstech.",
+        "username": "FitnessTechNY"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 116,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "3314631212",
+        "protected": true,
+        "name": "Ratha",
+        "description": "",
+        "username": "Ratha19405216"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 146,
+            "following_count": 451,
+            "tweet_count": 104,
+            "listed_count": 0
+        },
+        "id": "3103224801",
+        "location": "probably taco bell",
+        "protected": false,
+        "name": "kevin slover",
+        "description": "I absolutely love dem supa long ass walks on da beach, with bae ;) #sandcrack",
+        "username": "swagassbish"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 160,
+            "tweet_count": 40,
+            "listed_count": 0
+        },
+        "id": "3094223933",
+        "protected": false,
+        "name": "Carla Evans",
+        "description": "",
+        "username": "CarlEvanw"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 277,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "id": "2680062262",
+        "location": "Beijing, China",
+        "protected": false,
+        "name": "Yue Gao",
+        "description": "Computer Vision, Peking University, Microsoft Research Asia",
+        "username": "hologerry"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 12,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "id": "967379515",
+        "protected": false,
+        "name": "k.",
+        "description": "",
+        "username": "k_my_ass"
+    }
+]

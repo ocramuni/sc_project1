@@ -1,0 +1,290 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 272,
+            "following_count": 1451,
+            "tweet_count": 40,
+            "listed_count": 1
+        },
+        "id": "1367790358659272704",
+        "location": "London, United Kingdom",
+        "protected": false,
+        "name": "mora.stream",
+        "description": "A centralised, hybrid streaming platform for academic seminars.\n\nTweeting the hottest incoming academic seminars.",
+        "username": "moraStream"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5159,
+            "following_count": 2235,
+            "tweet_count": 10837,
+            "listed_count": 202
+        },
+        "id": "78969930",
+        "location": "London",
+        "protected": false,
+        "name": "Mounia Lalmas",
+        "description": "Research Director @ Spotify",
+        "username": "mounialalmas"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2445,
+            "following_count": 4531,
+            "tweet_count": 1215,
+            "listed_count": 5
+        },
+        "id": "1275912964915302403",
+        "location": "London, England",
+        "protected": false,
+        "name": "Mathieu Alain",
+        "description": "Doctoral student in Computer Science @UCL. Interested in PAC-Bayes and Bayesian Learning. Been: 🇹🇼🇨🇦🇬🇳🇺🇸🇩🇴🇫🇷🇪🇸🇬🇧",
+        "username": "miniapeur"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 199,
+            "following_count": 387,
+            "tweet_count": 139,
+            "listed_count": 4
+        },
+        "id": "1173938970310467586",
+        "location": "Paris",
+        "protected": false,
+        "name": "RecoGym",
+        "description": "Evaluate recommender system algorithms using the reinforcement learning simulation environment RecoGym.",
+        "username": "RecoGym"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 411,
+            "following_count": 595,
+            "tweet_count": 453,
+            "listed_count": 6
+        },
+        "id": "826177782560518148",
+        "location": "Bari, Apulia",
+        "protected": false,
+        "name": "Yashar Deldjoo",
+        "description": "Asst. Professor @polibaofficial;  Recommender Systems; Multimedia RecSys; Conversational Systems; Casual Inference; Fairness and Biases; Adversarial Learning.",
+        "username": "yashardel"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 559,
+            "tweet_count": 608,
+            "listed_count": 3
+        },
+        "id": "2257706092",
+        "location": "Michigan, USA",
+        "protected": false,
+        "name": "Amnah",
+        "description": "Lecturer @UQU",
+        "username": "amnahsa1100"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 159,
+            "tweet_count": 55,
+            "listed_count": 0
+        },
+        "id": "1227048963649368064",
+        "location": "Japan",
+        "protected": false,
+        "name": "Yoichi Chikahara",
+        "description": "ML researcher. Working on causal graph discovery, treatment effect estimation, and algorithmic fairness. Into foreign languages (🇺🇸 🇫🇷 🇩🇪)",
+        "username": "yoichi_chika"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 122,
+            "following_count": 398,
+            "tweet_count": 1399,
+            "listed_count": 0
+        },
+        "id": "185263153",
+        "location": "Ouro Preto, Brasil",
+        "protected": false,
+        "name": "MangaraVitor - 100% 🐊",
+        "description": "Ph.D. student in IR-NLP at UFMG\nA hopeful left-wing guy / Esquerdista\nTuiteiro da zuera nos intervalos do pomodoro q mata o plural voluntariamente",
+        "username": "vitordouzi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 246,
+            "following_count": 285,
+            "tweet_count": 1908,
+            "listed_count": 0
+        },
+        "id": "434164643",
+        "protected": false,
+        "name": "Renata Komatsu",
+        "description": "Mulher, nordestina, negra! Cheia de sonhos, anseios e receios! Técnica em Edificações e estudante de Engenharia! Enfim, cidadã do mundo!",
+        "username": "Komatsu31RM"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 93,
+            "tweet_count": 7,
+            "listed_count": 1
+        },
+        "id": "61862510",
+        "location": "Brasilia, Brasile",
+        "protected": true,
+        "name": "Vinicius Fagundes",
+        "description": "Por onde andar / Eu começo por onde a estrada vai",
+        "username": "vlfagundes"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 98,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "id": "4321760236",
+        "protected": false,
+        "name": "maria das carroça",
+        "description": "",
+        "username": "MariadaCarroca"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 78732,
+            "following_count": 91461,
+            "tweet_count": 11688,
+            "listed_count": 310
+        },
+        "id": "308226281",
+        "location": "Actuarial Recruiting Leaders",
+        "protected": false,
+        "name": "Ezra Penland",
+        "description": "Ezra Penland Actuarial Recruitment works with actuaries (actuary), actuarial analysts, catastrophe risk modelers, predictive modelers and executive roles.",
+        "username": "EzraPenland"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 19,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "id": "1367975648",
+        "protected": false,
+        "name": "jomario pinto",
+        "description": "",
+        "username": "jomariopinto"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 148,
+            "following_count": 274,
+            "tweet_count": 136,
+            "listed_count": 1
+        },
+        "id": "2336715642",
+        "location": "Dublin City, Ireland",
+        "protected": false,
+        "name": "Maicon Silva Pinto",
+        "description": "Software Engineer   Nodejs | Java | Angular | Kibernetes",
+        "username": "MaiconSPinto"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 288,
+            "following_count": 507,
+            "tweet_count": 1599,
+            "listed_count": 10
+        },
+        "id": "76786458",
+        "location": "Salvador - BA - Br",
+        "protected": false,
+        "name": "Daniel Indiano",
+        "description": "Programador e Desenvolvedor Web, Apaixonado por Tecnologia e aventuras, pratico Rappel, e Malabares. Nas horas vagas sou aspirante à Maluco!!",
+        "username": "DanielIndiano"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 814,
+            "following_count": 1723,
+            "tweet_count": 3147,
+            "listed_count": 7
+        },
+        "id": "21294663",
+        "location": "Brasil",
+        "protected": false,
+        "name": "Evellyn Cavalcante",
+        "description": "(ela/dela/she/her)\nEu sou meu próprio lar /\nComunista /\nAlagoana /\nForrozeira / Pole dancer /\nDoutoranda em ciência da computação (ufmg) /\nOtimização em grafos",
+        "username": "evellynsc"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 34,
+            "following_count": 81,
+            "tweet_count": 134,
+            "listed_count": 2
+        },
+        "id": "2596206234",
+        "protected": false,
+        "name": "Daniel Reis",
+        "description": "",
+        "username": "danielreisp"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 263,
+            "tweet_count": 1442,
+            "listed_count": 0
+        },
+        "id": "29200848",
+        "protected": false,
+        "name": "Leo",
+        "description": "",
+        "username": "leo_ocurioso"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 71,
+            "following_count": 289,
+            "tweet_count": 178,
+            "listed_count": 0
+        },
+        "id": "2366001733",
+        "location": "Paris",
+        "protected": false,
+        "name": "Marlon Marques",
+        "description": "Brazilian in France | Software Developer in EDA | Cyclist and crossfitter | #Rotaract | Classic Rock | He-Him.",
+        "username": "MarlonJrBM"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 45,
+            "following_count": 753,
+            "tweet_count": 52,
+            "listed_count": 0
+        },
+        "id": "1720654046",
+        "protected": false,
+        "name": "Daniel Rodrigues",
+        "description": "",
+        "username": "dvorodrigues"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 262,
+            "following_count": 404,
+            "tweet_count": 479,
+            "listed_count": 0
+        },
+        "id": "77865929",
+        "location": "Brazil",
+        "protected": true,
+        "name": "Myla Arcanjo",
+        "description": "Deus é fiel\nCoaching & Consultoria Empresarial \nAnalista Comportamental \nEspecialista em Gestão Estratégica de Pessoas \nMãe de felinos 🐈🐈",
+        "username": "mylamilu"
+    }
+]

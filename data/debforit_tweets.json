@@ -1,0 +1,62 @@
+[
+    {
+        "text": "@_ajhepburn @ir_glasgow @richardm_ Great talk @richardm_",
+        "id": "1461663014936096770",
+        "created_at": "2021-11-19T11:49:53.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "RT @CharlotteHase: A nice Friday morning surprise! Two papers for very different parts of the IR community!",
+        "id": "1461662780919099395",
+        "created_at": "2021-11-19T11:48:58.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "RT @tjaenich: Very excited to attend my first TREC conference! 🥳🎉🎉Looking forward to many interesting talks and meeting new people🙂#trec2021",
+        "id": "1461662692758982658",
+        "created_at": "2021-11-19T11:48:36.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "RT @craig_macdonald: TREC Deep Learning track presentation by @_XiaoWang_ , on @TerrierTeam participation using PyTerrier on the @MSMarcoAI…",
+        "id": "1461662674031423495",
+        "created_at": "2021-11-19T11:48:32.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "Happy sharing that \"An Analysis of Variations in the Effectiveness of Query Performance Prediction\" accepted in #ecir2022. This paper reports that QPP outcomes can vary (often significantly) with respect to the retrieval model used and the retrieval evaluation metric used.",
+        "id": "1461661299566383104",
+        "created_at": "2021-11-19T11:43:04.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 27,
+            "quote_count": 0
+        }
+    }
+]

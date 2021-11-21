@@ -1,0 +1,746 @@
+[
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1347,
+            "following_count": 1739,
+            "tweet_count": 4092,
+            "listed_count": 52
+        },
+        "id": "328906280",
+        "username": "euraxess_japan",
+        "name": "EURAXESS Japan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 26235,
+            "following_count": 197,
+            "tweet_count": 2732,
+            "listed_count": 244
+        },
+        "id": "243479125",
+        "username": "arc_gov_au",
+        "name": "ARC"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 32754,
+            "following_count": 19418,
+            "tweet_count": 16824,
+            "listed_count": 572
+        },
+        "id": "46114448",
+        "username": "ResFortnight",
+        "name": "Research Fortnight"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 73,
+            "tweet_count": 188,
+            "listed_count": 0
+        },
+        "id": "238024065",
+        "username": "michaelTquin",
+        "name": "Quan Yeomans"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 83,
+            "tweet_count": 3367,
+            "listed_count": 0
+        },
+        "id": "1020854242150453253",
+        "username": "mccart_richard",
+        "name": "Richard McCart"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2168,
+            "following_count": 1845,
+            "tweet_count": 10929,
+            "listed_count": 41
+        },
+        "id": "301709965",
+        "username": "Dr_Oli_Jones",
+        "name": "⏣ Prof. Oliver Jones"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1221,
+            "following_count": 590,
+            "tweet_count": 2877,
+            "listed_count": 55
+        },
+        "id": "4001356943",
+        "username": "RMITEurope",
+        "name": "RMIT Europe"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 57951,
+            "following_count": 1684,
+            "tweet_count": 13077,
+            "listed_count": 737
+        },
+        "id": "6778812",
+        "username": "RMIT",
+        "name": "RMIT University"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2349,
+            "following_count": 1406,
+            "tweet_count": 2423,
+            "listed_count": 33
+        },
+        "id": "308428034",
+        "username": "asps_ozplants",
+        "name": "Australian Society of Plant Scientists"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4397,
+            "following_count": 651,
+            "tweet_count": 5645,
+            "listed_count": 56
+        },
+        "id": "193935341",
+        "username": "ResearchRMIT",
+        "name": "RMIT Research"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 210,
+            "following_count": 1140,
+            "tweet_count": 304,
+            "listed_count": 2
+        },
+        "id": "1292626230592671744",
+        "username": "JS_ResearchPro",
+        "name": "Jenny Sinclair"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 205,
+            "following_count": 261,
+            "tweet_count": 96,
+            "listed_count": 4
+        },
+        "id": "2971241798",
+        "username": "tvern23",
+        "name": "Dr Tessa Vernstrom"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8667,
+            "following_count": 1,
+            "tweet_count": 2768,
+            "listed_count": 36
+        },
+        "id": "2540678306",
+        "username": "ARC_Tracker",
+        "name": "ARC Tracker"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 86798,
+            "following_count": 382,
+            "tweet_count": 4504,
+            "listed_count": 1824
+        },
+        "id": "822518487675305984",
+        "username": "alexgarcia_atx",
+        "name": "Alex Garcia 🔍"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1130,
+            "following_count": 345,
+            "tweet_count": 8,
+            "listed_count": 13
+        },
+        "id": "1338826657629696000",
+        "username": "TheRaftsGame",
+        "name": "RaftsTheGame"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 149,
+            "following_count": 211,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "id": "336927057",
+        "username": "BlaiseTardy",
+        "name": "Blaise Tardy"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 30,
+            "tweet_count": 61,
+            "listed_count": 0
+        },
+        "id": "1018862735281405952",
+        "username": "SMRLskku1",
+        "name": "CSI@POSTECH"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 190416,
+            "following_count": 8,
+            "tweet_count": 68,
+            "listed_count": 157
+        },
+        "id": "1276158180310036481",
+        "username": "yousuckMZ",
+        "name": "Yusaku Maezawa (MZ)"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10438187,
+            "following_count": 10989,
+            "tweet_count": 6322,
+            "listed_count": 7005
+        },
+        "id": "137857547",
+        "username": "yousuck2020",
+        "name": "前澤友作┃12/8から宇宙旅行"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 583,
+            "following_count": 1940,
+            "tweet_count": 4232,
+            "listed_count": 16
+        },
+        "id": "876353354",
+        "username": "z_melania",
+        "name": "Melania 😷 Dr. 😉 💉"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 168006,
+            "following_count": 1105,
+            "tweet_count": 5895,
+            "listed_count": 2900
+        },
+        "id": "52768208",
+        "username": "Astro_Nicole",
+        "name": "Nicole Stott"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 174937,
+            "following_count": 25,
+            "tweet_count": 797,
+            "listed_count": 499
+        },
+        "id": "918186781991829504",
+        "username": "HPWizardsUnite",
+        "name": "Harry Potter: Wizards Unite"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 400,
+            "following_count": 372,
+            "tweet_count": 313,
+            "listed_count": 1
+        },
+        "id": "1060389717483577344",
+        "username": "polyNSW",
+        "name": "polyNSW"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27,
+            "following_count": 19,
+            "tweet_count": 44,
+            "listed_count": 2
+        },
+        "id": "4893097400",
+        "username": "MNDSCTY",
+        "name": "Mind Society Studios"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4884,
+            "following_count": 437,
+            "tweet_count": 4493,
+            "listed_count": 130
+        },
+        "id": "25228282",
+        "username": "EngBioRC",
+        "name": "EBRC"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7196,
+            "following_count": 844,
+            "tweet_count": 800,
+            "listed_count": 73
+        },
+        "id": "837253787131740160",
+        "username": "Rafts4Biotech",
+        "name": "Rafts4Biotech"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 404,
+            "tweet_count": 40,
+            "listed_count": 0
+        },
+        "id": "1877997523",
+        "username": "MortezaAramesh",
+        "name": "Morteza Aramesh"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 209,
+            "following_count": 112,
+            "tweet_count": 24,
+            "listed_count": 1
+        },
+        "id": "1011491782717140992",
+        "username": "KangLiang6",
+        "name": "Kang Liang"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5737,
+            "following_count": 1325,
+            "tweet_count": 6446,
+            "listed_count": 152
+        },
+        "id": "152597785",
+        "username": "scienceinpublic",
+        "name": "Niall Byrne"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 144,
+            "following_count": 495,
+            "tweet_count": 60,
+            "listed_count": 5
+        },
+        "id": "240246413",
+        "username": "siddulunaidu",
+        "name": "Siddulu Naidu Talapaneni"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 343,
+            "following_count": 629,
+            "tweet_count": 123,
+            "listed_count": 3
+        },
+        "id": "430269329",
+        "username": "AleBertu",
+        "name": "Alessandro Bertucci"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 164,
+            "following_count": 138,
+            "tweet_count": 216,
+            "listed_count": 3
+        },
+        "id": "989311238835326976",
+        "username": "FBNS_EMCR",
+        "name": "FBNS"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 188,
+            "following_count": 149,
+            "tweet_count": 386,
+            "listed_count": 3
+        },
+        "id": "1004348208162598912",
+        "username": "ASMcoatings",
+        "name": "AndrewAng"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 123204,
+            "following_count": 31921,
+            "tweet_count": 20806,
+            "listed_count": 3717
+        },
+        "id": "49413866",
+        "username": "randal_olson",
+        "name": "Randy Olson"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 139,
+            "following_count": 561,
+            "tweet_count": 177,
+            "listed_count": 3
+        },
+        "id": "860922047823847425",
+        "username": "DrSaimaShabbir",
+        "name": "Saima Shabbir"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 286,
+            "following_count": 355,
+            "tweet_count": 207,
+            "listed_count": 4
+        },
+        "id": "2598852187",
+        "username": "GautamVini",
+        "name": "Vini Gautam"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 831,
+            "following_count": 831,
+            "tweet_count": 4729,
+            "listed_count": 16
+        },
+        "id": "144932476",
+        "username": "bearore",
+        "name": "Dr Mattias Björnmalm"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40,
+            "following_count": 61,
+            "tweet_count": 26,
+            "listed_count": 1
+        },
+        "id": "703670378271387648",
+        "username": "haihuijoyjiang",
+        "name": "Haihui Joy Jiang, Ph.D."
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 169,
+            "following_count": 297,
+            "tweet_count": 39,
+            "listed_count": 3
+        },
+        "id": "866166614634373121",
+        "username": "AndrewWhiteSci",
+        "name": "Andrew White"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 599,
+            "following_count": 890,
+            "tweet_count": 8774,
+            "listed_count": 64
+        },
+        "id": "184299398",
+        "username": "shirvill",
+        "name": "James Shirvill"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2901,
+            "following_count": 1541,
+            "tweet_count": 12761,
+            "listed_count": 108
+        },
+        "id": "182843687",
+        "username": "MelanieBagg",
+        "name": "Dr Melanie Bagg"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4689,
+            "following_count": 2172,
+            "tweet_count": 5691,
+            "listed_count": 70
+        },
+        "id": "2360762586",
+        "username": "pintofscienceAU",
+        "name": "Pint of Science AU"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 230,
+            "following_count": 471,
+            "tweet_count": 324,
+            "listed_count": 0
+        },
+        "id": "2856332780",
+        "username": "AlmarPostma",
+        "name": "Almar Postma"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 888,
+            "following_count": 747,
+            "tweet_count": 1484,
+            "listed_count": 8
+        },
+        "id": "795753866818043904",
+        "username": "OlgainAus",
+        "name": "A/Prof Olga Shimoni"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 142592,
+            "following_count": 25,
+            "tweet_count": 38576,
+            "listed_count": 3481
+        },
+        "id": "13558962",
+        "username": "CrackBerry",
+        "name": "CrackBerry.com"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 48273,
+            "following_count": 332,
+            "tweet_count": 13155,
+            "listed_count": 1189
+        },
+        "id": "18871873",
+        "username": "kevinmichaluk",
+        "name": "Kevin Michaluk"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 45460,
+            "following_count": 623,
+            "tweet_count": 2929,
+            "listed_count": 197
+        },
+        "id": "2562224401",
+        "username": "BBMobile",
+        "name": "BlackBerry Mobile"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 68,
+            "tweet_count": 48,
+            "listed_count": 0
+        },
+        "id": "783831711188606976",
+        "username": "kurtmndscty",
+        "name": "Kurt"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 903704,
+            "following_count": 158,
+            "tweet_count": 149954,
+            "listed_count": 12113
+        },
+        "id": "17248121",
+        "username": "physorg_com",
+        "name": "Phys.org"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11649558,
+            "following_count": 229,
+            "tweet_count": 22224,
+            "listed_count": 15499
+        },
+        "id": "5162861",
+        "username": "NintendoAmerica",
+        "name": "Nintendo of America"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6206909,
+            "following_count": 222,
+            "tweet_count": 72313,
+            "listed_count": 23174
+        },
+        "id": "9624742",
+        "username": "StateDept",
+        "name": "Department of State"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6392717,
+            "following_count": 461,
+            "tweet_count": 33736,
+            "listed_count": 15043
+        },
+        "id": "66369181",
+        "username": "DeptofDefense",
+        "name": "Department of Defense 🇺🇸"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17031166,
+            "following_count": 16277,
+            "tweet_count": 284239,
+            "listed_count": 20137
+        },
+        "id": "24742040",
+        "username": "Xbox",
+        "name": "Xbox"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 49833628,
+            "following_count": 178,
+            "tweet_count": 67176,
+            "listed_count": 96944
+        },
+        "id": "11348282",
+        "username": "NASA",
+        "name": "NASA"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3305093,
+            "following_count": 35,
+            "tweet_count": 5029,
+            "listed_count": 11023
+        },
+        "id": "2359926157",
+        "username": "CIA",
+        "name": "CIA"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28,
+            "following_count": 47,
+            "tweet_count": 99,
+            "listed_count": 0
+        },
+        "id": "1902327200",
+        "username": "AboutSusanna",
+        "name": "Susanna Richardson"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3953,
+            "following_count": 481,
+            "tweet_count": 5916,
+            "listed_count": 205
+        },
+        "id": "159589430",
+        "username": "scipak",
+        "name": "Science Press Package"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 133,
+            "following_count": 269,
+            "tweet_count": 1983,
+            "listed_count": 0
+        },
+        "id": "273369304",
+        "username": "CHRSPRKNSN",
+        "name": "C H R S  P R K N S N"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 34194,
+            "following_count": 791,
+            "tweet_count": 8407,
+            "listed_count": 532
+        },
+        "id": "22986026",
+        "username": "acsnano",
+        "name": "ACS Nano"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 309,
+            "following_count": 777,
+            "tweet_count": 1673,
+            "listed_count": 8
+        },
+        "id": "536000059",
+        "username": "youthphoria",
+        "name": "YOUTHPHORIA SKINCARE"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2916,
+            "following_count": 1821,
+            "tweet_count": 1382,
+            "listed_count": 116
+        },
+        "id": "123284564",
+        "username": "VicGovBio",
+        "name": "VicGovBio"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 132,
+            "following_count": 79,
+            "tweet_count": 62,
+            "listed_count": 1
+        },
+        "id": "3315600426",
+        "username": "peppersmoonah",
+        "name": "Moonah Links"
+    }
+]

@@ -1,0 +1,530 @@
+[
+    {
+        "username": "telegramdotcom",
+        "protected": false,
+        "id": "15610400",
+        "public_metrics": {
+            "followers_count": 62363,
+            "following_count": 1919,
+            "tweet_count": 116044,
+            "listed_count": 650
+        },
+        "name": "telegramdotcom"
+    },
+    {
+        "username": "NASAExoplanets",
+        "protected": false,
+        "id": "17781165",
+        "public_metrics": {
+            "followers_count": 854837,
+            "following_count": 133,
+            "tweet_count": 6087,
+            "listed_count": 9052
+        },
+        "name": "NASA Exoplanets"
+    },
+    {
+        "username": "NASAMars",
+        "protected": false,
+        "id": "15165502",
+        "public_metrics": {
+            "followers_count": 1001362,
+            "following_count": 203,
+            "tweet_count": 2026,
+            "listed_count": 10046
+        },
+        "name": "NASA Mars"
+    },
+    {
+        "username": "WPI",
+        "protected": false,
+        "id": "16687357",
+        "public_metrics": {
+            "followers_count": 17274,
+            "following_count": 5672,
+            "tweet_count": 23836,
+            "listed_count": 308
+        },
+        "name": "WPI"
+    },
+    {
+        "username": "lea_ypi",
+        "protected": false,
+        "id": "431544290",
+        "public_metrics": {
+            "followers_count": 12879,
+            "following_count": 794,
+            "tweet_count": 2675,
+            "listed_count": 114
+        },
+        "name": "Lea Ypi"
+    },
+    {
+        "username": "coe",
+        "protected": false,
+        "id": "24150634",
+        "public_metrics": {
+            "followers_count": 458406,
+            "following_count": 531,
+            "tweet_count": 23574,
+            "listed_count": 4467
+        },
+        "name": "Council of Europe"
+    },
+    {
+        "username": "NASAEarth",
+        "protected": false,
+        "id": "24919888",
+        "public_metrics": {
+            "followers_count": 2501890,
+            "following_count": 142,
+            "tweet_count": 19891,
+            "listed_count": 10415
+        },
+        "name": "NASA Earth"
+    },
+    {
+        "username": "Surgeon_General",
+        "protected": false,
+        "id": "455024343",
+        "public_metrics": {
+            "followers_count": 977378,
+            "following_count": 181,
+            "tweet_count": 12316,
+            "listed_count": 2951
+        },
+        "name": "Dr. Vivek Murthy, U.S. Surgeon General"
+    },
+    {
+        "username": "CDCgov",
+        "protected": false,
+        "id": "146569971",
+        "public_metrics": {
+            "followers_count": 4390720,
+            "following_count": 271,
+            "tweet_count": 31789,
+            "listed_count": 19338
+        },
+        "name": "CDC"
+    },
+    {
+        "username": "AnaTurcan1",
+        "protected": false,
+        "id": "3768601336",
+        "public_metrics": {
+            "followers_count": 154,
+            "following_count": 364,
+            "tweet_count": 213,
+            "listed_count": 0
+        },
+        "name": "Ana Turcan"
+    },
+    {
+        "username": "barzik",
+        "protected": false,
+        "id": "20908741",
+        "public_metrics": {
+            "followers_count": 25136,
+            "following_count": 103,
+            "tweet_count": 69957,
+            "listed_count": 135
+        },
+        "name": "Ran Bar-Zik"
+    },
+    {
+        "username": "HHSGov",
+        "protected": false,
+        "id": "44783853",
+        "public_metrics": {
+            "followers_count": 1159090,
+            "following_count": 358,
+            "tweet_count": 25966,
+            "listed_count": 9694
+        },
+        "name": "HHS.gov"
+    },
+    {
+        "username": "WHO",
+        "protected": false,
+        "id": "14499829",
+        "public_metrics": {
+            "followers_count": 10155454,
+            "following_count": 1750,
+            "tweet_count": 66022,
+            "listed_count": 34345
+        },
+        "name": "World Health Organization (WHO)"
+    },
+    {
+        "username": "ir_glasgow",
+        "protected": false,
+        "id": "1184821524534059008",
+        "public_metrics": {
+            "followers_count": 553,
+            "following_count": 108,
+            "tweet_count": 488,
+            "listed_count": 6
+        },
+        "name": "Glasgow IR Group"
+    },
+    {
+        "username": "CIKM2021",
+        "protected": false,
+        "id": "1190461842922995712",
+        "public_metrics": {
+            "followers_count": 829,
+            "following_count": 3128,
+            "tweet_count": 124,
+            "listed_count": 9
+        },
+        "name": "CIKM 2021"
+    },
+    {
+        "username": "moranmiz",
+        "protected": false,
+        "id": "56381337",
+        "public_metrics": {
+            "followers_count": 70,
+            "following_count": 98,
+            "tweet_count": 30,
+            "listed_count": 0
+        },
+        "name": "Moran Mizrahi"
+    },
+    {
+        "username": "damiano10",
+        "protected": false,
+        "id": "132646210",
+        "public_metrics": {
+            "followers_count": 963,
+            "following_count": 821,
+            "tweet_count": 2835,
+            "listed_count": 55
+        },
+        "name": "Damiano Spina"
+    },
+    {
+        "username": "FedericaMog",
+        "protected": false,
+        "id": "460163041",
+        "public_metrics": {
+            "followers_count": 521629,
+            "following_count": 7820,
+            "tweet_count": 9836,
+            "listed_count": 3945
+        },
+        "name": "Federica Mogherini"
+    },
+    {
+        "username": "RubenAvxhiu",
+        "protected": false,
+        "id": "308069341",
+        "public_metrics": {
+            "followers_count": 4153,
+            "following_count": 978,
+            "tweet_count": 54904,
+            "listed_count": 87
+        },
+        "name": "Ruben_NYC"
+    },
+    {
+        "username": "Twitter",
+        "protected": false,
+        "id": "783214",
+        "public_metrics": {
+            "followers_count": 60434278,
+            "following_count": 0,
+            "tweet_count": 14838,
+            "listed_count": 87607
+        },
+        "name": "Twitter"
+    },
+    {
+        "username": "WorcPublic",
+        "protected": false,
+        "id": "4877294668",
+        "public_metrics": {
+            "followers_count": 2106,
+            "following_count": 0,
+            "tweet_count": 4,
+            "listed_count": 5
+        },
+        "name": "Worcester Schools"
+    },
+    {
+        "username": "MSantiago508",
+        "protected": false,
+        "id": "115169875",
+        "public_metrics": {
+            "followers_count": 70,
+            "following_count": 275,
+            "tweet_count": 172,
+            "listed_count": 4
+        },
+        "name": "Mark Santiago"
+    },
+    {
+        "username": "NatGeo",
+        "protected": false,
+        "id": "17471979",
+        "public_metrics": {
+            "followers_count": 26608719,
+            "following_count": 179,
+            "tweet_count": 63763,
+            "listed_count": 64639
+        },
+        "name": "National Geographic"
+    },
+    {
+        "username": "NASASolarSystem",
+        "protected": false,
+        "id": "15165493",
+        "public_metrics": {
+            "followers_count": 2042677,
+            "following_count": 437,
+            "tweet_count": 5351,
+            "listed_count": 11960
+        },
+        "name": "NASA Solar System"
+    },
+    {
+        "username": "LaurieofMars",
+        "protected": false,
+        "id": "36732319",
+        "public_metrics": {
+            "followers_count": 7993,
+            "following_count": 2099,
+            "tweet_count": 8970,
+            "listed_count": 171
+        },
+        "name": "Laurie Leshin"
+    },
+    {
+        "username": "michiokaku",
+        "protected": false,
+        "id": "19515424",
+        "public_metrics": {
+            "followers_count": 818782,
+            "following_count": 51,
+            "tweet_count": 2090,
+            "listed_count": 9653
+        },
+        "name": "Dr. Michio Kaku"
+    },
+    {
+        "username": "StripeTheGod",
+        "protected": false,
+        "id": "351221537",
+        "public_metrics": {
+            "followers_count": 153126,
+            "following_count": 4088,
+            "tweet_count": 8,
+            "listed_count": 1588
+        },
+        "name": "Stripe"
+    },
+    {
+        "username": "PhansenH",
+        "protected": false,
+        "id": "1596043861",
+        "public_metrics": {
+            "followers_count": 863,
+            "following_count": 841,
+            "tweet_count": 2531,
+            "listed_count": 19
+        },
+        "name": "Peter H. Hansen"
+    },
+    {
+        "username": "neiltyson",
+        "protected": false,
+        "id": "19725644",
+        "public_metrics": {
+            "followers_count": 14550150,
+            "following_count": 39,
+            "tweet_count": 7594,
+            "listed_count": 45366
+        },
+        "name": "Neil deGrasse Tyson"
+    },
+    {
+        "username": "MarsCuriosity",
+        "protected": false,
+        "id": "15473958",
+        "public_metrics": {
+            "followers_count": 4211556,
+            "following_count": 172,
+            "tweet_count": 3966,
+            "listed_count": 26207
+        },
+        "name": "Curiosity Rover"
+    },
+    {
+        "username": "ozgyas",
+        "protected": false,
+        "id": "456522899",
+        "public_metrics": {
+            "followers_count": 58,
+            "following_count": 189,
+            "tweet_count": 153,
+            "listed_count": 3
+        },
+        "name": "Ozge"
+    },
+    {
+        "username": "MauraFerrarini",
+        "protected": false,
+        "id": "523901978",
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 274,
+            "tweet_count": 70,
+            "listed_count": 0
+        },
+        "name": "Maura Ferrarini"
+    },
+    {
+        "username": "WPINews",
+        "protected": false,
+        "id": "15934302",
+        "public_metrics": {
+            "followers_count": 5172,
+            "following_count": 1338,
+            "tweet_count": 4579,
+            "listed_count": 112
+        },
+        "name": "WPI News"
+    },
+    {
+        "username": "ChrisPetersonTG",
+        "protected": false,
+        "id": "493354391",
+        "public_metrics": {
+            "followers_count": 5074,
+            "following_count": 1685,
+            "tweet_count": 23810,
+            "listed_count": 105
+        },
+        "name": "Christine Peterson"
+    },
+    {
+        "username": "FocusAlbania",
+        "protected": false,
+        "id": "31765660",
+        "public_metrics": {
+            "followers_count": 8259,
+            "following_count": 303,
+            "tweet_count": 7862,
+            "listed_count": 62
+        },
+        "name": "Focus #Albania 🇦🇱"
+    },
+    {
+        "username": "ediramaal",
+        "protected": false,
+        "id": "273410176",
+        "public_metrics": {
+            "followers_count": 365710,
+            "following_count": 276,
+            "tweet_count": 5950,
+            "listed_count": 649
+        },
+        "name": "Edi Rama"
+    },
+    {
+        "username": "lkerxhalli",
+        "protected": false,
+        "id": "98508684",
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 59,
+            "tweet_count": 167,
+            "listed_count": 2
+        },
+        "name": "Lorenc Kerxhalli"
+    },
+    {
+        "username": "Dropbox",
+        "protected": false,
+        "id": "14749606",
+        "public_metrics": {
+            "followers_count": 3993486,
+            "following_count": 84,
+            "tweet_count": 6318,
+            "listed_count": 24382
+        },
+        "name": "Dropbox"
+    },
+    {
+        "username": "Tesla",
+        "protected": false,
+        "id": "13298072",
+        "public_metrics": {
+            "followers_count": 11754005,
+            "following_count": 79,
+            "tweet_count": 7723,
+            "listed_count": 18940
+        },
+        "name": "Tesla"
+    },
+    {
+        "username": "SpaceX",
+        "protected": false,
+        "id": "34743251",
+        "public_metrics": {
+            "followers_count": 18864364,
+            "following_count": 100,
+            "tweet_count": 5577,
+            "listed_count": 33090
+        },
+        "name": "SpaceX"
+    },
+    {
+        "username": "Lori_Garver",
+        "protected": false,
+        "id": "119897041",
+        "public_metrics": {
+            "followers_count": 42793,
+            "following_count": 710,
+            "tweet_count": 5668,
+            "listed_count": 1123
+        },
+        "name": "Lori Garver"
+    },
+    {
+        "username": "NASA",
+        "protected": false,
+        "id": "11348282",
+        "public_metrics": {
+            "followers_count": 49835013,
+            "following_count": 178,
+            "tweet_count": 67176,
+            "listed_count": 96942
+        },
+        "name": "NASA"
+    },
+    {
+        "username": "neophenomenon",
+        "protected": false,
+        "id": "274783482",
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 53,
+            "tweet_count": 104,
+            "listed_count": 0
+        },
+        "name": "Pandeli Kolomitro"
+    },
+    {
+        "username": "elonmusk",
+        "protected": false,
+        "id": "44196397",
+        "public_metrics": {
+            "followers_count": 64317799,
+            "following_count": 105,
+            "tweet_count": 16053,
+            "listed_count": 81387
+        },
+        "name": "Elon Musk"
+    }
+]

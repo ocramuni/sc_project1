@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-14T10:54:11.000Z",
+        "id": "1459837056012718087",
+        "text": "RT @sullanuvola: Mi sto abituando a disabituarmi",
+        "public_metrics": {
+            "retweet_count": 39,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "created_at": "2021-11-13T09:56:39.000Z",
+        "id": "1459460189468467201",
+        "text": "RT @Natashaconsha: Neanche metà novembre e io ho già voglia di fare l’albero di Natale",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "created_at": "2021-11-12T21:25:47.000Z",
+        "id": "1459271227630133248",
+        "text": "https://t.co/yLErhLNEGg",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "und"
+    },
+    {
+        "created_at": "2021-11-09T21:49:14.000Z",
+        "id": "1458189967960776709",
+        "text": "RT @amorsisulcuore: La persona di cui avevo più bisogno, mi ha insegnato che non ho bisogno di nessuno.",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    },
+    {
+        "created_at": "2021-11-09T21:48:44.000Z",
+        "id": "1458189842441965568",
+        "text": "RT @Mamo_lita: Amo quelli che desiderano l'impossibile e fanno di tutto per renderlo possibile.",
+        "public_metrics": {
+            "retweet_count": 205,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it"
+    }
+]

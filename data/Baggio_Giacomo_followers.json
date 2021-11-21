@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Vincenzo Carlino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 85,
+            "tweet_count": 52,
+            "listed_count": 0
+        },
+        "username": "VincenzoCarli15",
+        "id": "1274089631580073984",
+        "description": "You can never understand everything. But, you should push yourself to understand the system. Software Architect at @mvlabsit"
+    },
+    {
+        "name": "Alez",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 22,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "location": "Veneto, Italia",
+        "username": "Alex15440270",
+        "id": "1386272899359707138",
+        "description": "Sono amico di quello che beve succhini"
+    },
+    {
+        "name": "Silvio Zambon",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 11,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "location": "Trento, Trentino-Alto Adige",
+        "username": "ZambonSilvio",
+        "id": "1391795839857725446",
+        "description": "~Tiramisù"
+    },
+    {
+        "name": "Andrea",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 50,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "AndreaZanotto00",
+        "id": "1359994707502317569",
+        "description": ""
+    },
+    {
+        "name": "Carlotta Feletto",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 12,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "carlottafeletto",
+        "id": "4692293239",
+        "description": ""
+    },
+    {
+        "name": "gre",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 12,
+            "tweet_count": 78,
+            "listed_count": 0
+        },
+        "location": "Treviso, Veneto",
+        "username": "DulajGrace",
+        "id": "1319285533596549123",
+        "description": "📴"
+    },
+    {
+        "name": "Luca Bolzan",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 49,
+            "tweet_count": 39,
+            "listed_count": 0
+        },
+        "username": "ToniStrac",
+        "id": "869913046671556608",
+        "description": "mai stati primi in classe ma siamo primi in classifica"
+    },
+    {
+        "name": "Ilary🦋",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 54,
+            "tweet_count": 33,
+            "listed_count": 0
+        },
+        "username": "_YLARIA",
+        "id": "1052217045557944321",
+        "description": "A volte lunatica, altre volte pure."
+    },
+    {
+        "name": "ale",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 108,
+            "tweet_count": 73,
+            "listed_count": 0
+        },
+        "location": "Treviso, Veneto",
+        "username": "aleedaros",
+        "id": "1118189627406528512",
+        "description": "inerzia"
+    },
+    {
+        "name": "Simone Della Libera",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 228,
+            "following_count": 278,
+            "tweet_count": 3469,
+            "listed_count": 2
+        },
+        "location": "Treviso, Veneto ",
+        "username": "simodellalibera",
+        "id": "2805112339",
+        "description": "🇮🇹- 20 - Redbull Campus Clutch Finalist"
+    },
+    {
+        "name": "Luca",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 147,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Luca90861056",
+        "id": "797518668699680768",
+        "description": ""
+    },
+    {
+        "name": "Roskyduepuntozero",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 218,
+            "following_count": 4292,
+            "tweet_count": 662,
+            "listed_count": 1
+        },
+        "username": "RO2kY",
+        "id": "2337213416",
+        "description": "Sono uno YouTuber che adora fare video commentari, let's play e tutorial ; siate attivi con commenti suggerimenti ed iscrizioni grazie in anticipo"
+    },
+    {
+        "name": "Frances",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 55,
+            "following_count": 255,
+            "tweet_count": 135,
+            "listed_count": 0
+        },
+        "location": "Italia",
+        "username": "fr4nc3syt",
+        "id": "778344977420214272",
+        "description": ""
+    },
+    {
+        "name": "Alessandro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 430,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "alessandro_io",
+        "id": "714628876874465282",
+        "description": ""
+    },
+    {
+        "name": "Alessandro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 24,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Alessan23931626",
+        "id": "4307722288",
+        "description": "k"
+    },
+    {
+        "name": "Francesca Dal Pos",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 118,
+            "following_count": 332,
+            "tweet_count": 148,
+            "listed_count": 0
+        },
+        "username": "francescadal01",
+        "id": "3107559137",
+        "description": "Directioner"
+    }
+]

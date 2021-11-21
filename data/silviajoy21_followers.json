@@ -1,0 +1,346 @@
+[
+    {
+        "name": "J🦋",
+        "description": "d’arborea vita viventi 🌿\nTutte le cose che non posso fare le scrivo.\nI complain about docker... a lot.",
+        "public_metrics": {
+            "followers_count": 553,
+            "following_count": 689,
+            "tweet_count": 3666,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "vagabiondaa",
+        "id": "716152406",
+        "location": "Italy"
+    },
+    {
+        "name": "Diego Betto",
+        "description": "https://t.co/O68j6Ouc9u founder, senior full-stack designer & developer, ReactJS & Vue lover, music-dependent, reflex addicted ;)",
+        "public_metrics": {
+            "followers_count": 226,
+            "following_count": 337,
+            "tweet_count": 4317,
+            "listed_count": 24
+        },
+        "protected": false,
+        "username": "diegobetto",
+        "id": "57903937",
+        "location": "Udine, Italy"
+    },
+    {
+        "name": "Lou Catoso",
+        "description": "Live to learn, learn to live. \nTravel addicted, active on IG.\nI had THE knack so I became an Engineer.\nInterested in humans, martial arts and running.",
+        "public_metrics": {
+            "followers_count": 224,
+            "following_count": 518,
+            "tweet_count": 3521,
+            "listed_count": 7
+        },
+        "protected": true,
+        "username": "Briharad",
+        "id": "61149904",
+        "location": "Italy"
+    },
+    {
+        "name": "Kibo - Challenges, Activities, Happiness",
+        "description": "Kibo is an app for people who love & breath challenges to bring the best out. Create fun challenges or join others with your friends & family. It's FREE.",
+        "public_metrics": {
+            "followers_count": 294,
+            "following_count": 3060,
+            "tweet_count": 127,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "KiboChallenges",
+        "id": "1271757318548385793"
+    },
+    {
+        "name": "Andrea Apicella",
+        "description": "",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 78,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "andreaapicella_",
+        "id": "999008277232082945"
+    },
+    {
+        "name": "Sleaze",
+        "description": "Non amo il mainstream. La personalità è fondamentale. “being understimated is a wonderful gift”. Musica Tanta, purchè con copiosi e granitici riff di chitarra.",
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 117,
+            "tweet_count": 66,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "Sleaze55546934",
+        "id": "1136339583959019521"
+    },
+    {
+        "name": "Emer Kelly",
+        "description": "Creative Thinker | Creative Doer",
+        "public_metrics": {
+            "followers_count": 829,
+            "following_count": 557,
+            "tweet_count": 915,
+            "listed_count": 106
+        },
+        "protected": false,
+        "username": "emerkelly_",
+        "id": "40756951",
+        "location": "Saint Petersburg, FL"
+    },
+    {
+        "name": "pogany",
+        "description": "If I don’t have red, I use blue",
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 83,
+            "tweet_count": 291,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "pogany_",
+        "id": "1031098929469898752"
+    },
+    {
+        "name": "Ana Liza 👩🏽‍💻",
+        "description": "Javascript | Frontend Developer | @reactjs | Writes stuff https://t.co/e2z8ISXyAC | Play @Codepen https://t.co/Qn4hU7nS4G",
+        "public_metrics": {
+            "followers_count": 273,
+            "following_count": 740,
+            "tweet_count": 316,
+            "listed_count": 3
+        },
+        "protected": false,
+        "username": "analizapandac",
+        "id": "3453761005",
+        "location": "Kuala Lumpur Federal Territory"
+    },
+    {
+        "name": "Simone Bearzot",
+        "description": "Non sopporto la banalità. Che detta così è piuttosto banale. Mi odio.",
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 636,
+            "tweet_count": 472,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "SimoneBearzot",
+        "id": "326841363"
+    },
+    {
+        "name": "Andrea Coiutti",
+        "description": "Front-end developer. UX/UI engineer. Webdesigner. Hi-Fi and music lover.",
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 112,
+            "tweet_count": 196,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "andreacoiutti",
+        "id": "2754573014",
+        "location": "Udine, Italy"
+    },
+    {
+        "name": "Salvo Barbera",
+        "description": "",
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 178,
+            "tweet_count": 169,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "SalvoBarbera2",
+        "id": "1107583936505528320",
+        "location": "Udine, Friuli-Venezia Giulia"
+    },
+    {
+        "name": "Yellowchalk Design",
+        "description": "At Yellowchalk, we solve big problems through small screens. We are India's Best UI/UX Design Company",
+        "public_metrics": {
+            "followers_count": 544,
+            "following_count": 4701,
+            "tweet_count": 8727,
+            "listed_count": 7
+        },
+        "protected": false,
+        "username": "YellowchalkUIUX",
+        "id": "719435139483172864",
+        "location": "Bengaluru, India"
+    },
+    {
+        "name": "Usabilityscale",
+        "description": "It is a tool which measures a level of perceived usability by System Usability Scale (SUS).",
+        "public_metrics": {
+            "followers_count": 479,
+            "following_count": 1034,
+            "tweet_count": 112,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "usabilityscale",
+        "id": "871469188216442883",
+        "location": "Germania"
+    },
+    {
+        "name": "Andrea Dottor",
+        "description": "Microsoft MVP Developer Technologies, .NET & Web Consultant, Developer, Speaker, Ultra Trail Runner, MTB Runner.",
+        "public_metrics": {
+            "followers_count": 883,
+            "following_count": 576,
+            "tweet_count": 4904,
+            "listed_count": 68
+        },
+        "protected": false,
+        "username": "dottor",
+        "id": "14582256",
+        "location": "Treviso, Italy"
+    },
+    {
+        "name": "Marco Bortolin",
+        "description": "Ciò che cresce lentamente mette radici profonde",
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 169,
+            "tweet_count": 531,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "marcobortolin",
+        "id": "268982285"
+    },
+    {
+        "name": "webstudio91",
+        "description": "Expert in Web Designing | Web Development | CMS Development | Graphics Designing | Digital Marketing | SEO Service.",
+        "public_metrics": {
+            "followers_count": 278,
+            "following_count": 1929,
+            "tweet_count": 1,
+            "listed_count": 6
+        },
+        "protected": false,
+        "username": "webstudio91",
+        "id": "894830622367039489",
+        "location": "Bangalore, India"
+    },
+    {
+        "name": "Soply",
+        "description": "Freelance job postings & inspiration for videographers, photographers, animators, illustrators, designers. Creative Freelancer? Sign Up: https://t.co/KZKCEThvZJ",
+        "public_metrics": {
+            "followers_count": 43462,
+            "following_count": 45941,
+            "tweet_count": 6337,
+            "listed_count": 468
+        },
+        "protected": false,
+        "username": "SoplyHQ",
+        "id": "2584075007",
+        "location": "Global"
+    },
+    {
+        "name": "Marketing Masala",
+        "description": "Growth Marketing Agency for startups and growing businesses across 5 continents. Check our case studies here : https://t.co/tNa1jE5mei",
+        "public_metrics": {
+            "followers_count": 6507,
+            "following_count": 6492,
+            "tweet_count": 7175,
+            "listed_count": 572
+        },
+        "protected": false,
+        "username": "marketingmasala",
+        "id": "3188653369",
+        "location": "India"
+    },
+    {
+        "name": "Luca Monfredo",
+        "description": "Breaking the DOM since Dreamweaver was a thing",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 223,
+            "tweet_count": 242,
+            "listed_count": 6
+        },
+        "protected": false,
+        "username": "lucamonfredo",
+        "id": "382662969",
+        "location": "Italy"
+    },
+    {
+        "name": "Diego Drigani",
+        "description": "Software Engineer",
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 283,
+            "tweet_count": 554,
+            "listed_count": 11
+        },
+        "protected": false,
+        "username": "drigani",
+        "id": "20497791",
+        "location": "Palmanova, Udine, Italia"
+    },
+    {
+        "name": "Nicola Pressi",
+        "description": "Front-End Developer @ http://t.co/vtiLHuff8Q",
+        "public_metrics": {
+            "followers_count": 177,
+            "following_count": 373,
+            "tweet_count": 1726,
+            "listed_count": 14
+        },
+        "protected": false,
+        "username": "ibanez182",
+        "id": "6612982",
+        "location": "Udine"
+    },
+    {
+        "name": "Devnews.it",
+        "description": "Devnews.it è un sito e #blog con #tutorial #news e altro sul #web #development #italiano.",
+        "public_metrics": {
+            "followers_count": 1289,
+            "following_count": 4673,
+            "tweet_count": 240,
+            "listed_count": 11
+        },
+        "protected": false,
+        "username": "Devnews_it",
+        "id": "764480502560677888",
+        "location": "Roma, Lazio"
+    },
+    {
+        "name": "Alycia",
+        "description": "",
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 151,
+            "tweet_count": 65,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "Alycia_vdgg",
+        "id": "2946708419",
+        "location": "Italia"
+    },
+    {
+        "name": "Steve Maraspin",
+        "description": "Abstraction climber, silos saboteur, interested in #software, #ux, #psychology. @mvlabsit Managing Partner.",
+        "public_metrics": {
+            "followers_count": 1047,
+            "following_count": 782,
+            "tweet_count": 2842,
+            "listed_count": 51
+        },
+        "protected": false,
+        "username": "maraspin",
+        "id": "132493534",
+        "location": "Udine, Italy"
+    }
+]

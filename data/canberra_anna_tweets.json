@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-20T01:43:43.000Z",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1461872854950027265",
+        "lang": "en",
+        "text": "RT @CarloBarbante: Great job folks! Hope to fill them soon with a lot of  @icememory_ and @OldestIce ice cores :-)"
+    },
+    {
+        "created_at": "2021-11-20T01:42:49.000Z",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1461872628826664961",
+        "lang": "und",
+        "text": "RT @FranTardioli: #ChooseItaly"
+    },
+    {
+        "created_at": "2021-11-16T05:34:19.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1460481335722536962",
+        "lang": "en",
+        "text": "RT @Science_Academy: “I’m grateful to have had opportunities to bring science to the service of the nation whilst drawing on my Italian cul…"
+    },
+    {
+        "created_at": "2021-11-16T05:34:03.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1460481267674206214",
+        "lang": "en",
+        "text": "@Science_Academy Congratulation Anna-Maria!"
+    },
+    {
+        "created_at": "2021-11-16T05:28:37.000Z",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1460479901308375042",
+        "lang": "en",
+        "text": "RT @ItalyinAUS: 🎉Congratulations to CEO @Science_Academy Anna-Maria Arabia Cavaliere dell’Ordine della Stella d’Italia 🇮🇹 for her commitmen…"
+    }
+]

@@ -1,0 +1,2786 @@
+[
+    {
+        "protected": false,
+        "id": "24640831",
+        "name": "Dr. Antonio Dottore",
+        "public_metrics": {
+            "followers_count": 1045,
+            "following_count": 934,
+            "tweet_count": 19333,
+            "listed_count": 83
+        },
+        "username": "aDottore"
+    },
+    {
+        "protected": false,
+        "id": "19659370",
+        "name": "Gianluca Demartini",
+        "public_metrics": {
+            "followers_count": 633,
+            "following_count": 679,
+            "tweet_count": 412,
+            "listed_count": 36
+        },
+        "username": "eglu81"
+    },
+    {
+        "protected": false,
+        "id": "440137543",
+        "name": "mario argenio",
+        "public_metrics": {
+            "followers_count": 283,
+            "following_count": 395,
+            "tweet_count": 3560,
+            "listed_count": 10
+        },
+        "username": "MarioArgenio"
+    },
+    {
+        "protected": false,
+        "id": "705240664594722816",
+        "name": "Ernest Gibson",
+        "public_metrics": {
+            "followers_count": 1209,
+            "following_count": 384,
+            "tweet_count": 416,
+            "listed_count": 10
+        },
+        "username": "ErnestKGibson"
+    },
+    {
+        "protected": false,
+        "id": "929004191707738112",
+        "name": "Neekhil Neetij Prasad🇫🇯",
+        "public_metrics": {
+            "followers_count": 317,
+            "following_count": 301,
+            "tweet_count": 368,
+            "listed_count": 3
+        },
+        "username": "neek_neetij"
+    },
+    {
+        "protected": false,
+        "id": "847658771031638017",
+        "name": "Kim Allen",
+        "public_metrics": {
+            "followers_count": 1022,
+            "following_count": 1634,
+            "tweet_count": 772,
+            "listed_count": 1
+        },
+        "username": "kallenr94"
+    },
+    {
+        "protected": false,
+        "id": "176757005",
+        "name": "Raza Hussain Qazi",
+        "public_metrics": {
+            "followers_count": 2632,
+            "following_count": 3411,
+            "tweet_count": 6037,
+            "listed_count": 25
+        },
+        "username": "razashafqat"
+    },
+    {
+        "protected": false,
+        "id": "1037860058564943872",
+        "name": "Energy Information Australia",
+        "public_metrics": {
+            "followers_count": 1271,
+            "following_count": 539,
+            "tweet_count": 2871,
+            "listed_count": 9
+        },
+        "username": "energyinfoaus"
+    },
+    {
+        "protected": false,
+        "id": "481154512",
+        "name": "Ministero della Transizione Ecologica",
+        "public_metrics": {
+            "followers_count": 115262,
+            "following_count": 264,
+            "tweet_count": 6986,
+            "listed_count": 944
+        },
+        "username": "MiTE_IT"
+    },
+    {
+        "protected": false,
+        "id": "17463923",
+        "name": "UN Climate Change",
+        "public_metrics": {
+            "followers_count": 865789,
+            "following_count": 1050,
+            "tweet_count": 28132,
+            "listed_count": 10386
+        },
+        "username": "UNFCCC"
+    },
+    {
+        "protected": false,
+        "id": "1313096635468087297",
+        "name": "CNR ISP",
+        "public_metrics": {
+            "followers_count": 435,
+            "following_count": 513,
+            "tweet_count": 682,
+            "listed_count": 4
+        },
+        "username": "cnrisp"
+    },
+    {
+        "protected": false,
+        "id": "93818188",
+        "name": "Steven Marshall, MP",
+        "public_metrics": {
+            "followers_count": 40252,
+            "following_count": 5766,
+            "tweet_count": 20889,
+            "listed_count": 349
+        },
+        "username": "marshall_steven"
+    },
+    {
+        "protected": false,
+        "id": "178971221",
+        "name": "ITA Sydney",
+        "public_metrics": {
+            "followers_count": 412,
+            "following_count": 158,
+            "tweet_count": 742,
+            "listed_count": 8
+        },
+        "username": "ITASydney"
+    },
+    {
+        "protected": false,
+        "id": "440731894",
+        "name": "Tamar Simons 🌏",
+        "public_metrics": {
+            "followers_count": 117,
+            "following_count": 690,
+            "tweet_count": 377,
+            "listed_count": 2
+        },
+        "username": "O_tam_o"
+    },
+    {
+        "protected": false,
+        "id": "897117943238086656",
+        "name": "Andrea Aromatisi",
+        "public_metrics": {
+            "followers_count": 90,
+            "following_count": 375,
+            "tweet_count": 623,
+            "listed_count": 2
+        },
+        "username": "aromatisi"
+    },
+    {
+        "protected": false,
+        "id": "192942213",
+        "name": "IPCC",
+        "public_metrics": {
+            "followers_count": 321691,
+            "following_count": 896,
+            "tweet_count": 7706,
+            "listed_count": 4626
+        },
+        "username": "IPCC_CH"
+    },
+    {
+        "protected": false,
+        "id": "2890528054",
+        "name": "Energy4Europe 🇪🇺",
+        "public_metrics": {
+            "followers_count": 47605,
+            "following_count": 717,
+            "tweet_count": 7909,
+            "listed_count": 1158
+        },
+        "username": "Energy4Europe"
+    },
+    {
+        "protected": false,
+        "id": "1926360631",
+        "name": "IRENA",
+        "public_metrics": {
+            "followers_count": 111179,
+            "following_count": 488,
+            "tweet_count": 28192,
+            "listed_count": 2005
+        },
+        "username": "IRENA"
+    },
+    {
+        "protected": false,
+        "id": "4342689495",
+        "name": "Mission Innovation",
+        "public_metrics": {
+            "followers_count": 7431,
+            "following_count": 3593,
+            "tweet_count": 3148,
+            "listed_count": 106
+        },
+        "username": "MICleanEnergyRD"
+    },
+    {
+        "protected": false,
+        "id": "88636048",
+        "name": "MUSE_Museum",
+        "public_metrics": {
+            "followers_count": 14178,
+            "following_count": 1744,
+            "tweet_count": 13819,
+            "listed_count": 340
+        },
+        "username": "MUSE_Trento"
+    },
+    {
+        "protected": false,
+        "id": "281949178",
+        "name": "UNI-ITALIA",
+        "public_metrics": {
+            "followers_count": 691,
+            "following_count": 611,
+            "tweet_count": 414,
+            "listed_count": 5
+        },
+        "username": "Uni_Italia"
+    },
+    {
+        "protected": false,
+        "id": "268505032",
+        "name": "Prosecco DOC",
+        "public_metrics": {
+            "followers_count": 4220,
+            "following_count": 3227,
+            "tweet_count": 5216,
+            "listed_count": 98
+        },
+        "username": "ProseccoDOC"
+    },
+    {
+        "protected": false,
+        "id": "734963916934025217",
+        "name": "Women in STEMM at Griffith",
+        "public_metrics": {
+            "followers_count": 414,
+            "following_count": 137,
+            "tweet_count": 287,
+            "listed_count": 12
+        },
+        "username": "WomeninSTEMM_GU"
+    },
+    {
+        "protected": false,
+        "id": "1299239358935965696",
+        "name": "Priya",
+        "public_metrics": {
+            "followers_count": 191,
+            "following_count": 39,
+            "tweet_count": 463,
+            "listed_count": 0
+        },
+        "username": "Priyada96617920"
+    },
+    {
+        "protected": false,
+        "id": "1197363419696877569",
+        "name": "Ella Simons",
+        "public_metrics": {
+            "followers_count": 333,
+            "following_count": 256,
+            "tweet_count": 158,
+            "listed_count": 2
+        },
+        "username": "EllaSimons7"
+    },
+    {
+        "protected": false,
+        "id": "998527912583217152",
+        "name": "SmartSatCRC",
+        "public_metrics": {
+            "followers_count": 822,
+            "following_count": 224,
+            "tweet_count": 151,
+            "listed_count": 23
+        },
+        "username": "SmartSatCRC"
+    },
+    {
+        "protected": false,
+        "id": "1356802402804924419",
+        "name": "The Andy Thomas Space Foundation",
+        "public_metrics": {
+            "followers_count": 378,
+            "following_count": 307,
+            "tweet_count": 112,
+            "listed_count": 1
+        },
+        "username": "AndyThomasSpace"
+    },
+    {
+        "protected": false,
+        "id": "1237760376051249153",
+        "name": "Youth4Climate",
+        "public_metrics": {
+            "followers_count": 10482,
+            "following_count": 663,
+            "tweet_count": 2004,
+            "listed_count": 69
+        },
+        "username": "Y4Cofficial"
+    },
+    {
+        "protected": false,
+        "id": "3385886236",
+        "name": "CREA_Ricerca",
+        "public_metrics": {
+            "followers_count": 4848,
+            "following_count": 1169,
+            "tweet_count": 6185,
+            "listed_count": 100
+        },
+        "username": "CREA_Ricerca"
+    },
+    {
+        "protected": false,
+        "id": "1106538405469540353",
+        "name": "Women in Geospatial+",
+        "public_metrics": {
+            "followers_count": 8208,
+            "following_count": 268,
+            "tweet_count": 2160,
+            "listed_count": 101
+        },
+        "username": "geospatialwomen"
+    },
+    {
+        "protected": false,
+        "id": "748718948661669889",
+        "name": "Alex Whitebrook",
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 77,
+            "tweet_count": 60,
+            "listed_count": 0
+        },
+        "username": "AlexWhitebrook1"
+    },
+    {
+        "protected": false,
+        "id": "1120567702114852864",
+        "name": "Daniela Scaccabarozzi",
+        "public_metrics": {
+            "followers_count": 227,
+            "following_count": 254,
+            "tweet_count": 522,
+            "listed_count": 3
+        },
+        "username": "DanielaScaccab1"
+    },
+    {
+        "protected": false,
+        "id": "1050541543264641024",
+        "name": "ANU Italian Studies",
+        "public_metrics": {
+            "followers_count": 359,
+            "following_count": 863,
+            "tweet_count": 719,
+            "listed_count": 1
+        },
+        "username": "italianANU"
+    },
+    {
+        "protected": false,
+        "id": "3180039403",
+        "name": "SBS Radio",
+        "public_metrics": {
+            "followers_count": 3236,
+            "following_count": 546,
+            "tweet_count": 7657,
+            "listed_count": 57
+        },
+        "username": "SBSRadio"
+    },
+    {
+        "protected": false,
+        "id": "1094052793965367297",
+        "name": "Melissa Brown",
+        "public_metrics": {
+            "followers_count": 358,
+            "following_count": 371,
+            "tweet_count": 149,
+            "listed_count": 4
+        },
+        "username": "MelissaBrownAus"
+    },
+    {
+        "protected": false,
+        "id": "1191255200088018945",
+        "name": "Hilliard Lab",
+        "public_metrics": {
+            "followers_count": 477,
+            "following_count": 397,
+            "tweet_count": 78,
+            "listed_count": 2
+        },
+        "username": "HilliardLab"
+    },
+    {
+        "protected": false,
+        "id": "1171987256120209408",
+        "name": "Chiara Palmieri",
+        "public_metrics": {
+            "followers_count": 251,
+            "following_count": 551,
+            "tweet_count": 89,
+            "listed_count": 2
+        },
+        "username": "PalmieriVetPath"
+    },
+    {
+        "protected": false,
+        "id": "56791988",
+        "name": "Hugh Possingham",
+        "public_metrics": {
+            "followers_count": 17361,
+            "following_count": 13363,
+            "tweet_count": 11745,
+            "listed_count": 278
+        },
+        "username": "HugePossum"
+    },
+    {
+        "protected": false,
+        "id": "1122141932862550023",
+        "name": "ColMargheritaObservatoryCNR",
+        "public_metrics": {
+            "followers_count": 130,
+            "following_count": 25,
+            "tweet_count": 2988,
+            "listed_count": 0
+        },
+        "username": "mrgCNR"
+    },
+    {
+        "protected": false,
+        "id": "3359338203",
+        "name": "DFAT South Australia",
+        "public_metrics": {
+            "followers_count": 2885,
+            "following_count": 959,
+            "tweet_count": 2060,
+            "listed_count": 60
+        },
+        "username": "DFATinSA"
+    },
+    {
+        "protected": false,
+        "id": "971359111",
+        "name": "Dr. Mike Todorovic 🧠",
+        "public_metrics": {
+            "followers_count": 25988,
+            "following_count": 3344,
+            "tweet_count": 10325,
+            "listed_count": 127
+        },
+        "username": "drmiketodorovic"
+    },
+    {
+        "protected": false,
+        "id": "1453397780",
+        "name": "Mario Paolucci",
+        "public_metrics": {
+            "followers_count": 302,
+            "following_count": 578,
+            "tweet_count": 3335,
+            "listed_count": 29
+        },
+        "username": "mario_paolucci"
+    },
+    {
+        "protected": false,
+        "id": "832923678203473921",
+        "name": "Sarah Brown",
+        "public_metrics": {
+            "followers_count": 489,
+            "following_count": 395,
+            "tweet_count": 2064,
+            "listed_count": 6
+        },
+        "username": "sciausembeu"
+    },
+    {
+        "protected": false,
+        "id": "21860097",
+        "name": "Francesco La Camera",
+        "public_metrics": {
+            "followers_count": 5723,
+            "following_count": 653,
+            "tweet_count": 1747,
+            "listed_count": 70
+        },
+        "username": "flacamera"
+    },
+    {
+        "protected": false,
+        "id": "1730752513",
+        "name": "Paola A. Magni",
+        "public_metrics": {
+            "followers_count": 1300,
+            "following_count": 782,
+            "tweet_count": 1501,
+            "listed_count": 12
+        },
+        "username": "doc_magni"
+    },
+    {
+        "protected": false,
+        "id": "1267957085007802368",
+        "name": "Ambassador for the Environment",
+        "public_metrics": {
+            "followers_count": 2248,
+            "following_count": 412,
+            "tweet_count": 1684,
+            "listed_count": 25
+        },
+        "username": "AusAmbEnviro"
+    },
+    {
+        "protected": false,
+        "id": "50229217",
+        "name": "NYSF - 38yrs in 2021!",
+        "public_metrics": {
+            "followers_count": 2646,
+            "following_count": 1941,
+            "tweet_count": 12131,
+            "listed_count": 115
+        },
+        "username": "NYSFoz"
+    },
+    {
+        "protected": false,
+        "id": "822865106",
+        "name": "Luna Rossa Prada Pirelli Team",
+        "public_metrics": {
+            "followers_count": 30151,
+            "following_count": 69,
+            "tweet_count": 984,
+            "listed_count": 246
+        },
+        "username": "lunarossa"
+    },
+    {
+        "protected": false,
+        "id": "2194362460",
+        "name": "Emanuela Vignola",
+        "public_metrics": {
+            "followers_count": 549,
+            "following_count": 772,
+            "tweet_count": 1163,
+            "listed_count": 10
+        },
+        "username": "e_vignola"
+    },
+    {
+        "protected": false,
+        "id": "1232783237623119872",
+        "name": "NASA's Perseverance Mars Rover",
+        "public_metrics": {
+            "followers_count": 2860794,
+            "following_count": 57,
+            "tweet_count": 777,
+            "listed_count": 6731
+        },
+        "username": "NASAPersevere"
+    },
+    {
+        "protected": false,
+        "id": "1088386238678220801",
+        "name": "LIFE Metro Adapt",
+        "public_metrics": {
+            "followers_count": 290,
+            "following_count": 740,
+            "tweet_count": 394,
+            "listed_count": 4
+        },
+        "username": "LIFEMetroAdapt"
+    },
+    {
+        "protected": false,
+        "id": "4362361879",
+        "name": "Nutrition Expert | Alessandra",
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 59,
+            "tweet_count": 393,
+            "listed_count": 4
+        },
+        "username": "aless_nutrition"
+    },
+    {
+        "protected": false,
+        "id": "3010622678",
+        "name": "Flavia Tata Nardini",
+        "public_metrics": {
+            "followers_count": 2888,
+            "following_count": 138,
+            "tweet_count": 492,
+            "listed_count": 78
+        },
+        "username": "flavia_space"
+    },
+    {
+        "protected": false,
+        "id": "4785218318",
+        "name": "Fleet Space Technologies",
+        "public_metrics": {
+            "followers_count": 3201,
+            "following_count": 225,
+            "tweet_count": 343,
+            "listed_count": 81
+        },
+        "username": "fleetspace"
+    },
+    {
+        "protected": false,
+        "id": "1354811339516993537",
+        "name": "Viviana Cigolotti",
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 11,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "VivianaCigolot1"
+    },
+    {
+        "protected": false,
+        "id": "21436960",
+        "name": "ESA",
+        "public_metrics": {
+            "followers_count": 1312171,
+            "following_count": 852,
+            "tweet_count": 51672,
+            "listed_count": 14966
+        },
+        "username": "esa"
+    },
+    {
+        "protected": false,
+        "id": "1278574842376159232",
+        "name": "EURAXESS Australia & New Zealand",
+        "public_metrics": {
+            "followers_count": 681,
+            "following_count": 50,
+            "tweet_count": 361,
+            "listed_count": 8
+        },
+        "username": "Euraxess_AusNZ"
+    },
+    {
+        "protected": false,
+        "id": "369898778",
+        "name": "Magica Fossati",
+        "public_metrics": {
+            "followers_count": 520,
+            "following_count": 519,
+            "tweet_count": 1573,
+            "listed_count": 14
+        },
+        "username": "magicafossati"
+    },
+    {
+        "protected": false,
+        "id": "969698113819561984",
+        "name": "Dr Paula Zito",
+        "public_metrics": {
+            "followers_count": 254,
+            "following_count": 540,
+            "tweet_count": 200,
+            "listed_count": 5
+        },
+        "username": "DrPaulaZito"
+    },
+    {
+        "protected": false,
+        "id": "337648031",
+        "name": "energygovau",
+        "public_metrics": {
+            "followers_count": 4819,
+            "following_count": 1601,
+            "tweet_count": 13653,
+            "listed_count": 167
+        },
+        "username": "energygovau"
+    },
+    {
+        "protected": false,
+        "id": "1348640898",
+        "name": "saulo martelli",
+        "public_metrics": {
+            "followers_count": 204,
+            "following_count": 152,
+            "tweet_count": 55,
+            "listed_count": 2
+        },
+        "username": "saulo_martelli"
+    },
+    {
+        "protected": false,
+        "id": "1264696895441526784",
+        "name": "DrMarmo",
+        "public_metrics": {
+            "followers_count": 278,
+            "following_count": 302,
+            "tweet_count": 290,
+            "listed_count": 1
+        },
+        "username": "MarmoDr"
+    },
+    {
+        "protected": false,
+        "id": "747074794751832064",
+        "name": "Egon Perilli",
+        "public_metrics": {
+            "followers_count": 466,
+            "following_count": 358,
+            "tweet_count": 300,
+            "listed_count": 3
+        },
+        "username": "EgonPerilli"
+    },
+    {
+        "protected": false,
+        "id": "1324872564116647936",
+        "name": "Gabriele Abbondanza",
+        "public_metrics": {
+            "followers_count": 358,
+            "following_count": 525,
+            "tweet_count": 726,
+            "listed_count": 4
+        },
+        "username": "Dr_G_Abbondanza"
+    },
+    {
+        "protected": false,
+        "id": "589453745",
+        "name": "Harriet Scandol 🌱",
+        "public_metrics": {
+            "followers_count": 176,
+            "following_count": 623,
+            "tweet_count": 286,
+            "listed_count": 1
+        },
+        "username": "HarrietScandol"
+    },
+    {
+        "protected": false,
+        "id": "2224376731",
+        "name": "CBR foodie",
+        "public_metrics": {
+            "followers_count": 5802,
+            "following_count": 6133,
+            "tweet_count": 34608,
+            "listed_count": 204
+        },
+        "username": "CBRFoodie"
+    },
+    {
+        "protected": false,
+        "id": "3069136670",
+        "name": "Sarah Brown",
+        "public_metrics": {
+            "followers_count": 124,
+            "following_count": 318,
+            "tweet_count": 117,
+            "listed_count": 4
+        },
+        "username": "sarah4br"
+    },
+    {
+        "protected": false,
+        "id": "108550570",
+        "name": "ENEA",
+        "public_metrics": {
+            "followers_count": 15210,
+            "following_count": 5844,
+            "tweet_count": 27268,
+            "listed_count": 425
+        },
+        "username": "ENEAOfficial"
+    },
+    {
+        "protected": false,
+        "id": "3963576132",
+        "name": "ANU Inst for Climate, Energy & Disaster Solutions",
+        "public_metrics": {
+            "followers_count": 1972,
+            "following_count": 554,
+            "tweet_count": 2643,
+            "listed_count": 46
+        },
+        "username": "ANUEnergyChange"
+    },
+    {
+        "protected": false,
+        "id": "1710170425",
+        "name": "Argotec",
+        "public_metrics": {
+            "followers_count": 9072,
+            "following_count": 3530,
+            "tweet_count": 5006,
+            "listed_count": 116
+        },
+        "username": "Argotec_Space"
+    },
+    {
+        "protected": false,
+        "id": "876264152825778176",
+        "name": "Carlo Barbante",
+        "public_metrics": {
+            "followers_count": 307,
+            "following_count": 62,
+            "tweet_count": 535,
+            "listed_count": 6
+        },
+        "username": "CarloBarbante"
+    },
+    {
+        "protected": false,
+        "id": "755942606",
+        "name": "Vicki Treadell",
+        "public_metrics": {
+            "followers_count": 17408,
+            "following_count": 1446,
+            "tweet_count": 29049,
+            "listed_count": 169
+        },
+        "username": "VickiTreadell"
+    },
+    {
+        "protected": false,
+        "id": "925441731331543040",
+        "name": "G20 Italy",
+        "public_metrics": {
+            "followers_count": 504364,
+            "following_count": 124,
+            "tweet_count": 2839,
+            "listed_count": 660
+        },
+        "username": "g20org"
+    },
+    {
+        "protected": false,
+        "id": "956760574888562688",
+        "name": "A/Prof Nenad Naumovski (PhD, MAIFST)",
+        "public_metrics": {
+            "followers_count": 748,
+            "following_count": 456,
+            "tweet_count": 4430,
+            "listed_count": 9
+        },
+        "username": "NaumovskiNenad"
+    },
+    {
+        "protected": false,
+        "id": "1285522162464382977",
+        "name": "Rachele Grassi",
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 79,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "username": "rac_grassi"
+    },
+    {
+        "protected": false,
+        "id": "903255950",
+        "name": "Cormac Farrell",
+        "public_metrics": {
+            "followers_count": 5798,
+            "following_count": 4184,
+            "tweet_count": 28943,
+            "listed_count": 104
+        },
+        "username": "jagungal1"
+    },
+    {
+        "protected": false,
+        "id": "339754094",
+        "name": "Connect4Climate",
+        "public_metrics": {
+            "followers_count": 152923,
+            "following_count": 6776,
+            "tweet_count": 44511,
+            "listed_count": 1481
+        },
+        "username": "Connect4Climate"
+    },
+    {
+        "protected": false,
+        "id": "763552915013324800",
+        "name": "NSW Smart Sensing Network",
+        "public_metrics": {
+            "followers_count": 2788,
+            "following_count": 2198,
+            "tweet_count": 4903,
+            "listed_count": 28
+        },
+        "username": "NSWsensing"
+    },
+    {
+        "protected": false,
+        "id": "14159148",
+        "name": "United Nations",
+        "public_metrics": {
+            "followers_count": 14640011,
+            "following_count": 1195,
+            "tweet_count": 82301,
+            "listed_count": 42483
+        },
+        "username": "UN"
+    },
+    {
+        "protected": false,
+        "id": "951849480277647362",
+        "name": "Human Technopole",
+        "public_metrics": {
+            "followers_count": 5402,
+            "following_count": 393,
+            "tweet_count": 1121,
+            "listed_count": 24
+        },
+        "username": "humantechnopole"
+    },
+    {
+        "protected": false,
+        "id": "4823641894",
+        "name": "Thales Alenia Space",
+        "public_metrics": {
+            "followers_count": 43647,
+            "following_count": 985,
+            "tweet_count": 5896,
+            "listed_count": 421
+        },
+        "username": "Thales_Alenia_S"
+    },
+    {
+        "protected": false,
+        "id": "3532585695",
+        "name": "GAF AG",
+        "public_metrics": {
+            "followers_count": 1092,
+            "following_count": 574,
+            "tweet_count": 7490,
+            "listed_count": 26
+        },
+        "username": "GAF_Munich"
+    },
+    {
+        "protected": false,
+        "id": "8439372",
+        "name": "EARSC",
+        "public_metrics": {
+            "followers_count": 5411,
+            "following_count": 1076,
+            "tweet_count": 5275,
+            "listed_count": 182
+        },
+        "username": "earsc"
+    },
+    {
+        "protected": false,
+        "id": "166090910",
+        "name": "Leonardo",
+        "public_metrics": {
+            "followers_count": 57563,
+            "following_count": 1500,
+            "tweet_count": 11715,
+            "listed_count": 461
+        },
+        "username": "Leonardo_live"
+    },
+    {
+        "protected": false,
+        "id": "46848753",
+        "name": "Roberto Battiston",
+        "public_metrics": {
+            "followers_count": 7743,
+            "following_count": 418,
+            "tweet_count": 1275,
+            "listed_count": 101
+        },
+        "username": "Rb_Bat"
+    },
+    {
+        "protected": false,
+        "id": "615029235",
+        "name": "Leonardo",
+        "public_metrics": {
+            "followers_count": 33464,
+            "following_count": 1261,
+            "tweet_count": 11887,
+            "listed_count": 198
+        },
+        "username": "Leonardo_IT"
+    },
+    {
+        "protected": false,
+        "id": "1179949455556001792",
+        "name": "Young Persons' Plan for the Planet",
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 889,
+            "tweet_count": 128,
+            "listed_count": 1
+        },
+        "username": "YPPPlanet"
+    },
+    {
+        "protected": false,
+        "id": "374213379",
+        "name": "🇮🇹 Domenico Fornara 🇪🇺",
+        "public_metrics": {
+            "followers_count": 2221,
+            "following_count": 567,
+            "tweet_count": 7121,
+            "listed_count": 47
+        },
+        "username": "DFornara"
+    },
+    {
+        "protected": false,
+        "id": "3880615822",
+        "name": "Copernicus Land Monitoring Service",
+        "public_metrics": {
+            "followers_count": 9758,
+            "following_count": 791,
+            "tweet_count": 9088,
+            "listed_count": 175
+        },
+        "username": "CopernicusLand"
+    },
+    {
+        "protected": false,
+        "id": "2891873890",
+        "name": "INMI Spallanzani Official",
+        "public_metrics": {
+            "followers_count": 7145,
+            "following_count": 204,
+            "tweet_count": 2867,
+            "listed_count": 71
+        },
+        "username": "INMISpallanzani"
+    },
+    {
+        "protected": false,
+        "id": "3240356767",
+        "name": "SKA Australia",
+        "public_metrics": {
+            "followers_count": 2156,
+            "following_count": 438,
+            "tweet_count": 1357,
+            "listed_count": 0
+        },
+        "username": "SKA_Australia"
+    },
+    {
+        "protected": false,
+        "id": "620128410",
+        "name": "Science Week ACT",
+        "public_metrics": {
+            "followers_count": 1075,
+            "following_count": 635,
+            "tweet_count": 2252,
+            "listed_count": 26
+        },
+        "username": "nswk_ACT"
+    },
+    {
+        "protected": false,
+        "id": "187881236",
+        "name": "Luca Biferale",
+        "public_metrics": {
+            "followers_count": 146,
+            "following_count": 369,
+            "tweet_count": 138,
+            "listed_count": 0
+        },
+        "username": "lucabiferale"
+    },
+    {
+        "protected": false,
+        "id": "1253357541058174977",
+        "name": "Emilia Giorgetti",
+        "public_metrics": {
+            "followers_count": 273,
+            "following_count": 126,
+            "tweet_count": 611,
+            "listed_count": 2
+        },
+        "username": "EmiliaGiorgett1"
+    },
+    {
+        "protected": false,
+        "id": "1053040371591077888",
+        "name": "Fabiotramille",
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 610,
+            "tweet_count": 489,
+            "listed_count": 5
+        },
+        "username": "FSpadi"
+    },
+    {
+        "protected": false,
+        "id": "4212104848",
+        "name": "Italia CyT",
+        "public_metrics": {
+            "followers_count": 116,
+            "following_count": 60,
+            "tweet_count": 258,
+            "listed_count": 2
+        },
+        "username": "ItaliaCyT"
+    },
+    {
+        "protected": false,
+        "id": "461800187",
+        "name": "Salvatore Trincone",
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 56,
+            "tweet_count": 52,
+            "listed_count": 0
+        },
+        "username": "strincone"
+    },
+    {
+        "protected": false,
+        "id": "93579404",
+        "name": "Brian P Schmidt",
+        "public_metrics": {
+            "followers_count": 30293,
+            "following_count": 976,
+            "tweet_count": 15586,
+            "listed_count": 565
+        },
+        "username": "cosmicpinot"
+    },
+    {
+        "protected": false,
+        "id": "33321705",
+        "name": "Andrea Ambrogetti",
+        "public_metrics": {
+            "followers_count": 817,
+            "following_count": 3022,
+            "tweet_count": 4297,
+            "listed_count": 21
+        },
+        "username": "A_Ambrogetti"
+    },
+    {
+        "protected": false,
+        "id": "1195025771368239106",
+        "name": "COP26",
+        "public_metrics": {
+            "followers_count": 228699,
+            "following_count": 506,
+            "tweet_count": 5846,
+            "listed_count": 1503
+        },
+        "username": "COP26"
+    },
+    {
+        "protected": false,
+        "id": "902397885039362049",
+        "name": "Energy Magazine",
+        "public_metrics": {
+            "followers_count": 992,
+            "following_count": 317,
+            "tweet_count": 2134,
+            "listed_count": 17
+        },
+        "username": "AusEnergyMag"
+    },
+    {
+        "protected": false,
+        "id": "2540611459",
+        "name": "Australian Renewable Energy Agency",
+        "public_metrics": {
+            "followers_count": 12739,
+            "following_count": 1303,
+            "tweet_count": 3620,
+            "listed_count": 238
+        },
+        "username": "ARENA_aus"
+    },
+    {
+        "protected": false,
+        "id": "1005336994845732864",
+        "name": "Alessandro Negrin",
+        "public_metrics": {
+            "followers_count": 458,
+            "following_count": 797,
+            "tweet_count": 1467,
+            "listed_count": 2
+        },
+        "username": "AleNegrin13"
+    },
+    {
+        "protected": false,
+        "id": "1055531941255098370",
+        "name": "Federica Fricano",
+        "public_metrics": {
+            "followers_count": 997,
+            "following_count": 216,
+            "tweet_count": 372,
+            "listed_count": 11
+        },
+        "username": "kikafric"
+    },
+    {
+        "protected": false,
+        "id": "201189735",
+        "name": "SKA Observatory",
+        "public_metrics": {
+            "followers_count": 25094,
+            "following_count": 619,
+            "tweet_count": 3029,
+            "listed_count": 433
+        },
+        "username": "SKAO"
+    },
+    {
+        "protected": false,
+        "id": "3158689771",
+        "name": "Australia's Chief Scientist",
+        "public_metrics": {
+            "followers_count": 24878,
+            "following_count": 473,
+            "tweet_count": 3631,
+            "listed_count": 275
+        },
+        "username": "ScienceChiefAu"
+    },
+    {
+        "protected": false,
+        "id": "1701326990",
+        "name": "Mario Pennisi AM",
+        "public_metrics": {
+            "followers_count": 1802,
+            "following_count": 3671,
+            "tweet_count": 32486,
+            "listed_count": 260
+        },
+        "username": "pennisi_m"
+    },
+    {
+        "protected": false,
+        "id": "999578121123848192",
+        "name": "Giuseppe Conte",
+        "public_metrics": {
+            "followers_count": 1045399,
+            "following_count": 137,
+            "tweet_count": 1645,
+            "listed_count": 1935
+        },
+        "username": "GiuseppeConteIT"
+    },
+    {
+        "protected": false,
+        "id": "1142345372",
+        "name": "Gianrico Carofiglio",
+        "public_metrics": {
+            "followers_count": 127454,
+            "following_count": 270,
+            "tweet_count": 2870,
+            "listed_count": 289
+        },
+        "username": "GianricoCarof"
+    },
+    {
+        "protected": false,
+        "id": "958522192857251841",
+        "name": "Nicola Carè",
+        "public_metrics": {
+            "followers_count": 640,
+            "following_count": 133,
+            "tweet_count": 539,
+            "listed_count": 11
+        },
+        "username": "careitaly"
+    },
+    {
+        "protected": false,
+        "id": "429355651",
+        "name": "World Ocean Day",
+        "public_metrics": {
+            "followers_count": 34796,
+            "following_count": 1616,
+            "tweet_count": 13171,
+            "listed_count": 466
+        },
+        "username": "WorldOceansDay"
+    },
+    {
+        "protected": false,
+        "id": "4651886781",
+        "name": "Leonardo Space",
+        "public_metrics": {
+            "followers_count": 8074,
+            "following_count": 240,
+            "tweet_count": 2776,
+            "listed_count": 58
+        },
+        "username": "LDO_Space"
+    },
+    {
+        "protected": false,
+        "id": "3397614014",
+        "name": "Arthur Sinodinos AO",
+        "public_metrics": {
+            "followers_count": 12532,
+            "following_count": 3195,
+            "tweet_count": 1249,
+            "listed_count": 219
+        },
+        "username": "A_Sinodinos"
+    },
+    {
+        "protected": false,
+        "id": "92437591",
+        "name": "Anna-Maria Arabia",
+        "public_metrics": {
+            "followers_count": 1805,
+            "following_count": 1510,
+            "tweet_count": 1176,
+            "listed_count": 52
+        },
+        "username": "ayyemm"
+    },
+    {
+        "protected": false,
+        "id": "361249278",
+        "name": "ICGEB Official",
+        "public_metrics": {
+            "followers_count": 6160,
+            "following_count": 856,
+            "tweet_count": 11776,
+            "listed_count": 121
+        },
+        "username": "ICGEB"
+    },
+    {
+        "protected": false,
+        "id": "124171501",
+        "name": "MEDIA INAF",
+        "public_metrics": {
+            "followers_count": 12887,
+            "following_count": 1189,
+            "tweet_count": 17285,
+            "listed_count": 302
+        },
+        "username": "mediainaf"
+    },
+    {
+        "protected": false,
+        "id": "516952735",
+        "name": "Telespazio",
+        "public_metrics": {
+            "followers_count": 6249,
+            "following_count": 965,
+            "tweet_count": 11256,
+            "listed_count": 143
+        },
+        "username": "telespazio"
+    },
+    {
+        "protected": false,
+        "id": "1284010620",
+        "name": "Massimo c comparini",
+        "public_metrics": {
+            "followers_count": 2099,
+            "following_count": 4746,
+            "tweet_count": 5056,
+            "listed_count": 117
+        },
+        "username": "massimoc_square"
+    },
+    {
+        "protected": false,
+        "id": "2317273591",
+        "name": "e-GEOS",
+        "public_metrics": {
+            "followers_count": 3555,
+            "following_count": 848,
+            "tweet_count": 3336,
+            "listed_count": 75
+        },
+        "username": "e_geos"
+    },
+    {
+        "protected": false,
+        "id": "16976682",
+        "name": "Queensland Australia",
+        "public_metrics": {
+            "followers_count": 159097,
+            "following_count": 4630,
+            "tweet_count": 69934,
+            "listed_count": 1581
+        },
+        "username": "Queensland"
+    },
+    {
+        "protected": false,
+        "id": "21814628",
+        "name": "Australia",
+        "public_metrics": {
+            "followers_count": 613854,
+            "following_count": 2241,
+            "tweet_count": 17023,
+            "listed_count": 2564
+        },
+        "username": "Australia"
+    },
+    {
+        "protected": false,
+        "id": "3074318802",
+        "name": "Anna Rita Tamponi",
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 59,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Anna_Rita_T"
+    },
+    {
+        "protected": false,
+        "id": "14499829",
+        "name": "World Health Organization (WHO)",
+        "public_metrics": {
+            "followers_count": 10155190,
+            "following_count": 1750,
+            "tweet_count": 66021,
+            "listed_count": 34343
+        },
+        "username": "WHO"
+    },
+    {
+        "protected": false,
+        "id": "3083906221",
+        "name": "Pia Campagna",
+        "public_metrics": {
+            "followers_count": 527,
+            "following_count": 1382,
+            "tweet_count": 343,
+            "listed_count": 7
+        },
+        "username": "PiaCampagna"
+    },
+    {
+        "protected": false,
+        "id": "125403342",
+        "name": "WHO/Europe",
+        "public_metrics": {
+            "followers_count": 172979,
+            "following_count": 866,
+            "tweet_count": 25281,
+            "listed_count": 1843
+        },
+        "username": "WHO_Europe"
+    },
+    {
+        "protected": false,
+        "id": "1068378295916355584",
+        "name": "Chief Scientist for South Australia",
+        "public_metrics": {
+            "followers_count": 3931,
+            "following_count": 782,
+            "tweet_count": 1536,
+            "listed_count": 29
+        },
+        "username": "sachiefsci"
+    },
+    {
+        "protected": false,
+        "id": "707300974998769664",
+        "name": "WIIS Italy",
+        "public_metrics": {
+            "followers_count": 938,
+            "following_count": 223,
+            "tweet_count": 947,
+            "listed_count": 12
+        },
+        "username": "WIISItaly"
+    },
+    {
+        "protected": false,
+        "id": "35479993",
+        "name": "@GreenWeek 🌍",
+        "public_metrics": {
+            "followers_count": 5220,
+            "following_count": 1004,
+            "tweet_count": 4175,
+            "listed_count": 183
+        },
+        "username": "greenweek"
+    },
+    {
+        "protected": false,
+        "id": "1146329871418843136",
+        "name": "Ursula von der Leyen",
+        "public_metrics": {
+            "followers_count": 670108,
+            "following_count": 185,
+            "tweet_count": 2582,
+            "listed_count": 3634
+        },
+        "username": "vonderleyen"
+    },
+    {
+        "protected": false,
+        "id": "993249055",
+        "name": "Future Earth",
+        "public_metrics": {
+            "followers_count": 24030,
+            "following_count": 910,
+            "tweet_count": 7890,
+            "listed_count": 662
+        },
+        "username": "FutureEarth"
+    },
+    {
+        "protected": false,
+        "id": "1180826158033588224",
+        "name": "italianiasydney",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 9,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "italianiasydney"
+    },
+    {
+        "protected": false,
+        "id": "1090376613663887360",
+        "name": "Com.It.Es Qld & NT",
+        "public_metrics": {
+            "followers_count": 106,
+            "following_count": 405,
+            "tweet_count": 521,
+            "listed_count": 0
+        },
+        "username": "ComQld"
+    },
+    {
+        "protected": false,
+        "id": "1187328888583507968",
+        "name": "Italian Business Women's Network Australia",
+        "public_metrics": {
+            "followers_count": 237,
+            "following_count": 510,
+            "tweet_count": 268,
+            "listed_count": 0
+        },
+        "username": "BusinessItalian"
+    },
+    {
+        "protected": false,
+        "id": "1247447558030581760",
+        "name": "Marzotto Venture Accelerator",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 83,
+            "tweet_count": 41,
+            "listed_count": 0
+        },
+        "username": "MarzottoVenture"
+    },
+    {
+        "protected": false,
+        "id": "970943839",
+        "name": "Vincent Tarzia, MP",
+        "public_metrics": {
+            "followers_count": 3522,
+            "following_count": 4985,
+            "tweet_count": 10928,
+            "listed_count": 49
+        },
+        "username": "VincentTarzia"
+    },
+    {
+        "protected": false,
+        "id": "500728774",
+        "name": "Cathy Foley",
+        "public_metrics": {
+            "followers_count": 3926,
+            "following_count": 119,
+            "tweet_count": 123,
+            "listed_count": 24
+        },
+        "username": "DrCathyFoley"
+    },
+    {
+        "protected": false,
+        "id": "1240593478456938498",
+        "name": "Consolato d’Italia a Perth",
+        "public_metrics": {
+            "followers_count": 485,
+            "following_count": 642,
+            "tweet_count": 535,
+            "listed_count": 8
+        },
+        "username": "ItalyinPerth"
+    },
+    {
+        "protected": false,
+        "id": "277889424",
+        "name": "ESA EarthObservation",
+        "public_metrics": {
+            "followers_count": 106835,
+            "following_count": 2401,
+            "tweet_count": 23779,
+            "listed_count": 2035
+        },
+        "username": "ESA_EO"
+    },
+    {
+        "protected": false,
+        "id": "2201283403",
+        "name": "Copernicus EMS",
+        "public_metrics": {
+            "followers_count": 50574,
+            "following_count": 1420,
+            "tweet_count": 30792,
+            "listed_count": 916
+        },
+        "username": "CopernicusEMS"
+    },
+    {
+        "protected": false,
+        "id": "1052855931157995525",
+        "name": "Antonio Di Ieva",
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 18,
+            "tweet_count": 65,
+            "listed_count": 4
+        },
+        "username": "antonio_ieva"
+    },
+    {
+        "protected": false,
+        "id": "1082435604997001216",
+        "name": "Italy in Brisbane",
+        "public_metrics": {
+            "followers_count": 577,
+            "following_count": 1105,
+            "tweet_count": 427,
+            "listed_count": 8
+        },
+        "username": "ItalyinBrisbane"
+    },
+    {
+        "protected": false,
+        "id": "925901922153795584",
+        "name": "UNSWOceanography",
+        "public_metrics": {
+            "followers_count": 200,
+            "following_count": 39,
+            "tweet_count": 145,
+            "listed_count": 4
+        },
+        "username": "OceanRes_UNSW"
+    },
+    {
+        "protected": false,
+        "id": "1091461495051960321",
+        "name": "Stefano Ventura",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 58,
+            "tweet_count": 75,
+            "listed_count": 0
+        },
+        "username": "Ste_Ven_59"
+    },
+    {
+        "protected": false,
+        "id": "1240771852395413504",
+        "name": "Australian Government",
+        "public_metrics": {
+            "followers_count": 54397,
+            "following_count": 76,
+            "tweet_count": 2188,
+            "listed_count": 242
+        },
+        "username": "ausgov"
+    },
+    {
+        "protected": false,
+        "id": "2342923129",
+        "name": "AIBN Research",
+        "public_metrics": {
+            "followers_count": 2310,
+            "following_count": 391,
+            "tweet_count": 1837,
+            "listed_count": 32
+        },
+        "username": "AIBNatUQ"
+    },
+    {
+        "protected": false,
+        "id": "780579255256174592",
+        "name": "Italy in New Zealand",
+        "public_metrics": {
+            "followers_count": 1588,
+            "following_count": 304,
+            "tweet_count": 3244,
+            "listed_count": 0
+        },
+        "username": "ItalyinNZ"
+    },
+    {
+        "protected": false,
+        "id": "4493879052",
+        "name": "Italy in Sydney",
+        "public_metrics": {
+            "followers_count": 1184,
+            "following_count": 179,
+            "tweet_count": 376,
+            "listed_count": 27
+        },
+        "username": "ItalyinSydney"
+    },
+    {
+        "protected": false,
+        "id": "3015890633",
+        "name": "Italy in Adelaide",
+        "public_metrics": {
+            "followers_count": 2112,
+            "following_count": 273,
+            "tweet_count": 1744,
+            "listed_count": 40
+        },
+        "username": "ItalyinAdelaide"
+    },
+    {
+        "protected": false,
+        "id": "1733662116",
+        "name": "Italy in Melbourne",
+        "public_metrics": {
+            "followers_count": 2313,
+            "following_count": 124,
+            "tweet_count": 4716,
+            "listed_count": 71
+        },
+        "username": "ItalyinMelb"
+    },
+    {
+        "protected": false,
+        "id": "47318173",
+        "name": "Karen Andrews MP",
+        "public_metrics": {
+            "followers_count": 16117,
+            "following_count": 615,
+            "tweet_count": 3632,
+            "listed_count": 378
+        },
+        "username": "karenandrewsmp"
+    },
+    {
+        "protected": false,
+        "id": "4196389095",
+        "name": "Anthony Murfett",
+        "public_metrics": {
+            "followers_count": 2591,
+            "following_count": 949,
+            "tweet_count": 1550,
+            "listed_count": 56
+        },
+        "username": "DeputyHdSpaceAu"
+    },
+    {
+        "protected": false,
+        "id": "1033956293210329088",
+        "name": "Australian Space Agency",
+        "public_metrics": {
+            "followers_count": 29013,
+            "following_count": 381,
+            "tweet_count": 2695,
+            "listed_count": 397
+        },
+        "username": "AusSpaceAgency"
+    },
+    {
+        "protected": false,
+        "id": "1061500455874772993",
+        "name": "Enrico Palermo",
+        "public_metrics": {
+            "followers_count": 3430,
+            "following_count": 75,
+            "tweet_count": 63,
+            "listed_count": 50
+        },
+        "username": "HeadSpaceAu"
+    },
+    {
+        "protected": false,
+        "id": "162997433",
+        "name": "Salvatore Napolitano",
+        "public_metrics": {
+            "followers_count": 387,
+            "following_count": 1124,
+            "tweet_count": 298,
+            "listed_count": 6
+        },
+        "username": "SalvNapolitano"
+    },
+    {
+        "protected": false,
+        "id": "80058382",
+        "name": "RossoMirto",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 153,
+            "tweet_count": 4324,
+            "listed_count": 0
+        },
+        "username": "Rossomirto"
+    },
+    {
+        "protected": false,
+        "id": "33771434",
+        "name": "antarctica.gov.au",
+        "public_metrics": {
+            "followers_count": 27643,
+            "following_count": 362,
+            "tweet_count": 6486,
+            "listed_count": 488
+        },
+        "username": "AusAntarctic"
+    },
+    {
+        "protected": false,
+        "id": "188545143",
+        "name": "Bureau of Meteorology, Australia",
+        "public_metrics": {
+            "followers_count": 134980,
+            "following_count": 215,
+            "tweet_count": 8337,
+            "listed_count": 1038
+        },
+        "username": "BOM_au"
+    },
+    {
+        "protected": false,
+        "id": "93735540",
+        "name": "Geoscience Australia",
+        "public_metrics": {
+            "followers_count": 15524,
+            "following_count": 932,
+            "tweet_count": 2927,
+            "listed_count": 375
+        },
+        "username": "GeoscienceAus"
+    },
+    {
+        "protected": false,
+        "id": "963938472",
+        "name": "Palazzo_Chigi",
+        "public_metrics": {
+            "followers_count": 832666,
+            "following_count": 1813,
+            "tweet_count": 7690,
+            "listed_count": 2558
+        },
+        "username": "Palazzo_Chigi"
+    },
+    {
+        "protected": false,
+        "id": "986794506744819712",
+        "name": "IPOS Photonics",
+        "public_metrics": {
+            "followers_count": 808,
+            "following_count": 1520,
+            "tweet_count": 240,
+            "listed_count": 6
+        },
+        "username": "IPOS_Sydney"
+    },
+    {
+        "protected": false,
+        "id": "2167434860",
+        "name": "Academy of Technology and Engineering",
+        "public_metrics": {
+            "followers_count": 4443,
+            "following_count": 1186,
+            "tweet_count": 7484,
+            "listed_count": 51
+        },
+        "username": "ATSE_au"
+    },
+    {
+        "protected": false,
+        "id": "1127741667065229313",
+        "name": "Eggleton Lab at University of Sydney",
+        "public_metrics": {
+            "followers_count": 1257,
+            "following_count": 1391,
+            "tweet_count": 362,
+            "listed_count": 9
+        },
+        "username": "EggletonLab"
+    },
+    {
+        "protected": false,
+        "id": "85302943",
+        "name": "SBS Italian",
+        "public_metrics": {
+            "followers_count": 2374,
+            "following_count": 980,
+            "tweet_count": 21249,
+            "listed_count": 78
+        },
+        "username": "SBSitalian"
+    },
+    {
+        "protected": false,
+        "id": "3425143394",
+        "name": "SAGE",
+        "public_metrics": {
+            "followers_count": 7771,
+            "following_count": 714,
+            "tweet_count": 7302,
+            "listed_count": 113
+        },
+        "username": "SciGenderEquity"
+    },
+    {
+        "protected": false,
+        "id": "1175934443090894848",
+        "name": "Women in STEM Ambassador",
+        "public_metrics": {
+            "followers_count": 4545,
+            "following_count": 836,
+            "tweet_count": 1270,
+            "listed_count": 33
+        },
+        "username": "WomenInSTEMAu"
+    },
+    {
+        "protected": false,
+        "id": "405482317",
+        "name": "Prof. Lisa Harvey-Smith",
+        "public_metrics": {
+            "followers_count": 24410,
+            "following_count": 3865,
+            "tweet_count": 10865,
+            "listed_count": 349
+        },
+        "username": "lisaharveysmith"
+    },
+    {
+        "protected": false,
+        "id": "2668739024",
+        "name": "Alison Johns 😷 not 🤧",
+        "public_metrics": {
+            "followers_count": 2819,
+            "following_count": 1751,
+            "tweet_count": 28551,
+            "listed_count": 24
+        },
+        "username": "AlisonAdvanceHE"
+    },
+    {
+        "protected": false,
+        "id": "2874963292",
+        "name": "SITAEL",
+        "public_metrics": {
+            "followers_count": 748,
+            "following_count": 208,
+            "tweet_count": 317,
+            "listed_count": 23
+        },
+        "username": "SITAELspa"
+    },
+    {
+        "protected": false,
+        "id": "1060158649564348422",
+        "name": "Dr_IlaPagani",
+        "public_metrics": {
+            "followers_count": 163,
+            "following_count": 343,
+            "tweet_count": 292,
+            "listed_count": 3
+        },
+        "username": "Dr_IlaPagani"
+    },
+    {
+        "protected": false,
+        "id": "2154461958",
+        "name": "Women in STEMM Aust",
+        "public_metrics": {
+            "followers_count": 35624,
+            "following_count": 30652,
+            "tweet_count": 76995,
+            "listed_count": 751
+        },
+        "username": "WomenSciAUST"
+    },
+    {
+        "protected": false,
+        "id": "859295130427179008",
+        "name": "The Shine Dome",
+        "public_metrics": {
+            "followers_count": 994,
+            "following_count": 432,
+            "tweet_count": 510,
+            "listed_count": 8
+        },
+        "username": "ShineDome"
+    },
+    {
+        "protected": false,
+        "id": "182843687",
+        "name": "Dr Melanie Bagg",
+        "public_metrics": {
+            "followers_count": 2901,
+            "following_count": 1541,
+            "tweet_count": 12761,
+            "listed_count": 108
+        },
+        "username": "MelanieBagg"
+    },
+    {
+        "protected": false,
+        "id": "1510048224",
+        "name": "Prof Chiara Neto",
+        "public_metrics": {
+            "followers_count": 823,
+            "following_count": 345,
+            "tweet_count": 897,
+            "listed_count": 8
+        },
+        "username": "ChiaraOz"
+    },
+    {
+        "protected": false,
+        "id": "2379384800",
+        "name": "Benjamin Eggleton",
+        "public_metrics": {
+            "followers_count": 4164,
+            "following_count": 5001,
+            "tweet_count": 5255,
+            "listed_count": 43
+        },
+        "username": "ProfBenEggleton"
+    },
+    {
+        "protected": false,
+        "id": "2761809770",
+        "name": "Roberto Sabatini",
+        "public_metrics": {
+            "followers_count": 235,
+            "following_count": 1409,
+            "tweet_count": 172,
+            "listed_count": 4
+        },
+        "username": "robertosabati14"
+    },
+    {
+        "protected": false,
+        "id": "932523952747905025",
+        "name": "Dr Luciana d’Arcangeli",
+        "public_metrics": {
+            "followers_count": 284,
+            "following_count": 287,
+            "tweet_count": 9274,
+            "listed_count": 1
+        },
+        "username": "LucianadArcang1"
+    },
+    {
+        "protected": false,
+        "id": "1161911591626952705",
+        "name": "Adelaide Italian Festival",
+        "public_metrics": {
+            "followers_count": 133,
+            "following_count": 271,
+            "tweet_count": 36,
+            "listed_count": 0
+        },
+        "username": "ItalianFestADL"
+    },
+    {
+        "protected": false,
+        "id": "2370503993",
+        "name": "Adriano Stendardo",
+        "public_metrics": {
+            "followers_count": 236,
+            "following_count": 108,
+            "tweet_count": 1065,
+            "listed_count": 8
+        },
+        "username": "StendardoA"
+    },
+    {
+        "protected": false,
+        "id": "978604706",
+        "name": "Copernicus EU",
+        "public_metrics": {
+            "followers_count": 87663,
+            "following_count": 1996,
+            "tweet_count": 63919,
+            "listed_count": 1564
+        },
+        "username": "CopernicusEU"
+    },
+    {
+        "protected": false,
+        "id": "3346529644",
+        "name": "Copernicus ECMWF",
+        "public_metrics": {
+            "followers_count": 41783,
+            "following_count": 531,
+            "tweet_count": 7751,
+            "listed_count": 766
+        },
+        "username": "CopernicusECMWF"
+    },
+    {
+        "protected": false,
+        "id": "2885085044",
+        "name": "EU Agriculture🌱",
+        "public_metrics": {
+            "followers_count": 85389,
+            "following_count": 1050,
+            "tweet_count": 10924,
+            "listed_count": 973
+        },
+        "username": "EUAgri"
+    },
+    {
+        "protected": false,
+        "id": "1393437866",
+        "name": "Italy in Australia",
+        "public_metrics": {
+            "followers_count": 4854,
+            "following_count": 1140,
+            "tweet_count": 2301,
+            "listed_count": 79
+        },
+        "username": "ItalyinAUS"
+    },
+    {
+        "protected": false,
+        "id": "213235327",
+        "name": "Luca Giavi",
+        "public_metrics": {
+            "followers_count": 152,
+            "following_count": 169,
+            "tweet_count": 49,
+            "listed_count": 4
+        },
+        "username": "lgiavi"
+    },
+    {
+        "protected": true,
+        "id": "2918141016",
+        "name": "Jing Lee",
+        "public_metrics": {
+            "followers_count": 2238,
+            "following_count": 1881,
+            "tweet_count": 3119,
+            "listed_count": 13
+        },
+        "username": "JingLeeMLC1"
+    },
+    {
+        "protected": false,
+        "id": "388667999",
+        "name": "Roberta",
+        "public_metrics": {
+            "followers_count": 436,
+            "following_count": 877,
+            "tweet_count": 258,
+            "listed_count": 0
+        },
+        "username": "robertadebei"
+    },
+    {
+        "protected": false,
+        "id": "290876018",
+        "name": "Luca Parmitano",
+        "public_metrics": {
+            "followers_count": 632864,
+            "following_count": 86,
+            "tweet_count": 10769,
+            "listed_count": 2629
+        },
+        "username": "astro_luca"
+    },
+    {
+        "protected": false,
+        "id": "173116059",
+        "name": "Paolo Nespoli",
+        "public_metrics": {
+            "followers_count": 319592,
+            "following_count": 75,
+            "tweet_count": 2190,
+            "listed_count": 2281
+        },
+        "username": "astro_paolo"
+    },
+    {
+        "protected": false,
+        "id": "899891955492044800",
+        "name": "Christian Verdicchio",
+        "public_metrics": {
+            "followers_count": 594,
+            "following_count": 859,
+            "tweet_count": 1562,
+            "listed_count": 5
+        },
+        "username": "c_verdicchio"
+    },
+    {
+        "protected": false,
+        "id": "399963736",
+        "name": "Vittorio Brando",
+        "public_metrics": {
+            "followers_count": 927,
+            "following_count": 1970,
+            "tweet_count": 3278,
+            "listed_count": 16
+        },
+        "username": "VittorioBrando"
+    },
+    {
+        "protected": false,
+        "id": "779056620559040512",
+        "name": "Francesca Tardioli",
+        "public_metrics": {
+            "followers_count": 909,
+            "following_count": 479,
+            "tweet_count": 1018,
+            "listed_count": 6
+        },
+        "username": "FranTardioli"
+    },
+    {
+        "protected": false,
+        "id": "1390655238",
+        "name": "Australia in NZ",
+        "public_metrics": {
+            "followers_count": 3810,
+            "following_count": 5105,
+            "tweet_count": 3136,
+            "listed_count": 84
+        },
+        "username": "AusHCNZ"
+    },
+    {
+        "protected": false,
+        "id": "460163041",
+        "name": "Federica Mogherini",
+        "public_metrics": {
+            "followers_count": 521628,
+            "following_count": 7820,
+            "tweet_count": 9836,
+            "listed_count": 3945
+        },
+        "username": "FedericaMog"
+    },
+    {
+        "protected": false,
+        "id": "599114492",
+        "name": "Farnesina 🇮🇹",
+        "public_metrics": {
+            "followers_count": 241902,
+            "following_count": 948,
+            "tweet_count": 14852,
+            "listed_count": 1589
+        },
+        "username": "ItalyMFA"
+    },
+    {
+        "protected": false,
+        "id": "761144195901853696",
+        "name": "Dr Bianca Capra",
+        "public_metrics": {
+            "followers_count": 741,
+            "following_count": 601,
+            "tweet_count": 1314,
+            "listed_count": 6
+        },
+        "username": "DrBiancaCapra"
+    },
+    {
+        "protected": false,
+        "id": "340121865",
+        "name": "Women in Innovation",
+        "public_metrics": {
+            "followers_count": 1756,
+            "following_count": 989,
+            "tweet_count": 3082,
+            "listed_count": 51
+        },
+        "username": "WinnovationSA"
+    },
+    {
+        "protected": false,
+        "id": "911033909554536448",
+        "name": "SASIC",
+        "public_metrics": {
+            "followers_count": 2446,
+            "following_count": 531,
+            "tweet_count": 1201,
+            "listed_count": 0
+        },
+        "username": "SASIC_Aus"
+    },
+    {
+        "protected": false,
+        "id": "699257234308599808",
+        "name": "Jean-Eric Paquet",
+        "public_metrics": {
+            "followers_count": 15454,
+            "following_count": 1217,
+            "tweet_count": 3172,
+            "listed_count": 215
+        },
+        "username": "JEPaquetEU"
+    },
+    {
+        "protected": false,
+        "id": "494157776",
+        "name": "Politecnico di Torino",
+        "public_metrics": {
+            "followers_count": 18020,
+            "following_count": 172,
+            "tweet_count": 5898,
+            "listed_count": 288
+        },
+        "username": "PoliTOnews"
+    },
+    {
+        "protected": false,
+        "id": "4891609246",
+        "name": "DLMPST/IUHPST",
+        "public_metrics": {
+            "followers_count": 446,
+            "following_count": 141,
+            "tweet_count": 3075,
+            "listed_count": 12
+        },
+        "username": "DLMPST_IUHPST"
+    },
+    {
+        "protected": false,
+        "id": "466369716",
+        "name": "International Science Council",
+        "public_metrics": {
+            "followers_count": 24459,
+            "following_count": 1869,
+            "tweet_count": 9072,
+            "listed_count": 460
+        },
+        "username": "ISC"
+    },
+    {
+        "protected": false,
+        "id": "125215990",
+        "name": "Australian Government Department of Health",
+        "public_metrics": {
+            "followers_count": 127768,
+            "following_count": 146,
+            "tweet_count": 19294,
+            "listed_count": 1113
+        },
+        "username": "healthgovau"
+    },
+    {
+        "protected": false,
+        "id": "52979440",
+        "name": "AIHW",
+        "public_metrics": {
+            "followers_count": 23587,
+            "following_count": 806,
+            "tweet_count": 2714,
+            "listed_count": 267
+        },
+        "username": "aihw"
+    },
+    {
+        "protected": false,
+        "id": "3069261371",
+        "name": "EU in Australia",
+        "public_metrics": {
+            "followers_count": 7387,
+            "following_count": 6296,
+            "tweet_count": 23601,
+            "listed_count": 372
+        },
+        "username": "EUinAus"
+    },
+    {
+        "protected": false,
+        "id": "135691326",
+        "name": "NHMRC",
+        "public_metrics": {
+            "followers_count": 49910,
+            "following_count": 1903,
+            "tweet_count": 2890,
+            "listed_count": 482
+        },
+        "username": "nhmrc"
+    },
+    {
+        "protected": false,
+        "id": "243479125",
+        "name": "ARC",
+        "public_metrics": {
+            "followers_count": 26235,
+            "following_count": 197,
+            "tweet_count": 2732,
+            "listed_count": 244
+        },
+        "username": "arc_gov_au"
+    },
+    {
+        "protected": false,
+        "id": "84163797",
+        "name": "Data61",
+        "public_metrics": {
+            "followers_count": 14270,
+            "following_count": 1806,
+            "tweet_count": 10682,
+            "listed_count": 408
+        },
+        "username": "Data61news"
+    },
+    {
+        "protected": false,
+        "id": "2598167976",
+        "name": "Francesco Sauro",
+        "public_metrics": {
+            "followers_count": 739,
+            "following_count": 161,
+            "tweet_count": 62,
+            "listed_count": 16
+        },
+        "username": "Cescosauro"
+    },
+    {
+        "protected": false,
+        "id": "212484431",
+        "name": "Marco Baccanti",
+        "public_metrics": {
+            "followers_count": 1069,
+            "following_count": 837,
+            "tweet_count": 2085,
+            "listed_count": 45
+        },
+        "username": "Mbaccanti"
+    },
+    {
+        "protected": false,
+        "id": "273730280",
+        "name": "DFAT🇦🇺",
+        "public_metrics": {
+            "followers_count": 101944,
+            "following_count": 803,
+            "tweet_count": 22505,
+            "listed_count": 1375
+        },
+        "username": "dfat"
+    },
+    {
+        "protected": false,
+        "id": "4235498541",
+        "name": "Margaret Twomey",
+        "public_metrics": {
+            "followers_count": 2807,
+            "following_count": 714,
+            "tweet_count": 3046,
+            "listed_count": 62
+        },
+        "username": "AusAmbRome"
+    },
+    {
+        "protected": false,
+        "id": "718092582",
+        "name": "ESA CAVES & PANGAEA",
+        "public_metrics": {
+            "followers_count": 8336,
+            "following_count": 795,
+            "tweet_count": 14769,
+            "listed_count": 321
+        },
+        "username": "ESA_CAVES"
+    },
+    {
+        "protected": false,
+        "id": "529147678",
+        "name": "Senator Penny Wong",
+        "public_metrics": {
+            "followers_count": 325651,
+            "following_count": 519,
+            "tweet_count": 11566,
+            "listed_count": 1432
+        },
+        "username": "SenatorWong"
+    },
+    {
+        "protected": false,
+        "id": "425799565",
+        "name": "Tavolo Giovani",
+        "public_metrics": {
+            "followers_count": 16912,
+            "following_count": 10459,
+            "tweet_count": 5989,
+            "listed_count": 258
+        },
+        "username": "TavoloGiovani"
+    },
+    {
+        "protected": false,
+        "id": "95766807",
+        "name": "Australian Labor",
+        "public_metrics": {
+            "followers_count": 182079,
+            "following_count": 13639,
+            "tweet_count": 29973,
+            "listed_count": 1330
+        },
+        "username": "AustralianLabor"
+    },
+    {
+        "protected": false,
+        "id": "4289404586",
+        "name": "CNR Consiglio Nazionale delle Ricerche",
+        "public_metrics": {
+            "followers_count": 15800,
+            "following_count": 3673,
+            "tweet_count": 10584,
+            "listed_count": 231
+        },
+        "username": "CNRsocial_"
+    },
+    {
+        "protected": false,
+        "id": "882235051",
+        "name": "Ministero dell’Istruzione",
+        "public_metrics": {
+            "followers_count": 140148,
+            "following_count": 2899,
+            "tweet_count": 15128,
+            "listed_count": 917
+        },
+        "username": "MIsocialTW"
+    },
+    {
+        "protected": false,
+        "id": "1470981127",
+        "name": "Inspiring Australia – National Networks",
+        "public_metrics": {
+            "followers_count": 6146,
+            "following_count": 593,
+            "tweet_count": 2674,
+            "listed_count": 93
+        },
+        "username": "inspiringaus"
+    },
+    {
+        "protected": false,
+        "id": "3091646856",
+        "name": "sciencegovau",
+        "public_metrics": {
+            "followers_count": 15507,
+            "following_count": 1143,
+            "tweet_count": 7834,
+            "listed_count": 250
+        },
+        "username": "ScienceGovAu"
+    },
+    {
+        "protected": false,
+        "id": "468825843",
+        "name": "UNSW Science",
+        "public_metrics": {
+            "followers_count": 8984,
+            "following_count": 1939,
+            "tweet_count": 8225,
+            "listed_count": 109
+        },
+        "username": "UNSWScience"
+    },
+    {
+        "protected": false,
+        "id": "301940851",
+        "name": "NationalScienceWeek",
+        "public_metrics": {
+            "followers_count": 19538,
+            "following_count": 4839,
+            "tweet_count": 37519,
+            "listed_count": 408
+        },
+        "username": "Aus_ScienceWeek"
+    },
+    {
+        "protected": false,
+        "id": "174083824",
+        "name": "CSIRO",
+        "public_metrics": {
+            "followers_count": 111689,
+            "following_count": 1744,
+            "tweet_count": 30434,
+            "listed_count": 1682
+        },
+        "username": "CSIRO"
+    },
+    {
+        "protected": false,
+        "id": "318093688",
+        "name": "Science & Technology Australia",
+        "public_metrics": {
+            "followers_count": 27584,
+            "following_count": 1995,
+            "tweet_count": 11020,
+            "listed_count": 329
+        },
+        "username": "ScienceAU"
+    },
+    {
+        "protected": false,
+        "id": "22431691",
+        "name": "Australia for UNHCR",
+        "public_metrics": {
+            "followers_count": 62258,
+            "following_count": 8679,
+            "tweet_count": 15935,
+            "listed_count": 522
+        },
+        "username": "UNrefugees"
+    },
+    {
+        "protected": false,
+        "id": "137198586",
+        "name": "Bill Shorten",
+        "public_metrics": {
+            "followers_count": 369203,
+            "following_count": 10709,
+            "tweet_count": 7146,
+            "listed_count": 1628
+        },
+        "username": "billshortenmp"
+    },
+    {
+        "protected": false,
+        "id": "346400805",
+        "name": "Australian Academy of Science",
+        "public_metrics": {
+            "followers_count": 57134,
+            "following_count": 3755,
+            "tweet_count": 22093,
+            "listed_count": 683
+        },
+        "username": "Science_Academy"
+    },
+    {
+        "protected": false,
+        "id": "948669952843595776",
+        "name": "Della Gaspera Laboratory",
+        "public_metrics": {
+            "followers_count": 668,
+            "following_count": 925,
+            "tweet_count": 608,
+            "listed_count": 4
+        },
+        "username": "DellaGasperaLab"
+    },
+    {
+        "protected": false,
+        "id": "117017147",
+        "name": "ESA_Italia",
+        "public_metrics": {
+            "followers_count": 154489,
+            "following_count": 350,
+            "tweet_count": 46572,
+            "listed_count": 1114
+        },
+        "username": "ESA_Italia"
+    },
+    {
+        "protected": false,
+        "id": "412080599",
+        "name": "Agenzia Spaziale ITA",
+        "public_metrics": {
+            "followers_count": 166627,
+            "following_count": 291,
+            "tweet_count": 13678,
+            "listed_count": 668
+        },
+        "username": "ASI_spazio"
+    },
+    {
+        "protected": false,
+        "id": "406869976",
+        "name": "Paolo Gentiloni",
+        "public_metrics": {
+            "followers_count": 592176,
+            "following_count": 666,
+            "tweet_count": 7969,
+            "listed_count": 1986
+        },
+        "username": "PaoloGentiloni"
+    },
+    {
+        "protected": false,
+        "id": "61154684",
+        "name": "Dario Franceschini",
+        "public_metrics": {
+            "followers_count": 462661,
+            "following_count": 1252,
+            "tweet_count": 4029,
+            "listed_count": 2077
+        },
+        "username": "dariofrance"
+    },
+    {
+        "protected": false,
+        "id": "17471979",
+        "name": "National Geographic",
+        "public_metrics": {
+            "followers_count": 26608603,
+            "following_count": 179,
+            "tweet_count": 63762,
+            "listed_count": 64640
+        },
+        "username": "NatGeo"
+    },
+    {
+        "protected": false,
+        "id": "732819391",
+        "name": "Quirinale",
+        "public_metrics": {
+            "followers_count": 710510,
+            "following_count": 7,
+            "tweet_count": 7100,
+            "listed_count": 2106
+        },
+        "username": "Quirinale"
+    }
+]

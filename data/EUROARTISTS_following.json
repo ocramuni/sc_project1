@@ -1,0 +1,5558 @@
+[
+    {
+        "username": "angelagheorghiu",
+        "name": "Angela Gheorghiu",
+        "id": "152928710",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13425,
+            "following_count": 210,
+            "tweet_count": 3340,
+            "listed_count": 214
+        }
+    },
+    {
+        "username": "Operasparkle",
+        "name": "Claire Pendleton",
+        "id": "40708887",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 1514,
+            "following_count": 2483,
+            "tweet_count": 29302,
+            "listed_count": 43
+        }
+    },
+    {
+        "username": "angelazzarra",
+        "name": "🎄🎁Ho-Ho-Hojotohottie 🎁🎄",
+        "id": "992408526407589888",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2114,
+            "following_count": 988,
+            "tweet_count": 10619,
+            "listed_count": 14
+        }
+    },
+    {
+        "username": "SopranoBrewer",
+        "name": "Christine Brewer",
+        "id": "289437413",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 2479,
+            "following_count": 548,
+            "tweet_count": 13743,
+            "listed_count": 72
+        }
+    },
+    {
+        "username": "JessicaMuirhead",
+        "name": "Jessica Muirhead",
+        "id": "279743092",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1046,
+            "following_count": 1011,
+            "tweet_count": 4536,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "ElenaTsallagova",
+        "name": "Elena Tsallagova Jackson",
+        "id": "397459924",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 767,
+            "following_count": 674,
+            "tweet_count": 1082,
+            "listed_count": 20
+        }
+    },
+    {
+        "username": "AdrianaGoSopran",
+        "name": "Adriana Gonzalez",
+        "id": "229003254",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1874,
+            "following_count": 1185,
+            "tweet_count": 6444,
+            "listed_count": 30
+        }
+    },
+    {
+        "username": "AnitaWatsonSop",
+        "name": "Anita Watson",
+        "id": "1618583532",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 851,
+            "following_count": 928,
+            "tweet_count": 2609,
+            "listed_count": 18
+        }
+    },
+    {
+        "username": "ReneeRapier",
+        "name": "Renée Rapier",
+        "id": "261482812",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 501,
+            "following_count": 380,
+            "tweet_count": 2269,
+            "listed_count": 20
+        }
+    },
+    {
+        "username": "KellyKaduce",
+        "name": "Kelly Kaduce",
+        "id": "124540774",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 694,
+            "following_count": 163,
+            "tweet_count": 451,
+            "listed_count": 29
+        }
+    },
+    {
+        "username": "maireflavin",
+        "name": "Máire Flavin",
+        "id": "717639055",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1700,
+            "following_count": 917,
+            "tweet_count": 5248,
+            "listed_count": 42
+        }
+    },
+    {
+        "username": "TheSopranosShow",
+        "name": "The Sopranos Show",
+        "id": "919796900055805957",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7794,
+            "following_count": 53,
+            "tweet_count": 1372,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "ohpooryou",
+        "name": "livia soprano",
+        "id": "1293991526322843650",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4977,
+            "following_count": 284,
+            "tweet_count": 25694,
+            "listed_count": 9
+        }
+    },
+    {
+        "username": "TheSopranosQ",
+        "name": "The Sopranos Quotes",
+        "id": "1532327574",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 76856,
+            "following_count": 735,
+            "tweet_count": 2949,
+            "listed_count": 130
+        }
+    },
+    {
+        "username": "KathrynLewek",
+        "name": "KATHRYN LEWEK",
+        "id": "391893016",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2156,
+            "following_count": 307,
+            "tweet_count": 5557,
+            "listed_count": 43
+        }
+    },
+    {
+        "username": "SlowedSopranos",
+        "name": "slowed&sopranos",
+        "id": "1320778945344770053",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 239,
+            "following_count": 39,
+            "tweet_count": 24,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "SerenaMalfi",
+        "name": "Serena Malfi",
+        "id": "403258625",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 635,
+            "following_count": 388,
+            "tweet_count": 1001,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "LeahCrocetto",
+        "name": "Leah Crocetto",
+        "id": "125115121",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2626,
+            "following_count": 1112,
+            "tweet_count": 11869,
+            "listed_count": 88
+        }
+    },
+    {
+        "username": "egdeshong",
+        "name": "Elizabeth DeShong",
+        "id": "21330736",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1918,
+            "following_count": 492,
+            "tweet_count": 11245,
+            "listed_count": 51
+        }
+    },
+    {
+        "username": "kate_mezzo",
+        "name": "Kate Lindsey",
+        "id": "720641973237977094",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1983,
+            "following_count": 834,
+            "tweet_count": 397,
+            "listed_count": 31
+        }
+    },
+    {
+        "username": "alexpenda",
+        "name": "pendatchanska",
+        "id": "263420338",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1846,
+            "following_count": 1141,
+            "tweet_count": 1859,
+            "listed_count": 34
+        }
+    },
+    {
+        "username": "SimoneOsborne",
+        "name": "Simone Osborne",
+        "id": "83758336",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1555,
+            "following_count": 228,
+            "tweet_count": 6292,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "Alek_Kurzak",
+        "name": "Aleksandra Kurzak",
+        "id": "4779048275",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1789,
+            "following_count": 94,
+            "tweet_count": 3539,
+            "listed_count": 45
+        }
+    },
+    {
+        "username": "LauraTatulescu",
+        "name": "Laura Tătulescu",
+        "id": "1286861280",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1459,
+            "following_count": 1577,
+            "tweet_count": 4522,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "elzasoprano",
+        "name": "Elza van den Heever",
+        "id": "779302163826761730",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1109,
+            "following_count": 183,
+            "tweet_count": 316,
+            "listed_count": 26
+        }
+    },
+    {
+        "username": "OthalieGraham",
+        "name": "Othalie Graham 🇨🇦🇺🇸",
+        "id": "1917513800",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3002,
+            "following_count": 359,
+            "tweet_count": 16203,
+            "listed_count": 62
+        }
+    },
+    {
+        "username": "HuiHesoprano",
+        "name": "Hui He",
+        "id": "1117005409452208128",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 275,
+            "following_count": 130,
+            "tweet_count": 447,
+            "listed_count": 2
+        }
+    },
+    {
+        "username": "HerbertDorothea",
+        "name": "Dorothea Herbert",
+        "id": "532329564",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1154,
+            "following_count": 572,
+            "tweet_count": 3690,
+            "listed_count": 22
+        }
+    },
+    {
+        "username": "PumezaSoprano",
+        "name": "Pumeza Matshikiza",
+        "id": "2484318128",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2708,
+            "following_count": 931,
+            "tweet_count": 1699,
+            "listed_count": 37
+        }
+    },
+    {
+        "username": "anto_soprano",
+        "name": "Antonella Stasi_Soprano",
+        "id": "481363481",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 917,
+            "following_count": 2182,
+            "tweet_count": 14964,
+            "listed_count": 3
+        }
+    },
+    {
+        "username": "ajsopranoshirts",
+        "name": "AJ Soprano's nu-metal shirts",
+        "id": "1073296062499164160",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5980,
+            "following_count": 29,
+            "tweet_count": 286,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "majeskiamanda",
+        "name": "Amanda Majeski",
+        "id": "2474457918",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1217,
+            "following_count": 340,
+            "tweet_count": 620,
+            "listed_count": 24
+        }
+    },
+    {
+        "username": "Rinatshaham",
+        "name": "𝐑𝐈𝐍𝐀𝐓 S𝐇𝐀𝐇𝐀𝐌",
+        "id": "24002405",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1964,
+            "following_count": 643,
+            "tweet_count": 8382,
+            "listed_count": 95
+        }
+    },
+    {
+        "username": "TonySopranoCry",
+        "name": "Tony Soprano crying to songs",
+        "id": "1368714325574086658",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15512,
+            "following_count": 41,
+            "tweet_count": 227,
+            "listed_count": 15
+        }
+    },
+    {
+        "username": "LaRowley1",
+        "name": "Jennifer Rowley",
+        "id": "377431528",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3028,
+            "following_count": 983,
+            "tweet_count": 13131,
+            "listed_count": 67
+        }
+    },
+    {
+        "username": "Miccighel_",
+        "name": "Michael Soprano",
+        "id": "15750573",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 330,
+            "following_count": 213,
+            "tweet_count": 10887,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "sopranoscaps",
+        "name": "sopranos caps",
+        "id": "2870975586",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 81153,
+            "following_count": 9,
+            "tweet_count": 1327,
+            "listed_count": 82
+        }
+    },
+    {
+        "username": "susanbu1",
+        "name": "Susan Bullock 💙",
+        "id": "3340062171",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2607,
+            "following_count": 1020,
+            "tweet_count": 2970,
+            "listed_count": 22
+        }
+    },
+    {
+        "username": "AilishTynanEire",
+        "name": "Ailish Tynan",
+        "id": "548721510",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3298,
+            "following_count": 1001,
+            "tweet_count": 4479,
+            "listed_count": 62
+        }
+    },
+    {
+        "username": "IrishMezzo",
+        "name": "Sharon Carty",
+        "id": "543757241",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2008,
+            "following_count": 1878,
+            "tweet_count": 4573,
+            "listed_count": 35
+        }
+    },
+    {
+        "username": "Anna_Patalong",
+        "name": "Aɴɴᴀ Pᴀᴛᴀʟᴏɴɢ",
+        "id": "233274917",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3179,
+            "following_count": 2403,
+            "tweet_count": 5061,
+            "listed_count": 32
+        }
+    },
+    {
+        "username": "Ainhoarteta",
+        "name": "Ainhoa Arteta",
+        "id": "323137347",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16261,
+            "following_count": 995,
+            "tweet_count": 15926,
+            "listed_count": 166
+        }
+    },
+    {
+        "username": "sumijo2011",
+        "name": "Sumi Jo",
+        "id": "35754007",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 37396,
+            "following_count": 6067,
+            "tweet_count": 12713,
+            "listed_count": 414
+        }
+    },
+    {
+        "username": "Danielledeniese",
+        "name": "Danielle de Niese",
+        "id": "29593971",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13696,
+            "following_count": 424,
+            "tweet_count": 7921,
+            "listed_count": 352
+        }
+    },
+    {
+        "username": "MojcaErdmann",
+        "name": "Mojca Erdmann",
+        "id": "347412102",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1629,
+            "following_count": 107,
+            "tweet_count": 698,
+            "listed_count": 56
+        }
+    },
+    {
+        "username": "ElizAthertonSop",
+        "name": "Elizabeth Atherton",
+        "id": "976441600858644480",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5485,
+            "following_count": 1479,
+            "tweet_count": 47819,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "a_garifullina",
+        "name": "Aida Garifullina",
+        "id": "390657765",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4699,
+            "following_count": 149,
+            "tweet_count": 760,
+            "listed_count": 52
+        }
+    },
+    {
+        "username": "SampsonCarolyn",
+        "name": "Carolyn Sampson 🇪🇺",
+        "id": "489474764",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4512,
+            "following_count": 935,
+            "tweet_count": 6701,
+            "listed_count": 69
+        }
+    },
+    {
+        "username": "AnitaRachveli",
+        "name": "Anita Rachvelishvili",
+        "id": "263321306",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3555,
+            "following_count": 293,
+            "tweet_count": 4207,
+            "listed_count": 107
+        }
+    },
+    {
+        "username": "oocsopranos",
+        "name": "sopranos out of context",
+        "id": "966823651495628801",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 127557,
+            "following_count": 24,
+            "tweet_count": 1471,
+            "listed_count": 151
+        }
+    },
+    {
+        "username": "MaryCBevan",
+        "name": "Mary Bevan",
+        "id": "264736050",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4840,
+            "following_count": 1056,
+            "tweet_count": 1596,
+            "listed_count": 58
+        }
+    },
+    {
+        "username": "ailynperezsop",
+        "name": "AILYN PÉREZ",
+        "id": "211588140",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8842,
+            "following_count": 2556,
+            "tweet_count": 8319,
+            "listed_count": 142
+        }
+    },
+    {
+        "username": "louisealdersop",
+        "name": "Louise Alder",
+        "id": "328956876",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5711,
+            "following_count": 1484,
+            "tweet_count": 5001,
+            "listed_count": 76
+        }
+    },
+    {
+        "username": "SoprAngela",
+        "name": "Angela Meade",
+        "id": "403705074",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5262,
+            "following_count": 188,
+            "tweet_count": 909,
+            "listed_count": 94
+        }
+    },
+    {
+        "username": "DianaDamrau",
+        "name": "Diana Damrau",
+        "id": "476292638",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15864,
+            "following_count": 194,
+            "tweet_count": 1358,
+            "listed_count": 200
+        }
+    },
+    {
+        "username": "elinagaranca",
+        "name": "Elīna Garanča",
+        "id": "866652540",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14145,
+            "following_count": 54,
+            "tweet_count": 677,
+            "listed_count": 181
+        }
+    },
+    {
+        "username": "talkingsopranos",
+        "name": "Talking Sopranos",
+        "id": "1230564162931220480",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39894,
+            "following_count": 58,
+            "tweet_count": 879,
+            "listed_count": 74
+        }
+    },
+    {
+        "username": "KristineOpolais",
+        "name": "Kristine Opolais",
+        "id": "2574462054",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6041,
+            "following_count": 120,
+            "tweet_count": 839,
+            "listed_count": 105
+        }
+    },
+    {
+        "username": "CiroSoprano",
+        "name": "Ciro Soprano",
+        "id": "355422468",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 229,
+            "following_count": 1904,
+            "tweet_count": 4210,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "TheSopranosClub",
+        "name": "The Sopranos Club",
+        "id": "916677885494202368",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 74045,
+            "following_count": 6053,
+            "tweet_count": 18499,
+            "listed_count": 95
+        }
+    },
+    {
+        "username": "cargiannattasio",
+        "name": "carmengiannattasio",
+        "id": "983096938244567040",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1475,
+            "following_count": 161,
+            "tweet_count": 559,
+            "listed_count": 11
+        }
+    },
+    {
+        "username": "carmelaremigio",
+        "name": "Carmela Remigio",
+        "id": "585031913",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1522,
+            "following_count": 521,
+            "tweet_count": 1711,
+            "listed_count": 35
+        }
+    },
+    {
+        "username": "RosaFeolaSinger",
+        "name": "Rosa Feola",
+        "id": "3811848556",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 818,
+            "following_count": 24,
+            "tweet_count": 275,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "HeldenMommy",
+        "name": "Christine Goerke",
+        "id": "1469500033",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9843,
+            "following_count": 650,
+            "tweet_count": 11321,
+            "listed_count": 125
+        }
+    },
+    {
+        "username": "NizzaAmarilli",
+        "name": "AmarilliNizza",
+        "id": "734639857",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 694,
+            "following_count": 991,
+            "tweet_count": 1731,
+            "listed_count": 7
+        }
+    },
+    {
+        "username": "MarigonaQerkezi",
+        "name": "Marigona Qerkezi",
+        "id": "3635508142",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 370,
+            "following_count": 706,
+            "tweet_count": 394,
+            "listed_count": 3
+        }
+    },
+    {
+        "username": "fromDossobuono",
+        "name": "Simone Piazzola, Baritono",
+        "id": "468593993",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 942,
+            "following_count": 1459,
+            "tweet_count": 502,
+            "listed_count": 14
+        }
+    },
+    {
+        "username": "DariaMasiero",
+        "name": "daria masiero",
+        "id": "934755439",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 599,
+            "following_count": 472,
+            "tweet_count": 1832,
+            "listed_count": 12
+        }
+    },
+    {
+        "username": "AuyanetSoprano",
+        "name": "Yolanda Auyanet",
+        "id": "814939969257095169",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 117,
+            "following_count": 9,
+            "tweet_count": 24,
+            "listed_count": 3
+        }
+    },
+    {
+        "username": "Ariel__Soprano",
+        "name": "Ariel Andrew, Soprano",
+        "id": "3201589661",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 315,
+            "following_count": 279,
+            "tweet_count": 1638,
+            "listed_count": 8
+        }
+    },
+    {
+        "username": "BakanovaSoprano",
+        "name": "Ekaterina Bakanova",
+        "id": "3186792419",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 432,
+            "following_count": 76,
+            "tweet_count": 715,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "Maria_Agresta",
+        "name": "Maria Agresta",
+        "id": "479881666",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1648,
+            "following_count": 103,
+            "tweet_count": 837,
+            "listed_count": 33
+        }
+    },
+    {
+        "username": "AnushH_Soprano",
+        "name": "Anush Hovhannisyan",
+        "id": "2576130334",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 812,
+            "following_count": 604,
+            "tweet_count": 561,
+            "listed_count": 17
+        }
+    },
+    {
+        "username": "KatrinaSoprano",
+        "name": "Katrina Thurman",
+        "id": "885581713",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 376,
+            "following_count": 633,
+            "tweet_count": 824,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "SopranoAmanda",
+        "name": "Amanda Opuszynski",
+        "id": "1886940590",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 448,
+            "following_count": 450,
+            "tweet_count": 1063,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "mezzoihnen",
+        "name": "Megan Ihnen, 𝕄𝕖𝕫𝕫𝕠-𝕊𝕠𝕡𝕣𝕒𝕟𝕠",
+        "id": "120120452",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9666,
+            "following_count": 10336,
+            "tweet_count": 42941,
+            "listed_count": 265
+        }
+    },
+    {
+        "username": "sirimajo",
+        "name": "Maria José Siri",
+        "id": "1474554020",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1797,
+            "following_count": 494,
+            "tweet_count": 5712,
+            "listed_count": 35
+        }
+    },
+    {
+        "username": "sopranoJZ",
+        "name": "Jennifer Zetlan",
+        "id": "791344714985435136",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 279,
+            "following_count": 289,
+            "tweet_count": 437,
+            "listed_count": 10
+        }
+    },
+    {
+        "username": "Sopranopsy4",
+        "name": "Soprano",
+        "id": "128614917",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2815786,
+            "following_count": 4,
+            "tweet_count": 803,
+            "listed_count": 1946
+        }
+    },
+    {
+        "username": "Soprano_JPratt",
+        "name": "Jessica Pratt",
+        "id": "1270812554",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2244,
+            "following_count": 245,
+            "tweet_count": 3770,
+            "listed_count": 41
+        }
+    },
+    {
+        "username": "JoyceSoprano",
+        "name": "JOYCE EL-KHOURY",
+        "id": "252405268",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3005,
+            "following_count": 263,
+            "tweet_count": 2008,
+            "listed_count": 66
+        }
+    },
+    {
+        "username": "ErmonelaJaho",
+        "name": "Ermonela Jaho | Soprano",
+        "id": "242652967",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9329,
+            "following_count": 2669,
+            "tweet_count": 5266,
+            "listed_count": 86
+        }
+    },
+    {
+        "username": "ILunguSoprano",
+        "name": "Irina Lungu",
+        "id": "4764923090",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 993,
+            "following_count": 410,
+            "tweet_count": 730,
+            "listed_count": 25
+        }
+    },
+    {
+        "username": "corinnesoprano",
+        "name": "Corinne Winters",
+        "id": "443947969",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2720,
+            "following_count": 480,
+            "tweet_count": 4924,
+            "listed_count": 75
+        }
+    },
+    {
+        "username": "Sitko_Soprano",
+        "name": "Julia Sitkovetsky",
+        "id": "622713135",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 949,
+            "following_count": 489,
+            "tweet_count": 7043,
+            "listed_count": 18
+        }
+    },
+    {
+        "username": "SydneySoprano",
+        "name": "Sydney Mancasola",
+        "id": "3106627157",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 775,
+            "following_count": 582,
+            "tweet_count": 649,
+            "listed_count": 11
+        }
+    },
+    {
+        "username": "AnnaPrinceva",
+        "name": "Anna Princeva",
+        "id": "2771621199",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 78,
+            "tweet_count": 493,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "operaoffstage",
+        "name": "operaoffstage",
+        "id": "1196869476253229056",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 54,
+            "following_count": 100,
+            "tweet_count": 75,
+            "listed_count": 2
+        }
+    },
+    {
+        "username": "DJChrisBerrow",
+        "name": "Chris Berrow",
+        "id": "301894587",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11155,
+            "following_count": 1147,
+            "tweet_count": 15266,
+            "listed_count": 40
+        }
+    },
+    {
+        "username": "SchultzGolda",
+        "name": "Golda Schultz",
+        "id": "2700227522",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 1411,
+            "following_count": 355,
+            "tweet_count": 2538,
+            "listed_count": 27
+        }
+    },
+    {
+        "username": "NYOperaAlliance",
+        "name": "New York Opera Alliance",
+        "id": "1284701760",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1057,
+            "following_count": 586,
+            "tweet_count": 1268,
+            "listed_count": 15
+        }
+    },
+    {
+        "username": "canycmezz",
+        "name": "Renee Tatum",
+        "id": "140200160",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 340,
+            "following_count": 316,
+            "tweet_count": 180,
+            "listed_count": 13
+        }
+    },
+    {
+        "username": "LucasMeachem",
+        "name": "Lucas Meachem",
+        "id": "3137758789",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1178,
+            "following_count": 408,
+            "tweet_count": 787,
+            "listed_count": 21
+        }
+    },
+    {
+        "username": "operaliacomp",
+        "name": "Operalia Competition",
+        "id": "259359403",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5157,
+            "following_count": 386,
+            "tweet_count": 15039,
+            "listed_count": 70
+        }
+    },
+    {
+        "username": "industryopera",
+        "name": "The Industry",
+        "id": "380625062",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2201,
+            "following_count": 2027,
+            "tweet_count": 3067,
+            "listed_count": 66
+        }
+    },
+    {
+        "username": "igorpianist",
+        "name": "Igor Levit",
+        "id": "334904627",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 168593,
+            "following_count": 3600,
+            "tweet_count": 31429,
+            "listed_count": 611
+        }
+    },
+    {
+        "username": "A_R_Costanzo",
+        "name": "AnthonyRothCostanzo",
+        "id": "143878748",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3159,
+            "following_count": 855,
+            "tweet_count": 2103,
+            "listed_count": 31
+        }
+    },
+    {
+        "username": "MarinaRebeka",
+        "name": "Marina Rebeka",
+        "id": "3314764852",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1778,
+            "following_count": 377,
+            "tweet_count": 1642,
+            "listed_count": 40
+        }
+    },
+    {
+        "username": "SamanthaHankey",
+        "name": "Samantha Hankey",
+        "id": "178385130",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 554,
+            "following_count": 379,
+            "tweet_count": 542,
+            "listed_count": 15
+        }
+    },
+    {
+        "username": "Baerenreiter",
+        "name": "Barenreiter",
+        "id": "3027946961",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15500,
+            "following_count": 1164,
+            "tweet_count": 34787,
+            "listed_count": 136
+        }
+    },
+    {
+        "username": "OperaCanada",
+        "name": "Opera Canada",
+        "id": "1227812491",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3301,
+            "following_count": 615,
+            "tweet_count": 2976,
+            "listed_count": 53
+        }
+    },
+    {
+        "username": "rancatoreweb",
+        "name": "Desirée Rancatore",
+        "id": "501832561",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2186,
+            "following_count": 1060,
+            "tweet_count": 4308,
+            "listed_count": 54
+        }
+    },
+    {
+        "username": "DungareeDiva",
+        "name": "Marie-Eve Munger",
+        "id": "1609160640",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 343,
+            "following_count": 429,
+            "tweet_count": 132,
+            "listed_count": 10
+        }
+    },
+    {
+        "username": "MattilaKarita",
+        "name": "Karita Mattila",
+        "id": "1048227356224249856",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18143,
+            "following_count": 3841,
+            "tweet_count": 48486,
+            "listed_count": 80
+        }
+    },
+    {
+        "username": "juliefuchssop",
+        "name": "Julie Fuchs",
+        "id": "945912583",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4398,
+            "following_count": 293,
+            "tweet_count": 1933,
+            "listed_count": 65
+        }
+    },
+    {
+        "username": "EleonoraBuratto",
+        "name": "Eleonora Buratto",
+        "id": "2783775272",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1570,
+            "following_count": 264,
+            "tweet_count": 3263,
+            "listed_count": 37
+        }
+    },
+    {
+        "username": "EmeryKerekes",
+        "name": "Emery Kerekes",
+        "id": "1136311997090295808",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 314,
+            "following_count": 1625,
+            "tweet_count": 417,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "TenorStenson",
+        "name": "Andrew Stenson",
+        "id": "726738227269234688",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 448,
+            "following_count": 219,
+            "tweet_count": 1578,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "CharlieTenor",
+        "name": "Charles Castronovo",
+        "id": "1064171683",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2030,
+            "following_count": 446,
+            "tweet_count": 332,
+            "listed_count": 41
+        }
+    },
+    {
+        "username": "JarrettOtt",
+        "name": "Jarrett Ott",
+        "id": "2194454615",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 515,
+            "following_count": 158,
+            "tweet_count": 106,
+            "listed_count": 12
+        }
+    },
+    {
+        "username": "360ofOpera",
+        "name": "360° of Opera",
+        "id": "736059937231495169",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1787,
+            "following_count": 2401,
+            "tweet_count": 3527,
+            "listed_count": 22
+        }
+    },
+    {
+        "username": "westedgeopera",
+        "name": "West Edge Opera",
+        "id": "140486729",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1005,
+            "following_count": 1190,
+            "tweet_count": 1603,
+            "listed_count": 26
+        }
+    },
+    {
+        "username": "onsiteopera",
+        "name": "On Site Opera",
+        "id": "611331229",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2162,
+            "following_count": 1958,
+            "tweet_count": 1734,
+            "listed_count": 35
+        }
+    },
+    {
+        "username": "BWIOpera",
+        "name": "@blackwomeninopera",
+        "id": "1177728152539422721",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 373,
+            "following_count": 191,
+            "tweet_count": 1809,
+            "listed_count": 2
+        }
+    },
+    {
+        "username": "lucialucasde",
+        "name": "Lucia Lucas",
+        "id": "2572637315",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 662,
+            "following_count": 578,
+            "tweet_count": 224,
+            "listed_count": 7
+        }
+    },
+    {
+        "username": "TeatroNuovoNY",
+        "name": "Teatro Nuovo",
+        "id": "961353826925268998",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 175,
+            "following_count": 133,
+            "tweet_count": 323,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "operanews2",
+        "name": "Opera News",
+        "id": "1086689455732416513",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1654,
+            "following_count": 4620,
+            "tweet_count": 625,
+            "listed_count": 9
+        }
+    },
+    {
+        "username": "antoniomontina2",
+        "name": "antonio montinaro",
+        "id": "535107884",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 401,
+            "following_count": 1232,
+            "tweet_count": 1988,
+            "listed_count": 4
+        }
+    },
+    {
+        "username": "jdiego_florez",
+        "name": "Juan Diego Flórez",
+        "id": "491788613",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25219,
+            "following_count": 195,
+            "tweet_count": 751,
+            "listed_count": 214
+        }
+    },
+    {
+        "username": "TaddeoAngelo",
+        "name": "Angelo Taddeo",
+        "id": "1431629702",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 49,
+            "following_count": 92,
+            "tweet_count": 245,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "jamesdarrah",
+        "name": "James Darrah",
+        "id": "440489686",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1063,
+            "following_count": 843,
+            "tweet_count": 1511,
+            "listed_count": 17
+        }
+    },
+    {
+        "username": "franzrusso",
+        "name": "Franz Russo",
+        "id": "19284516",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 33933,
+            "following_count": 10506,
+            "tweet_count": 204520,
+            "listed_count": 2635
+        }
+    },
+    {
+        "username": "gremusbruno",
+        "name": "Bruno Italiano",
+        "id": "245995162",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 207,
+            "following_count": 1112,
+            "tweet_count": 207,
+            "listed_count": 7
+        }
+    },
+    {
+        "username": "gabsargsoprano",
+        "name": "Gabrielle Sargent",
+        "id": "271906851",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 252,
+            "following_count": 436,
+            "tweet_count": 27,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "SofiaLAmisich",
+        "name": "SofiaLavinia Amisich-López",
+        "id": "882048661",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 101,
+            "following_count": 90,
+            "tweet_count": 52,
+            "listed_count": 2
+        }
+    },
+    {
+        "username": "RWSing",
+        "name": "Rachel Willis-Sørensen",
+        "id": "753765390",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1608,
+            "following_count": 366,
+            "tweet_count": 1487,
+            "listed_count": 20
+        }
+    },
+    {
+        "username": "Yanina_Melnyk",
+        "name": "Yanina",
+        "id": "1360995736322789376",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 213,
+            "tweet_count": 46,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "MarcoBiava",
+        "name": "Marco Biava",
+        "id": "33853680",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 106,
+            "following_count": 383,
+            "tweet_count": 402,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "SimonShibambu",
+        "name": "Simon Shibambu",
+        "id": "3050053440",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1364,
+            "following_count": 4030,
+            "tweet_count": 1462,
+            "listed_count": 9
+        }
+    },
+    {
+        "username": "CelsoAlbelo",
+        "name": "CelsoAlbeloTenor",
+        "id": "1324200188",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1763,
+            "following_count": 458,
+            "tweet_count": 2013,
+            "listed_count": 21
+        }
+    },
+    {
+        "username": "jsdhenderson",
+        "name": "Jamie Henderson",
+        "id": "182794476",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2555,
+            "following_count": 1550,
+            "tweet_count": 79129,
+            "listed_count": 51
+        }
+    },
+    {
+        "username": "iPasolini_G_L",
+        "name": "Gian Luca Pasolini",
+        "id": "3979335094",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 727,
+            "tweet_count": 402,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "apemusicale",
+        "name": "L'ape musicale",
+        "id": "1605491316",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1315,
+            "following_count": 116,
+            "tweet_count": 11634,
+            "listed_count": 24
+        }
+    },
+    {
+        "username": "MMATOpera",
+        "name": "Club Meet Me At The Opera",
+        "id": "2363263958",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 62596,
+            "following_count": 64670,
+            "tweet_count": 12672,
+            "listed_count": 445
+        }
+    },
+    {
+        "username": "OperawireNews",
+        "name": "Operawire",
+        "id": "800741589995749377",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7016,
+            "following_count": 510,
+            "tweet_count": 33260,
+            "listed_count": 93
+        }
+    },
+    {
+        "username": "reseonetwork",
+        "name": "RESEO",
+        "id": "312892482",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1356,
+            "following_count": 2884,
+            "tweet_count": 2900,
+            "listed_count": 40
+        }
+    },
+    {
+        "username": "JacopoSpirei",
+        "name": "Jacopo Spirei",
+        "id": "399601681",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 711,
+            "following_count": 1731,
+            "tweet_count": 2494,
+            "listed_count": 8
+        }
+    },
+    {
+        "username": "MalteseTenor",
+        "name": "Joseph Calleja",
+        "id": "132558123",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 35628,
+            "following_count": 2668,
+            "tweet_count": 12348,
+            "listed_count": 268
+        }
+    },
+    {
+        "username": "OperaMusicDaily",
+        "name": "OperaMusicVideos",
+        "id": "317628217",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5179,
+            "following_count": 5727,
+            "tweet_count": 24982,
+            "listed_count": 156
+        }
+    },
+    {
+        "username": "opernfan_de",
+        "name": "Opernfan.de",
+        "id": "400533925",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1273,
+            "following_count": 2658,
+            "tweet_count": 1748,
+            "listed_count": 30
+        }
+    },
+    {
+        "username": "Operosa",
+        "name": "Operosa",
+        "id": "387017449",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1228,
+            "following_count": 1375,
+            "tweet_count": 1582,
+            "listed_count": 25
+        }
+    },
+    {
+        "username": "ScillaCristiano",
+        "name": "Scilla Cristiano",
+        "id": "759482633210519553",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 224,
+            "following_count": 691,
+            "tweet_count": 551,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "LadyeMaxwell",
+        "name": "Operafashion®",
+        "id": "1509651817",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2346,
+            "following_count": 1235,
+            "tweet_count": 9650,
+            "listed_count": 65
+        }
+    },
+    {
+        "username": "thomashampson",
+        "name": "Thomas Hampson",
+        "id": "135648557",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20359,
+            "following_count": 953,
+            "tweet_count": 5083,
+            "listed_count": 428
+        }
+    },
+    {
+        "username": "erwinschrott",
+        "name": "Erwin Schrott",
+        "id": "52424110",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13527,
+            "following_count": 50,
+            "tweet_count": 4804,
+            "listed_count": 211
+        }
+    },
+    {
+        "username": "AnnalisaStroppa",
+        "name": "Annalisa Stroppa",
+        "id": "798187863732940801",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 884,
+            "following_count": 364,
+            "tweet_count": 1025,
+            "listed_count": 13
+        }
+    },
+    {
+        "username": "APirozzisoprano",
+        "name": "Anna Pirozzi",
+        "id": "2150619648",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1478,
+            "following_count": 350,
+            "tweet_count": 790,
+            "listed_count": 29
+        }
+    },
+    {
+        "username": "LucaSalsi75",
+        "name": "Luca Salsi",
+        "id": "404655881",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1724,
+            "following_count": 277,
+            "tweet_count": 2163,
+            "listed_count": 20
+        }
+    },
+    {
+        "username": "FMeli_tenor",
+        "name": "Francesco Meli",
+        "id": "2932467671",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1397,
+            "following_count": 125,
+            "tweet_count": 970,
+            "listed_count": 20
+        }
+    },
+    {
+        "username": "TheItalianTenor",
+        "name": "Massimo Giordano",
+        "id": "618752471",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17540,
+            "following_count": 377,
+            "tweet_count": 927,
+            "listed_count": 54
+        }
+    },
+    {
+        "username": "ConciergeQMedia",
+        "name": "ConciergeQ Media",
+        "id": "22668381",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9057,
+            "following_count": 9088,
+            "tweet_count": 27798,
+            "listed_count": 365
+        }
+    },
+    {
+        "username": "operaballetvl",
+        "name": "Opera Ballet Vlaanderen",
+        "id": "226570297",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3917,
+            "following_count": 380,
+            "tweet_count": 4194,
+            "listed_count": 88
+        }
+    },
+    {
+        "username": "aneef_opera",
+        "name": "Alexander Neef",
+        "id": "284566025",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5628,
+            "following_count": 1190,
+            "tweet_count": 6822,
+            "listed_count": 93
+        }
+    },
+    {
+        "username": "OperaVision_eu",
+        "name": "OperaVision",
+        "id": "3216320001",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7449,
+            "following_count": 1002,
+            "tweet_count": 5899,
+            "listed_count": 166
+        }
+    },
+    {
+        "username": "LongBeachOpera",
+        "name": "Long Beach Opera",
+        "id": "23666002",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5703,
+            "following_count": 1775,
+            "tweet_count": 2976,
+            "listed_count": 184
+        }
+    },
+    {
+        "username": "FGOpera",
+        "name": "Florida Grand Opera",
+        "id": "36475956",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13495,
+            "following_count": 2152,
+            "tweet_count": 13714,
+            "listed_count": 307
+        }
+    },
+    {
+        "username": "TheDallasOpera",
+        "name": "Dallas Opera",
+        "id": "44398623",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17743,
+            "following_count": 2049,
+            "tweet_count": 12219,
+            "listed_count": 473
+        }
+    },
+    {
+        "username": "operafuture",
+        "name": "Opera of the Future",
+        "id": "144235609",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2858,
+            "following_count": 518,
+            "tweet_count": 6570,
+            "listed_count": 169
+        }
+    },
+    {
+        "username": "operzuerich",
+        "name": "Opernhaus Zürich",
+        "id": "76653252",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25150,
+            "following_count": 6047,
+            "tweet_count": 5431,
+            "listed_count": 401
+        }
+    },
+    {
+        "username": "WashNatOpera",
+        "name": "Washington National Opera",
+        "id": "33706341",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16812,
+            "following_count": 454,
+            "tweet_count": 3867,
+            "listed_count": 511
+        }
+    },
+    {
+        "username": "amwilson_opera",
+        "name": "Alexandra Wilson",
+        "id": "2148786661",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5089,
+            "following_count": 4239,
+            "tweet_count": 36344,
+            "listed_count": 67
+        }
+    },
+    {
+        "username": "LAOpera",
+        "name": "LA Opera",
+        "id": "21229729",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40432,
+            "following_count": 1031,
+            "tweet_count": 16155,
+            "listed_count": 968
+        }
+    },
+    {
+        "username": "BostLyricOpera",
+        "name": "Boston Lyric Opera",
+        "id": "63123241",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14425,
+            "following_count": 752,
+            "tweet_count": 13624,
+            "listed_count": 447
+        }
+    },
+    {
+        "username": "MetOperaGuild",
+        "name": "Met Opera Guild",
+        "id": "91144317",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10817,
+            "following_count": 569,
+            "tweet_count": 4647,
+            "listed_count": 217
+        }
+    },
+    {
+        "username": "MetOperaChorus",
+        "name": "MetOperaChoristers",
+        "id": "2429871005",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5170,
+            "following_count": 537,
+            "tweet_count": 4114,
+            "listed_count": 102
+        }
+    },
+    {
+        "username": "SDOpera",
+        "name": "San Diego Opera",
+        "id": "46714389",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16583,
+            "following_count": 1165,
+            "tweet_count": 9633,
+            "listed_count": 494
+        }
+    },
+    {
+        "username": "ccityopera",
+        "name": "Central City Opera",
+        "id": "43569119",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11026,
+            "following_count": 580,
+            "tweet_count": 6540,
+            "listed_count": 210
+        }
+    },
+    {
+        "username": "OperaGiocosa",
+        "name": "Opera Giocosa",
+        "id": "434863454",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 193,
+            "following_count": 66,
+            "tweet_count": 1340,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "OperaActual",
+        "name": "ÓPERA ACTUAL",
+        "id": "276941324",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21085,
+            "following_count": 2250,
+            "tweet_count": 11701,
+            "listed_count": 310
+        }
+    },
+    {
+        "username": "LondonLyric",
+        "name": "London Lyric Opera",
+        "id": "18550640",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12056,
+            "following_count": 1983,
+            "tweet_count": 2901,
+            "listed_count": 351
+        }
+    },
+    {
+        "username": "Operanow",
+        "name": "Opera Now magazine",
+        "id": "166573653",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 22136,
+            "following_count": 481,
+            "tweet_count": 1813,
+            "listed_count": 344
+        }
+    },
+    {
+        "username": "connessiopera",
+        "name": "Connessi all'Opera",
+        "id": "739571070966112256",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 643,
+            "following_count": 6,
+            "tweet_count": 2435,
+            "listed_count": 7
+        }
+    },
+    {
+        "username": "TheRoyalOpera",
+        "name": "The Royal Opera",
+        "id": "1635682309",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 67241,
+            "following_count": 365,
+            "tweet_count": 9893,
+            "listed_count": 564
+        }
+    },
+    {
+        "username": "FortWorthOpera",
+        "name": "Fort Worth Opera",
+        "id": "72860884",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12179,
+            "following_count": 1815,
+            "tweet_count": 7907,
+            "listed_count": 313
+        }
+    },
+    {
+        "username": "WheelerOpera",
+        "name": "Wheeler Opera House",
+        "id": "18995825",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3798,
+            "following_count": 539,
+            "tweet_count": 3249,
+            "listed_count": 146
+        }
+    },
+    {
+        "username": "operahollandpk",
+        "name": "Opera Holland Park",
+        "id": "316967977",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10037,
+            "following_count": 835,
+            "tweet_count": 11949,
+            "listed_count": 145
+        }
+    },
+    {
+        "username": "operatoday",
+        "name": "Opera Today",
+        "id": "26050322",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21421,
+            "following_count": 1062,
+            "tweet_count": 8717,
+            "listed_count": 303
+        }
+    },
+    {
+        "username": "Opera_North",
+        "name": "Opera North",
+        "id": "24891315",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40451,
+            "following_count": 2993,
+            "tweet_count": 20493,
+            "listed_count": 708
+        }
+    },
+    {
+        "username": "semperoper",
+        "name": "semperoper",
+        "id": "202541990",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7017,
+            "following_count": 335,
+            "tweet_count": 2276,
+            "listed_count": 166
+        }
+    },
+    {
+        "username": "SeattleOpera",
+        "name": "Seattle Opera",
+        "id": "25369931",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 26695,
+            "following_count": 633,
+            "tweet_count": 7081,
+            "listed_count": 785
+        }
+    },
+    {
+        "username": "OPERAAmerica",
+        "name": "OPERA America",
+        "id": "26986499",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 24283,
+            "following_count": 654,
+            "tweet_count": 5422,
+            "listed_count": 450
+        }
+    },
+    {
+        "username": "deutsche_oper",
+        "name": "Deutsche Oper Berlin",
+        "id": "185669447",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 23591,
+            "following_count": 1316,
+            "tweet_count": 4585,
+            "listed_count": 481
+        }
+    },
+    {
+        "username": "operadeparis",
+        "name": "Opéra de Paris",
+        "id": "277407660",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 257305,
+            "following_count": 898,
+            "tweet_count": 15094,
+            "listed_count": 1369
+        }
+    },
+    {
+        "username": "TheAtlantaOpera",
+        "name": "The Atlanta Opera",
+        "id": "28348673",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12859,
+            "following_count": 4421,
+            "tweet_count": 7453,
+            "listed_count": 435
+        }
+    },
+    {
+        "username": "OperaRoma",
+        "name": "Opera di Roma",
+        "id": "862781052",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12679,
+            "following_count": 84,
+            "tweet_count": 14816,
+            "listed_count": 240
+        }
+    },
+    {
+        "username": "ChicagoOpera",
+        "name": "ChicagoOperaTheater",
+        "id": "16668061",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14108,
+            "following_count": 6273,
+            "tweet_count": 2683,
+            "listed_count": 421
+        }
+    },
+    {
+        "username": "OTSL",
+        "name": "Opera Theatre of Saint Louis",
+        "id": "34686432",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9371,
+            "following_count": 1055,
+            "tweet_count": 5875,
+            "listed_count": 245
+        }
+    },
+    {
+        "username": "OperaClick",
+        "name": "OperaClick",
+        "id": "2468972954",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2305,
+            "following_count": 143,
+            "tweet_count": 6322,
+            "listed_count": 48
+        }
+    },
+    {
+        "username": "Rimzorr",
+        "name": "Rimon Opera Singer ",
+        "id": "2605569798",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 58,
+            "following_count": 299,
+            "tweet_count": 279,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "BartoliOfficial",
+        "name": "Cecilia Bartoli",
+        "id": "864376798129377280",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8263,
+            "following_count": 24,
+            "tweet_count": 207,
+            "listed_count": 93
+        }
+    },
+    {
+        "username": "angela_brower",
+        "name": "ANGELA BROWER",
+        "id": "2626427255",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1775,
+            "following_count": 592,
+            "tweet_count": 4631,
+            "listed_count": 48
+        }
+    },
+    {
+        "username": "OperaSingerC",
+        "name": "Christine Daaé",
+        "id": "1475188441",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 34,
+            "tweet_count": 3,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "RantingOpera",
+        "name": "Ranting Opera Singer",
+        "id": "1107778352",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 72,
+            "tweet_count": 3,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "GeraldFinley",
+        "name": "Gerald Finley",
+        "id": "382878875",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11382,
+            "following_count": 775,
+            "tweet_count": 2477,
+            "listed_count": 181
+        }
+    },
+    {
+        "username": "ChristianOrZeus",
+        "name": "Somehow an Opera Singer",
+        "id": "1015109105026027521",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 270,
+            "tweet_count": 1693,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "catherine_hall",
+        "name": "Catherine Hall",
+        "id": "19332645",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12725,
+            "following_count": 520,
+            "tweet_count": 4746,
+            "listed_count": 757
+        }
+    },
+    {
+        "username": "Tht1OperaSinger",
+        "name": "Marissa Gonzalez",
+        "id": "824686181556355072",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 96,
+            "tweet_count": 17,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "OperaSinger20",
+        "name": "Opera Singer",
+        "id": "1350222016977231874",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 31,
+            "tweet_count": 12,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "opera_ahmad",
+        "name": "opera singer kw",
+        "id": "2740949587",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 2,
+            "tweet_count": 13,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "OperaSinger18",
+        "name": "Opera Singer",
+        "id": "1337189153650438145",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "SecretOpSinger",
+        "name": "Secret Opera Singer",
+        "id": "4295300597",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "ShotaOkuno1",
+        "name": "Shota (Japanese,want to be Opera singer,Cooking)",
+        "id": "1253911312490323970",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "emilycrockett",
+        "name": "Emily Crockett",
+        "id": "29372259",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10534,
+            "following_count": 3195,
+            "tweet_count": 38732,
+            "listed_count": 352
+        }
+    },
+    {
+        "username": "DivoDavidMiller",
+        "name": "David Miller",
+        "id": "276038065",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 37269,
+            "following_count": 237,
+            "tweet_count": 3305,
+            "listed_count": 250
+        }
+    },
+    {
+        "username": "mangelasicilia",
+        "name": "Mariangela Sicilia",
+        "id": "394216087",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 375,
+            "following_count": 328,
+            "tweet_count": 1000,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "AlessandraVolp1",
+        "name": "Alessandra Volpe",
+        "id": "444927937",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 373,
+            "following_count": 471,
+            "tweet_count": 1110,
+            "listed_count": 3
+        }
+    },
+    {
+        "username": "BrookeLarimer",
+        "name": "Brooke Larimer: opera singer / lover / voter",
+        "id": "17601619",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1102,
+            "following_count": 1648,
+            "tweet_count": 5558,
+            "listed_count": 51
+        }
+    },
+    {
+        "username": "AspiringOperaSi",
+        "name": "Opera Singer",
+        "id": "108778285",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 47,
+            "following_count": 61,
+            "tweet_count": 30,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "JudithRalston",
+        "name": "Judith@weather",
+        "id": "2247356916",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28551,
+            "following_count": 1462,
+            "tweet_count": 29092,
+            "listed_count": 88
+        }
+    },
+    {
+        "username": "sharleenjoynt",
+        "name": "Sharleen Joynt",
+        "id": "2196499866",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 55684,
+            "following_count": 323,
+            "tweet_count": 2440,
+            "listed_count": 306
+        }
+    },
+    {
+        "username": "gianlucabasciu",
+        "name": "Gianluca Basciu",
+        "id": "2644926041",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 969,
+            "following_count": 1669,
+            "tweet_count": 1412,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "Spilling_The_T",
+        "name": "Meh",
+        "id": "2484580446",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19914,
+            "following_count": 1345,
+            "tweet_count": 1077,
+            "listed_count": 91
+        }
+    },
+    {
+        "username": "Paolobartenore",
+        "name": "Paolo Bartolucci",
+        "id": "186729812",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 671,
+            "following_count": 1620,
+            "tweet_count": 646,
+            "listed_count": 10
+        }
+    },
+    {
+        "username": "giordanosoprano",
+        "name": "Laura Giordano",
+        "id": "22024516",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 218,
+            "tweet_count": 1893,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "anagfeleo",
+        "name": "Ana Guillen Feleo",
+        "id": "78983551",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19145,
+            "following_count": 339,
+            "tweet_count": 28807,
+            "listed_count": 67
+        }
+    },
+    {
+        "username": "opera_singer_",
+        "name": "Il Soprano",
+        "id": "1072501255854002176",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 197,
+            "tweet_count": 3470,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "klkohei",
+        "name": "Yamamoto Kohei 山本耕平 (Opera singer, Tenor)",
+        "id": "106038551",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2195,
+            "following_count": 762,
+            "tweet_count": 6630,
+            "listed_count": 30
+        }
+    },
+    {
+        "username": "TheOperaLass",
+        "name": "The Opera Singer",
+        "id": "4854604900",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 490,
+            "following_count": 78,
+            "tweet_count": 190,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "OperaSocialist",
+        "name": "Socialist Opera Singer",
+        "id": "1092981085359820800",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6233,
+            "following_count": 5260,
+            "tweet_count": 52430,
+            "listed_count": 4
+        }
+    },
+    {
+        "username": "singerasee",
+        "name": "Tsymbalyuk Alexander",
+        "id": "229228791",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 352,
+            "following_count": 61,
+            "tweet_count": 658,
+            "listed_count": 15
+        }
+    },
+    {
+        "username": "AlanOperaSinger",
+        "name": "Alan the Opera Singa",
+        "id": "319287646",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 420,
+            "following_count": 7,
+            "tweet_count": 17,
+            "listed_count": 3
+        }
+    },
+    {
+        "username": "operasingernet",
+        "name": "Opera Singer Network",
+        "id": "16136478",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5833,
+            "following_count": 96,
+            "tweet_count": 157,
+            "listed_count": 208
+        }
+    },
+    {
+        "username": "ColombaraBasso",
+        "name": "Carlo Colombara",
+        "id": "1041972008",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 653,
+            "following_count": 290,
+            "tweet_count": 1906,
+            "listed_count": 10
+        }
+    },
+    {
+        "username": "richardwiegold",
+        "name": "Richard Wiegold",
+        "id": "21579186",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3541,
+            "following_count": 3370,
+            "tweet_count": 32549,
+            "listed_count": 106
+        }
+    },
+    {
+        "username": "mironov_maxim",
+        "name": "Maxim Mironov",
+        "id": "446178049",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 773,
+            "following_count": 218,
+            "tweet_count": 1008,
+            "listed_count": 27
+        }
+    },
+    {
+        "username": "AndrianaChuch",
+        "name": "Andriana Chuchman",
+        "id": "554722494",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 798,
+            "following_count": 222,
+            "tweet_count": 390,
+            "listed_count": 24
+        }
+    },
+    {
+        "username": "kkellogg79",
+        "name": "Kenneth Kellogg",
+        "id": "22697580",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 285,
+            "following_count": 164,
+            "tweet_count": 529,
+            "listed_count": 7
+        }
+    },
+    {
+        "username": "BlytheMezzo",
+        "name": "Stephanie Blythe",
+        "id": "924814232008384512",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2576,
+            "following_count": 1059,
+            "tweet_count": 3668,
+            "listed_count": 14
+        }
+    },
+    {
+        "username": "nadinecsierra",
+        "name": "Nadine Sierra",
+        "id": "2967958401",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4024,
+            "following_count": 248,
+            "tweet_count": 959,
+            "listed_count": 74
+        }
+    },
+    {
+        "username": "Lisette_Oropesa",
+        "name": "Lisette Oropesa",
+        "id": "391107855",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11276,
+            "following_count": 859,
+            "tweet_count": 11632,
+            "listed_count": 169
+        }
+    },
+    {
+        "username": "SondraRadvan",
+        "name": "Sondra Radvanovsky",
+        "id": "3176575763",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7469,
+            "following_count": 279,
+            "tweet_count": 2019,
+            "listed_count": 104
+        }
+    },
+    {
+        "username": "jbartonmezzo",
+        "name": "Jamie Barton",
+        "id": "1003483574",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17299,
+            "following_count": 940,
+            "tweet_count": 12970,
+            "listed_count": 163
+        }
+    },
+    {
+        "username": "Olgaperetyatko",
+        "name": "OLGA PERETYATKO",
+        "id": "53355461",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4620,
+            "following_count": 176,
+            "tweet_count": 6803,
+            "listed_count": 115
+        }
+    },
+    {
+        "username": "TaraErraught",
+        "name": "Tara Erraught",
+        "id": "2269380392",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4766,
+            "following_count": 911,
+            "tweet_count": 4115,
+            "listed_count": 80
+        }
+    },
+    {
+        "username": "RyanMcKinny",
+        "name": "Ryan McKinny",
+        "id": "319197778",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1876,
+            "following_count": 786,
+            "tweet_count": 1749,
+            "listed_count": 41
+        }
+    },
+    {
+        "username": "JanaiBrugger",
+        "name": "janai brugger",
+        "id": "501448350",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1362,
+            "following_count": 348,
+            "tweet_count": 2943,
+            "listed_count": 29
+        }
+    },
+    {
+        "username": "Brownleetenor",
+        "name": "Lawrence Brownlee",
+        "id": "278329813",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11071,
+            "following_count": 145,
+            "tweet_count": 2011,
+            "listed_count": 179
+        }
+    },
+    {
+        "username": "VanHornCVH",
+        "name": "Christian Van Horn",
+        "id": "169167057",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2208,
+            "following_count": 291,
+            "tweet_count": 1836,
+            "listed_count": 54
+        }
+    },
+    {
+        "username": "rosplowright",
+        "name": "Rosalind Plowright",
+        "id": "1099636371436777473",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 395,
+            "following_count": 228,
+            "tweet_count": 279,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "johndaszak",
+        "name": "John Daszak",
+        "id": "186156208",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 563,
+            "following_count": 261,
+            "tweet_count": 1976,
+            "listed_count": 14
+        }
+    },
+    {
+        "username": "MaestroGKC",
+        "name": "Gregory Kunde",
+        "id": "35932893",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2681,
+            "following_count": 636,
+            "tweet_count": 967,
+            "listed_count": 56
+        }
+    },
+    {
+        "username": "dcecima",
+        "name": "Daniela Mack",
+        "id": "70467138",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2039,
+            "following_count": 624,
+            "tweet_count": 1969,
+            "listed_count": 39
+        }
+    },
+    {
+        "username": "SingingTech",
+        "name": "🟣🖤🎵Gothic Opera Singer in Tech🎵🖤",
+        "id": "332426375",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10620,
+            "following_count": 8895,
+            "tweet_count": 21066,
+            "listed_count": 376
+        }
+    },
+    {
+        "username": "jacquesimbrailo",
+        "name": "Jacques Imbrailo",
+        "id": "262687989",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1706,
+            "following_count": 752,
+            "tweet_count": 700,
+            "listed_count": 37
+        }
+    },
+    {
+        "username": "MircoPalazzi",
+        "name": "Mɪʀᴄᴏ Pᴀʟᴀᴢᴢɪ",
+        "id": "1327804052",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 551,
+            "following_count": 124,
+            "tweet_count": 1341,
+            "listed_count": 7
+        }
+    },
+    {
+        "username": "misapan51",
+        "name": "山下未紗꧁𐬹𝑴𝒊𝒔𝒂 𝒀𝒂𝒎𝒂𝒔𝒉𝒊𝒕𝒂𐬹꧂",
+        "id": "1642368140",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 935,
+            "following_count": 1675,
+            "tweet_count": 3932,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "sahakyan_hasmik",
+        "name": "Hasmik Sahakyan",
+        "id": "3366134830",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5338,
+            "following_count": 202,
+            "tweet_count": 1455,
+            "listed_count": 8
+        }
+    },
+    {
+        "username": "AxierSanchez",
+        "name": "Axier Sánchez",
+        "id": "372513266",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 304,
+            "following_count": 83,
+            "tweet_count": 405,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "FelipeUlloaBar",
+        "name": "FelipeUlloaBaritono",
+        "id": "357711734",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 691,
+            "following_count": 2145,
+            "tweet_count": 2688,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "davidlowennyc",
+        "name": "David Lowe",
+        "id": "127022075",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 788,
+            "following_count": 1214,
+            "tweet_count": 33303,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "marieriksmoen",
+        "name": "Mari Eriksmoen",
+        "id": "278003970",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 697,
+            "following_count": 192,
+            "tweet_count": 663,
+            "listed_count": 24
+        }
+    },
+    {
+        "username": "saralemesh",
+        "name": "Sara LeMesh 🎶✡️",
+        "id": "706950531051184128",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 571,
+            "following_count": 840,
+            "tweet_count": 638,
+            "listed_count": 13
+        }
+    },
+    {
+        "username": "operasingerBB",
+        "name": "American Consumer",
+        "id": "26575267",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3231,
+            "following_count": 4997,
+            "tweet_count": 140008,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "McKinneyPR",
+        "name": "Claire McKinney",
+        "id": "214069709",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1083,
+            "following_count": 558,
+            "tweet_count": 8734,
+            "listed_count": 95
+        }
+    },
+    {
+        "username": "Dominic_Hawkins",
+        "name": "Dominic",
+        "id": "245259470",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 457,
+            "following_count": 1132,
+            "tweet_count": 723,
+            "listed_count": 11
+        }
+    },
+    {
+        "username": "FortuneCookieGG",
+        "name": "🥠Ƒortune⋆™🎮",
+        "id": "948008686991040513",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1055,
+            "following_count": 814,
+            "tweet_count": 10471,
+            "listed_count": 4
+        }
+    },
+    {
+        "username": "henkpoort",
+        "name": "henk poort",
+        "id": "308576457",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3710,
+            "following_count": 32,
+            "tweet_count": 3487,
+            "listed_count": 32
+        }
+    },
+    {
+        "username": "the_operasinger",
+        "name": "Teresa Stagno",
+        "id": "392049460",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 286,
+            "tweet_count": 143,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "bridgettcooper",
+        "name": "Bri Cooper",
+        "id": "184275950",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 1472,
+            "following_count": 1212,
+            "tweet_count": 17801,
+            "listed_count": 60
+        }
+    },
+    {
+        "username": "LilliPaasikivi",
+        "name": "Lilli Paasikivi",
+        "id": "717815491",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2461,
+            "following_count": 322,
+            "tweet_count": 1220,
+            "listed_count": 19
+        }
+    },
+    {
+        "username": "operasinger1015",
+        "name": "Melody",
+        "id": "871101553",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 39,
+            "tweet_count": 38,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger56",
+        "name": "paige marie smith",
+        "id": "1035435782",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 3,
+            "tweet_count": 8,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "allisonshapira",
+        "name": "Allison Shapira",
+        "id": "27440851",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1875,
+            "following_count": 970,
+            "tweet_count": 3868,
+            "listed_count": 91
+        }
+    },
+    {
+        "username": "operasinger76",
+        "name": "이원준",
+        "id": "250113296",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "OperasingerHJ",
+        "name": "Hólmfríður Jóhannesdóttir",
+        "id": "747536092035964928",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 55,
+            "tweet_count": 5,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger912",
+        "name": "Melissa Murphy",
+        "id": "3041243733",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 1,
+            "tweet_count": 7,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "fatjewishles",
+        "name": "OperaSinger",
+        "id": "3268372400",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 3,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger01",
+        "name": "ValerieSerna11",
+        "id": "2370754454",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 11,
+            "tweet_count": 28,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger23",
+        "name": "Pelussss",
+        "id": "169293940",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 17,
+            "tweet_count": 19,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger153",
+        "name": "shayna jones",
+        "id": "2305890560",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 39,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasingerJean",
+        "name": "Opera Singer Yoojin",
+        "id": "397879933",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 89,
+            "following_count": 25,
+            "tweet_count": 36,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "Operasinger89",
+        "name": "Muhamed Zukovic",
+        "id": "267445636",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 1,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "OperasingerF",
+        "name": "Operasinger-fcsm",
+        "id": "1037286466689421314",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 23,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "El_operasinger",
+        "name": "El",
+        "id": "1204753464544370688",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 14,
+            "tweet_count": 13,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "OperasingerHolm",
+        "name": "Øyvind Bertel Fabricius Holm.",
+        "id": "1092347124",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 45,
+            "following_count": 554,
+            "tweet_count": 243,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "GPToperasinger",
+        "name": "GP Operasinger",
+        "id": "214351467",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 1,
+            "tweet_count": 1,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "operasinger2686",
+        "name": "るいな",
+        "id": "2943432089",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 0,
+            "tweet_count": 1,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger13",
+        "name": "Opera Singer Sherida",
+        "id": "4895022641",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "operasinger4",
+        "name": "Галина Гаврилко",
+        "id": "1329632047",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 2,
+            "tweet_count": 2,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "alpha_classics",
+        "name": "Alpha Classics",
+        "id": "3081531461",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2671,
+            "following_count": 1124,
+            "tweet_count": 1221,
+            "listed_count": 78
+        }
+    },
+    {
+        "username": "classicalsinger",
+        "name": "CS Music",
+        "id": "19745253",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4770,
+            "following_count": 161,
+            "tweet_count": 2523,
+            "listed_count": 129
+        }
+    },
+    {
+        "username": "mundoclasico",
+        "name": "Mundoclasico.com",
+        "id": "199213276",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9969,
+            "following_count": 294,
+            "tweet_count": 10810,
+            "listed_count": 155
+        }
+    },
+    {
+        "username": "operaworld_es",
+        "name": "Opera World",
+        "id": "602318240",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6938,
+            "following_count": 642,
+            "tweet_count": 6533,
+            "listed_count": 81
+        }
+    },
+    {
+        "username": "jabaechle",
+        "name": "Janina Baechle",
+        "id": "858334710",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 753,
+            "following_count": 440,
+            "tweet_count": 4249,
+            "listed_count": 23
+        }
+    },
+    {
+        "username": "HoriaGanescu",
+        "name": "Horia Ganescu",
+        "id": "2762532770",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1651,
+            "following_count": 5001,
+            "tweet_count": 51211,
+            "listed_count": 10
+        }
+    },
+    {
+        "username": "paulaalmerares",
+        "name": "Paula Almerares",
+        "id": "2301993804",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1828,
+            "following_count": 1101,
+            "tweet_count": 13477,
+            "listed_count": 14
+        }
+    },
+    {
+        "username": "wigmore_hall",
+        "name": "Wigmore Hall",
+        "id": "18618367",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 60338,
+            "following_count": 9143,
+            "tweet_count": 38508,
+            "listed_count": 881
+        }
+    },
+    {
+        "username": "Nadjeschda",
+        "name": "Nadja Schnetzler (she/they)",
+        "id": "4405351",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2880,
+            "following_count": 4219,
+            "tweet_count": 6418,
+            "listed_count": 120
+        }
+    },
+    {
+        "username": "Angelo_Forte_",
+        "name": "Angelo Forte - tenore",
+        "id": "2487262217",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 55,
+            "following_count": 165,
+            "tweet_count": 33,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "idagio_official",
+        "name": "IDAGIO",
+        "id": "3078135333",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7093,
+            "following_count": 2680,
+            "tweet_count": 4909,
+            "listed_count": 129
+        }
+    },
+    {
+        "username": "escobartenore",
+        "name": "Alejandro Escobar",
+        "id": "3091202602",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 426,
+            "following_count": 1596,
+            "tweet_count": 817,
+            "listed_count": 4
+        }
+    },
+    {
+        "username": "yumiyaginuma",
+        "name": "Yumi Yaginuma 柳沼裕美",
+        "id": "767781135954894850",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 73,
+            "following_count": 133,
+            "tweet_count": 79,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "merolaopera",
+        "name": "Merola Opera Program",
+        "id": "20477769",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10285,
+            "following_count": 3013,
+            "tweet_count": 9822,
+            "listed_count": 252
+        }
+    },
+    {
+        "username": "WNOtweet",
+        "name": "Welsh National Opera",
+        "id": "22784635",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 35159,
+            "following_count": 1653,
+            "tweet_count": 24064,
+            "listed_count": 603
+        }
+    },
+    {
+        "username": "SFOpera",
+        "name": "San Francisco Opera",
+        "id": "183320631",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 91880,
+            "following_count": 8411,
+            "tweet_count": 14405,
+            "listed_count": 881
+        }
+    },
+    {
+        "username": "nardin_angelo",
+        "name": "angelo nardinocchi",
+        "id": "1169588898",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 163,
+            "following_count": 305,
+            "tweet_count": 596,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "operamagazine",
+        "name": "Opera magazine",
+        "id": "259208425",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39314,
+            "following_count": 2999,
+            "tweet_count": 8259,
+            "listed_count": 546
+        }
+    },
+    {
+        "username": "ReneeFleming",
+        "name": "Renee Fleming",
+        "id": "127537612",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 56738,
+            "following_count": 164,
+            "tweet_count": 1062,
+            "listed_count": 987
+        }
+    },
+    {
+        "username": "pghsymphony",
+        "name": "Pittsburgh Symphony",
+        "id": "33681458",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14347,
+            "following_count": 468,
+            "tweet_count": 10200,
+            "listed_count": 492
+        }
+    },
+    {
+        "username": "sopranorussian",
+        "name": "Ekaterina Gavrilova",
+        "id": "3352558595",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 69,
+            "following_count": 109,
+            "tweet_count": 170,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "MWEMLLP",
+        "name": "MW Events Management",
+        "id": "1943346366",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 83,
+            "tweet_count": 52,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "gianlu1976",
+        "name": "Gianluca Marciano'",
+        "id": "272788768",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 937,
+            "following_count": 827,
+            "tweet_count": 1632,
+            "listed_count": 13
+        }
+    },
+    {
+        "username": "arenadiverona",
+        "name": "Arena di Verona",
+        "id": "608933165",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 26626,
+            "following_count": 163,
+            "tweet_count": 2304,
+            "listed_count": 151
+        }
+    },
+    {
+        "username": "CanadianOpera",
+        "name": "Canadian Opera Company",
+        "id": "16826976",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21677,
+            "following_count": 3133,
+            "tweet_count": 22122,
+            "listed_count": 634
+        }
+    },
+    {
+        "username": "KSOMusic",
+        "name": "Kentucky Symphony",
+        "id": "58872832",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2160,
+            "following_count": 414,
+            "tweet_count": 1782,
+            "listed_count": 58
+        }
+    },
+    {
+        "username": "TorontoSymphony",
+        "name": "Toronto Symphony",
+        "id": "21676934",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27517,
+            "following_count": 2358,
+            "tweet_count": 21379,
+            "listed_count": 912
+        }
+    },
+    {
+        "username": "StJoeSymphony",
+        "name": "Saint Joseph Symphony",
+        "id": "35953117",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2070,
+            "following_count": 112,
+            "tweet_count": 579,
+            "listed_count": 69
+        }
+    },
+    {
+        "username": "teatrolafenice",
+        "name": "Teatro La Fenice",
+        "id": "517552544",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 68523,
+            "following_count": 487,
+            "tweet_count": 35935,
+            "listed_count": 592
+        }
+    },
+    {
+        "username": "orpheusnyc",
+        "name": "Orpheus Chamber Orch",
+        "id": "51135852",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14131,
+            "following_count": 885,
+            "tweet_count": 3680,
+            "listed_count": 393
+        }
+    },
+    {
+        "username": "ertugkorkmaz",
+        "name": "Ertug Korkmaz",
+        "id": "87181368",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 242,
+            "following_count": 357,
+            "tweet_count": 40,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "umberto_fanni",
+        "name": "Umberto Fanni",
+        "id": "2415876286",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1624,
+            "following_count": 2483,
+            "tweet_count": 2818,
+            "listed_count": 17
+        }
+    },
+    {
+        "username": "WindsorSymphony",
+        "name": "Windsor Symphony Orchestra",
+        "id": "21773993",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4047,
+            "following_count": 262,
+            "tweet_count": 3431,
+            "listed_count": 167
+        }
+    },
+    {
+        "username": "IntArtsManager",
+        "name": "IntArtsManager",
+        "id": "207537798",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6123,
+            "following_count": 2506,
+            "tweet_count": 7840,
+            "listed_count": 164
+        }
+    },
+    {
+        "username": "TeatroRegio",
+        "name": "Teatro Regio Torino",
+        "id": "377308123",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13596,
+            "following_count": 774,
+            "tweet_count": 5209,
+            "listed_count": 205
+        }
+    },
+    {
+        "username": "VerbierFestival",
+        "name": "Verbier Festival",
+        "id": "84289702",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14388,
+            "following_count": 2110,
+            "tweet_count": 4913,
+            "listed_count": 229
+        }
+    },
+    {
+        "username": "NosedaG",
+        "name": "Gianandrea Noseda",
+        "id": "345527416",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5964,
+            "following_count": 390,
+            "tweet_count": 2962,
+            "listed_count": 138
+        }
+    },
+    {
+        "username": "ASMForchestra",
+        "name": "ASMF Orchestra",
+        "id": "132515571",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10259,
+            "following_count": 1513,
+            "tweet_count": 6702,
+            "listed_count": 235
+        }
+    },
+    {
+        "username": "OKC_PHIL",
+        "name": "OKC Philharmonic",
+        "id": "23991983",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6570,
+            "following_count": 769,
+            "tweet_count": 5322,
+            "listed_count": 210
+        }
+    },
+    {
+        "username": "NYO_GB",
+        "name": "National Youth Orchestra of Great Britain",
+        "id": "43861545",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12875,
+            "following_count": 2195,
+            "tweet_count": 9644,
+            "listed_count": 186
+        }
+    },
+    {
+        "username": "OrlandoPhilOrch",
+        "name": "Orlando Philharmonic",
+        "id": "74017113",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6091,
+            "following_count": 2918,
+            "tweet_count": 3085,
+            "listed_count": 176
+        }
+    },
+    {
+        "username": "lsostlukes",
+        "name": "LSO St Luke's",
+        "id": "167425189",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10441,
+            "following_count": 2725,
+            "tweet_count": 4729,
+            "listed_count": 176
+        }
+    },
+    {
+        "username": "KnightClassical",
+        "name": "Knight Classical",
+        "id": "26984562",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6127,
+            "following_count": 1986,
+            "tweet_count": 3751,
+            "listed_count": 106
+        }
+    },
+    {
+        "username": "alxndr",
+        "name": "Alexandru Dutulescu 🎩",
+        "id": "9029592",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 338,
+            "following_count": 480,
+            "tweet_count": 3147,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "TheCBSO",
+        "name": "CBSO",
+        "id": "172267021",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 22969,
+            "following_count": 637,
+            "tweet_count": 17272,
+            "listed_count": 384
+        }
+    },
+    {
+        "username": "franticassembly",
+        "name": "Frantic Assembly",
+        "id": "242802297",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 35012,
+            "following_count": 1759,
+            "tweet_count": 12183,
+            "listed_count": 158
+        }
+    },
+    {
+        "username": "NTSonline",
+        "name": "National Theatre of Scotland",
+        "id": "25354479",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 38583,
+            "following_count": 2773,
+            "tweet_count": 22850,
+            "listed_count": 453
+        }
+    },
+    {
+        "username": "lyricoperaprod",
+        "name": "Lyric Opera, Ireland",
+        "id": "185634316",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 735,
+            "following_count": 0,
+            "tweet_count": 338,
+            "listed_count": 14
+        }
+    },
+    {
+        "username": "CypresRecords",
+        "name": "Cypres",
+        "id": "317039310",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 299,
+            "following_count": 197,
+            "tweet_count": 110,
+            "listed_count": 13
+        }
+    },
+    {
+        "username": "edintfest",
+        "name": "edintfest",
+        "id": "25551683",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 63359,
+            "following_count": 3407,
+            "tweet_count": 35539,
+            "listed_count": 1043
+        }
+    },
+    {
+        "username": "chi_sinfonietta",
+        "name": "Chicago Sinfonietta",
+        "id": "27727167",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5154,
+            "following_count": 1879,
+            "tweet_count": 2983,
+            "listed_count": 185
+        }
+    },
+    {
+        "username": "MusicaVivaAU",
+        "name": "Musica Viva Australia",
+        "id": "74011546",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8760,
+            "following_count": 1321,
+            "tweet_count": 7835,
+            "listed_count": 143
+        }
+    },
+    {
+        "username": "A_C_O",
+        "name": "Australian Chamber Orchestra",
+        "id": "14379128",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8008,
+            "following_count": 2079,
+            "tweet_count": 4181,
+            "listed_count": 207
+        }
+    },
+    {
+        "username": "Hvorostovsky",
+        "name": "Dmitri Hvorostovsky",
+        "id": "199341331",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13378,
+            "following_count": 55,
+            "tweet_count": 806,
+            "listed_count": 236
+        }
+    },
+    {
+        "username": "sydsymph",
+        "name": "Sydney Symphony Orchestra",
+        "id": "31366141",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10660,
+            "following_count": 1946,
+            "tweet_count": 10768,
+            "listed_count": 336
+        }
+    },
+    {
+        "username": "ChicagoPhil",
+        "name": "Chicago Philharmonic",
+        "id": "46711217",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2811,
+            "following_count": 1497,
+            "tweet_count": 5698,
+            "listed_count": 162
+        }
+    },
+    {
+        "username": "Opus3Artists",
+        "name": "Opus 3 Artists",
+        "id": "40923941",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7374,
+            "following_count": 1787,
+            "tweet_count": 5778,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "MelbSymphony",
+        "name": "Melbourne Symphony",
+        "id": "78546352",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13206,
+            "following_count": 1427,
+            "tweet_count": 4364,
+            "listed_count": 373
+        }
+    },
+    {
+        "username": "NZSO",
+        "name": "NZSO",
+        "id": "26608078",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5616,
+            "following_count": 2087,
+            "tweet_count": 3688,
+            "listed_count": 190
+        }
+    },
+    {
+        "username": "FranzSchottky",
+        "name": "Franz Schottky",
+        "id": "1647278010",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 89,
+            "following_count": 64,
+            "tweet_count": 517,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "AnnaNetrebko",
+        "name": "Anna Netrebko",
+        "id": "211331885",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 62234,
+            "following_count": 81,
+            "tweet_count": 1127,
+            "listed_count": 863
+        }
+    },
+    {
+        "username": "lang_lang",
+        "name": "Lang Lang",
+        "id": "42640655",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 137605,
+            "following_count": 4521,
+            "tweet_count": 5523,
+            "listed_count": 1424
+        }
+    },
+    {
+        "username": "PlacidoDomingo",
+        "name": "Placido Domingo",
+        "id": "364612474",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 90123,
+            "following_count": 145,
+            "tweet_count": 10241,
+            "listed_count": 893
+        }
+    },
+    {
+        "username": "MancCamerata",
+        "name": "Manchester Camerata",
+        "id": "41370121",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15388,
+            "following_count": 5394,
+            "tweet_count": 12243,
+            "listed_count": 301
+        }
+    },
+    {
+        "username": "konzerthaus",
+        "name": "konzerthaus",
+        "id": "121230309",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7959,
+            "following_count": 1406,
+            "tweet_count": 4310,
+            "listed_count": 195
+        }
+    },
+    {
+        "username": "FazerArtists",
+        "name": "Fazer Artists",
+        "id": "273314564",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1005,
+            "following_count": 949,
+            "tweet_count": 802,
+            "listed_count": 18
+        }
+    },
+    {
+        "username": "liverpoolphil",
+        "name": "Royal Liverpool Philharmonic",
+        "id": "19396648",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 31818,
+            "following_count": 3080,
+            "tweet_count": 12780,
+            "listed_count": 470
+        }
+    },
+    {
+        "username": "DBarenboim",
+        "name": "Daniel Barenboim",
+        "id": "289395885",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 47522,
+            "following_count": 23,
+            "tweet_count": 1018,
+            "listed_count": 869
+        }
+    },
+    {
+        "username": "FresnoPhil",
+        "name": "Fresno Philharmonic",
+        "id": "19790930",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2925,
+            "following_count": 222,
+            "tweet_count": 1190,
+            "listed_count": 128
+        }
+    },
+    {
+        "username": "StaatsoperBLN",
+        "name": "Staatsoper Berlin",
+        "id": "114427416",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25899,
+            "following_count": 1358,
+            "tweet_count": 5246,
+            "listed_count": 527
+        }
+    },
+    {
+        "username": "Komische_Oper",
+        "name": "Komische Oper Berlin",
+        "id": "24902046",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14905,
+            "following_count": 697,
+            "tweet_count": 6327,
+            "listed_count": 367
+        }
+    },
+    {
+        "username": "SbgFestival",
+        "name": "Salzburg Festival",
+        "id": "140032797",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 30368,
+            "following_count": 363,
+            "tweet_count": 1646,
+            "listed_count": 450
+        }
+    },
+    {
+        "username": "cgsinfonia",
+        "name": "Covent Garden Sinfonia",
+        "id": "142656689",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8032,
+            "following_count": 408,
+            "tweet_count": 5518,
+            "listed_count": 131
+        }
+    },
+    {
+        "username": "aspenmusic",
+        "name": "aspenmusic",
+        "id": "18690698",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18962,
+            "following_count": 164,
+            "tweet_count": 3470,
+            "listed_count": 580
+        }
+    },
+    {
+        "username": "bay_staatsoper",
+        "name": "BayerischeStaatsoper",
+        "id": "90635787",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28792,
+            "following_count": 5474,
+            "tweet_count": 9975,
+            "listed_count": 599
+        }
+    },
+    {
+        "username": "BPOrchestra",
+        "name": "BuffaloPhilharmonicOrchestra",
+        "id": "28147738",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9202,
+            "following_count": 1340,
+            "tweet_count": 17712,
+            "listed_count": 304
+        }
+    },
+    {
+        "username": "OrchLeague",
+        "name": "League of American Orchestras",
+        "id": "65039072",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13361,
+            "following_count": 3929,
+            "tweet_count": 6148,
+            "listed_count": 438
+        }
+    },
+    {
+        "username": "Indy_Symphony",
+        "name": "Indianapolis Symphony Orchestra",
+        "id": "17993457",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16441,
+            "following_count": 3998,
+            "tweet_count": 10319,
+            "listed_count": 485
+        }
+    },
+    {
+        "username": "Alte_Musik",
+        "name": "Innsbrucker Festwochen der Alten Musik",
+        "id": "92740635",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3571,
+            "following_count": 1247,
+            "tweet_count": 1366,
+            "listed_count": 97
+        }
+    },
+    {
+        "username": "CityLdnSinfonia",
+        "name": "City of London Sinfonia (CLS)",
+        "id": "119700143",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16557,
+            "following_count": 2594,
+            "tweet_count": 11310,
+            "listed_count": 279
+        }
+    },
+    {
+        "username": "RoyalPhilSoc",
+        "name": "Royal Philharmonic Society",
+        "id": "127568547",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 24230,
+            "following_count": 1260,
+            "tweet_count": 13454,
+            "listed_count": 369
+        }
+    },
+    {
+        "username": "seattlesymphony",
+        "name": "Seattle Symphony",
+        "id": "18091654",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21827,
+            "following_count": 840,
+            "tweet_count": 10998,
+            "listed_count": 818
+        }
+    },
+    {
+        "username": "LyricOpera",
+        "name": "Lyric Opera of Chicago",
+        "id": "17132056",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 35885,
+            "following_count": 1396,
+            "tweet_count": 14644,
+            "listed_count": 800
+        }
+    },
+    {
+        "username": "HouGrandOpera",
+        "name": "Houston Grand Opera",
+        "id": "17291550",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27290,
+            "following_count": 747,
+            "tweet_count": 6209,
+            "listed_count": 698
+        }
+    },
+    {
+        "username": "OPERANEWS",
+        "name": "OPERA NEWS",
+        "id": "126697381",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 52000,
+            "following_count": 660,
+            "tweet_count": 3411,
+            "listed_count": 815
+        }
+    },
+    {
+        "username": "MG_Mafara70",
+        "name": "Maria Gabriella Mafara",
+        "id": "1169686478",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 347,
+            "following_count": 600,
+            "tweet_count": 95,
+            "listed_count": 4
+        }
+    },
+    {
+        "username": "BaltSymphony",
+        "name": "Baltimore Symphony",
+        "id": "17193952",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20000,
+            "following_count": 738,
+            "tweet_count": 7081,
+            "listed_count": 748
+        }
+    },
+    {
+        "username": "HouSymphony",
+        "name": "Houston Symphony",
+        "id": "30993607",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 29657,
+            "following_count": 1424,
+            "tweet_count": 13285,
+            "listed_count": 716
+        }
+    },
+    {
+        "username": "DetroitSymphony",
+        "name": "Detroit Symphony",
+        "id": "25129665",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27213,
+            "following_count": 4380,
+            "tweet_count": 11469,
+            "listed_count": 757
+        }
+    },
+    {
+        "username": "MetOpera",
+        "name": "Metropolitan Opera",
+        "id": "22699770",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 248245,
+            "following_count": 354,
+            "tweet_count": 7917,
+            "listed_count": 3415
+        }
+    },
+    {
+        "username": "E_N_O",
+        "name": "English National Opera",
+        "id": "18244354",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 123337,
+            "following_count": 3436,
+            "tweet_count": 15880,
+            "listed_count": 1109
+        }
+    },
+    {
+        "username": "LincolnCenter",
+        "name": "Lincoln Center",
+        "id": "31928507",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 107858,
+            "following_count": 764,
+            "tweet_count": 14725,
+            "listed_count": 2387
+        }
+    },
+    {
+        "username": "RoyalOperaHouse",
+        "name": "Royal Opera House",
+        "id": "21079277",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 222524,
+            "following_count": 1453,
+            "tweet_count": 41068,
+            "listed_count": 3109
+        }
+    },
+    {
+        "username": "gjso",
+        "name": "GJ Symphony",
+        "id": "20014428",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3003,
+            "following_count": 657,
+            "tweet_count": 1409,
+            "listed_count": 97
+        }
+    },
+    {
+        "username": "mn_orchestra",
+        "name": "Minnesota Orchestra",
+        "id": "21112668",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20241,
+            "following_count": 1986,
+            "tweet_count": 9194,
+            "listed_count": 675
+        }
+    },
+    {
+        "username": "carnegiehall",
+        "name": "Carnegie Hall",
+        "id": "34748247",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 107803,
+            "following_count": 3584,
+            "tweet_count": 19169,
+            "listed_count": 2172
+        }
+    },
+    {
+        "username": "liebestimmeji",
+        "name": "klein J",
+        "id": "388350400",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 164,
+            "following_count": 348,
+            "tweet_count": 1306,
+            "listed_count": 2
+        }
+    },
+    {
+        "username": "divamanagement1",
+        "name": "DIVA MANAGEMENT",
+        "id": "717074491",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 535,
+            "following_count": 668,
+            "tweet_count": 465,
+            "listed_count": 9
+        }
+    },
+    {
+        "username": "soleamanagement",
+        "name": "Solea Management",
+        "id": "286194106",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1212,
+            "following_count": 629,
+            "tweet_count": 1244,
+            "listed_count": 20
+        }
+    },
+    {
+        "username": "RSNO",
+        "name": "Royal Scottish National Orchestra",
+        "id": "17307716",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 24335,
+            "following_count": 1799,
+            "tweet_count": 8914,
+            "listed_count": 499
+        }
+    },
+    {
+        "username": "SCOmusic",
+        "name": "Scottish Chamber Orchestra",
+        "id": "41781699",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25516,
+            "following_count": 6008,
+            "tweet_count": 8410,
+            "listed_count": 473
+        }
+    },
+    {
+        "username": "BBCSSO",
+        "name": "BBC Scottish Symphony Orchestra",
+        "id": "73117621",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 34678,
+            "following_count": 2815,
+            "tweet_count": 12228,
+            "listed_count": 490
+        }
+    },
+    {
+        "username": "rpoonline",
+        "name": "Royal Philharmonic Orchestra",
+        "id": "137341360",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 51383,
+            "following_count": 6310,
+            "tweet_count": 12336,
+            "listed_count": 676
+        }
+    },
+    {
+        "username": "viennasymphony",
+        "name": "Wiener Symphoniker",
+        "id": "109604608",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9925,
+            "following_count": 884,
+            "tweet_count": 1892,
+            "listed_count": 264
+        }
+    },
+    {
+        "username": "Ldn_Sinfonietta",
+        "name": "London Sinfonietta",
+        "id": "33473772",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 30048,
+            "following_count": 2591,
+            "tweet_count": 7624,
+            "listed_count": 596
+        }
+    },
+    {
+        "username": "MOSalzburg",
+        "name": "Mozarteum Orchestra",
+        "id": "78016521",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7992,
+            "following_count": 118,
+            "tweet_count": 1033,
+            "listed_count": 227
+        }
+    },
+    {
+        "username": "ECOrchestra",
+        "name": "English Chamber Orch",
+        "id": "102713979",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 26646,
+            "following_count": 6387,
+            "tweet_count": 6785,
+            "listed_count": 465
+        }
+    },
+    {
+        "username": "BBCCO",
+        "name": "BBC Concert Orchestra",
+        "id": "137637703",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40434,
+            "following_count": 674,
+            "tweet_count": 7266,
+            "listed_count": 499
+        }
+    },
+    {
+        "username": "the_halle",
+        "name": "The Hallé",
+        "id": "61203418",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25775,
+            "following_count": 1638,
+            "tweet_count": 11877,
+            "listed_count": 401
+        }
+    },
+    {
+        "username": "BBCPhilharmonic",
+        "name": "BBC Philharmonic",
+        "id": "84555566",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 91882,
+            "following_count": 1804,
+            "tweet_count": 18085,
+            "listed_count": 1009
+        }
+    },
+    {
+        "username": "ravennafestival",
+        "name": "Ravenna Festival",
+        "id": "525350621",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5945,
+            "following_count": 1103,
+            "tweet_count": 11782,
+            "listed_count": 98
+        }
+    },
+    {
+        "username": "RIPhilharmonic",
+        "name": "RI Philharmonic",
+        "id": "58497674",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2105,
+            "following_count": 128,
+            "tweet_count": 1841,
+            "listed_count": 79
+        }
+    },
+    {
+        "username": "CleveOrchestra",
+        "name": "Cleveland Orchestra",
+        "id": "34311266",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 41406,
+            "following_count": 3834,
+            "tweet_count": 10552,
+            "listed_count": 1036
+        }
+    },
+    {
+        "username": "SFSymphony",
+        "name": "SF Symphony",
+        "id": "21921560",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 103705,
+            "following_count": 2938,
+            "tweet_count": 11251,
+            "listed_count": 1365
+        }
+    },
+    {
+        "username": "chicagosymphony",
+        "name": "Chicago Symphony Orchestra",
+        "id": "17166894",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 84442,
+            "following_count": 1765,
+            "tweet_count": 9929,
+            "listed_count": 1764
+        }
+    },
+    {
+        "username": "ADMpalermo",
+        "name": "Amici Della Musica",
+        "id": "393638829",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1897,
+            "following_count": 936,
+            "tweet_count": 1581,
+            "listed_count": 16
+        }
+    },
+    {
+        "username": "BerlinPhil",
+        "name": "Berliner Philharmoniker",
+        "id": "43298395",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 160578,
+            "following_count": 629,
+            "tweet_count": 14911,
+            "listed_count": 2978
+        }
+    },
+    {
+        "username": "LPOrchestra",
+        "name": "London Philharmonic Orchestra",
+        "id": "125671517",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 148469,
+            "following_count": 3659,
+            "tweet_count": 11262,
+            "listed_count": 1177
+        }
+    },
+    {
+        "username": "londonsymphony",
+        "name": "London Symphony Orch",
+        "id": "19209076",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 297317,
+            "following_count": 15477,
+            "tweet_count": 40052,
+            "listed_count": 2659
+        }
+    },
+    {
+        "username": "CascadeSymphony",
+        "name": "Cascade Symphony",
+        "id": "36387382",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3087,
+            "following_count": 638,
+            "tweet_count": 448,
+            "listed_count": 102
+        }
+    },
+    {
+        "username": "Adrian_Symphony",
+        "name": "Adrian Symphony",
+        "id": "72593338",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1539,
+            "following_count": 39,
+            "tweet_count": 536,
+            "listed_count": 34
+        }
+    },
+    {
+        "username": "bremsymphony",
+        "name": "Bremerton WestSound Symphony",
+        "id": "27838723",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2814,
+            "following_count": 323,
+            "tweet_count": 602,
+            "listed_count": 87
+        }
+    },
+    {
+        "username": "AuroraSymphony",
+        "name": "Aurora Symphony Orch",
+        "id": "34333791",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3526,
+            "following_count": 3169,
+            "tweet_count": 1153,
+            "listed_count": 113
+        }
+    },
+    {
+        "username": "NYROrchestra",
+        "name": "NYRepertoryOrchestra",
+        "id": "107137105",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1526,
+            "following_count": 130,
+            "tweet_count": 546,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "greeleyphil",
+        "name": "Greeley Philharmonic",
+        "id": "22050439",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2483,
+            "following_count": 0,
+            "tweet_count": 924,
+            "listed_count": 84
+        }
+    },
+    {
+        "username": "NYYouthSymphony",
+        "name": "New York Youth Symphony",
+        "id": "23632148",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4524,
+            "following_count": 4246,
+            "tweet_count": 4430,
+            "listed_count": 126
+        }
+    },
+    {
+        "username": "RestonOrchestra",
+        "name": "Reston Orchestra",
+        "id": "69476567",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1906,
+            "following_count": 34,
+            "tweet_count": 811,
+            "listed_count": 55
+        }
+    },
+    {
+        "username": "libertysymphony",
+        "name": "Liberty Symphony",
+        "id": "23798370",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2582,
+            "following_count": 331,
+            "tweet_count": 736,
+            "listed_count": 60
+        }
+    },
+    {
+        "username": "csphilharmonic",
+        "name": "CS Philharmonic",
+        "id": "42888049",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2452,
+            "following_count": 823,
+            "tweet_count": 1459,
+            "listed_count": 97
+        }
+    },
+    {
+        "username": "PescettiSusanna",
+        "name": "Susanna Pescetti",
+        "id": "1568462420",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "NottSymphWinds",
+        "name": "Nottingham Symphonic Winds",
+        "id": "105574519",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1155,
+            "following_count": 575,
+            "tweet_count": 383,
+            "listed_count": 37
+        }
+    },
+    {
+        "username": "nwsymphony",
+        "name": "New World Symphony",
+        "id": "16582381",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15513,
+            "following_count": 2818,
+            "tweet_count": 5642,
+            "listed_count": 522
+        }
+    },
+    {
+        "username": "KCMSOrchestra",
+        "name": "KCMS Orchestra",
+        "id": "44425752",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1660,
+            "following_count": 3,
+            "tweet_count": 475,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "AddictsSymphony",
+        "name": "Addicts Symphony",
+        "id": "1640235205",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 661,
+            "following_count": 1607,
+            "tweet_count": 311,
+            "listed_count": 8
+        }
+    },
+    {
+        "username": "ColumbiaOrch",
+        "name": "Columbia Orchestra",
+        "id": "88596343",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1085,
+            "following_count": 342,
+            "tweet_count": 249,
+            "listed_count": 78
+        }
+    },
+    {
+        "username": "VectorWgtnOrch",
+        "name": "Wellington Orchestra",
+        "id": "42192208",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 689,
+            "following_count": 71,
+            "tweet_count": 32,
+            "listed_count": 59
+        }
+    },
+    {
+        "username": "ISUSym",
+        "name": "ISU Orchestras",
+        "id": "76356308",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1015,
+            "following_count": 765,
+            "tweet_count": 775,
+            "listed_count": 55
+        }
+    },
+    {
+        "username": "newlondonorch",
+        "name": "new london orchestra",
+        "id": "246787125",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 999,
+            "following_count": 770,
+            "tweet_count": 317,
+            "listed_count": 28
+        }
+    },
+    {
+        "username": "ATXCivOrchestra",
+        "name": "AustinCivicOrchestra",
+        "id": "370501852",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2502,
+            "following_count": 807,
+            "tweet_count": 3596,
+            "listed_count": 75
+        }
+    },
+    {
+        "username": "chuo_orchestra",
+        "name": "中央大学管弦楽団",
+        "id": "109195441",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3361,
+            "following_count": 2645,
+            "tweet_count": 1988,
+            "listed_count": 82
+        }
+    },
+    {
+        "username": "LAYO_LA_CA",
+        "name": "LA Youth Orchestra",
+        "id": "217259536",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1314,
+            "following_count": 1236,
+            "tweet_count": 632,
+            "listed_count": 54
+        }
+    },
+    {
+        "username": "OrchestraLondon",
+        "name": "Orchestra London",
+        "id": "62353326",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1612,
+            "following_count": 321,
+            "tweet_count": 2686,
+            "listed_count": 71
+        }
+    },
+    {
+        "username": "eyorchestra",
+        "name": "Orchestra",
+        "id": "236616870",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 527,
+            "following_count": 295,
+            "tweet_count": 564,
+            "listed_count": 38
+        }
+    },
+    {
+        "username": "OrchestraKy",
+        "name": "Orchestra Kentucky",
+        "id": "31332801",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1866,
+            "following_count": 133,
+            "tweet_count": 380,
+            "listed_count": 69
+        }
+    },
+    {
+        "username": "OrionOrchestra",
+        "name": "Orion Orchestra",
+        "id": "113460666",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1112,
+            "following_count": 750,
+            "tweet_count": 4982,
+            "listed_count": 21
+        }
+    },
+    {
+        "username": "SMSymphonyO",
+        "name": "SMSymphony Orchestra",
+        "id": "2297183834",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 142,
+            "following_count": 1,
+            "tweet_count": 5,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "OrchestraIowa",
+        "name": "Orchestra Iowa",
+        "id": "47642280",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1668,
+            "following_count": 404,
+            "tweet_count": 1196,
+            "listed_count": 81
+        }
+    },
+    {
+        "username": "TheSilentO",
+        "name": "The Silent Orchestra",
+        "id": "108844241",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 185,
+            "following_count": 39,
+            "tweet_count": 3,
+            "listed_count": 5
+        }
+    },
+    {
+        "username": "BBCSO",
+        "name": "BBC Symphony Orchestra & Chorus",
+        "id": "57368113",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 76386,
+            "following_count": 681,
+            "tweet_count": 11697,
+            "listed_count": 1049
+        }
+    },
+    {
+        "username": "PYOmusic",
+        "name": "PYO Music Institute",
+        "id": "105175776",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1805,
+            "following_count": 1655,
+            "tweet_count": 1631,
+            "listed_count": 64
+        }
+    },
+    {
+        "username": "UrbanSoulOrch",
+        "name": "Urban Soul Orchestra",
+        "id": "52382107",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2112,
+            "following_count": 2169,
+            "tweet_count": 5256,
+            "listed_count": 59
+        }
+    },
+    {
+        "username": "gvorchestra",
+        "name": "GVO",
+        "id": "93490728",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1509,
+            "following_count": 954,
+            "tweet_count": 941,
+            "listed_count": 62
+        }
+    },
+    {
+        "username": "OrchestraVic",
+        "name": "Orchestra Victoria",
+        "id": "162891643",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1642,
+            "following_count": 563,
+            "tweet_count": 850,
+            "listed_count": 34
+        }
+    },
+    {
+        "username": "OSFL",
+        "name": "Orchestra of the Southern Finger Lakes",
+        "id": "19078325",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3248,
+            "following_count": 962,
+            "tweet_count": 1142,
+            "listed_count": 94
+        }
+    },
+    {
+        "username": "MHandOrchestra",
+        "name": "M.H. & His Orchestra",
+        "id": "716919487",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 254,
+            "following_count": 310,
+            "tweet_count": 368,
+            "listed_count": 4
+        }
+    },
+    {
+        "username": "LAPhil",
+        "name": "LA Phil",
+        "id": "16411438",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 70474,
+            "following_count": 728,
+            "tweet_count": 10609,
+            "listed_count": 1436
+        }
+    },
+    {
+        "username": "iOrchestraUK",
+        "name": "iOrchestraUK",
+        "id": "2209134745",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 517,
+            "following_count": 301,
+            "tweet_count": 771,
+            "listed_count": 8
+        }
+    },
+    {
+        "username": "OrchestraSion",
+        "name": "Orchestra' Sion",
+        "id": "417918480",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 346,
+            "following_count": 10,
+            "tweet_count": 175,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "NSYOrchestra",
+        "name": "Nova Scotia Youth Orchestra",
+        "id": "91581723",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 616,
+            "following_count": 251,
+            "tweet_count": 576,
+            "listed_count": 26
+        }
+    },
+    {
+        "username": "rendy_orchestra",
+        "name": "Laurentius Rendy",
+        "id": "202909149",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 180,
+            "following_count": 256,
+            "tweet_count": 2292,
+            "listed_count": 1
+        }
+    },
+    {
+        "username": "nyphil",
+        "name": "New York Philharmonic",
+        "id": "21796484",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 180861,
+            "following_count": 5831,
+            "tweet_count": 16774,
+            "listed_count": 2356
+        }
+    },
+    {
+        "username": "Tokyo_Symphony",
+        "name": "東京交響楽団 TokyoSymphony",
+        "id": "146323255",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 32248,
+            "following_count": 774,
+            "tweet_count": 7898,
+            "listed_count": 723
+        }
+    },
+    {
+        "username": "OrchestraSM",
+        "name": "OrchestraSantaMonica",
+        "id": "772606213",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 184,
+            "following_count": 111,
+            "tweet_count": 263,
+            "listed_count": 6
+        }
+    },
+    {
+        "username": "LandmarksOrch",
+        "name": "Landmarks Orchestra",
+        "id": "117795579",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1849,
+            "following_count": 1073,
+            "tweet_count": 5316,
+            "listed_count": 82
+        }
+    },
+    {
+        "username": "OrchCanada",
+        "name": "Orchestras Canada",
+        "id": "35718189",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3808,
+            "following_count": 701,
+            "tweet_count": 11308,
+            "listed_count": 149
+        }
+    },
+    {
+        "username": "newjapanphil",
+        "name": "新日本フィルハーモニー交響楽団",
+        "id": "137926352",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 29175,
+            "following_count": 265,
+            "tweet_count": 14099,
+            "listed_count": 728
+        }
+    },
+    {
+        "username": "FlaOrchestra",
+        "name": "Florida Orchestra",
+        "id": "65265119",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4114,
+            "following_count": 627,
+            "tweet_count": 6680,
+            "listed_count": 197
+        }
+    },
+    {
+        "username": "vgoonline",
+        "name": "Video Game Orchestra®️",
+        "id": "78632937",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6351,
+            "following_count": 653,
+            "tweet_count": 8116,
+            "listed_count": 122
+        }
+    },
+    {
+        "username": "bsglive",
+        "name": "BSG Orchestra",
+        "id": "48026774",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1364,
+            "following_count": 112,
+            "tweet_count": 39,
+            "listed_count": 117
+        }
+    },
+    {
+        "username": "BostonSymphony",
+        "name": "Boston Symphony",
+        "id": "26079429",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 66074,
+            "following_count": 2898,
+            "tweet_count": 12429,
+            "listed_count": 1513
+        }
+    },
+    {
+        "username": "NACOrchCNA",
+        "name": "NAC Orchestra | Orchestre du CNA",
+        "id": "156836120",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7251,
+            "following_count": 425,
+            "tweet_count": 9429,
+            "listed_count": 211
+        }
+    },
+    {
+        "username": "philorch",
+        "name": "PhilOrch",
+        "id": "16329293",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 22533,
+            "following_count": 1026,
+            "tweet_count": 11871,
+            "listed_count": 673
+        }
+    },
+    {
+        "username": "LCOorchestra",
+        "name": "London Chamber Orchestra",
+        "id": "56724447",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 24871,
+            "following_count": 2766,
+            "tweet_count": 2343,
+            "listed_count": 412
+        }
+    },
+    {
+        "username": "LACOtweets",
+        "name": "Los Angeles Chamber Orchestra",
+        "id": "15359362",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19834,
+            "following_count": 5728,
+            "tweet_count": 11340,
+            "listed_count": 564
+        }
+    },
+    {
+        "username": "PacificSymphony",
+        "name": "Pacific Symphony",
+        "id": "157098328",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13580,
+            "following_count": 9966,
+            "tweet_count": 15009,
+            "listed_count": 302
+        }
+    },
+    {
+        "username": "zemskygreen",
+        "name": "ZG Artists MGMT",
+        "id": "1323035359",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 826,
+            "following_count": 362,
+            "tweet_count": 927,
+            "listed_count": 18
+        }
+    },
+    {
+        "username": "teatroallascala",
+        "name": "Teatro alla Scala",
+        "id": "397383380",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 308333,
+            "following_count": 95,
+            "tweet_count": 20186,
+            "listed_count": 1010
+        }
+    },
+    {
+        "username": "RadioOpera",
+        "name": "RadioOpera",
+        "id": "328301285",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 26122,
+            "following_count": 22064,
+            "tweet_count": 30063,
+            "listed_count": 147
+        }
+    },
+    {
+        "username": "StresaFestival",
+        "name": "Stresa Festival",
+        "id": "485621505",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2607,
+            "following_count": 2051,
+            "tweet_count": 1661,
+            "listed_count": 33
+        }
+    },
+    {
+        "username": "melcri24",
+        "name": "cristina melis",
+        "id": "350367835",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 174,
+            "tweet_count": 159,
+            "listed_count": 0
+        }
+    },
+    {
+        "username": "PriceAttraction",
+        "name": "Price Attractions",
+        "id": "129262699",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3560,
+            "following_count": 3264,
+            "tweet_count": 5316,
+            "listed_count": 30
+        }
+    },
+    {
+        "username": "BelvedereOperaC",
+        "name": "BelvedereCompetition",
+        "id": "2277352878",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2009,
+            "following_count": 2536,
+            "tweet_count": 615,
+            "listed_count": 16
+        }
+    },
+    {
+        "username": "IvannaSperanza",
+        "name": "ivanna speranza",
+        "id": "575451222",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 377,
+            "following_count": 687,
+            "tweet_count": 736,
+            "listed_count": 3
+        }
+    },
+    {
+        "username": "concettalanteri",
+        "name": "concettalanteri",
+        "id": "907561975",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 318,
+            "tweet_count": 109,
+            "listed_count": 0
+        }
+    }
+]

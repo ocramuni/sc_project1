@@ -1,0 +1,122 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 171,
+            "following_count": 120,
+            "tweet_count": 168,
+            "listed_count": 4
+        },
+        "username": "rmit_cidda",
+        "protected": false,
+        "name": "Centre for Information Discovery & Data Analytics",
+        "id": "1187585868493537280"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 57951,
+            "following_count": 1684,
+            "tweet_count": 13077,
+            "listed_count": 737
+        },
+        "username": "RMIT",
+        "protected": false,
+        "name": "RMIT University",
+        "id": "6778812"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2337,
+            "following_count": 1670,
+            "tweet_count": 4448,
+            "listed_count": 97
+        },
+        "username": "karinv",
+        "protected": false,
+        "name": "professor karin verspoor",
+        "id": "16549460"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 131,
+            "following_count": 87,
+            "tweet_count": 50,
+            "listed_count": 1
+        },
+        "username": "Rmitccsri",
+        "protected": false,
+        "name": "RMIT University CCSRI",
+        "id": "1291243790649286656"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4397,
+            "following_count": 651,
+            "tweet_count": 5645,
+            "listed_count": 56
+        },
+        "username": "ResearchRMIT",
+        "protected": false,
+        "name": "RMIT Research",
+        "id": "193935341"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2982,
+            "following_count": 209,
+            "tweet_count": 2161,
+            "listed_count": 76
+        },
+        "username": "IR_oldie",
+        "protected": false,
+        "name": "Mark Sanderson",
+        "id": "127894322"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 968,
+            "following_count": 1004,
+            "tweet_count": 2162,
+            "listed_count": 55
+        },
+        "username": "flosalim",
+        "protected": false,
+        "name": "Flora Salim",
+        "id": "39697728"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 8,
+            "tweet_count": 113,
+            "listed_count": 0
+        },
+        "username": "SCSLab",
+        "protected": false,
+        "name": "SCSLab",
+        "id": "2583669024"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 963,
+            "following_count": 821,
+            "tweet_count": 2835,
+            "listed_count": 55
+        },
+        "username": "damiano10",
+        "protected": false,
+        "name": "Damiano Spina",
+        "id": "132646210"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7958,
+            "following_count": 6109,
+            "tweet_count": 70154,
+            "listed_count": 1923
+        },
+        "username": "RMITComputing",
+        "protected": false,
+        "name": "RMIT School of Computing Technologies",
+        "id": "93781753"
+    }
+]

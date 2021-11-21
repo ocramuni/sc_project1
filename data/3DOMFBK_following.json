@@ -1,0 +1,6998 @@
+[
+    {
+        "protected": false,
+        "id": "821410454706802688",
+        "name": "Metrology News",
+        "public_metrics": {
+            "followers_count": 1001,
+            "following_count": 93,
+            "tweet_count": 3857,
+            "listed_count": 5
+        },
+        "username": "Metrology_News"
+    },
+    {
+        "protected": false,
+        "id": "564573799",
+        "name": "Invest in Trentino",
+        "public_metrics": {
+            "followers_count": 1842,
+            "following_count": 449,
+            "tweet_count": 4151,
+            "listed_count": 38
+        },
+        "username": "investtrentino"
+    },
+    {
+        "protected": false,
+        "id": "1368090841823199232",
+        "name": "Andrea Franceschini",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 20,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "andyfranz82"
+    },
+    {
+        "protected": false,
+        "id": "785618379201654784",
+        "name": "fast.ai",
+        "public_metrics": {
+            "followers_count": 71421,
+            "following_count": 13,
+            "tweet_count": 186,
+            "listed_count": 1238
+        },
+        "username": "fastdotai"
+    },
+    {
+        "protected": false,
+        "id": "1132149370705440768",
+        "name": "VeriDaaS",
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 22,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "username": "VeriDaaS"
+    },
+    {
+        "protected": false,
+        "id": "1706503148",
+        "name": "Mapillary",
+        "public_metrics": {
+            "followers_count": 10376,
+            "following_count": 272,
+            "tweet_count": 4335,
+            "listed_count": 324
+        },
+        "username": "mapillary"
+    },
+    {
+        "protected": false,
+        "id": "1310852012892979201",
+        "name": "Pointly",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 8,
+            "tweet_count": 43,
+            "listed_count": 0
+        },
+        "username": "Pointly_AI"
+    },
+    {
+        "protected": false,
+        "id": "845968426011119616",
+        "name": "Vector Institute",
+        "public_metrics": {
+            "followers_count": 21776,
+            "following_count": 423,
+            "tweet_count": 1313,
+            "listed_count": 378
+        },
+        "username": "VectorInst"
+    },
+    {
+        "protected": false,
+        "id": "1008472282879201281",
+        "name": "CLAIRE",
+        "public_metrics": {
+            "followers_count": 2741,
+            "following_count": 97,
+            "tweet_count": 796,
+            "listed_count": 63
+        },
+        "username": "vision_claire"
+    },
+    {
+        "protected": false,
+        "id": "1331927863294107650",
+        "name": "InterregPROGRESS",
+        "public_metrics": {
+            "followers_count": 121,
+            "following_count": 137,
+            "tweet_count": 343,
+            "listed_count": 5
+        },
+        "username": "InterregPROGRE1"
+    },
+    {
+        "protected": false,
+        "id": "887278045761077248",
+        "name": "Dmytro Mishkin",
+        "public_metrics": {
+            "followers_count": 5106,
+            "following_count": 422,
+            "tweet_count": 8878,
+            "listed_count": 94
+        },
+        "username": "ducha_aiki"
+    },
+    {
+        "protected": false,
+        "id": "4868698227",
+        "name": "European State Forests",
+        "public_metrics": {
+            "followers_count": 2040,
+            "following_count": 702,
+            "tweet_count": 1458,
+            "listed_count": 44
+        },
+        "username": "EUSTAFOR"
+    },
+    {
+        "protected": false,
+        "id": "259904632",
+        "name": "Pierre Hallot",
+        "public_metrics": {
+            "followers_count": 316,
+            "following_count": 429,
+            "tweet_count": 597,
+            "listed_count": 6
+        },
+        "username": "p_hallot"
+    },
+    {
+        "protected": false,
+        "id": "1443166912964435968",
+        "name": "@Florence4D",
+        "public_metrics": {
+            "followers_count": 73,
+            "following_count": 123,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "username": "florence4d"
+    },
+    {
+        "protected": false,
+        "id": "4774732486",
+        "name": "Forum Meccatronica",
+        "public_metrics": {
+            "followers_count": 1064,
+            "following_count": 459,
+            "tweet_count": 464,
+            "listed_count": 13
+        },
+        "username": "meccatronica"
+    },
+    {
+        "protected": false,
+        "id": "2516489533",
+        "name": "SPARC robotics",
+        "public_metrics": {
+            "followers_count": 2386,
+            "following_count": 529,
+            "tweet_count": 1058,
+            "listed_count": 68
+        },
+        "username": "SPARCrobotics"
+    },
+    {
+        "protected": false,
+        "id": "2815508416",
+        "name": "euRobotics",
+        "public_metrics": {
+            "followers_count": 9388,
+            "following_count": 1101,
+            "tweet_count": 6874,
+            "listed_count": 277
+        },
+        "username": "eu_Robotics"
+    },
+    {
+        "protected": false,
+        "id": "2842558252",
+        "name": "Big Data Value",
+        "public_metrics": {
+            "followers_count": 3547,
+            "following_count": 451,
+            "tweet_count": 2899,
+            "listed_count": 113
+        },
+        "username": "BDVA_PPP"
+    },
+    {
+        "protected": false,
+        "id": "1300290904121516034",
+        "name": "cv4cha",
+        "public_metrics": {
+            "followers_count": 27,
+            "following_count": 30,
+            "tweet_count": 61,
+            "listed_count": 1
+        },
+        "username": "cv4cha"
+    },
+    {
+        "protected": false,
+        "id": "108974606",
+        "name": "AIT",
+        "public_metrics": {
+            "followers_count": 3705,
+            "following_count": 295,
+            "tweet_count": 2022,
+            "listed_count": 93
+        },
+        "username": "AITtomorrow2day"
+    },
+    {
+        "protected": false,
+        "id": "1385141641321795587",
+        "name": "ECT*_Trento",
+        "public_metrics": {
+            "followers_count": 220,
+            "following_count": 219,
+            "tweet_count": 325,
+            "listed_count": 1
+        },
+        "username": "EctTrento"
+    },
+    {
+        "protected": false,
+        "id": "54875219",
+        "name": "lucia pannese",
+        "public_metrics": {
+            "followers_count": 620,
+            "following_count": 313,
+            "tweet_count": 2058,
+            "listed_count": 51
+        },
+        "username": "lpannese"
+    },
+    {
+        "protected": false,
+        "id": "3462507081",
+        "name": "Wingtra",
+        "public_metrics": {
+            "followers_count": 2284,
+            "following_count": 975,
+            "tweet_count": 852,
+            "listed_count": 57
+        },
+        "username": "Wingtra"
+    },
+    {
+        "protected": false,
+        "id": "196665568",
+        "name": "nohodublin",
+        "public_metrics": {
+            "followers_count": 770,
+            "following_count": 1875,
+            "tweet_count": 979,
+            "listed_count": 19
+        },
+        "username": "NohoDublin"
+    },
+    {
+        "protected": false,
+        "id": "1327358349902553088",
+        "name": "Luca Morelli",
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 9,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "LucaMor77151194"
+    },
+    {
+        "protected": false,
+        "id": "823232522574303232",
+        "name": "Ewelina Rupnik",
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 231,
+            "tweet_count": 24,
+            "listed_count": 0
+        },
+        "username": "enikrup"
+    },
+    {
+        "protected": false,
+        "id": "1291030465567170561",
+        "name": "AliceVision",
+        "public_metrics": {
+            "followers_count": 615,
+            "following_count": 42,
+            "tweet_count": 32,
+            "listed_count": 8
+        },
+        "username": "AliceVision_Org"
+    },
+    {
+        "protected": false,
+        "id": "224787817",
+        "name": "Ivar Maalen",
+        "public_metrics": {
+            "followers_count": 126,
+            "following_count": 93,
+            "tweet_count": 626,
+            "listed_count": 5
+        },
+        "username": "ivarmaalen"
+    },
+    {
+        "protected": false,
+        "id": "1146318246708207616",
+        "name": "CGTUnisi",
+        "public_metrics": {
+            "followers_count": 55,
+            "following_count": 92,
+            "tweet_count": 198,
+            "listed_count": 0
+        },
+        "username": "CgtUnisi"
+    },
+    {
+        "protected": false,
+        "id": "2724610291",
+        "name": "Sparkd - AI for Business Growth",
+        "public_metrics": {
+            "followers_count": 959,
+            "following_count": 1105,
+            "tweet_count": 1077,
+            "listed_count": 39
+        },
+        "username": "sparkd_ai"
+    },
+    {
+        "protected": false,
+        "id": "1309473807535616000",
+        "name": "Supper & Supper GmbH",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 0,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "SupperundSupper"
+    },
+    {
+        "protected": false,
+        "id": "937215133046190080",
+        "name": "Morris Riedel",
+        "public_metrics": {
+            "followers_count": 1240,
+            "following_count": 1755,
+            "tweet_count": 1212,
+            "listed_count": 8
+        },
+        "username": "MorrisRiedel"
+    },
+    {
+        "protected": false,
+        "id": "783612678765998080",
+        "name": "Spectrum Heritage",
+        "public_metrics": {
+            "followers_count": 1515,
+            "following_count": 888,
+            "tweet_count": 1172,
+            "listed_count": 31
+        },
+        "username": "SpectrumDH"
+    },
+    {
+        "protected": false,
+        "id": "242380426",
+        "name": "Angela Schoellig",
+        "public_metrics": {
+            "followers_count": 3262,
+            "following_count": 919,
+            "tweet_count": 710,
+            "listed_count": 92
+        },
+        "username": "angelaschoellig"
+    },
+    {
+        "protected": false,
+        "id": "2918018447",
+        "name": "Dynamic Systems Lab",
+        "public_metrics": {
+            "followers_count": 800,
+            "following_count": 37,
+            "tweet_count": 107,
+            "listed_count": 9
+        },
+        "username": "dynsyslab"
+    },
+    {
+        "protected": false,
+        "id": "1264946264438910976",
+        "name": "DIMOFAC",
+        "public_metrics": {
+            "followers_count": 127,
+            "following_count": 259,
+            "tweet_count": 51,
+            "listed_count": 2
+        },
+        "username": "DIMOFAC_EU"
+    },
+    {
+        "protected": false,
+        "id": "1362996714706100226",
+        "name": "Geomatics MDPI",
+        "public_metrics": {
+            "followers_count": 119,
+            "following_count": 376,
+            "tweet_count": 24,
+            "listed_count": 1
+        },
+        "username": "Geomatics_MDPI"
+    },
+    {
+        "protected": false,
+        "id": "2979430185",
+        "name": "Microsoft HoloLens",
+        "public_metrics": {
+            "followers_count": 131261,
+            "following_count": 4,
+            "tweet_count": 3148,
+            "listed_count": 2052
+        },
+        "username": "HoloLens"
+    },
+    {
+        "protected": false,
+        "id": "859356090",
+        "name": "Jose Juan Arranz",
+        "public_metrics": {
+            "followers_count": 139,
+            "following_count": 213,
+            "tweet_count": 190,
+            "listed_count": 2
+        },
+        "username": "josejuanarranz"
+    },
+    {
+        "protected": false,
+        "id": "945041407684866048",
+        "name": "ValerioDGulli",
+        "public_metrics": {
+            "followers_count": 747,
+            "following_count": 5001,
+            "tweet_count": 1218,
+            "listed_count": 10
+        },
+        "username": "valerio_eointel"
+    },
+    {
+        "protected": false,
+        "id": "303715592",
+        "name": "Frederic Cantat",
+        "public_metrics": {
+            "followers_count": 561,
+            "following_count": 1106,
+            "tweet_count": 3399,
+            "listed_count": 10
+        },
+        "username": "CanFre"
+    },
+    {
+        "protected": false,
+        "id": "1239642882",
+        "name": "Massimo Zancanaro",
+        "public_metrics": {
+            "followers_count": 211,
+            "following_count": 197,
+            "tweet_count": 267,
+            "listed_count": 9
+        },
+        "username": "MaxZancanaro"
+    },
+    {
+        "protected": false,
+        "id": "3066019663",
+        "name": "Alberto Tono",
+        "public_metrics": {
+            "followers_count": 1083,
+            "following_count": 1004,
+            "tweet_count": 2906,
+            "listed_count": 24
+        },
+        "username": "albertotono3"
+    },
+    {
+        "protected": false,
+        "id": "941240749454184448",
+        "name": "Eetu Puttonen",
+        "public_metrics": {
+            "followers_count": 285,
+            "following_count": 424,
+            "tweet_count": 54,
+            "listed_count": 4
+        },
+        "username": "ep_fgi"
+    },
+    {
+        "protected": false,
+        "id": "1005113475138572288",
+        "name": "Johanna Roiha",
+        "public_metrics": {
+            "followers_count": 165,
+            "following_count": 253,
+            "tweet_count": 249,
+            "listed_count": 2
+        },
+        "username": "j_roiha"
+    },
+    {
+        "protected": false,
+        "id": "829917412187267072",
+        "name": "Dr. Joanne C. White",
+        "public_metrics": {
+            "followers_count": 2498,
+            "following_count": 1928,
+            "tweet_count": 1184,
+            "listed_count": 27
+        },
+        "username": "Joanne_C_White"
+    },
+    {
+        "protected": false,
+        "id": "1225364931366838277",
+        "name": "Point Cloud Intelligence Lab",
+        "public_metrics": {
+            "followers_count": 248,
+            "following_count": 448,
+            "tweet_count": 81,
+            "listed_count": 0
+        },
+        "username": "PointCloudIntel"
+    },
+    {
+        "protected": false,
+        "id": "1396456705",
+        "name": "Maanmittauslaitos",
+        "public_metrics": {
+            "followers_count": 3118,
+            "following_count": 296,
+            "tweet_count": 3642,
+            "listed_count": 48
+        },
+        "username": "Maanmittaus"
+    },
+    {
+        "protected": false,
+        "id": "170448715",
+        "name": "Photoneo",
+        "public_metrics": {
+            "followers_count": 400,
+            "following_count": 267,
+            "tweet_count": 514,
+            "listed_count": 6
+        },
+        "username": "photoneo"
+    },
+    {
+        "protected": false,
+        "id": "75065122",
+        "name": "ams AG",
+        "public_metrics": {
+            "followers_count": 2767,
+            "following_count": 1612,
+            "tweet_count": 3588,
+            "listed_count": 116
+        },
+        "username": "amsAnalog"
+    },
+    {
+        "protected": false,
+        "id": "76297588",
+        "name": "Unshaved Ostrich",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 97,
+            "tweet_count": 139,
+            "listed_count": 3
+        },
+        "username": "C_Vastenhoud"
+    },
+    {
+        "protected": false,
+        "id": "1131188760522235904",
+        "name": "AI4DI",
+        "public_metrics": {
+            "followers_count": 290,
+            "following_count": 430,
+            "tweet_count": 89,
+            "listed_count": 4
+        },
+        "username": "Ai4Di"
+    },
+    {
+        "protected": false,
+        "id": "1051812919497887745",
+        "name": "IMAGO Technologies GmbH",
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 27,
+            "tweet_count": 55,
+            "listed_count": 0
+        },
+        "username": "IMAGO_TechGmbH"
+    },
+    {
+        "protected": false,
+        "id": "2824470983",
+        "name": "SOFTCOM-INT",
+        "public_metrics": {
+            "followers_count": 94,
+            "following_count": 195,
+            "tweet_count": 152,
+            "listed_count": 3
+        },
+        "username": "zekaterinidi"
+    },
+    {
+        "protected": false,
+        "id": "16438248",
+        "name": "Seeker",
+        "public_metrics": {
+            "followers_count": 460295,
+            "following_count": 14808,
+            "tweet_count": 65324,
+            "listed_count": 7395
+        },
+        "username": "Seeker"
+    },
+    {
+        "protected": false,
+        "id": "470492369",
+        "name": "Euresys",
+        "public_metrics": {
+            "followers_count": 506,
+            "following_count": 226,
+            "tweet_count": 312,
+            "listed_count": 5
+        },
+        "username": "Euresys"
+    },
+    {
+        "protected": false,
+        "id": "565672130",
+        "name": "Ravi Peters",
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 109,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "ylannl"
+    },
+    {
+        "protected": false,
+        "id": "162496681",
+        "name": "EuroScientist",
+        "public_metrics": {
+            "followers_count": 6623,
+            "following_count": 1846,
+            "tweet_count": 11995,
+            "listed_count": 311
+        },
+        "username": "EuroScientist"
+    },
+    {
+        "protected": false,
+        "id": "800760326878728192",
+        "name": "AVR Lab",
+        "public_metrics": {
+            "followers_count": 207,
+            "following_count": 278,
+            "tweet_count": 496,
+            "listed_count": 11
+        },
+        "username": "SalentoAVR"
+    },
+    {
+        "protected": false,
+        "id": "34432397",
+        "name": "Marc Pollefeys",
+        "public_metrics": {
+            "followers_count": 4166,
+            "following_count": 317,
+            "tweet_count": 115,
+            "listed_count": 72
+        },
+        "username": "mapo1"
+    },
+    {
+        "protected": false,
+        "id": "26613764",
+        "name": "Teledyne Optech",
+        "public_metrics": {
+            "followers_count": 2104,
+            "following_count": 605,
+            "tweet_count": 1040,
+            "listed_count": 74
+        },
+        "username": "TeledyneOptech"
+    },
+    {
+        "protected": false,
+        "id": "757495343072284672",
+        "name": "PointCab GmbH",
+        "public_metrics": {
+            "followers_count": 507,
+            "following_count": 360,
+            "tweet_count": 377,
+            "listed_count": 5
+        },
+        "username": "PointCab2016"
+    },
+    {
+        "protected": false,
+        "id": "1342891699639635969",
+        "name": "Alessandro Paris",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 266,
+            "tweet_count": 33,
+            "listed_count": 0
+        },
+        "username": "paris_aleph"
+    },
+    {
+        "protected": false,
+        "id": "96737164",
+        "name": "Massimo Rospocher",
+        "public_metrics": {
+            "followers_count": 697,
+            "following_count": 739,
+            "tweet_count": 459,
+            "listed_count": 16
+        },
+        "username": "MRospocher"
+    },
+    {
+        "protected": false,
+        "id": "1273187222129381377",
+        "name": "Fabrizio Nevola",
+        "public_metrics": {
+            "followers_count": 864,
+            "following_count": 1261,
+            "tweet_count": 301,
+            "listed_count": 10
+        },
+        "username": "FJNevola"
+    },
+    {
+        "protected": false,
+        "id": "1318963723244097542",
+        "name": "Hidden Cities",
+        "public_metrics": {
+            "followers_count": 405,
+            "following_count": 15,
+            "tweet_count": 67,
+            "listed_count": 5
+        },
+        "username": "HiddenCitiesEU"
+    },
+    {
+        "protected": false,
+        "id": "1234406316694802435",
+        "name": "Hidden Trento. Angelo 1563",
+        "public_metrics": {
+            "followers_count": 183,
+            "following_count": 296,
+            "tweet_count": 72,
+            "listed_count": 0
+        },
+        "username": "HiddenTrento"
+    },
+    {
+        "protected": false,
+        "id": "3030225129",
+        "name": "EISMEA",
+        "public_metrics": {
+            "followers_count": 22959,
+            "following_count": 919,
+            "tweet_count": 14460,
+            "listed_count": 477
+        },
+        "username": "EU_EISMEA"
+    },
+    {
+        "protected": false,
+        "id": "1184822251952230401",
+        "name": "Indicative Data Science",
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "indicativedata"
+    },
+    {
+        "protected": false,
+        "id": "1279336935421599744",
+        "name": "International AI Future Lab on AI4EO",
+        "public_metrics": {
+            "followers_count": 719,
+            "following_count": 49,
+            "tweet_count": 78,
+            "listed_count": 15
+        },
+        "username": "ai4eo_de"
+    },
+    {
+        "protected": false,
+        "id": "2239221307",
+        "name": "Frontiers in Marine Science",
+        "public_metrics": {
+            "followers_count": 11966,
+            "following_count": 5882,
+            "tweet_count": 14082,
+            "listed_count": 225
+        },
+        "username": "FrontMarineSci"
+    },
+    {
+        "protected": false,
+        "id": "1328844000887975938",
+        "name": "Ellie Stathopoulou",
+        "public_metrics": {
+            "followers_count": 48,
+            "following_count": 169,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "elliestath"
+    },
+    {
+        "protected": false,
+        "id": "1355198187716407296",
+        "name": "3DeepVision Research Group",
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 58,
+            "tweet_count": 11,
+            "listed_count": 0
+        },
+        "username": "3DeepVision1"
+    },
+    {
+        "protected": false,
+        "id": "33838201",
+        "name": "Google AI",
+        "public_metrics": {
+            "followers_count": 1647517,
+            "following_count": 21,
+            "tweet_count": 1747,
+            "listed_count": 16259
+        },
+        "username": "GoogleAI"
+    },
+    {
+        "protected": false,
+        "id": "4178478940",
+        "name": "ExoMars PanCam",
+        "public_metrics": {
+            "followers_count": 7237,
+            "following_count": 17,
+            "tweet_count": 486,
+            "listed_count": 168
+        },
+        "username": "ExoMarsPanCam"
+    },
+    {
+        "protected": false,
+        "id": "905764884",
+        "name": "ESA_ExoMars",
+        "public_metrics": {
+            "followers_count": 61011,
+            "following_count": 53,
+            "tweet_count": 785,
+            "listed_count": 1300
+        },
+        "username": "ESA_ExoMars"
+    },
+    {
+        "protected": false,
+        "id": "255411260",
+        "name": "Wissam Wahbeh",
+        "public_metrics": {
+            "followers_count": 392,
+            "following_count": 451,
+            "tweet_count": 836,
+            "listed_count": 17
+        },
+        "username": "WissamWahbeh"
+    },
+    {
+        "protected": false,
+        "id": "1232783237623119872",
+        "name": "NASA's Perseverance Mars Rover",
+        "public_metrics": {
+            "followers_count": 2860770,
+            "following_count": 57,
+            "tweet_count": 777,
+            "listed_count": 6731
+        },
+        "username": "NASAPersevere"
+    },
+    {
+        "protected": false,
+        "id": "978235718505025536",
+        "name": "4D Research Lab",
+        "public_metrics": {
+            "followers_count": 234,
+            "following_count": 118,
+            "tweet_count": 165,
+            "listed_count": 1
+        },
+        "username": "4DRL1"
+    },
+    {
+        "protected": false,
+        "id": "2430556799",
+        "name": "Parco Naturale Adamello Brenta Geopark",
+        "public_metrics": {
+            "followers_count": 1808,
+            "following_count": 334,
+            "tweet_count": 834,
+            "listed_count": 45
+        },
+        "username": "pnab_"
+    },
+    {
+        "protected": false,
+        "id": "1240598802244960258",
+        "name": "TAILOR EU Network",
+        "public_metrics": {
+            "followers_count": 141,
+            "following_count": 22,
+            "tweet_count": 11,
+            "listed_count": 5
+        },
+        "username": "eu_tailor"
+    },
+    {
+        "protected": false,
+        "id": "942238055607435264",
+        "name": "Luca Carlone",
+        "public_metrics": {
+            "followers_count": 3459,
+            "following_count": 422,
+            "tweet_count": 391,
+            "listed_count": 35
+        },
+        "username": "lucacarlone1"
+    },
+    {
+        "protected": false,
+        "id": "82364810",
+        "name": "MIT CSAIL",
+        "public_metrics": {
+            "followers_count": 197460,
+            "following_count": 22431,
+            "tweet_count": 4570,
+            "listed_count": 3058
+        },
+        "username": "MIT_CSAIL"
+    },
+    {
+        "protected": false,
+        "id": "1206518590175948801",
+        "name": "OpenDR",
+        "public_metrics": {
+            "followers_count": 227,
+            "following_count": 427,
+            "tweet_count": 153,
+            "listed_count": 2
+        },
+        "username": "OpenDR_EU"
+    },
+    {
+        "protected": false,
+        "id": "1300467904517996544",
+        "name": "UNITE Flagship",
+        "public_metrics": {
+            "followers_count": 459,
+            "following_count": 417,
+            "tweet_count": 316,
+            "listed_count": 2
+        },
+        "username": "UNITEflagship"
+    },
+    {
+        "protected": false,
+        "id": "55158413",
+        "name": "Clarivate for Academia & Government",
+        "public_metrics": {
+            "followers_count": 39146,
+            "following_count": 1640,
+            "tweet_count": 7483,
+            "listed_count": 643
+        },
+        "username": "ClarivateAG"
+    },
+    {
+        "protected": false,
+        "id": "1354061045824974848",
+        "name": "3DHD-ICubeTRIO",
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 71,
+            "tweet_count": 39,
+            "listed_count": 0
+        },
+        "username": "3dhd_trio"
+    },
+    {
+        "protected": false,
+        "id": "1290216037150068736",
+        "name": "LINKS EU Project",
+        "public_metrics": {
+            "followers_count": 471,
+            "following_count": 447,
+            "tweet_count": 212,
+            "listed_count": 6
+        },
+        "username": "LINKS_EUProject"
+    },
+    {
+        "protected": false,
+        "id": "881894159522594816",
+        "name": "HEIMDALL",
+        "public_metrics": {
+            "followers_count": 672,
+            "following_count": 523,
+            "tweet_count": 428,
+            "listed_count": 13
+        },
+        "username": "HeimdallProject"
+    },
+    {
+        "protected": false,
+        "id": "478208405",
+        "name": "Canadian Science Publishing",
+        "public_metrics": {
+            "followers_count": 8163,
+            "following_count": 1944,
+            "tweet_count": 23781,
+            "listed_count": 274
+        },
+        "username": "cdnsciencepub"
+    },
+    {
+        "protected": false,
+        "id": "1601872932",
+        "name": "Beril Sirmacek 🦋🇳🇱🌱",
+        "public_metrics": {
+            "followers_count": 2310,
+            "following_count": 2182,
+            "tweet_count": 15922,
+            "listed_count": 18
+        },
+        "username": "berilsirmacek"
+    },
+    {
+        "protected": false,
+        "id": "1340942871894093824",
+        "name": "DigitalIndustry-FBK",
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 21,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "username": "DI_FBK"
+    },
+    {
+        "protected": false,
+        "id": "1340316788303773697",
+        "name": "DSIP",
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 20,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "username": "FBK_DSIP"
+    },
+    {
+        "protected": false,
+        "id": "205178589",
+        "name": "Eleonora Mencarini",
+        "public_metrics": {
+            "followers_count": 222,
+            "following_count": 454,
+            "tweet_count": 306,
+            "listed_count": 5
+        },
+        "username": "elme85"
+    },
+    {
+        "protected": false,
+        "id": "3802194221",
+        "name": "i3 group | FBK",
+        "public_metrics": {
+            "followers_count": 409,
+            "following_count": 1192,
+            "tweet_count": 824,
+            "listed_count": 47
+        },
+        "username": "i3_FBK"
+    },
+    {
+        "protected": false,
+        "id": "29694990",
+        "name": "Chiara Leonardi",
+        "public_metrics": {
+            "followers_count": 284,
+            "following_count": 646,
+            "tweet_count": 264,
+            "listed_count": 9
+        },
+        "username": "cleochiara"
+    },
+    {
+        "protected": false,
+        "id": "1285856374182875136",
+        "name": "Search & Rescue",
+        "public_metrics": {
+            "followers_count": 327,
+            "following_count": 205,
+            "tweet_count": 234,
+            "listed_count": 4
+        },
+        "username": "SaR_H2020"
+    },
+    {
+        "protected": false,
+        "id": "1128660097868103680",
+        "name": "ResponDrone",
+        "public_metrics": {
+            "followers_count": 580,
+            "following_count": 2012,
+            "tweet_count": 241,
+            "listed_count": 4
+        },
+        "username": "ResponDrone"
+    },
+    {
+        "protected": false,
+        "id": "404839285",
+        "name": "Sandro Battisti",
+        "public_metrics": {
+            "followers_count": 69,
+            "following_count": 83,
+            "tweet_count": 23,
+            "listed_count": 2
+        },
+        "username": "sandrobattisti"
+    },
+    {
+        "protected": false,
+        "id": "1179876313445863426",
+        "name": "Ania Nowacka",
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 126,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "nowacka_ania"
+    },
+    {
+        "protected": false,
+        "id": "80057436",
+        "name": "Marco Cristoforetti",
+        "public_metrics": {
+            "followers_count": 113,
+            "following_count": 127,
+            "tweet_count": 338,
+            "listed_count": 7
+        },
+        "username": "cristoforetti"
+    },
+    {
+        "protected": false,
+        "id": "219593456",
+        "name": "Pedro Ortiz-Coder, PhD",
+        "public_metrics": {
+            "followers_count": 335,
+            "following_count": 358,
+            "tweet_count": 1035,
+            "listed_count": 10
+        },
+        "username": "Gavle4D"
+    },
+    {
+        "protected": false,
+        "id": "1176468820363534336",
+        "name": "icpr2020milan",
+        "public_metrics": {
+            "followers_count": 799,
+            "following_count": 838,
+            "tweet_count": 536,
+            "listed_count": 7
+        },
+        "username": "icpr2020milan"
+    },
+    {
+        "protected": false,
+        "id": "1298244855911657473",
+        "name": "Geo-spatial Information Science",
+        "public_metrics": {
+            "followers_count": 518,
+            "following_count": 922,
+            "tweet_count": 288,
+            "listed_count": 2
+        },
+        "username": "GsisOffice"
+    },
+    {
+        "protected": false,
+        "id": "2578542708",
+        "name": "Fabio Bellavia",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 27,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "fabio_bellavia"
+    },
+    {
+        "protected": false,
+        "id": "110646346",
+        "name": "Simon Musaeus",
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 24,
+            "tweet_count": 33,
+            "listed_count": 0
+        },
+        "username": "simusaeus"
+    },
+    {
+        "protected": false,
+        "id": "125357097",
+        "name": "International Mining",
+        "public_metrics": {
+            "followers_count": 19506,
+            "following_count": 755,
+            "tweet_count": 12578,
+            "listed_count": 229
+        },
+        "username": "im_mining"
+    },
+    {
+        "protected": false,
+        "id": "529173946",
+        "name": "Inkonova",
+        "public_metrics": {
+            "followers_count": 550,
+            "following_count": 558,
+            "tweet_count": 1191,
+            "listed_count": 81
+        },
+        "username": "Inkonova"
+    },
+    {
+        "protected": false,
+        "id": "440692895",
+        "name": "Martijn Meijers",
+        "public_metrics": {
+            "followers_count": 180,
+            "following_count": 291,
+            "tweet_count": 780,
+            "listed_count": 16
+        },
+        "username": "bmmeijers"
+    },
+    {
+        "protected": false,
+        "id": "825125161888215041",
+        "name": "Qingyong Hu",
+        "public_metrics": {
+            "followers_count": 92,
+            "following_count": 69,
+            "tweet_count": 12,
+            "listed_count": 1
+        },
+        "username": "QingyongHu"
+    },
+    {
+        "protected": false,
+        "id": "1041679464084561920",
+        "name": "Visual Geometry Group (VGG)",
+        "public_metrics": {
+            "followers_count": 7192,
+            "following_count": 321,
+            "tweet_count": 761,
+            "listed_count": 78
+        },
+        "username": "Oxford_VGG"
+    },
+    {
+        "protected": false,
+        "id": "3323459854",
+        "name": "Ronnie Clark",
+        "public_metrics": {
+            "followers_count": 3259,
+            "following_count": 1812,
+            "tweet_count": 459,
+            "listed_count": 38
+        },
+        "username": "ronnieclark__"
+    },
+    {
+        "protected": false,
+        "id": "2894489961",
+        "name": "AviresLabUniud",
+        "public_metrics": {
+            "followers_count": 56,
+            "following_count": 103,
+            "tweet_count": 72,
+            "listed_count": 0
+        },
+        "username": "AviresLab"
+    },
+    {
+        "protected": false,
+        "id": "1114083736528785408",
+        "name": "CHIST-ERA",
+        "public_metrics": {
+            "followers_count": 282,
+            "following_count": 60,
+            "tweet_count": 50,
+            "listed_count": 1
+        },
+        "username": "chistera_net"
+    },
+    {
+        "protected": false,
+        "id": "438378408",
+        "name": "Hidden Cities",
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 7,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "username": "hiddencities"
+    },
+    {
+        "protected": false,
+        "id": "31394713",
+        "name": "Euregio Tirol-BZ-TN",
+        "public_metrics": {
+            "followers_count": 1986,
+            "following_count": 426,
+            "tweet_count": 2768,
+            "listed_count": 36
+        },
+        "username": "Euregio_Tirol"
+    },
+    {
+        "protected": false,
+        "id": "1316556951422205952",
+        "name": "Thirty Day Map Challenge Bot",
+        "public_metrics": {
+            "followers_count": 700,
+            "following_count": 3,
+            "tweet_count": 14565,
+            "listed_count": 12
+        },
+        "username": "30daymap_tweets"
+    },
+    {
+        "protected": false,
+        "id": "23615081",
+        "name": "EMERGENCY",
+        "public_metrics": {
+            "followers_count": 652623,
+            "following_count": 5229,
+            "tweet_count": 15212,
+            "listed_count": 2051
+        },
+        "username": "emergency_ong"
+    },
+    {
+        "protected": false,
+        "id": "147266456",
+        "name": "Mila",
+        "public_metrics": {
+            "followers_count": 1169,
+            "following_count": 1065,
+            "tweet_count": 2288,
+            "listed_count": 32
+        },
+        "username": "milafilm"
+    },
+    {
+        "protected": false,
+        "id": "156700370",
+        "name": "Status Metrology",
+        "public_metrics": {
+            "followers_count": 493,
+            "following_count": 131,
+            "tweet_count": 1479,
+            "listed_count": 6
+        },
+        "username": "StatusMetrology"
+    },
+    {
+        "protected": false,
+        "id": "53209360",
+        "name": "Metrologic Group",
+        "public_metrics": {
+            "followers_count": 977,
+            "following_count": 120,
+            "tweet_count": 441,
+            "listed_count": 12
+        },
+        "username": "metrologic"
+    },
+    {
+        "protected": false,
+        "id": "2801827150",
+        "name": "Vittorio Cannas",
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 80,
+            "tweet_count": 20,
+            "listed_count": 0
+        },
+        "username": "VcannasVittorio"
+    },
+    {
+        "protected": false,
+        "id": "862221866290696192",
+        "name": "SCANTECH 3D",
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 248,
+            "tweet_count": 319,
+            "listed_count": 2
+        },
+        "username": "Scantech3D"
+    },
+    {
+        "protected": false,
+        "id": "819458644773367808",
+        "name": "Mosaicmill Ltd",
+        "public_metrics": {
+            "followers_count": 35,
+            "following_count": 2,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "username": "MosaicMill_ltd"
+    },
+    {
+        "protected": false,
+        "id": "3081846941",
+        "name": "APRE",
+        "public_metrics": {
+            "followers_count": 2484,
+            "following_count": 604,
+            "tweet_count": 5206,
+            "listed_count": 81
+        },
+        "username": "apre_it"
+    },
+    {
+        "protected": false,
+        "id": "832271766416457728",
+        "name": "EuroUSC Italia",
+        "public_metrics": {
+            "followers_count": 258,
+            "following_count": 222,
+            "tweet_count": 446,
+            "listed_count": 3
+        },
+        "username": "EuroUSC_Italia"
+    },
+    {
+        "protected": false,
+        "id": "516952735",
+        "name": "Telespazio",
+        "public_metrics": {
+            "followers_count": 6249,
+            "following_count": 965,
+            "tweet_count": 11256,
+            "listed_count": 143
+        },
+        "username": "telespazio"
+    },
+    {
+        "protected": false,
+        "id": "3114629789",
+        "name": "TopView",
+        "public_metrics": {
+            "followers_count": 280,
+            "following_count": 314,
+            "tweet_count": 429,
+            "listed_count": 11
+        },
+        "username": "TopViewIT"
+    },
+    {
+        "protected": false,
+        "id": "1323152394",
+        "name": "Massimo De Marchi",
+        "public_metrics": {
+            "followers_count": 466,
+            "following_count": 437,
+            "tweet_count": 3229,
+            "listed_count": 0
+        },
+        "username": "MassDeMarchi"
+    },
+    {
+        "protected": false,
+        "id": "4245548776",
+        "name": "Master GIS Droni",
+        "public_metrics": {
+            "followers_count": 645,
+            "following_count": 439,
+            "tweet_count": 8761,
+            "listed_count": 73
+        },
+        "username": "MasterGIS_Droni"
+    },
+    {
+        "protected": false,
+        "id": "2317273591",
+        "name": "e-GEOS",
+        "public_metrics": {
+            "followers_count": 3555,
+            "following_count": 848,
+            "tweet_count": 3336,
+            "listed_count": 75
+        },
+        "username": "e_geos"
+    },
+    {
+        "protected": false,
+        "id": "4901696553",
+        "name": "Mysnowmaps Snow App",
+        "public_metrics": {
+            "followers_count": 172,
+            "following_count": 313,
+            "tweet_count": 796,
+            "listed_count": 17
+        },
+        "username": "Mysnowmaps"
+    },
+    {
+        "protected": false,
+        "id": "1233434711864881153",
+        "name": "Interreg Italy-Croatia Programme",
+        "public_metrics": {
+            "followers_count": 291,
+            "following_count": 151,
+            "tweet_count": 145,
+            "listed_count": 0
+        },
+        "username": "ItalyCroatia"
+    },
+    {
+        "protected": false,
+        "id": "1265229935687409664",
+        "name": "FGI forest",
+        "public_metrics": {
+            "followers_count": 211,
+            "following_count": 141,
+            "tweet_count": 68,
+            "listed_count": 0
+        },
+        "username": "FGI_forest"
+    },
+    {
+        "protected": false,
+        "id": "1143176691222798337",
+        "name": "3D Imago Urbis",
+        "public_metrics": {
+            "followers_count": 72,
+            "following_count": 236,
+            "tweet_count": 100,
+            "listed_count": 1
+        },
+        "username": "3DImagoUrbis"
+    },
+    {
+        "protected": false,
+        "id": "2315608478",
+        "name": "SEMANTiCS Conference",
+        "public_metrics": {
+            "followers_count": 3067,
+            "following_count": 2451,
+            "tweet_count": 1788,
+            "listed_count": 156
+        },
+        "username": "SemanticsConf"
+    },
+    {
+        "protected": false,
+        "id": "3058204988",
+        "name": "Angela Dai",
+        "public_metrics": {
+            "followers_count": 1636,
+            "following_count": 28,
+            "tweet_count": 200,
+            "listed_count": 19
+        },
+        "username": "angelaqdai"
+    },
+    {
+        "protected": false,
+        "id": "61330998",
+        "name": "Massimiliano Versace",
+        "public_metrics": {
+            "followers_count": 1225,
+            "following_count": 331,
+            "tweet_count": 81344,
+            "listed_count": 420
+        },
+        "username": "maxversace"
+    },
+    {
+        "protected": false,
+        "id": "509264879",
+        "name": "Matteo Negri",
+        "public_metrics": {
+            "followers_count": 321,
+            "following_count": 427,
+            "tweet_count": 1657,
+            "listed_count": 104
+        },
+        "username": "negri_teo"
+    },
+    {
+        "protected": false,
+        "id": "4019200269",
+        "name": "MT Group at FBK",
+        "public_metrics": {
+            "followers_count": 1059,
+            "following_count": 338,
+            "tweet_count": 2636,
+            "listed_count": 60
+        },
+        "username": "fbk_mt"
+    },
+    {
+        "protected": false,
+        "id": "919501034921357312",
+        "name": "Mehdi Maboudi",
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 134,
+            "tweet_count": 42,
+            "listed_count": 1
+        },
+        "username": "Maboudi_Mehdii"
+    },
+    {
+        "protected": false,
+        "id": "520384963",
+        "name": "jordi corbera",
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 5,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "username": "jordicorbera3"
+    },
+    {
+        "protected": false,
+        "id": "1583332477",
+        "name": "Marco Turchi",
+        "public_metrics": {
+            "followers_count": 648,
+            "following_count": 522,
+            "tweet_count": 1200,
+            "listed_count": 14
+        },
+        "username": "Turchi_Marco"
+    },
+    {
+        "protected": false,
+        "id": "834522225541648384",
+        "name": "Simon Niklaus",
+        "public_metrics": {
+            "followers_count": 965,
+            "following_count": 150,
+            "tweet_count": 114,
+            "listed_count": 20
+        },
+        "username": "simon_niklaus"
+    },
+    {
+        "protected": false,
+        "id": "1268479432790102035",
+        "name": "TSE Third Smart Eye",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 6,
+            "tweet_count": 141,
+            "listed_count": 0
+        },
+        "username": "eye_tse"
+    },
+    {
+        "protected": false,
+        "id": "905738997095436288",
+        "name": "Fabio Panella",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 77,
+            "tweet_count": 36,
+            "listed_count": 0
+        },
+        "username": "FabioPanella4"
+    },
+    {
+        "protected": false,
+        "id": "962971128804278272",
+        "name": "CristinaRe",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 52,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "cristinare_"
+    },
+    {
+        "protected": false,
+        "id": "1057577176306987008",
+        "name": "Panoptis",
+        "public_metrics": {
+            "followers_count": 286,
+            "following_count": 2022,
+            "tweet_count": 110,
+            "listed_count": 1
+        },
+        "username": "panoptis"
+    },
+    {
+        "protected": false,
+        "id": "1034844617261248512",
+        "name": "Meta AI",
+        "public_metrics": {
+            "followers_count": 175227,
+            "following_count": 237,
+            "tweet_count": 810,
+            "listed_count": 2524
+        },
+        "username": "MetaAI"
+    },
+    {
+        "protected": false,
+        "id": "990725857",
+        "name": "Conor Cahalane",
+        "public_metrics": {
+            "followers_count": 874,
+            "following_count": 1285,
+            "tweet_count": 3568,
+            "listed_count": 19
+        },
+        "username": "con20or"
+    },
+    {
+        "protected": false,
+        "id": "3405575704",
+        "name": "PointCloudTechnology",
+        "public_metrics": {
+            "followers_count": 182,
+            "following_count": 34,
+            "tweet_count": 63,
+            "listed_count": 7
+        },
+        "username": "PointCloud_Tech"
+    },
+    {
+        "protected": false,
+        "id": "729589027326791680",
+        "name": "HIT",
+        "public_metrics": {
+            "followers_count": 1780,
+            "following_count": 1286,
+            "tweet_count": 3173,
+            "listed_count": 40
+        },
+        "username": "HIT_trentino"
+    },
+    {
+        "protected": false,
+        "id": "360562509",
+        "name": "Raffaele Giaffreda",
+        "public_metrics": {
+            "followers_count": 540,
+            "following_count": 616,
+            "tweet_count": 1443,
+            "listed_count": 39
+        },
+        "username": "giaffred"
+    },
+    {
+        "protected": false,
+        "id": "1178970996340080640",
+        "name": "Tessa Agritech",
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 43,
+            "tweet_count": 62,
+            "listed_count": 0
+        },
+        "username": "tessa_agritech"
+    },
+    {
+        "protected": false,
+        "id": "270603291",
+        "name": "PointCloudLibrary",
+        "public_metrics": {
+            "followers_count": 1237,
+            "following_count": 16,
+            "tweet_count": 221,
+            "listed_count": 54
+        },
+        "username": "pointclouds"
+    },
+    {
+        "protected": false,
+        "id": "20268490",
+        "name": "DPReview",
+        "public_metrics": {
+            "followers_count": 146990,
+            "following_count": 984,
+            "tweet_count": 13124,
+            "listed_count": 3764
+        },
+        "username": "dpreview"
+    },
+    {
+        "protected": false,
+        "id": "121656516",
+        "name": "Hüseyin TOPAN",
+        "public_metrics": {
+            "followers_count": 332,
+            "following_count": 233,
+            "tweet_count": 1772,
+            "listed_count": 0
+        },
+        "username": "htopan"
+    },
+    {
+        "protected": false,
+        "id": "1268582410444300288",
+        "name": "Hubert Mara",
+        "public_metrics": {
+            "followers_count": 295,
+            "following_count": 391,
+            "tweet_count": 298,
+            "listed_count": 2
+        },
+        "username": "HubertMara"
+    },
+    {
+        "protected": false,
+        "id": "498649194",
+        "name": "gerke",
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 50,
+            "tweet_count": 36,
+            "listed_count": 0
+        },
+        "username": "gerkelx"
+    },
+    {
+        "protected": false,
+        "id": "18798859",
+        "name": "Hydro International",
+        "public_metrics": {
+            "followers_count": 4806,
+            "following_count": 1307,
+            "tweet_count": 14570,
+            "listed_count": 107
+        },
+        "username": "hydro_intl"
+    },
+    {
+        "protected": false,
+        "id": "2885786046",
+        "name": "Skydio",
+        "public_metrics": {
+            "followers_count": 12196,
+            "following_count": 166,
+            "tweet_count": 3324,
+            "listed_count": 227
+        },
+        "username": "SkydioHQ"
+    },
+    {
+        "protected": false,
+        "id": "1370521160",
+        "name": "Krzysztof Bakula",
+        "public_metrics": {
+            "followers_count": 35,
+            "following_count": 45,
+            "tweet_count": 45,
+            "listed_count": 0
+        },
+        "username": "KrzysztofBakula"
+    },
+    {
+        "protected": false,
+        "id": "1089548205765902342",
+        "name": "GARIMA NISHAD",
+        "public_metrics": {
+            "followers_count": 123,
+            "following_count": 71,
+            "tweet_count": 80,
+            "listed_count": 1
+        },
+        "username": "garima__nishad"
+    },
+    {
+        "protected": false,
+        "id": "901451924",
+        "name": "FondMontagnaSicura",
+        "public_metrics": {
+            "followers_count": 353,
+            "following_count": 64,
+            "tweet_count": 778,
+            "listed_count": 7
+        },
+        "username": "Fondms"
+    },
+    {
+        "protected": false,
+        "id": "965700127",
+        "name": "Giuseppe Jurman",
+        "public_metrics": {
+            "followers_count": 665,
+            "following_count": 1291,
+            "tweet_count": 1647,
+            "listed_count": 38
+        },
+        "username": "Giuseppe_Jurman"
+    },
+    {
+        "protected": false,
+        "id": "1367112751",
+        "name": "Manuela Colapietro",
+        "public_metrics": {
+            "followers_count": 259,
+            "following_count": 258,
+            "tweet_count": 506,
+            "listed_count": 11
+        },
+        "username": "ManuelaColap"
+    },
+    {
+        "protected": false,
+        "id": "800640179937517568",
+        "name": "Bruker Alicona",
+        "public_metrics": {
+            "followers_count": 333,
+            "following_count": 398,
+            "tweet_count": 171,
+            "listed_count": 11
+        },
+        "username": "AliconaImaging"
+    },
+    {
+        "protected": false,
+        "id": "823859080427143170",
+        "name": "BLUEMED",
+        "public_metrics": {
+            "followers_count": 602,
+            "following_count": 77,
+            "tweet_count": 110,
+            "listed_count": 9
+        },
+        "username": "BluemedMed"
+    },
+    {
+        "protected": false,
+        "id": "1245729902365736962",
+        "name": "GigaMesh",
+        "public_metrics": {
+            "followers_count": 213,
+            "following_count": 232,
+            "tweet_count": 76,
+            "listed_count": 2
+        },
+        "username": "MeshGiga"
+    },
+    {
+        "protected": false,
+        "id": "2387547306",
+        "name": "GeoVast 3D",
+        "public_metrics": {
+            "followers_count": 605,
+            "following_count": 1164,
+            "tweet_count": 183,
+            "listed_count": 14
+        },
+        "username": "GeoVast3D"
+    },
+    {
+        "protected": false,
+        "id": "994633771843555329",
+        "name": "Susana del pozo",
+        "public_metrics": {
+            "followers_count": 72,
+            "following_count": 93,
+            "tweet_count": 173,
+            "listed_count": 1
+        },
+        "username": "Susanadelpozo7"
+    },
+    {
+        "protected": false,
+        "id": "3385995556",
+        "name": "Consortium3D_SHS",
+        "public_metrics": {
+            "followers_count": 551,
+            "following_count": 231,
+            "tweet_count": 664,
+            "listed_count": 59
+        },
+        "username": "Consortium_3D"
+    },
+    {
+        "protected": false,
+        "id": "1199978732255088640",
+        "name": "Covision Lab",
+        "public_metrics": {
+            "followers_count": 43,
+            "following_count": 19,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "username": "covision_lab"
+    },
+    {
+        "protected": false,
+        "id": "1132258856594223104",
+        "name": "devistuia",
+        "public_metrics": {
+            "followers_count": 896,
+            "following_count": 282,
+            "tweet_count": 322,
+            "listed_count": 9
+        },
+        "username": "devistuia"
+    },
+    {
+        "protected": false,
+        "id": "4285763721",
+        "name": "Eija Honkavaara",
+        "public_metrics": {
+            "followers_count": 349,
+            "following_count": 248,
+            "tweet_count": 201,
+            "listed_count": 5
+        },
+        "username": "eijahonkavaara1"
+    },
+    {
+        "protected": false,
+        "id": "130120505",
+        "name": "PAL Robotics",
+        "public_metrics": {
+            "followers_count": 11052,
+            "following_count": 2563,
+            "tweet_count": 5086,
+            "listed_count": 318
+        },
+        "username": "PALRobotics"
+    },
+    {
+        "protected": false,
+        "id": "517473207",
+        "name": "Boston Dynamics",
+        "public_metrics": {
+            "followers_count": 202404,
+            "following_count": 0,
+            "tweet_count": 196,
+            "listed_count": 1222
+        },
+        "username": "BostonDynamics"
+    },
+    {
+        "protected": false,
+        "id": "3131569583",
+        "name": "Bernhard Höfle",
+        "public_metrics": {
+            "followers_count": 370,
+            "following_count": 394,
+            "tweet_count": 1400,
+            "listed_count": 2
+        },
+        "username": "BernhardHofle"
+    },
+    {
+        "protected": false,
+        "id": "1255107561566744576",
+        "name": "Eleonora_Grilli",
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 41,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "EleonoraGrilli4"
+    },
+    {
+        "protected": false,
+        "id": "198975780",
+        "name": "Jordan",
+        "public_metrics": {
+            "followers_count": 4266765,
+            "following_count": 148,
+            "tweet_count": 10669,
+            "listed_count": 6394
+        },
+        "username": "Jumpman23"
+    },
+    {
+        "protected": false,
+        "id": "1241716519710662658",
+        "name": "#EarthEngine Bot",
+        "public_metrics": {
+            "followers_count": 1583,
+            "following_count": 0,
+            "tweet_count": 5261,
+            "listed_count": 10
+        },
+        "username": "EarthEngineBot"
+    },
+    {
+        "protected": false,
+        "id": "89892356",
+        "name": "Laserscanning Europe",
+        "public_metrics": {
+            "followers_count": 1223,
+            "following_count": 173,
+            "tweet_count": 1652,
+            "listed_count": 21
+        },
+        "username": "Laserscanningeu"
+    },
+    {
+        "protected": false,
+        "id": "196117365",
+        "name": "Pointools Ltd.",
+        "public_metrics": {
+            "followers_count": 1297,
+            "following_count": 617,
+            "tweet_count": 633,
+            "listed_count": 39
+        },
+        "username": "Pointools"
+    },
+    {
+        "protected": false,
+        "id": "3193786935",
+        "name": "Gexcel",
+        "public_metrics": {
+            "followers_count": 433,
+            "following_count": 522,
+            "tweet_count": 357,
+            "listed_count": 7
+        },
+        "username": "GexcelSrl"
+    },
+    {
+        "protected": false,
+        "id": "978337032085831685",
+        "name": "Jakarto",
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 49,
+            "tweet_count": 141,
+            "listed_count": 2
+        },
+        "username": "Jakarto3D"
+    },
+    {
+        "protected": false,
+        "id": "722165033686409216",
+        "name": "Loic Messal",
+        "public_metrics": {
+            "followers_count": 95,
+            "following_count": 258,
+            "tweet_count": 164,
+            "listed_count": 2
+        },
+        "username": "_Tofull"
+    },
+    {
+        "protected": false,
+        "id": "468418949",
+        "name": "Franco Amigoni",
+        "public_metrics": {
+            "followers_count": 483,
+            "following_count": 2092,
+            "tweet_count": 546,
+            "listed_count": 6
+        },
+        "username": "FrancoAmigoni"
+    },
+    {
+        "protected": false,
+        "id": "2561387911",
+        "name": "Fabio",
+        "public_metrics": {
+            "followers_count": 183,
+            "following_count": 280,
+            "tweet_count": 211,
+            "listed_count": 4
+        },
+        "username": "giuliotonolo"
+    },
+    {
+        "protected": false,
+        "id": "910549878740279298",
+        "name": "MapScaping",
+        "public_metrics": {
+            "followers_count": 33868,
+            "following_count": 94,
+            "tweet_count": 5527,
+            "listed_count": 520
+        },
+        "username": "MapScaping"
+    },
+    {
+        "protected": false,
+        "id": "1247537547946819585",
+        "name": "TARGET-CE",
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 24,
+            "tweet_count": 54,
+            "listed_count": 1
+        },
+        "username": "CeTarget"
+    },
+    {
+        "protected": false,
+        "id": "1085623721988186112",
+        "name": "EcoVision",
+        "public_metrics": {
+            "followers_count": 530,
+            "following_count": 261,
+            "tweet_count": 102,
+            "listed_count": 14
+        },
+        "username": "EcoVisionETH"
+    },
+    {
+        "protected": false,
+        "id": "1219950128640995328",
+        "name": "Jan Dirk Wegner",
+        "public_metrics": {
+            "followers_count": 513,
+            "following_count": 414,
+            "tweet_count": 263,
+            "listed_count": 8
+        },
+        "username": "JanDirkWegner1"
+    },
+    {
+        "protected": false,
+        "id": "1201132606210891776",
+        "name": "Institute for Photogrammetry",
+        "public_metrics": {
+            "followers_count": 196,
+            "following_count": 53,
+            "tweet_count": 48,
+            "listed_count": 4
+        },
+        "username": "IfpStuttgart"
+    },
+    {
+        "protected": true,
+        "id": "62856828",
+        "name": "Elisabetta C. Giovannini, PhD",
+        "public_metrics": {
+            "followers_count": 78,
+            "following_count": 372,
+            "tweet_count": 213,
+            "listed_count": 3
+        },
+        "username": "ec_giovannini"
+    },
+    {
+        "protected": false,
+        "id": "277517550",
+        "name": "Nicola Carboni",
+        "public_metrics": {
+            "followers_count": 349,
+            "following_count": 367,
+            "tweet_count": 800,
+            "listed_count": 13
+        },
+        "username": "wlpbloyd"
+    },
+    {
+        "protected": false,
+        "id": "254107028",
+        "name": "TensorFlow",
+        "public_metrics": {
+            "followers_count": 304186,
+            "following_count": 117,
+            "tweet_count": 1788,
+            "listed_count": 3541
+        },
+        "username": "TensorFlow"
+    },
+    {
+        "protected": false,
+        "id": "533167025",
+        "name": "Alexandre Devaux",
+        "public_metrics": {
+            "followers_count": 2920,
+            "following_count": 373,
+            "tweet_count": 244,
+            "listed_count": 73
+        },
+        "username": "AlexandreDevaux"
+    },
+    {
+        "protected": false,
+        "id": "1235869948213256194",
+        "name": "AMICOS Project",
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 38,
+            "tweet_count": 46,
+            "listed_count": 0
+        },
+        "username": "AmicosP"
+    },
+    {
+        "protected": false,
+        "id": "31812433",
+        "name": "Harry Verwayen",
+        "public_metrics": {
+            "followers_count": 1255,
+            "following_count": 338,
+            "tweet_count": 849,
+            "listed_count": 0
+        },
+        "username": "Hverwayen"
+    },
+    {
+        "protected": false,
+        "id": "4820804277",
+        "name": "Machine Learning",
+        "public_metrics": {
+            "followers_count": 109575,
+            "following_count": 35514,
+            "tweet_count": 475870,
+            "listed_count": 2425
+        },
+        "username": "machinelearnflx"
+    },
+    {
+        "protected": false,
+        "id": "975739782",
+        "name": "Sebastian Candiago",
+        "public_metrics": {
+            "followers_count": 85,
+            "following_count": 172,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "username": "SebCandiago"
+    },
+    {
+        "protected": false,
+        "id": "599552135",
+        "name": "Devrim Akca",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 163,
+            "tweet_count": 155,
+            "listed_count": 0
+        },
+        "username": "Devrimakca"
+    },
+    {
+        "protected": false,
+        "id": "966647559786778624",
+        "name": "EIT RawMaterials Academy 📚",
+        "public_metrics": {
+            "followers_count": 1147,
+            "following_count": 459,
+            "tweet_count": 1872,
+            "listed_count": 21
+        },
+        "username": "EITRMAcademy"
+    },
+    {
+        "protected": false,
+        "id": "3380349485",
+        "name": "Katia Vorobiova",
+        "public_metrics": {
+            "followers_count": 180,
+            "following_count": 264,
+            "tweet_count": 768,
+            "listed_count": 13
+        },
+        "username": "katia_vorobiova"
+    },
+    {
+        "protected": false,
+        "id": "1068992329",
+        "name": "Kycko",
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 90,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "KyckoMarlena"
+    },
+    {
+        "protected": false,
+        "id": "316292417",
+        "name": "Worldsensing",
+        "public_metrics": {
+            "followers_count": 3935,
+            "following_count": 421,
+            "tweet_count": 7324,
+            "listed_count": 267
+        },
+        "username": "Worldsensing"
+    },
+    {
+        "protected": false,
+        "id": "330860720",
+        "name": "European Institute of Innovation & Technology",
+        "public_metrics": {
+            "followers_count": 59581,
+            "following_count": 2424,
+            "tweet_count": 8306,
+            "listed_count": 1053
+        },
+        "username": "EITeu"
+    },
+    {
+        "protected": false,
+        "id": "2894493575",
+        "name": "EIT RawMaterials 🇪🇺",
+        "public_metrics": {
+            "followers_count": 6129,
+            "following_count": 1543,
+            "tweet_count": 7815,
+            "listed_count": 168
+        },
+        "username": "EITRawMaterials"
+    },
+    {
+        "protected": false,
+        "id": "1060071386906050560",
+        "name": "EO4AGRI",
+        "public_metrics": {
+            "followers_count": 479,
+            "following_count": 265,
+            "tweet_count": 597,
+            "listed_count": 9
+        },
+        "username": "EO4AGRI"
+    },
+    {
+        "protected": false,
+        "id": "1364073164",
+        "name": "Mila Koeva",
+        "public_metrics": {
+            "followers_count": 269,
+            "following_count": 350,
+            "tweet_count": 432,
+            "listed_count": 3
+        },
+        "username": "MilaKoeva"
+    },
+    {
+        "protected": false,
+        "id": "1193639957384122368",
+        "name": "Institute of Geodesy and Photogrammetry,IGP_TUBS",
+        "public_metrics": {
+            "followers_count": 142,
+            "following_count": 167,
+            "tweet_count": 73,
+            "listed_count": 1
+        },
+        "username": "IGP_TUBS"
+    },
+    {
+        "protected": false,
+        "id": "1095631050544476161",
+        "name": "STARC - CYI",
+        "public_metrics": {
+            "followers_count": 222,
+            "following_count": 44,
+            "tweet_count": 275,
+            "listed_count": 4
+        },
+        "username": "STARC_CyI"
+    },
+    {
+        "protected": false,
+        "id": "1121841228276912128",
+        "name": "pixel8earth",
+        "public_metrics": {
+            "followers_count": 640,
+            "following_count": 50,
+            "tweet_count": 9,
+            "listed_count": 6
+        },
+        "username": "pixel8earth"
+    },
+    {
+        "protected": false,
+        "id": "80626325",
+        "name": "C3 AI",
+        "public_metrics": {
+            "followers_count": 9600,
+            "following_count": 344,
+            "tweet_count": 1856,
+            "listed_count": 284
+        },
+        "username": "C3_AI"
+    },
+    {
+        "protected": false,
+        "id": "422090998",
+        "name": "Alessio Cardaci",
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 24,
+            "tweet_count": 16,
+            "listed_count": 1
+        },
+        "username": "ACardaci"
+    },
+    {
+        "protected": false,
+        "id": "2886634869",
+        "name": "Malga Millegrobbe",
+        "public_metrics": {
+            "followers_count": 142,
+            "following_count": 233,
+            "tweet_count": 68,
+            "listed_count": 1
+        },
+        "username": "M_Millegrobbe"
+    },
+    {
+        "protected": false,
+        "id": "987181214",
+        "name": "SciPyConf",
+        "public_metrics": {
+            "followers_count": 14229,
+            "following_count": 1031,
+            "tweet_count": 3194,
+            "listed_count": 387
+        },
+        "username": "SciPyConf"
+    },
+    {
+        "protected": false,
+        "id": "35846244",
+        "name": "Enthought Inc.",
+        "public_metrics": {
+            "followers_count": 6325,
+            "following_count": 4064,
+            "tweet_count": 2575,
+            "listed_count": 329
+        },
+        "username": "enthought"
+    },
+    {
+        "protected": false,
+        "id": "3289968268",
+        "name": "Prophesee",
+        "public_metrics": {
+            "followers_count": 1457,
+            "following_count": 2259,
+            "tweet_count": 468,
+            "listed_count": 71
+        },
+        "username": "Prophesee_ai"
+    },
+    {
+        "protected": false,
+        "id": "820627542029770752",
+        "name": "SurveyingGroup",
+        "public_metrics": {
+            "followers_count": 1404,
+            "following_count": 2562,
+            "tweet_count": 283,
+            "listed_count": 1
+        },
+        "username": "surveyinggroup"
+    },
+    {
+        "protected": false,
+        "id": "797031182",
+        "name": "Abound",
+        "public_metrics": {
+            "followers_count": 8638,
+            "following_count": 1,
+            "tweet_count": 156,
+            "listed_count": 74
+        },
+        "username": "aboundlabs"
+    },
+    {
+        "protected": false,
+        "id": "73390999",
+        "name": "Hexagon | Manufacturing Intelligence",
+        "public_metrics": {
+            "followers_count": 5949,
+            "following_count": 358,
+            "tweet_count": 6473,
+            "listed_count": 128
+        },
+        "username": "HexagonMI"
+    },
+    {
+        "protected": false,
+        "id": "929996310408826880",
+        "name": "Miningful Studio",
+        "public_metrics": {
+            "followers_count": 111,
+            "following_count": 517,
+            "tweet_count": 468,
+            "listed_count": 0
+        },
+        "username": "MiningfulStudio"
+    },
+    {
+        "protected": false,
+        "id": "3165841547",
+        "name": "☁ 𝗖𝗹𝗼𝘂𝗱𝗖𝗼𝗺𝗽𝗮𝗿𝗲",
+        "public_metrics": {
+            "followers_count": 1986,
+            "following_count": 69,
+            "tweet_count": 214,
+            "listed_count": 31
+        },
+        "username": "CloudCompareGPL"
+    },
+    {
+        "protected": false,
+        "id": "80812715",
+        "name": "Ville Lehtola",
+        "public_metrics": {
+            "followers_count": 415,
+            "following_count": 444,
+            "tweet_count": 1266,
+            "listed_count": 15
+        },
+        "username": "villelehtola"
+    },
+    {
+        "protected": false,
+        "id": "1003924867115311105",
+        "name": "PouxPointCloud",
+        "public_metrics": {
+            "followers_count": 197,
+            "following_count": 244,
+            "tweet_count": 126,
+            "listed_count": 5
+        },
+        "username": "PouxPointCloud"
+    },
+    {
+        "protected": false,
+        "id": "112692081",
+        "name": "UCL Geomatics",
+        "public_metrics": {
+            "followers_count": 1214,
+            "following_count": 166,
+            "tweet_count": 754,
+            "listed_count": 29
+        },
+        "username": "UCLGeomatics"
+    },
+    {
+        "protected": false,
+        "id": "195436389",
+        "name": "Stuart Robson",
+        "public_metrics": {
+            "followers_count": 56,
+            "following_count": 11,
+            "tweet_count": 2,
+            "listed_count": 1
+        },
+        "username": "Stuart_1966"
+    },
+    {
+        "protected": false,
+        "id": "1151853064812453889",
+        "name": "maarten.bassier",
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 181,
+            "tweet_count": 4,
+            "listed_count": 1
+        },
+        "username": "BassierMaarten"
+    },
+    {
+        "protected": false,
+        "id": "324866874",
+        "name": "Insa Strasbourg",
+        "public_metrics": {
+            "followers_count": 3555,
+            "following_count": 238,
+            "tweet_count": 2220,
+            "listed_count": 129
+        },
+        "username": "Insa_Strasbourg"
+    },
+    {
+        "protected": false,
+        "id": "2738074767",
+        "name": "Birrificio Maso Alto",
+        "public_metrics": {
+            "followers_count": 536,
+            "following_count": 329,
+            "tweet_count": 445,
+            "listed_count": 19
+        },
+        "username": "MasoAlto"
+    },
+    {
+        "protected": false,
+        "id": "295633020",
+        "name": "EIT Digital",
+        "public_metrics": {
+            "followers_count": 24576,
+            "following_count": 7307,
+            "tweet_count": 10880,
+            "listed_count": 835
+        },
+        "username": "EIT_Digital"
+    },
+    {
+        "protected": false,
+        "id": "4783690002",
+        "name": "DeepMind",
+        "public_metrics": {
+            "followers_count": 513529,
+            "following_count": 133,
+            "tweet_count": 1952,
+            "listed_count": 5828
+        },
+        "username": "DeepMind"
+    },
+    {
+        "protected": false,
+        "id": "945496245530869760",
+        "name": "arXiv Daily",
+        "public_metrics": {
+            "followers_count": 36321,
+            "following_count": 2072,
+            "tweet_count": 27194,
+            "listed_count": 530
+        },
+        "username": "arXiv_Daily"
+    },
+    {
+        "protected": false,
+        "id": "848081553368416256",
+        "name": "DeepAI",
+        "public_metrics": {
+            "followers_count": 40543,
+            "following_count": 1871,
+            "tweet_count": 28295,
+            "listed_count": 501
+        },
+        "username": "Deep__AI"
+    },
+    {
+        "protected": false,
+        "id": "984109342315163648",
+        "name": "AGRIOT LAB",
+        "public_metrics": {
+            "followers_count": 131,
+            "following_count": 170,
+            "tweet_count": 151,
+            "listed_count": 3
+        },
+        "username": "agriotlab"
+    },
+    {
+        "protected": false,
+        "id": "586413552",
+        "name": "British School at Rome",
+        "public_metrics": {
+            "followers_count": 8992,
+            "following_count": 2274,
+            "tweet_count": 9203,
+            "listed_count": 159
+        },
+        "username": "the_bsr"
+    },
+    {
+        "protected": false,
+        "id": "2478159638",
+        "name": "Victor Sanchez",
+        "public_metrics": {
+            "followers_count": 90,
+            "following_count": 56,
+            "tweet_count": 152,
+            "listed_count": 4
+        },
+        "username": "VictorSanchez_M"
+    },
+    {
+        "protected": false,
+        "id": "2561395933",
+        "name": "Francesca Noardo",
+        "public_metrics": {
+            "followers_count": 157,
+            "following_count": 252,
+            "tweet_count": 189,
+            "listed_count": 2
+        },
+        "username": "FrancescaNoardo"
+    },
+    {
+        "protected": false,
+        "id": "788898706586275840",
+        "name": "Towards Data Science",
+        "public_metrics": {
+            "followers_count": 104662,
+            "following_count": 1785,
+            "tweet_count": 26704,
+            "listed_count": 1560
+        },
+        "username": "TDataScience"
+    },
+    {
+        "protected": false,
+        "id": "34271443",
+        "name": "Ecologic Institute",
+        "public_metrics": {
+            "followers_count": 8378,
+            "following_count": 1775,
+            "tweet_count": 4492,
+            "listed_count": 304
+        },
+        "username": "EcologicBerlin"
+    },
+    {
+        "protected": false,
+        "id": "3264708841",
+        "name": "LiDARmag",
+        "public_metrics": {
+            "followers_count": 916,
+            "following_count": 32,
+            "tweet_count": 851,
+            "listed_count": 35
+        },
+        "username": "lidarmag"
+    },
+    {
+        "protected": false,
+        "id": "576225235",
+        "name": "mr",
+        "public_metrics": {
+            "followers_count": 197,
+            "following_count": 486,
+            "tweet_count": 1382,
+            "listed_count": 14
+        },
+        "username": "MRutzinger"
+    },
+    {
+        "protected": false,
+        "id": "16615171",
+        "name": "Cyclomedia",
+        "public_metrics": {
+            "followers_count": 878,
+            "following_count": 813,
+            "tweet_count": 550,
+            "listed_count": 20
+        },
+        "username": "CycloMedia"
+    },
+    {
+        "protected": false,
+        "id": "1545888782",
+        "name": "iccd",
+        "public_metrics": {
+            "followers_count": 1008,
+            "following_count": 216,
+            "tweet_count": 666,
+            "listed_count": 24
+        },
+        "username": "ICCDMiC"
+    },
+    {
+        "protected": false,
+        "id": "746007309697048576",
+        "name": "HxGN Content Program",
+        "public_metrics": {
+            "followers_count": 384,
+            "following_count": 582,
+            "tweet_count": 473,
+            "listed_count": 14
+        },
+        "username": "HxGNContent"
+    },
+    {
+        "protected": false,
+        "id": "720938353210888192",
+        "name": "EU Regio Interreg",
+        "public_metrics": {
+            "followers_count": 5554,
+            "following_count": 400,
+            "tweet_count": 2827,
+            "listed_count": 94
+        },
+        "username": "RegioInterreg"
+    },
+    {
+        "protected": false,
+        "id": "443776185",
+        "name": "fre3Darchi",
+        "public_metrics": {
+            "followers_count": 624,
+            "following_count": 2591,
+            "tweet_count": 3645,
+            "listed_count": 24
+        },
+        "username": "Fre3Darchi"
+    },
+    {
+        "protected": false,
+        "id": "906087537881513984",
+        "name": "Projet Bretez",
+        "public_metrics": {
+            "followers_count": 355,
+            "following_count": 64,
+            "tweet_count": 7965,
+            "listed_count": 14
+        },
+        "username": "projet_bretez"
+    },
+    {
+        "protected": false,
+        "id": "1103591556349603840",
+        "name": "Adriana Marcinkowska-Ochtyra",
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 39,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Adriana_MO_7"
+    },
+    {
+        "protected": false,
+        "id": "49573082",
+        "name": "Alto Adige da vivere",
+        "public_metrics": {
+            "followers_count": 15796,
+            "following_count": 1655,
+            "tweet_count": 14820,
+            "listed_count": 303
+        },
+        "username": "altoadige_info"
+    },
+    {
+        "protected": false,
+        "id": "984680742",
+        "name": "Ass. Rifugi Trentino",
+        "public_metrics": {
+            "followers_count": 6423,
+            "following_count": 770,
+            "tweet_count": 5743,
+            "listed_count": 70
+        },
+        "username": "RifugiTrentino"
+    },
+    {
+        "protected": false,
+        "id": "2383857236",
+        "name": "Consorzio Garda DOP",
+        "public_metrics": {
+            "followers_count": 626,
+            "following_count": 215,
+            "tweet_count": 729,
+            "listed_count": 24
+        },
+        "username": "OlioGardaDop"
+    },
+    {
+        "protected": false,
+        "id": "814107877539532801",
+        "name": "Wolfgang Hesse",
+        "public_metrics": {
+            "followers_count": 35,
+            "following_count": 19,
+            "tweet_count": 171,
+            "listed_count": 1
+        },
+        "username": "sanktwolf"
+    },
+    {
+        "protected": false,
+        "id": "341453614",
+        "name": "Arnadi Murtiyoso",
+        "public_metrics": {
+            "followers_count": 230,
+            "following_count": 374,
+            "tweet_count": 1848,
+            "listed_count": 1
+        },
+        "username": "Ari_Murtiyoso"
+    },
+    {
+        "protected": false,
+        "id": "1096349861245583360",
+        "name": "#ISPRSgsw",
+        "public_metrics": {
+            "followers_count": 227,
+            "following_count": 372,
+            "tweet_count": 284,
+            "listed_count": 2
+        },
+        "username": "isprsgsw"
+    },
+    {
+        "protected": false,
+        "id": "2460440936",
+        "name": "Grupo TIDOP",
+        "public_metrics": {
+            "followers_count": 220,
+            "following_count": 403,
+            "tweet_count": 382,
+            "listed_count": 4
+        },
+        "username": "GrupoTIDOP"
+    },
+    {
+        "protected": false,
+        "id": "3376897745",
+        "name": "Remote Sensing MDPI",
+        "public_metrics": {
+            "followers_count": 8156,
+            "following_count": 994,
+            "tweet_count": 7367,
+            "listed_count": 138
+        },
+        "username": "RemoteSens_MDPI"
+    },
+    {
+        "protected": false,
+        "id": "1361482386",
+        "name": "3D Survey Group",
+        "public_metrics": {
+            "followers_count": 91,
+            "following_count": 107,
+            "tweet_count": 12,
+            "listed_count": 2
+        },
+        "username": "3DSurveyGroup"
+    },
+    {
+        "protected": false,
+        "id": "431905607",
+        "name": "Petros Patias",
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 159,
+            "tweet_count": 130,
+            "listed_count": 1
+        },
+        "username": "PetrosPatias"
+    },
+    {
+        "protected": false,
+        "id": "62246354",
+        "name": "Konrad Wenzel",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 15,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "username": "konradwenzel"
+    },
+    {
+        "protected": false,
+        "id": "138083232",
+        "name": "geo.admin.ch",
+        "public_metrics": {
+            "followers_count": 6776,
+            "following_count": 523,
+            "tweet_count": 11587,
+            "listed_count": 268
+        },
+        "username": "swiss_geoportal"
+    },
+    {
+        "protected": false,
+        "id": "971685096104263680",
+        "name": "Dolci Claudia",
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 53,
+            "tweet_count": 2,
+            "listed_count": 1
+        },
+        "username": "Dolciemente"
+    },
+    {
+        "protected": false,
+        "id": "915822834739482624",
+        "name": "Margarita Dogaru",
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 8,
+            "tweet_count": 67,
+            "listed_count": 0
+        },
+        "username": "ritadogaru"
+    },
+    {
+        "protected": false,
+        "id": "889242487231066112",
+        "name": "Cities-4-People",
+        "public_metrics": {
+            "followers_count": 676,
+            "following_count": 149,
+            "tweet_count": 660,
+            "listed_count": 25
+        },
+        "username": "c4p_project"
+    },
+    {
+        "protected": false,
+        "id": "411602084",
+        "name": "Fabio Bruno",
+        "public_metrics": {
+            "followers_count": 271,
+            "following_count": 435,
+            "tweet_count": 549,
+            "listed_count": 9
+        },
+        "username": "fabiounical"
+    },
+    {
+        "protected": false,
+        "id": "3610724957",
+        "name": "3DResearch",
+        "public_metrics": {
+            "followers_count": 379,
+            "following_count": 1838,
+            "tweet_count": 136,
+            "listed_count": 4
+        },
+        "username": "3DResearchSrl"
+    },
+    {
+        "protected": false,
+        "id": "388750814",
+        "name": "Future Media @ FBK",
+        "public_metrics": {
+            "followers_count": 788,
+            "following_count": 551,
+            "tweet_count": 1614,
+            "listed_count": 68
+        },
+        "username": "futuremediafbk"
+    },
+    {
+        "protected": false,
+        "id": "214062910",
+        "name": "Sara Tonelli",
+        "public_metrics": {
+            "followers_count": 1733,
+            "following_count": 790,
+            "tweet_count": 9432,
+            "listed_count": 114
+        },
+        "username": "sara_hlt"
+    },
+    {
+        "protected": false,
+        "id": "321358063",
+        "name": "Fraunhofer HHI",
+        "public_metrics": {
+            "followers_count": 2241,
+            "following_count": 676,
+            "tweet_count": 1643,
+            "listed_count": 96
+        },
+        "username": "FraunhoferHHI"
+    },
+    {
+        "protected": false,
+        "id": "826356229287112704",
+        "name": "Laboratoire MAP",
+        "public_metrics": {
+            "followers_count": 1160,
+            "following_count": 348,
+            "tweet_count": 777,
+            "listed_count": 33
+        },
+        "username": "MAP_UMR3495"
+    },
+    {
+        "protected": false,
+        "id": "1467307442",
+        "name": "livio de luca",
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 226,
+            "tweet_count": 245,
+            "listed_count": 9
+        },
+        "username": "livio_de_luca"
+    },
+    {
+        "protected": false,
+        "id": "46112564",
+        "name": "Fraunhofer IGD",
+        "public_metrics": {
+            "followers_count": 2518,
+            "following_count": 242,
+            "tweet_count": 3540,
+            "listed_count": 167
+        },
+        "username": "Fraunhofer_IGD"
+    },
+    {
+        "protected": false,
+        "id": "1064471749675442177",
+        "name": "M-XR",
+        "public_metrics": {
+            "followers_count": 3704,
+            "following_count": 100,
+            "tweet_count": 179,
+            "listed_count": 57
+        },
+        "username": "m_xrstudio"
+    },
+    {
+        "protected": false,
+        "id": "2729250985",
+        "name": "Computer Vision News",
+        "public_metrics": {
+            "followers_count": 14609,
+            "following_count": 4294,
+            "tweet_count": 2815,
+            "listed_count": 322
+        },
+        "username": "CVCND"
+    },
+    {
+        "protected": false,
+        "id": "3873033027",
+        "name": "Virtual Archaeol Rev",
+        "public_metrics": {
+            "followers_count": 432,
+            "following_count": 62,
+            "tweet_count": 918,
+            "listed_count": 19
+        },
+        "username": "VARjournal"
+    },
+    {
+        "protected": false,
+        "id": "1027879713992306689",
+        "name": "5G CARMEN",
+        "public_metrics": {
+            "followers_count": 718,
+            "following_count": 1431,
+            "tweet_count": 1163,
+            "listed_count": 20
+        },
+        "username": "5g_carmen"
+    },
+    {
+        "protected": false,
+        "id": "3557020763",
+        "name": "Rekrei",
+        "public_metrics": {
+            "followers_count": 238,
+            "following_count": 100,
+            "tweet_count": 205,
+            "listed_count": 15
+        },
+        "username": "rekrei"
+    },
+    {
+        "protected": false,
+        "id": "885408531217776640",
+        "name": "terraXcube",
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 28,
+            "tweet_count": 210,
+            "listed_count": 1
+        },
+        "username": "terraXcube"
+    },
+    {
+        "protected": false,
+        "id": "624668875",
+        "name": "Open Data Zurich",
+        "public_metrics": {
+            "followers_count": 7930,
+            "following_count": 4750,
+            "tweet_count": 18026,
+            "listed_count": 548
+        },
+        "username": "OpenDataZurich"
+    },
+    {
+        "protected": false,
+        "id": "2187485455",
+        "name": "Cesium",
+        "public_metrics": {
+            "followers_count": 6618,
+            "following_count": 629,
+            "tweet_count": 4304,
+            "listed_count": 170
+        },
+        "username": "CesiumJS"
+    },
+    {
+        "protected": false,
+        "id": "92547160",
+        "name": "Dolomiti Superski & Dolomiti Supersummer",
+        "public_metrics": {
+            "followers_count": 15439,
+            "following_count": 1517,
+            "tweet_count": 2952,
+            "listed_count": 230
+        },
+        "username": "DolomitSuperski"
+    },
+    {
+        "protected": false,
+        "id": "1064521950507278336",
+        "name": "Panagiotis Agrafiotis",
+        "public_metrics": {
+            "followers_count": 131,
+            "following_count": 383,
+            "tweet_count": 215,
+            "listed_count": 0
+        },
+        "username": "PAgrafiotis"
+    },
+    {
+        "protected": false,
+        "id": "334626623",
+        "name": "Gabriele Guidi",
+        "public_metrics": {
+            "followers_count": 1195,
+            "following_count": 1132,
+            "tweet_count": 1467,
+            "listed_count": 21
+        },
+        "username": "Nexus6it"
+    },
+    {
+        "protected": false,
+        "id": "10161492",
+        "name": "Frederic Kaplan",
+        "public_metrics": {
+            "followers_count": 6499,
+            "following_count": 3672,
+            "tweet_count": 4030,
+            "listed_count": 370
+        },
+        "username": "frederickaplan"
+    },
+    {
+        "protected": false,
+        "id": "3392345397",
+        "name": "Michele Curuni (Kourounis)",
+        "public_metrics": {
+            "followers_count": 165,
+            "following_count": 155,
+            "tweet_count": 1113,
+            "listed_count": 6
+        },
+        "username": "MCuruni"
+    },
+    {
+        "protected": false,
+        "id": "2724101694",
+        "name": "3DHOP",
+        "public_metrics": {
+            "followers_count": 669,
+            "following_count": 1134,
+            "tweet_count": 169,
+            "listed_count": 11
+        },
+        "username": "3DHOP"
+    },
+    {
+        "protected": false,
+        "id": "1054749841400705024",
+        "name": "Photogrammetry Lab. of NTUA",
+        "public_metrics": {
+            "followers_count": 158,
+            "following_count": 82,
+            "tweet_count": 59,
+            "listed_count": 1
+        },
+        "username": "NTUAPhotolab"
+    },
+    {
+        "protected": false,
+        "id": "571518016",
+        "name": "Geoawesomeness",
+        "public_metrics": {
+            "followers_count": 25498,
+            "following_count": 6608,
+            "tweet_count": 12427,
+            "listed_count": 809
+        },
+        "username": "geoawesomeness"
+    },
+    {
+        "protected": false,
+        "id": "628473904",
+        "name": "IGEO FHNW",
+        "public_metrics": {
+            "followers_count": 587,
+            "following_count": 177,
+            "tweet_count": 1165,
+            "listed_count": 37
+        },
+        "username": "igeoFHNW"
+    },
+    {
+        "protected": false,
+        "id": "145966337",
+        "name": "Wim van Wegen",
+        "public_metrics": {
+            "followers_count": 787,
+            "following_count": 867,
+            "tweet_count": 1212,
+            "listed_count": 25
+        },
+        "username": "WimGeomares"
+    },
+    {
+        "protected": false,
+        "id": "1027903065943404544",
+        "name": "Geri Schrotter",
+        "public_metrics": {
+            "followers_count": 1705,
+            "following_count": 304,
+            "tweet_count": 896,
+            "listed_count": 3
+        },
+        "username": "GeriSchrotter"
+    },
+    {
+        "protected": false,
+        "id": "82582950",
+        "name": "Arzu Çöltekin",
+        "public_metrics": {
+            "followers_count": 1627,
+            "following_count": 2209,
+            "tweet_count": 3947,
+            "listed_count": 65
+        },
+        "username": "acolt"
+    },
+    {
+        "protected": false,
+        "id": "180797246",
+        "name": "Gamze Saygi",
+        "public_metrics": {
+            "followers_count": 275,
+            "following_count": 471,
+            "tweet_count": 148,
+            "listed_count": 4
+        },
+        "username": "saygi_g"
+    },
+    {
+        "protected": false,
+        "id": "705319478293348352",
+        "name": "IMGeospatial, World Geo Startup of the Year 2019",
+        "public_metrics": {
+            "followers_count": 446,
+            "following_count": 555,
+            "tweet_count": 842,
+            "listed_count": 34
+        },
+        "username": "IMGeospatial"
+    },
+    {
+        "protected": false,
+        "id": "308345368",
+        "name": "Altopiano Vigolana",
+        "public_metrics": {
+            "followers_count": 1714,
+            "following_count": 758,
+            "tweet_count": 3739,
+            "listed_count": 20
+        },
+        "username": "vigolana"
+    },
+    {
+        "protected": false,
+        "id": "499843888",
+        "name": "Parco Paneveggio",
+        "public_metrics": {
+            "followers_count": 2446,
+            "following_count": 310,
+            "tweet_count": 2936,
+            "listed_count": 54
+        },
+        "username": "ParcoPaneveggio"
+    },
+    {
+        "protected": false,
+        "id": "115661046",
+        "name": "Dolomiti",
+        "public_metrics": {
+            "followers_count": 20463,
+            "following_count": 763,
+            "tweet_count": 10044,
+            "listed_count": 241
+        },
+        "username": "dolomiti_it"
+    },
+    {
+        "protected": false,
+        "id": "191044197",
+        "name": "Visit Valsugana",
+        "public_metrics": {
+            "followers_count": 6037,
+            "following_count": 558,
+            "tweet_count": 3971,
+            "listed_count": 105
+        },
+        "username": "visitvalsugana"
+    },
+    {
+        "protected": false,
+        "id": "94793046",
+        "name": "Val di Fiemme",
+        "public_metrics": {
+            "followers_count": 9315,
+            "following_count": 629,
+            "tweet_count": 5528,
+            "listed_count": 145
+        },
+        "username": "visitfiemme"
+    },
+    {
+        "protected": false,
+        "id": "45545484",
+        "name": "Val di Fassa",
+        "public_metrics": {
+            "followers_count": 15654,
+            "following_count": 35,
+            "tweet_count": 8098,
+            "listed_count": 195
+        },
+        "username": "valdifassa"
+    },
+    {
+        "protected": false,
+        "id": "3044619729",
+        "name": "Smart Community Lab",
+        "public_metrics": {
+            "followers_count": 312,
+            "following_count": 56,
+            "tweet_count": 357,
+            "listed_count": 15
+        },
+        "username": "smrtcmmnt"
+    },
+    {
+        "protected": false,
+        "id": "735482417763389440",
+        "name": "Trento Smart City",
+        "public_metrics": {
+            "followers_count": 1389,
+            "following_count": 200,
+            "tweet_count": 1257,
+            "listed_count": 30
+        },
+        "username": "trentosmart"
+    },
+    {
+        "protected": false,
+        "id": "79299249",
+        "name": "Europeana",
+        "public_metrics": {
+            "followers_count": 41934,
+            "following_count": 1673,
+            "tweet_count": 22280,
+            "listed_count": 2047
+        },
+        "username": "Europeanaeu"
+    },
+    {
+        "protected": false,
+        "id": "1016414187965353984",
+        "name": "UAVg2019",
+        "public_metrics": {
+            "followers_count": 168,
+            "following_count": 68,
+            "tweet_count": 202,
+            "listed_count": 3
+        },
+        "username": "UAVg2019"
+    },
+    {
+        "protected": false,
+        "id": "2348263584",
+        "name": "Dimitrios Skarlatos",
+        "public_metrics": {
+            "followers_count": 132,
+            "following_count": 125,
+            "tweet_count": 451,
+            "listed_count": 0
+        },
+        "username": "DSkarlatos"
+    },
+    {
+        "protected": false,
+        "id": "48399400",
+        "name": "Urška Drešček",
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 207,
+            "tweet_count": 879,
+            "listed_count": 1
+        },
+        "username": "urska_d"
+    },
+    {
+        "protected": false,
+        "id": "625436713",
+        "name": "Env Agency Geomatics",
+        "public_metrics": {
+            "followers_count": 4910,
+            "following_count": 848,
+            "tweet_count": 3374,
+            "listed_count": 129
+        },
+        "username": "EnvAgencyGeomat"
+    },
+    {
+        "protected": false,
+        "id": "3197570399",
+        "name": "Farm Technology, WUR",
+        "public_metrics": {
+            "followers_count": 99,
+            "following_count": 37,
+            "tweet_count": 25,
+            "listed_count": 4
+        },
+        "username": "farmtechnology"
+    },
+    {
+        "protected": false,
+        "id": "784831822039572480",
+        "name": "AGR-o-RAMA",
+        "public_metrics": {
+            "followers_count": 127,
+            "following_count": 28,
+            "tweet_count": 150,
+            "listed_count": 10
+        },
+        "username": "agr_o_rama"
+    },
+    {
+        "protected": false,
+        "id": "763361218866339840",
+        "name": "TrimBot2020",
+        "public_metrics": {
+            "followers_count": 270,
+            "following_count": 208,
+            "tweet_count": 160,
+            "listed_count": 18
+        },
+        "username": "trimbot2020"
+    },
+    {
+        "protected": false,
+        "id": "233282112",
+        "name": "La Just 🎗",
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 314,
+            "tweet_count": 634,
+            "listed_count": 5
+        },
+        "username": "ari_just"
+    },
+    {
+        "protected": false,
+        "id": "312028258",
+        "name": "Eurocities",
+        "public_metrics": {
+            "followers_count": 25538,
+            "following_count": 1483,
+            "tweet_count": 14796,
+            "listed_count": 840
+        },
+        "username": "EUROCITIES"
+    },
+    {
+        "protected": false,
+        "id": "606091833",
+        "name": "John Welter",
+        "public_metrics": {
+            "followers_count": 499,
+            "following_count": 415,
+            "tweet_count": 3167,
+            "listed_count": 23
+        },
+        "username": "johnwelter"
+    },
+    {
+        "protected": false,
+        "id": "1026775837935329281",
+        "name": "Photogrammetric Vision Lab",
+        "public_metrics": {
+            "followers_count": 170,
+            "following_count": 52,
+            "tweet_count": 127,
+            "listed_count": 0
+        },
+        "username": "phvislab"
+    },
+    {
+        "protected": false,
+        "id": "978648522160472065",
+        "name": "Lago di Molveno",
+        "public_metrics": {
+            "followers_count": 75,
+            "following_count": 21,
+            "tweet_count": 60,
+            "listed_count": 0
+        },
+        "username": "LagodiMolveno"
+    },
+    {
+        "protected": false,
+        "id": "951961113557532672",
+        "name": "Leica Geosystems UAS",
+        "public_metrics": {
+            "followers_count": 420,
+            "following_count": 133,
+            "tweet_count": 184,
+            "listed_count": 4
+        },
+        "username": "LeicaGeoUAS"
+    },
+    {
+        "protected": false,
+        "id": "2821154890",
+        "name": "Hexagon Geosystems",
+        "public_metrics": {
+            "followers_count": 2508,
+            "following_count": 264,
+            "tweet_count": 618,
+            "listed_count": 35
+        },
+        "username": "HexagonGeo"
+    },
+    {
+        "protected": false,
+        "id": "3307301997",
+        "name": "Smart Networks and Services | FBK",
+        "public_metrics": {
+            "followers_count": 451,
+            "following_count": 1286,
+            "tweet_count": 1504,
+            "listed_count": 26
+        },
+        "username": "sensefbk"
+    },
+    {
+        "protected": false,
+        "id": "955718968857174021",
+        "name": "Drones MDPI",
+        "public_metrics": {
+            "followers_count": 898,
+            "following_count": 763,
+            "tweet_count": 890,
+            "listed_count": 11
+        },
+        "username": "Drones_MDPI"
+    },
+    {
+        "protected": false,
+        "id": "962199331",
+        "name": "i3mainz",
+        "public_metrics": {
+            "followers_count": 354,
+            "following_count": 238,
+            "tweet_count": 864,
+            "listed_count": 6
+        },
+        "username": "i3mainz"
+    },
+    {
+        "protected": false,
+        "id": "631802762",
+        "name": "OSM Buildings",
+        "public_metrics": {
+            "followers_count": 2320,
+            "following_count": 368,
+            "tweet_count": 2827,
+            "listed_count": 138
+        },
+        "username": "OSMBuildings"
+    },
+    {
+        "protected": false,
+        "id": "1450883210",
+        "name": "Leica Geosystems US",
+        "public_metrics": {
+            "followers_count": 4031,
+            "following_count": 936,
+            "tweet_count": 1330,
+            "listed_count": 59
+        },
+        "username": "LeicaGeoUS"
+    },
+    {
+        "protected": false,
+        "id": "2336457463",
+        "name": "Elsevier Archaeology",
+        "public_metrics": {
+            "followers_count": 3572,
+            "following_count": 78,
+            "tweet_count": 1361,
+            "listed_count": 96
+        },
+        "username": "ElsevierArchaeo"
+    },
+    {
+        "protected": false,
+        "id": "838784452994150402",
+        "name": "E2mC project",
+        "public_metrics": {
+            "followers_count": 241,
+            "following_count": 95,
+            "tweet_count": 152,
+            "listed_count": 8
+        },
+        "username": "E2mC_H2020"
+    },
+    {
+        "protected": false,
+        "id": "994615424703713280",
+        "name": "Maja Grguric",
+        "public_metrics": {
+            "followers_count": 72,
+            "following_count": 123,
+            "tweet_count": 31,
+            "listed_count": 0
+        },
+        "username": "maja_grguric"
+    },
+    {
+        "protected": false,
+        "id": "18991614",
+        "name": "Universiteit Twente",
+        "public_metrics": {
+            "followers_count": 45301,
+            "following_count": 2021,
+            "tweet_count": 17061,
+            "listed_count": 467
+        },
+        "username": "UTwente"
+    },
+    {
+        "protected": false,
+        "id": "913691371239813120",
+        "name": "Iuliana PARVU",
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 32,
+            "tweet_count": 105,
+            "listed_count": 0
+        },
+        "username": "IulianaParvu"
+    },
+    {
+        "protected": false,
+        "id": "856456701180030977",
+        "name": "iMARECULTURE Project",
+        "public_metrics": {
+            "followers_count": 308,
+            "following_count": 99,
+            "tweet_count": 217,
+            "listed_count": 5
+        },
+        "username": "imareculture"
+    },
+    {
+        "protected": false,
+        "id": "251800979",
+        "name": "MDPI",
+        "public_metrics": {
+            "followers_count": 20377,
+            "following_count": 662,
+            "tweet_count": 14208,
+            "listed_count": 268
+        },
+        "username": "MDPIOpenAccess"
+    },
+    {
+        "protected": false,
+        "id": "741164612",
+        "name": "Sheryl Rose Reyes",
+        "public_metrics": {
+            "followers_count": 966,
+            "following_count": 935,
+            "tweet_count": 5431,
+            "listed_count": 19
+        },
+        "username": "srcreyes"
+    },
+    {
+        "protected": false,
+        "id": "741739605754544128",
+        "name": "DroneFinland",
+        "public_metrics": {
+            "followers_count": 782,
+            "following_count": 1054,
+            "tweet_count": 1268,
+            "listed_count": 16
+        },
+        "username": "dronefinland"
+    },
+    {
+        "protected": false,
+        "id": "1260466778",
+        "name": "Grussenmeyer Pierre",
+        "public_metrics": {
+            "followers_count": 204,
+            "following_count": 306,
+            "tweet_count": 167,
+            "listed_count": 0
+        },
+        "username": "GrussenmeyerP"
+    },
+    {
+        "protected": false,
+        "id": "2613614497",
+        "name": "GeoImaging Ltd",
+        "public_metrics": {
+            "followers_count": 623,
+            "following_count": 885,
+            "tweet_count": 220,
+            "listed_count": 19
+        },
+        "username": "Geoimaging"
+    },
+    {
+        "protected": false,
+        "id": "2792112960",
+        "name": "EODC GmbH",
+        "public_metrics": {
+            "followers_count": 468,
+            "following_count": 184,
+            "tweet_count": 400,
+            "listed_count": 14
+        },
+        "username": "EODC_GmbH"
+    },
+    {
+        "protected": false,
+        "id": "102998545",
+        "name": "cartography @TU Wien",
+        "public_metrics": {
+            "followers_count": 445,
+            "following_count": 28,
+            "tweet_count": 193,
+            "listed_count": 9
+        },
+        "username": "cartogroup"
+    },
+    {
+        "protected": false,
+        "id": "2656764325",
+        "name": "Geo @ TU Wien",
+        "public_metrics": {
+            "followers_count": 577,
+            "following_count": 48,
+            "tweet_count": 719,
+            "listed_count": 6
+        },
+        "username": "geodepartment"
+    },
+    {
+        "protected": false,
+        "id": "853149527288762368",
+        "name": "Sultan Kocaman Gokceoglu",
+        "public_metrics": {
+            "followers_count": 598,
+            "following_count": 375,
+            "tweet_count": 828,
+            "listed_count": 8
+        },
+        "username": "sultan_kocaman"
+    },
+    {
+        "protected": false,
+        "id": "25382409",
+        "name": "Felix Rohrbach",
+        "public_metrics": {
+            "followers_count": 200,
+            "following_count": 201,
+            "tweet_count": 1045,
+            "listed_count": 6
+        },
+        "username": "felixrohrbach"
+    },
+    {
+        "protected": false,
+        "id": "2278906963",
+        "name": "Survey Max",
+        "public_metrics": {
+            "followers_count": 445,
+            "following_count": 205,
+            "tweet_count": 477,
+            "listed_count": 5
+        },
+        "username": "surveymax"
+    },
+    {
+        "protected": false,
+        "id": "769650596",
+        "name": "Scan&Go",
+        "public_metrics": {
+            "followers_count": 1089,
+            "following_count": 1675,
+            "tweet_count": 748,
+            "listed_count": 9
+        },
+        "username": "scan_go"
+    },
+    {
+        "protected": false,
+        "id": "1923027074",
+        "name": "GeoMax",
+        "public_metrics": {
+            "followers_count": 915,
+            "following_count": 230,
+            "tweet_count": 839,
+            "listed_count": 0
+        },
+        "username": "GEOMAXofficial"
+    },
+    {
+        "protected": false,
+        "id": "3032432099",
+        "name": "GEOSENSE",
+        "public_metrics": {
+            "followers_count": 395,
+            "following_count": 470,
+            "tweet_count": 2087,
+            "listed_count": 20
+        },
+        "username": "GEOSENSE_GR"
+    },
+    {
+        "protected": false,
+        "id": "1923186728",
+        "name": "Riva FiereCongressi",
+        "public_metrics": {
+            "followers_count": 603,
+            "following_count": 287,
+            "tweet_count": 814,
+            "listed_count": 20
+        },
+        "username": "Rivadelgardafc"
+    },
+    {
+        "protected": false,
+        "id": "409389744",
+        "name": "RSPSoc",
+        "public_metrics": {
+            "followers_count": 1422,
+            "following_count": 461,
+            "tweet_count": 580,
+            "listed_count": 32
+        },
+        "username": "RSPSoc"
+    },
+    {
+        "protected": false,
+        "id": "53135035",
+        "name": "Cemal Özgür",
+        "public_metrics": {
+            "followers_count": 72,
+            "following_count": 789,
+            "tweet_count": 211,
+            "listed_count": 1
+        },
+        "username": "CemalOzgur"
+    },
+    {
+        "protected": false,
+        "id": "182729288",
+        "name": "XLAB",
+        "public_metrics": {
+            "followers_count": 839,
+            "following_count": 1235,
+            "tweet_count": 2301,
+            "listed_count": 52
+        },
+        "username": "xlab_si"
+    },
+    {
+        "protected": false,
+        "id": "1050354787",
+        "name": "Paolo Tarolli (保罗)",
+        "public_metrics": {
+            "followers_count": 918,
+            "following_count": 99,
+            "tweet_count": 2337,
+            "listed_count": 29
+        },
+        "username": "TarolliP"
+    },
+    {
+        "protected": false,
+        "id": "3375821247",
+        "name": "Elvis Wang",
+        "public_metrics": {
+            "followers_count": 632,
+            "following_count": 1168,
+            "tweet_count": 127,
+            "listed_count": 8
+        },
+        "username": "ElvisWang6"
+    },
+    {
+        "protected": false,
+        "id": "710877780964151296",
+        "name": "FabLab #Belluno",
+        "public_metrics": {
+            "followers_count": 2458,
+            "following_count": 4942,
+            "tweet_count": 12319,
+            "listed_count": 621
+        },
+        "username": "fablabimpresa"
+    },
+    {
+        "protected": false,
+        "id": "768774555410333696",
+        "name": "PHOR",
+        "public_metrics": {
+            "followers_count": 138,
+            "following_count": 82,
+            "tweet_count": 200,
+            "listed_count": 1
+        },
+        "username": "PhotogramRecord"
+    },
+    {
+        "protected": false,
+        "id": "3412495131",
+        "name": "3DIMPact",
+        "public_metrics": {
+            "followers_count": 355,
+            "following_count": 359,
+            "tweet_count": 857,
+            "listed_count": 15
+        },
+        "username": "UCL_3DIMPact"
+    },
+    {
+        "protected": false,
+        "id": "2770005592",
+        "name": "Casa Italia",
+        "public_metrics": {
+            "followers_count": 4814,
+            "following_count": 417,
+            "tweet_count": 8676,
+            "listed_count": 100
+        },
+        "username": "casaitaliagov"
+    },
+    {
+        "protected": false,
+        "id": "982240377636700161",
+        "name": "Dipartimento Protezione Civile",
+        "public_metrics": {
+            "followers_count": 126667,
+            "following_count": 121,
+            "tweet_count": 3937,
+            "listed_count": 592
+        },
+        "username": "DPCgov"
+    },
+    {
+        "protected": false,
+        "id": "3910874801",
+        "name": "Juha Hyyppä",
+        "public_metrics": {
+            "followers_count": 1094,
+            "following_count": 837,
+            "tweet_count": 3273,
+            "listed_count": 11
+        },
+        "username": "juha_hyyppa"
+    },
+    {
+        "protected": false,
+        "id": "489194032",
+        "name": "VinoDolomiti",
+        "public_metrics": {
+            "followers_count": 4515,
+            "following_count": 633,
+            "tweet_count": 3038,
+            "listed_count": 0
+        },
+        "username": "VinoDolomiti"
+    },
+    {
+        "protected": false,
+        "id": "1341943790",
+        "name": "Strada dei Formaggi",
+        "public_metrics": {
+            "followers_count": 5051,
+            "following_count": 552,
+            "tweet_count": 4155,
+            "listed_count": 83
+        },
+        "username": "GustoDolomiti"
+    },
+    {
+        "protected": false,
+        "id": "1452578348",
+        "name": "Interreg Tweets",
+        "public_metrics": {
+            "followers_count": 13817,
+            "following_count": 4340,
+            "tweet_count": 238041,
+            "listed_count": 1343
+        },
+        "username": "INTERREGTweets"
+    },
+    {
+        "protected": false,
+        "id": "704967643690889216",
+        "name": "keep.eu",
+        "public_metrics": {
+            "followers_count": 970,
+            "following_count": 139,
+            "tweet_count": 274,
+            "listed_count": 12
+        },
+        "username": "keep_eu"
+    },
+    {
+        "protected": false,
+        "id": "2810147657",
+        "name": "Interreg Europe",
+        "public_metrics": {
+            "followers_count": 11833,
+            "following_count": 637,
+            "tweet_count": 5816,
+            "listed_count": 229
+        },
+        "username": "interregeurope"
+    },
+    {
+        "protected": false,
+        "id": "258790331",
+        "name": "EUinmyRegion",
+        "public_metrics": {
+            "followers_count": 85970,
+            "following_count": 43679,
+            "tweet_count": 42734,
+            "listed_count": 1957
+        },
+        "username": "EUinmyRegion"
+    },
+    {
+        "protected": false,
+        "id": "990889386664448000",
+        "name": "Werth Metrology",
+        "public_metrics": {
+            "followers_count": 97,
+            "following_count": 220,
+            "tweet_count": 29,
+            "listed_count": 1
+        },
+        "username": "WerthMetrology"
+    },
+    {
+        "protected": false,
+        "id": "4734555225",
+        "name": "space4environment",
+        "public_metrics": {
+            "followers_count": 258,
+            "following_count": 161,
+            "tweet_count": 134,
+            "listed_count": 9
+        },
+        "username": "space4env"
+    },
+    {
+        "protected": false,
+        "id": "3131258565",
+        "name": "VisioTerra",
+        "public_metrics": {
+            "followers_count": 328,
+            "following_count": 13,
+            "tweet_count": 873,
+            "listed_count": 14
+        },
+        "username": "VisioTerra"
+    },
+    {
+        "protected": false,
+        "id": "985785848447807488",
+        "name": "Vercator",
+        "public_metrics": {
+            "followers_count": 306,
+            "following_count": 825,
+            "tweet_count": 486,
+            "listed_count": 5
+        },
+        "username": "VercatorCloud"
+    },
+    {
+        "protected": false,
+        "id": "2878812992",
+        "name": "Google AR & VR",
+        "public_metrics": {
+            "followers_count": 147409,
+            "following_count": 527,
+            "tweet_count": 2970,
+            "listed_count": 2485
+        },
+        "username": "GoogleARVR"
+    },
+    {
+        "protected": false,
+        "id": "95292874",
+        "name": "Recorded Future",
+        "public_metrics": {
+            "followers_count": 102512,
+            "following_count": 1811,
+            "tweet_count": 14969,
+            "listed_count": 982
+        },
+        "username": "RecordedFuture"
+    },
+    {
+        "protected": false,
+        "id": "3021239482",
+        "name": "FGI, NLS",
+        "public_metrics": {
+            "followers_count": 1484,
+            "following_count": 440,
+            "tweet_count": 3160,
+            "listed_count": 29
+        },
+        "username": "fgi_nls"
+    },
+    {
+        "protected": false,
+        "id": "4523277381",
+        "name": "Pointcloud Research",
+        "public_metrics": {
+            "followers_count": 731,
+            "following_count": 720,
+            "tweet_count": 1006,
+            "listed_count": 25
+        },
+        "username": "pointcloudfi"
+    },
+    {
+        "protected": false,
+        "id": "90345811",
+        "name": "Aalto University",
+        "public_metrics": {
+            "followers_count": 43507,
+            "following_count": 1143,
+            "tweet_count": 10641,
+            "listed_count": 535
+        },
+        "username": "AaltoUniversity"
+    },
+    {
+        "protected": false,
+        "id": "372949401",
+        "name": "Dr. Mona Hess",
+        "public_metrics": {
+            "followers_count": 1235,
+            "following_count": 1102,
+            "tweet_count": 3505,
+            "listed_count": 58
+        },
+        "username": "Mona3Dimaging"
+    },
+    {
+        "protected": false,
+        "id": "429760932",
+        "name": "CEGE UCL",
+        "public_metrics": {
+            "followers_count": 2770,
+            "following_count": 1008,
+            "tweet_count": 5886,
+            "listed_count": 76
+        },
+        "username": "CEGE_UCL"
+    },
+    {
+        "protected": false,
+        "id": "134419042",
+        "name": "Jan Boehm",
+        "public_metrics": {
+            "followers_count": 432,
+            "following_count": 228,
+            "tweet_count": 2857,
+            "listed_count": 48
+        },
+        "username": "jan_boehm"
+    },
+    {
+        "protected": false,
+        "id": "135109079",
+        "name": "swisstopo",
+        "public_metrics": {
+            "followers_count": 4974,
+            "following_count": 212,
+            "tweet_count": 1755,
+            "listed_count": 95
+        },
+        "username": "swisstopo"
+    },
+    {
+        "protected": false,
+        "id": "1601204664",
+        "name": "Davide Scaramuzza",
+        "public_metrics": {
+            "followers_count": 7096,
+            "following_count": 145,
+            "tweet_count": 384,
+            "listed_count": 84
+        },
+        "username": "davsca1"
+    },
+    {
+        "protected": false,
+        "id": "223604767",
+        "name": "Stratos Stylianidis",
+        "public_metrics": {
+            "followers_count": 388,
+            "following_count": 922,
+            "tweet_count": 349,
+            "listed_count": 5
+        },
+        "username": "sstylianidis"
+    },
+    {
+        "protected": false,
+        "id": "15782710",
+        "name": "Sensors & Systems",
+        "public_metrics": {
+            "followers_count": 5470,
+            "following_count": 1719,
+            "tweet_count": 19514,
+            "listed_count": 295
+        },
+        "username": "SensorsSystems"
+    },
+    {
+        "protected": false,
+        "id": "203190304",
+        "name": "Tomnod",
+        "public_metrics": {
+            "followers_count": 9384,
+            "following_count": 1,
+            "tweet_count": 5,
+            "listed_count": 209
+        },
+        "username": "tomnod"
+    },
+    {
+        "protected": false,
+        "id": "386986599",
+        "name": "Interreg MED",
+        "public_metrics": {
+            "followers_count": 8074,
+            "following_count": 993,
+            "tweet_count": 5537,
+            "listed_count": 241
+        },
+        "username": "MEDProgramme"
+    },
+    {
+        "protected": false,
+        "id": "87228706",
+        "name": "L3Harris",
+        "public_metrics": {
+            "followers_count": 18210,
+            "following_count": 846,
+            "tweet_count": 8257,
+            "listed_count": 473
+        },
+        "username": "L3HarrisTech"
+    },
+    {
+        "protected": false,
+        "id": "58954606",
+        "name": "Harris Geospatial",
+        "public_metrics": {
+            "followers_count": 8044,
+            "following_count": 563,
+            "tweet_count": 6726,
+            "listed_count": 122
+        },
+        "username": "GeoByHarris"
+    },
+    {
+        "protected": false,
+        "id": "246800983",
+        "name": "Eurac Research",
+        "public_metrics": {
+            "followers_count": 5216,
+            "following_count": 2923,
+            "tweet_count": 3661,
+            "listed_count": 91
+        },
+        "username": "EURAC"
+    },
+    {
+        "protected": false,
+        "id": "4782743788",
+        "name": "lemonade",
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 16,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "username": "lemonad60947923"
+    },
+    {
+        "protected": false,
+        "id": "465367852",
+        "name": "Interreg AlpineSpace",
+        "public_metrics": {
+            "followers_count": 3028,
+            "following_count": 726,
+            "tweet_count": 3912,
+            "listed_count": 112
+        },
+        "username": "EUAlpineSpace"
+    },
+    {
+        "protected": false,
+        "id": "1139295860",
+        "name": "Interreg CE",
+        "public_metrics": {
+            "followers_count": 3597,
+            "following_count": 1941,
+            "tweet_count": 2578,
+            "listed_count": 101
+        },
+        "username": "InterregCE"
+    },
+    {
+        "protected": false,
+        "id": "277375017",
+        "name": "EUMETSAT",
+        "public_metrics": {
+            "followers_count": 30509,
+            "following_count": 1351,
+            "tweet_count": 11838,
+            "listed_count": 950
+        },
+        "username": "eumetsat"
+    },
+    {
+        "protected": false,
+        "id": "2253206665",
+        "name": "Group on Earth Observations (GEO)",
+        "public_metrics": {
+            "followers_count": 14699,
+            "following_count": 4587,
+            "tweet_count": 3695,
+            "listed_count": 334
+        },
+        "username": "GEOSEC2025"
+    },
+    {
+        "protected": false,
+        "id": "66979136",
+        "name": "UN-SPIDER",
+        "public_metrics": {
+            "followers_count": 10715,
+            "following_count": 1202,
+            "tweet_count": 4235,
+            "listed_count": 497
+        },
+        "username": "UN_SPIDER"
+    },
+    {
+        "protected": false,
+        "id": "145243831",
+        "name": "UNOSAT",
+        "public_metrics": {
+            "followers_count": 9557,
+            "following_count": 774,
+            "tweet_count": 5585,
+            "listed_count": 404
+        },
+        "username": "UNOSAT"
+    },
+    {
+        "protected": false,
+        "id": "79132107",
+        "name": "Disasters Charter",
+        "public_metrics": {
+            "followers_count": 8793,
+            "following_count": 282,
+            "tweet_count": 3713,
+            "listed_count": 323
+        },
+        "username": "DisastersChart"
+    },
+    {
+        "protected": false,
+        "id": "3062226773",
+        "name": "Copernicus EO Data",
+        "public_metrics": {
+            "followers_count": 8517,
+            "following_count": 15,
+            "tweet_count": 278,
+            "listed_count": 143
+        },
+        "username": "CopernicusData"
+    },
+    {
+        "protected": false,
+        "id": "3004213833",
+        "name": "EO OPEN SCIENCE",
+        "public_metrics": {
+            "followers_count": 12823,
+            "following_count": 834,
+            "tweet_count": 4923,
+            "listed_count": 288
+        },
+        "username": "EO_OPEN_SCIENCE"
+    },
+    {
+        "protected": false,
+        "id": "2912566559",
+        "name": "Sentinel Hub",
+        "public_metrics": {
+            "followers_count": 29144,
+            "following_count": 441,
+            "tweet_count": 11225,
+            "listed_count": 468
+        },
+        "username": "sentinel_hub"
+    },
+    {
+        "protected": false,
+        "id": "827462546718355456",
+        "name": "ReplicateProject",
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 35,
+            "tweet_count": 153,
+            "listed_count": 2
+        },
+        "username": "ReplicateProj"
+    },
+    {
+        "protected": false,
+        "id": "288787501",
+        "name": "3DGIS",
+        "public_metrics": {
+            "followers_count": 444,
+            "following_count": 95,
+            "tweet_count": 4561,
+            "listed_count": 145
+        },
+        "username": "3dgis_it"
+    },
+    {
+        "protected": false,
+        "id": "18048862",
+        "name": "OSGeo",
+        "public_metrics": {
+            "followers_count": 31296,
+            "following_count": 194,
+            "tweet_count": 6733,
+            "listed_count": 755
+        },
+        "username": "OSGeo"
+    },
+    {
+        "protected": false,
+        "id": "1279917380",
+        "name": "Geo-matching.com",
+        "public_metrics": {
+            "followers_count": 19523,
+            "following_count": 20938,
+            "tweet_count": 7626,
+            "listed_count": 194
+        },
+        "username": "Geomatching"
+    },
+    {
+        "protected": false,
+        "id": "41423774",
+        "name": "CATALYST.Earth",
+        "public_metrics": {
+            "followers_count": 5732,
+            "following_count": 3204,
+            "tweet_count": 2197,
+            "listed_count": 156
+        },
+        "username": "pcigeomatics"
+    },
+    {
+        "protected": false,
+        "id": "1499430715",
+        "name": "Trimble Inc.",
+        "public_metrics": {
+            "followers_count": 10019,
+            "following_count": 93,
+            "tweet_count": 2869,
+            "listed_count": 212
+        },
+        "username": "TrimbleCorpNews"
+    },
+    {
+        "protected": false,
+        "id": "172658824",
+        "name": "Topcon Corporation",
+        "public_metrics": {
+            "followers_count": 1132,
+            "following_count": 161,
+            "tweet_count": 189,
+            "listed_count": 25
+        },
+        "username": "Topcon_Global"
+    },
+    {
+        "protected": false,
+        "id": "161851489",
+        "name": "Topcon Imaging",
+        "public_metrics": {
+            "followers_count": 1301,
+            "following_count": 41,
+            "tweet_count": 1094,
+            "listed_count": 32
+        },
+        "username": "TopconImaging"
+    },
+    {
+        "protected": true,
+        "id": "242303175",
+        "name": "GOM Inspect",
+        "public_metrics": {
+            "followers_count": 335,
+            "following_count": 10,
+            "tweet_count": 371,
+            "listed_count": 3
+        },
+        "username": "GOM_Inspect"
+    },
+    {
+        "protected": false,
+        "id": "20250399",
+        "name": "Topcon Positioning Systems",
+        "public_metrics": {
+            "followers_count": 6941,
+            "following_count": 467,
+            "tweet_count": 6374,
+            "listed_count": 177
+        },
+        "username": "topcon_today"
+    },
+    {
+        "protected": false,
+        "id": "862189819685941248",
+        "name": "Cyreal",
+        "public_metrics": {
+            "followers_count": 340,
+            "following_count": 738,
+            "tweet_count": 295,
+            "listed_count": 14
+        },
+        "username": "Cyreal3D"
+    },
+    {
+        "protected": false,
+        "id": "74135096",
+        "name": "Tygron | 3D CityPlan",
+        "public_metrics": {
+            "followers_count": 1038,
+            "following_count": 30,
+            "tweet_count": 1313,
+            "listed_count": 47
+        },
+        "username": "Tygron"
+    },
+    {
+        "protected": false,
+        "id": "1346958200",
+        "name": "Topcon Positioning GB & IRE",
+        "public_metrics": {
+            "followers_count": 4059,
+            "following_count": 1361,
+            "tweet_count": 3377,
+            "listed_count": 79
+        },
+        "username": "TopconGB_IRE"
+    },
+    {
+        "protected": false,
+        "id": "429748286",
+        "name": "Geo:Connexion",
+        "public_metrics": {
+            "followers_count": 2075,
+            "following_count": 348,
+            "tweet_count": 14077,
+            "listed_count": 174
+        },
+        "username": "Geoconnexion"
+    },
+    {
+        "protected": false,
+        "id": "3060079173",
+        "name": "GeoSLAM",
+        "public_metrics": {
+            "followers_count": 2941,
+            "following_count": 2541,
+            "tweet_count": 2062,
+            "listed_count": 41
+        },
+        "username": "GeoSLAMLtd"
+    },
+    {
+        "protected": false,
+        "id": "1899916452",
+        "name": "GEO Business",
+        "public_metrics": {
+            "followers_count": 5859,
+            "following_count": 5757,
+            "tweet_count": 5769,
+            "listed_count": 104
+        },
+        "username": "GEOBusinessShow"
+    },
+    {
+        "protected": false,
+        "id": "892491038576738308",
+        "name": "ISPRS WG RoboMap",
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 165,
+            "tweet_count": 230,
+            "listed_count": 3
+        },
+        "username": "robmap_isprs"
+    },
+    {
+        "protected": false,
+        "id": "46111475",
+        "name": "Virtual City Systems",
+        "public_metrics": {
+            "followers_count": 758,
+            "following_count": 201,
+            "tweet_count": 1029,
+            "listed_count": 32
+        },
+        "username": "virtualcity"
+    },
+    {
+        "protected": false,
+        "id": "2925517419",
+        "name": "Sisi Zlatanova",
+        "public_metrics": {
+            "followers_count": 333,
+            "following_count": 97,
+            "tweet_count": 221,
+            "listed_count": 4
+        },
+        "username": "ZlatanovaS"
+    },
+    {
+        "protected": false,
+        "id": "897797519740211200",
+        "name": "Slice3D",
+        "public_metrics": {
+            "followers_count": 96,
+            "following_count": 123,
+            "tweet_count": 111,
+            "listed_count": 1
+        },
+        "username": "slice3d_si"
+    },
+    {
+        "protected": false,
+        "id": "2190457075",
+        "name": "GeomaticsDelft",
+        "public_metrics": {
+            "followers_count": 606,
+            "following_count": 168,
+            "tweet_count": 802,
+            "listed_count": 6
+        },
+        "username": "GeomaticsDelft"
+    },
+    {
+        "protected": false,
+        "id": "1338870242",
+        "name": "INTERGEO",
+        "public_metrics": {
+            "followers_count": 3812,
+            "following_count": 587,
+            "tweet_count": 3967,
+            "listed_count": 86
+        },
+        "username": "InsideIntergeo"
+    },
+    {
+        "protected": false,
+        "id": "2870439861",
+        "name": "Interreg CE Italy",
+        "public_metrics": {
+            "followers_count": 834,
+            "following_count": 177,
+            "tweet_count": 632,
+            "listed_count": 25
+        },
+        "username": "interregCE_IT"
+    },
+    {
+        "protected": false,
+        "id": "965541134570344448",
+        "name": "3D Geoinfo, Delft 2018",
+        "public_metrics": {
+            "followers_count": 118,
+            "following_count": 109,
+            "tweet_count": 47,
+            "listed_count": 0
+        },
+        "username": "3DDelft2018"
+    },
+    {
+        "protected": false,
+        "id": "138725262",
+        "name": "HUBBLE",
+        "public_metrics": {
+            "followers_count": 737258,
+            "following_count": 490,
+            "tweet_count": 3561,
+            "listed_count": 5847
+        },
+        "username": "HUBBLE_space"
+    },
+    {
+        "protected": false,
+        "id": "17384099",
+        "name": "ESA Operations",
+        "public_metrics": {
+            "followers_count": 323647,
+            "following_count": 726,
+            "tweet_count": 28306,
+            "listed_count": 5207
+        },
+        "username": "esaoperations"
+    },
+    {
+        "protected": false,
+        "id": "17471979",
+        "name": "National Geographic",
+        "public_metrics": {
+            "followers_count": 26608510,
+            "following_count": 179,
+            "tweet_count": 63762,
+            "listed_count": 64639
+        },
+        "username": "NatGeo"
+    },
+    {
+        "protected": false,
+        "id": "14342564",
+        "name": "NOAA",
+        "public_metrics": {
+            "followers_count": 1163510,
+            "following_count": 129,
+            "tweet_count": 15596,
+            "listed_count": 12406
+        },
+        "username": "NOAA"
+    },
+    {
+        "protected": false,
+        "id": "14505838",
+        "name": "USGS",
+        "public_metrics": {
+            "followers_count": 792216,
+            "following_count": 88,
+            "tweet_count": 22975,
+            "listed_count": 10606
+        },
+        "username": "USGS"
+    },
+    {
+        "protected": false,
+        "id": "103865085",
+        "name": "ESA Science",
+        "public_metrics": {
+            "followers_count": 398142,
+            "following_count": 367,
+            "tweet_count": 11611,
+            "listed_count": 5630
+        },
+        "username": "esascience"
+    },
+    {
+        "protected": false,
+        "id": "1451773004",
+        "name": "International Space Station",
+        "public_metrics": {
+            "followers_count": 5693801,
+            "following_count": 226,
+            "tweet_count": 15264,
+            "listed_count": 14797
+        },
+        "username": "Space_Station"
+    },
+    {
+        "protected": false,
+        "id": "11348282",
+        "name": "NASA",
+        "public_metrics": {
+            "followers_count": 49833274,
+            "following_count": 178,
+            "tweet_count": 67176,
+            "listed_count": 96942
+        },
+        "username": "NASA"
+    },
+    {
+        "protected": false,
+        "id": "21436960",
+        "name": "ESA",
+        "public_metrics": {
+            "followers_count": 1312149,
+            "following_count": 852,
+            "tweet_count": 51672,
+            "listed_count": 14966
+        },
+        "username": "esa"
+    },
+    {
+        "protected": false,
+        "id": "30410904",
+        "name": "SuperMap",
+        "public_metrics": {
+            "followers_count": 5075,
+            "following_count": 4419,
+            "tweet_count": 1546,
+            "listed_count": 36
+        },
+        "username": "SuperMap__GIS"
+    },
+    {
+        "protected": false,
+        "id": "2796333072",
+        "name": "realities.io",
+        "public_metrics": {
+            "followers_count": 3273,
+            "following_count": 120,
+            "tweet_count": 679,
+            "listed_count": 90
+        },
+        "username": "realities_io"
+    },
+    {
+        "protected": false,
+        "id": "784015749216165888",
+        "name": "Geomatics World",
+        "public_metrics": {
+            "followers_count": 878,
+            "following_count": 548,
+            "tweet_count": 527,
+            "listed_count": 4
+        },
+        "username": "GeomaticsWorld"
+    },
+    {
+        "protected": false,
+        "id": "124465783",
+        "name": "Geomatics Canada",
+        "public_metrics": {
+            "followers_count": 1120,
+            "following_count": 56,
+            "tweet_count": 1820,
+            "listed_count": 32
+        },
+        "username": "GeomaticsCanada"
+    },
+    {
+        "protected": false,
+        "id": "702791956183851008",
+        "name": "its4land",
+        "public_metrics": {
+            "followers_count": 477,
+            "following_count": 392,
+            "tweet_count": 1487,
+            "listed_count": 37
+        },
+        "username": "its4land1"
+    },
+    {
+        "protected": false,
+        "id": "3365540759",
+        "name": "Copernicus Marine",
+        "public_metrics": {
+            "followers_count": 9681,
+            "following_count": 3514,
+            "tweet_count": 5091,
+            "listed_count": 202
+        },
+        "username": "CMEMS_EU"
+    },
+    {
+        "protected": false,
+        "id": "2201283403",
+        "name": "Copernicus EMS",
+        "public_metrics": {
+            "followers_count": 50571,
+            "following_count": 1420,
+            "tweet_count": 30792,
+            "listed_count": 916
+        },
+        "username": "CopernicusEMS"
+    },
+    {
+        "protected": false,
+        "id": "271327412",
+        "name": "QGIS",
+        "public_metrics": {
+            "followers_count": 53644,
+            "following_count": 75,
+            "tweet_count": 1731,
+            "listed_count": 990
+        },
+        "username": "qgis"
+    },
+    {
+        "protected": false,
+        "id": "3143609799",
+        "name": "Scan The World",
+        "public_metrics": {
+            "followers_count": 2322,
+            "following_count": 151,
+            "tweet_count": 1274,
+            "listed_count": 90
+        },
+        "username": "Scan_The_World"
+    },
+    {
+        "protected": false,
+        "id": "109515460",
+        "name": "Rijksmuseum",
+        "public_metrics": {
+            "followers_count": 257914,
+            "following_count": 1189,
+            "tweet_count": 15738,
+            "listed_count": 2499
+        },
+        "username": "rijksmuseum"
+    },
+    {
+        "protected": false,
+        "id": "19066345",
+        "name": "British Museum",
+        "public_metrics": {
+            "followers_count": 2071380,
+            "following_count": 47660,
+            "tweet_count": 23259,
+            "listed_count": 14140
+        },
+        "username": "britishmuseum"
+    },
+    {
+        "protected": false,
+        "id": "248965136",
+        "name": "Google Arts&Culture",
+        "public_metrics": {
+            "followers_count": 164325,
+            "following_count": 1806,
+            "tweet_count": 11697,
+            "listed_count": 2894
+        },
+        "username": "googlearts"
+    },
+    {
+        "protected": false,
+        "id": "189104700",
+        "name": "Archeomatica",
+        "public_metrics": {
+            "followers_count": 3854,
+            "following_count": 1471,
+            "tweet_count": 11235,
+            "listed_count": 136
+        },
+        "username": "archeomatica"
+    },
+    {
+        "protected": false,
+        "id": "745629067874017280",
+        "name": "Blender",
+        "public_metrics": {
+            "followers_count": 163521,
+            "following_count": 3,
+            "tweet_count": 760,
+            "listed_count": 1358
+        },
+        "username": "Blender"
+    },
+    {
+        "protected": false,
+        "id": "587491156",
+        "name": "Hubs",
+        "public_metrics": {
+            "followers_count": 29950,
+            "following_count": 1981,
+            "tweet_count": 10943,
+            "listed_count": 799
+        },
+        "username": "HubsMFG"
+    },
+    {
+        "protected": false,
+        "id": "15531582",
+        "name": "Unity For Games",
+        "public_metrics": {
+            "followers_count": 450116,
+            "following_count": 1808,
+            "tweet_count": 30932,
+            "listed_count": 4819
+        },
+        "username": "unitygames"
+    },
+    {
+        "protected": false,
+        "id": "161745890",
+        "name": "Oxford Archaeology",
+        "public_metrics": {
+            "followers_count": 47926,
+            "following_count": 1378,
+            "tweet_count": 4161,
+            "listed_count": 458
+        },
+        "username": "oatweet"
+    },
+    {
+        "protected": false,
+        "id": "2432402330",
+        "name": "VisitTrentino",
+        "public_metrics": {
+            "followers_count": 118,
+            "following_count": 228,
+            "tweet_count": 104,
+            "listed_count": 3
+        },
+        "username": "VisitTrentino72"
+    },
+    {
+        "protected": false,
+        "id": "4397888955",
+        "name": "ArcheoTrentino",
+        "public_metrics": {
+            "followers_count": 684,
+            "following_count": 427,
+            "tweet_count": 836,
+            "listed_count": 19
+        },
+        "username": "ArcheoTrentino"
+    },
+    {
+        "protected": false,
+        "id": "1283296351",
+        "name": "Trentino Network",
+        "public_metrics": {
+            "followers_count": 962,
+            "following_count": 148,
+            "tweet_count": 3924,
+            "listed_count": 105
+        },
+        "username": "TrentinoNetwork"
+    },
+    {
+        "protected": false,
+        "id": "789882037",
+        "name": "European Archaeology",
+        "public_metrics": {
+            "followers_count": 751,
+            "following_count": 1956,
+            "tweet_count": 736,
+            "listed_count": 28
+        },
+        "username": "europeanarchaeo"
+    },
+    {
+        "protected": false,
+        "id": "380201141",
+        "name": "FabLab Milano",
+        "public_metrics": {
+            "followers_count": 2100,
+            "following_count": 183,
+            "tweet_count": 801,
+            "listed_count": 125
+        },
+        "username": "FablabMilano"
+    },
+    {
+        "protected": false,
+        "id": "277014459",
+        "name": "Fablab Torino",
+        "public_metrics": {
+            "followers_count": 4956,
+            "following_count": 537,
+            "tweet_count": 1161,
+            "listed_count": 237
+        },
+        "username": "Fablabtorino"
+    },
+    {
+        "protected": false,
+        "id": "1911492049",
+        "name": "Social FabLab",
+        "public_metrics": {
+            "followers_count": 962,
+            "following_count": 60,
+            "tweet_count": 1687,
+            "listed_count": 33
+        },
+        "username": "SocialFabLab"
+    },
+    {
+        "protected": false,
+        "id": "949675308",
+        "name": "FAU FabLab",
+        "public_metrics": {
+            "followers_count": 2248,
+            "following_count": 140,
+            "tweet_count": 512,
+            "listed_count": 83
+        },
+        "username": "FAUFabLab"
+    },
+    {
+        "protected": false,
+        "id": "833764070",
+        "name": "Medaarch_",
+        "public_metrics": {
+            "followers_count": 3443,
+            "following_count": 672,
+            "tweet_count": 2930,
+            "listed_count": 192
+        },
+        "username": "medfablab"
+    },
+    {
+        "protected": false,
+        "id": "1651006453",
+        "name": "FabLab Genova",
+        "public_metrics": {
+            "followers_count": 1369,
+            "following_count": 143,
+            "tweet_count": 381,
+            "listed_count": 49
+        },
+        "username": "FabLabGenova"
+    },
+    {
+        "protected": false,
+        "id": "1013265296",
+        "name": "FABLAB Pisa",
+        "public_metrics": {
+            "followers_count": 2917,
+            "following_count": 267,
+            "tweet_count": 837,
+            "listed_count": 138
+        },
+        "username": "FABLABPisa"
+    },
+    {
+        "protected": false,
+        "id": "625945182",
+        "name": "FABLAB Napoli",
+        "public_metrics": {
+            "followers_count": 2185,
+            "following_count": 195,
+            "tweet_count": 321,
+            "listed_count": 84
+        },
+        "username": "FabLabNapoli"
+    },
+    {
+        "protected": false,
+        "id": "605267099",
+        "name": "European Federation of Geologists (EFG)",
+        "public_metrics": {
+            "followers_count": 2078,
+            "following_count": 1746,
+            "tweet_count": 5590,
+            "listed_count": 55
+        },
+        "username": "EfgInfo"
+    },
+    {
+        "protected": false,
+        "id": "1500550664",
+        "name": "gianluca",
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 81,
+            "tweet_count": 37,
+            "listed_count": 1
+        },
+        "username": "Gianlucalop86"
+    },
+    {
+        "protected": false,
+        "id": "1197779120",
+        "name": "Daniele Morabito",
+        "public_metrics": {
+            "followers_count": 40,
+            "following_count": 56,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "username": "Gekk0r"
+    },
+    {
+        "protected": false,
+        "id": "1472349732",
+        "name": "MUSE Fablab",
+        "public_metrics": {
+            "followers_count": 1671,
+            "following_count": 676,
+            "tweet_count": 399,
+            "listed_count": 0
+        },
+        "username": "MUSE_Fablab"
+    },
+    {
+        "protected": false,
+        "id": "826032995454828544",
+        "name": "fablabnet",
+        "public_metrics": {
+            "followers_count": 84,
+            "following_count": 151,
+            "tweet_count": 72,
+            "listed_count": 0
+        },
+        "username": "fablabnet"
+    },
+    {
+        "protected": false,
+        "id": "4075818023",
+        "name": "EuroGeoSurveys",
+        "public_metrics": {
+            "followers_count": 1917,
+            "following_count": 1307,
+            "tweet_count": 1552,
+            "listed_count": 54
+        },
+        "username": "EuroGeoSurveys"
+    },
+    {
+        "protected": false,
+        "id": "712918362519691264",
+        "name": "JPI-CH PROTHEGO",
+        "public_metrics": {
+            "followers_count": 113,
+            "following_count": 59,
+            "tweet_count": 476,
+            "listed_count": 6
+        },
+        "username": "PROTHEGO"
+    },
+    {
+        "protected": false,
+        "id": "2918397394",
+        "name": "Landscape Research",
+        "public_metrics": {
+            "followers_count": 2133,
+            "following_count": 347,
+            "tweet_count": 866,
+            "listed_count": 47
+        },
+        "username": "LandscapeResJ"
+    },
+    {
+        "protected": false,
+        "id": "2976506031",
+        "name": "Landscape Research Group",
+        "public_metrics": {
+            "followers_count": 3460,
+            "following_count": 1734,
+            "tweet_count": 2874,
+            "listed_count": 56
+        },
+        "username": "aboutlandscape"
+    },
+    {
+        "protected": false,
+        "id": "2457829147",
+        "name": "Hercules Project",
+        "public_metrics": {
+            "followers_count": 381,
+            "following_count": 110,
+            "tweet_count": 368,
+            "listed_count": 21
+        },
+        "username": "HerculesFP7"
+    },
+    {
+        "protected": false,
+        "id": "83170609",
+        "name": "ICGC. Generalitat",
+        "public_metrics": {
+            "followers_count": 8803,
+            "following_count": 340,
+            "tweet_count": 3401,
+            "listed_count": 216
+        },
+        "username": "ICGCat"
+    },
+    {
+        "protected": false,
+        "id": "4054712117",
+        "name": "Geoxphere",
+        "public_metrics": {
+            "followers_count": 350,
+            "following_count": 371,
+            "tweet_count": 253,
+            "listed_count": 5
+        },
+        "username": "Geoxphere"
+    },
+    {
+        "protected": false,
+        "id": "873189071790628864",
+        "name": "Aerotech Innovation",
+        "public_metrics": {
+            "followers_count": 43,
+            "following_count": 109,
+            "tweet_count": 37,
+            "listed_count": 0
+        },
+        "username": "AerotechInnov"
+    },
+    {
+        "protected": false,
+        "id": "27205446",
+        "name": "Andrea Fusiello",
+        "public_metrics": {
+            "followers_count": 308,
+            "following_count": 16,
+            "tweet_count": 269,
+            "listed_count": 5
+        },
+        "username": "fusiello"
+    },
+    {
+        "protected": false,
+        "id": "835039522077491200",
+        "name": "Capturing Reality",
+        "public_metrics": {
+            "followers_count": 6877,
+            "following_count": 207,
+            "tweet_count": 1290,
+            "listed_count": 96
+        },
+        "username": "RealityCapture_"
+    },
+    {
+        "protected": false,
+        "id": "457409272",
+        "name": "3Dflow",
+        "public_metrics": {
+            "followers_count": 819,
+            "following_count": 266,
+            "tweet_count": 405,
+            "listed_count": 12
+        },
+        "username": "_3Dflow_"
+    },
+    {
+        "protected": false,
+        "id": "293996506",
+        "name": "Copernicus Masters",
+        "public_metrics": {
+            "followers_count": 5279,
+            "following_count": 1128,
+            "tweet_count": 4088,
+            "listed_count": 143
+        },
+        "username": "CopernicusEMC"
+    },
+    {
+        "protected": false,
+        "id": "366471084",
+        "name": "GalileoMasters",
+        "public_metrics": {
+            "followers_count": 2537,
+            "following_count": 802,
+            "tweet_count": 3401,
+            "listed_count": 82
+        },
+        "username": "GalileoMasters"
+    },
+    {
+        "protected": false,
+        "id": "278506592",
+        "name": "MarieSkłodowskaCurie",
+        "public_metrics": {
+            "followers_count": 52937,
+            "following_count": 1338,
+            "tweet_count": 12849,
+            "listed_count": 468
+        },
+        "username": "MSCActions"
+    },
+    {
+        "protected": false,
+        "id": "106364904",
+        "name": "EU Research Results",
+        "public_metrics": {
+            "followers_count": 42326,
+            "following_count": 6065,
+            "tweet_count": 16530,
+            "listed_count": 1083
+        },
+        "username": "CORDIS_EU"
+    },
+    {
+        "protected": false,
+        "id": "467551928",
+        "name": "European Research Council (ERC)",
+        "public_metrics": {
+            "followers_count": 116497,
+            "following_count": 455,
+            "tweet_count": 11232,
+            "listed_count": 1447
+        },
+        "username": "ERC_Research"
+    },
+    {
+        "protected": false,
+        "id": "193301414",
+        "name": "EUScience&Innovation🇪🇺",
+        "public_metrics": {
+            "followers_count": 110162,
+            "following_count": 727,
+            "tweet_count": 37496,
+            "listed_count": 2531
+        },
+        "username": "EUScienceInnov"
+    },
+    {
+        "protected": false,
+        "id": "1379662802",
+        "name": "Horizon Europe🇪🇺",
+        "public_metrics": {
+            "followers_count": 146503,
+            "following_count": 1662,
+            "tweet_count": 15064,
+            "listed_count": 2358
+        },
+        "username": "HorizonEU"
+    },
+    {
+        "protected": false,
+        "id": "277889424",
+        "name": "ESA EarthObservation",
+        "public_metrics": {
+            "followers_count": 106834,
+            "following_count": 2401,
+            "tweet_count": 23779,
+            "listed_count": 2035
+        },
+        "username": "ESA_EO"
+    },
+    {
+        "protected": false,
+        "id": "978604706",
+        "name": "Copernicus EU",
+        "public_metrics": {
+            "followers_count": 87663,
+            "following_count": 1996,
+            "tweet_count": 63919,
+            "listed_count": 1564
+        },
+        "username": "CopernicusEU"
+    },
+    {
+        "protected": false,
+        "id": "1908791612",
+        "name": "Galileo GNSS Fans",
+        "public_metrics": {
+            "followers_count": 11054,
+            "following_count": 1099,
+            "tweet_count": 1362,
+            "listed_count": 254
+        },
+        "username": "GalileoGNSS"
+    },
+    {
+        "protected": false,
+        "id": "2778551394",
+        "name": "🇪🇺 EUSPA - EU Agency for the Space Programme",
+        "public_metrics": {
+            "followers_count": 15019,
+            "following_count": 1979,
+            "tweet_count": 14596,
+            "listed_count": 422
+        },
+        "username": "EU4Space"
+    },
+    {
+        "protected": false,
+        "id": "255528673",
+        "name": "🇪🇺 EGNOS Portal",
+        "public_metrics": {
+            "followers_count": 4118,
+            "following_count": 849,
+            "tweet_count": 5612,
+            "listed_count": 133
+        },
+        "username": "EGNOSPortal"
+    },
+    {
+        "protected": false,
+        "id": "465425850",
+        "name": "Federazione ASITA",
+        "public_metrics": {
+            "followers_count": 1021,
+            "following_count": 720,
+            "tweet_count": 1203,
+            "listed_count": 19
+        },
+        "username": "ConferenzaASITA"
+    },
+    {
+        "protected": false,
+        "id": "41304612",
+        "name": "Renzo Carlucci",
+        "public_metrics": {
+            "followers_count": 661,
+            "following_count": 398,
+            "tweet_count": 2145,
+            "listed_count": 52
+        },
+        "username": "rcarlucci"
+    },
+    {
+        "protected": false,
+        "id": "229864222",
+        "name": "GEO for ALL",
+        "public_metrics": {
+            "followers_count": 1955,
+            "following_count": 333,
+            "tweet_count": 9534,
+            "listed_count": 87
+        },
+        "username": "rivistageomedia"
+    },
+    {
+        "protected": false,
+        "id": "235122622",
+        "name": "Microgeo",
+        "public_metrics": {
+            "followers_count": 318,
+            "following_count": 148,
+            "tweet_count": 1004,
+            "listed_count": 8
+        },
+        "username": "Microgeosrl"
+    },
+    {
+        "protected": false,
+        "id": "98726470",
+        "name": "Velodyne Lidar",
+        "public_metrics": {
+            "followers_count": 10180,
+            "following_count": 366,
+            "tweet_count": 5444,
+            "listed_count": 220
+        },
+        "username": "VelodyneLidar"
+    },
+    {
+        "protected": false,
+        "id": "2399791278",
+        "name": "YellowScan",
+        "public_metrics": {
+            "followers_count": 1431,
+            "following_count": 361,
+            "tweet_count": 1042,
+            "listed_count": 31
+        },
+        "username": "YellowScan"
+    },
+    {
+        "protected": false,
+        "id": "1960460820",
+        "name": "@PointFuse",
+        "public_metrics": {
+            "followers_count": 1000,
+            "following_count": 829,
+            "tweet_count": 871,
+            "listed_count": 14
+        },
+        "username": "Pointfuse"
+    },
+    {
+        "protected": false,
+        "id": "448656600",
+        "name": "Orbit GT",
+        "public_metrics": {
+            "followers_count": 422,
+            "following_count": 76,
+            "tweet_count": 493,
+            "listed_count": 10
+        },
+        "username": "orbitgt"
+    },
+    {
+        "protected": false,
+        "id": "614284320",
+        "name": "Aerodata Int Surveys",
+        "public_metrics": {
+            "followers_count": 166,
+            "following_count": 75,
+            "tweet_count": 67,
+            "listed_count": 6
+        },
+        "username": "aerodatasurveys"
+    },
+    {
+        "protected": false,
+        "id": "17663776",
+        "name": "Planet",
+        "public_metrics": {
+            "followers_count": 120771,
+            "following_count": 4695,
+            "tweet_count": 4828,
+            "listed_count": 1865
+        },
+        "username": "planet"
+    },
+    {
+        "protected": false,
+        "id": "107448978",
+        "name": "OpenLayers",
+        "public_metrics": {
+            "followers_count": 15492,
+            "following_count": 15,
+            "tweet_count": 291,
+            "listed_count": 317
+        },
+        "username": "openlayers"
+    },
+    {
+        "protected": false,
+        "id": "194562818",
+        "name": "Leaflet",
+        "public_metrics": {
+            "followers_count": 28005,
+            "following_count": 1691,
+            "tweet_count": 3985,
+            "listed_count": 873
+        },
+        "username": "LeafletJS"
+    },
+    {
+        "protected": false,
+        "id": "55236002",
+        "name": "Mapbox",
+        "public_metrics": {
+            "followers_count": 74408,
+            "following_count": 2087,
+            "tweet_count": 13224,
+            "listed_count": 1
+        },
+        "username": "Mapbox"
+    },
+    {
+        "protected": false,
+        "id": "409765359",
+        "name": "GW Events",
+        "public_metrics": {
+            "followers_count": 2831,
+            "following_count": 129,
+            "tweet_count": 2680,
+            "listed_count": 67
+        },
+        "username": "GeospatialM"
+    },
+    {
+        "protected": false,
+        "id": "213610675",
+        "name": "senseFly",
+        "public_metrics": {
+            "followers_count": 17490,
+            "following_count": 308,
+            "tweet_count": 4945,
+            "listed_count": 375
+        },
+        "username": "sensefly"
+    },
+    {
+        "protected": false,
+        "id": "240293896",
+        "name": "pix4d",
+        "public_metrics": {
+            "followers_count": 19370,
+            "following_count": 1330,
+            "tweet_count": 3870,
+            "listed_count": 321
+        },
+        "username": "pix4d"
+    },
+    {
+        "protected": false,
+        "id": "421923426",
+        "name": "Sketchfab",
+        "public_metrics": {
+            "followers_count": 51449,
+            "following_count": 2553,
+            "tweet_count": 32721,
+            "listed_count": 1038
+        },
+        "username": "Sketchfab"
+    },
+    {
+        "protected": false,
+        "id": "16579991",
+        "name": "FARO Technologies",
+        "public_metrics": {
+            "followers_count": 1134,
+            "following_count": 33,
+            "tweet_count": 450,
+            "listed_count": 11
+        },
+        "username": "FaroAsia"
+    },
+    {
+        "protected": false,
+        "id": "54690186",
+        "name": "Capture 3D, Inc.",
+        "public_metrics": {
+            "followers_count": 1059,
+            "following_count": 500,
+            "tweet_count": 688,
+            "listed_count": 29
+        },
+        "username": "Capture3D"
+    },
+    {
+        "protected": true,
+        "id": "70970508",
+        "name": "AICON3d",
+        "public_metrics": {
+            "followers_count": 640,
+            "following_count": 146,
+            "tweet_count": 5918,
+            "listed_count": 38
+        },
+        "username": "aicon3dsystems"
+    },
+    {
+        "protected": false,
+        "id": "226957743",
+        "name": "GOM Metrology",
+        "public_metrics": {
+            "followers_count": 1629,
+            "following_count": 28,
+            "tweet_count": 2775,
+            "listed_count": 30
+        },
+        "username": "GOM_Metrology"
+    },
+    {
+        "protected": false,
+        "id": "22004520",
+        "name": "FARO Europe",
+        "public_metrics": {
+            "followers_count": 3615,
+            "following_count": 410,
+            "tweet_count": 2794,
+            "listed_count": 105
+        },
+        "username": "faroeurope"
+    },
+    {
+        "protected": false,
+        "id": "119744783",
+        "name": "FARO Technologies",
+        "public_metrics": {
+            "followers_count": 4963,
+            "following_count": 1002,
+            "tweet_count": 2934,
+            "listed_count": 110
+        },
+        "username": "FARO_TechInc"
+    },
+    {
+        "protected": false,
+        "id": "154546742",
+        "name": "InnovMetric Software",
+        "public_metrics": {
+            "followers_count": 1637,
+            "following_count": 95,
+            "tweet_count": 1332,
+            "listed_count": 26
+        },
+        "username": "PolyWorks"
+    },
+    {
+        "protected": false,
+        "id": "20815048",
+        "name": "Nikon Metrology",
+        "public_metrics": {
+            "followers_count": 3400,
+            "following_count": 113,
+            "tweet_count": 803,
+            "listed_count": 36
+        },
+        "username": "NikonMetrology"
+    },
+    {
+        "protected": false,
+        "id": "193908521",
+        "name": "IGN-CNIG",
+        "public_metrics": {
+            "followers_count": 37865,
+            "following_count": 766,
+            "tweet_count": 15128,
+            "listed_count": 873
+        },
+        "username": "IGNSpain"
+    },
+    {
+        "protected": false,
+        "id": "1329191263",
+        "name": "Geomática UPV",
+        "public_metrics": {
+            "followers_count": 2231,
+            "following_count": 369,
+            "tweet_count": 2510,
+            "listed_count": 47
+        },
+        "username": "GeomaticaUPV"
+    },
+    {
+        "protected": false,
+        "id": "57276576",
+        "name": "IGN France",
+        "public_metrics": {
+            "followers_count": 13155,
+            "following_count": 809,
+            "tweet_count": 8852,
+            "listed_count": 467
+        },
+        "username": "IGNFrance"
+    },
+    {
+        "protected": false,
+        "id": "2876123832",
+        "name": "Charles Toth",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 2,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "toth_karesz"
+    },
+    {
+        "protected": false,
+        "id": "911214727715487745",
+        "name": "AVT",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 29,
+            "tweet_count": 60,
+            "listed_count": 0
+        },
+        "username": "AVT_Geomatics"
+    },
+    {
+        "protected": false,
+        "id": "22614266",
+        "name": "Ordnance Survey",
+        "public_metrics": {
+            "followers_count": 63064,
+            "following_count": 3721,
+            "tweet_count": 61595,
+            "listed_count": 1230
+        },
+        "username": "OrdnanceSurvey"
+    },
+    {
+        "protected": false,
+        "id": "1425843674",
+        "name": "ISPRS",
+        "public_metrics": {
+            "followers_count": 1198,
+            "following_count": 8,
+            "tweet_count": 45,
+            "listed_count": 14
+        },
+        "username": "isprs"
+    },
+    {
+        "protected": false,
+        "id": "173759047",
+        "name": "Geonovum",
+        "public_metrics": {
+            "followers_count": 2281,
+            "following_count": 704,
+            "tweet_count": 2450,
+            "listed_count": 59
+        },
+        "username": "geonovum"
+    },
+    {
+        "protected": false,
+        "id": "15392380",
+        "name": "nframes",
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 0,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "nframes"
+    },
+    {
+        "protected": false,
+        "id": "1573855064",
+        "name": "UAVdigest",
+        "public_metrics": {
+            "followers_count": 17870,
+            "following_count": 2007,
+            "tweet_count": 3529,
+            "listed_count": 233
+        },
+        "username": "UAVDigest"
+    },
+    {
+        "protected": false,
+        "id": "17925320",
+        "name": "OpenStreetMap",
+        "public_metrics": {
+            "followers_count": 78663,
+            "following_count": 209,
+            "tweet_count": 1569,
+            "listed_count": 2216
+        },
+        "username": "openstreetmap"
+    },
+    {
+        "protected": false,
+        "id": "53745018",
+        "name": "Hugo Ledoux",
+        "public_metrics": {
+            "followers_count": 627,
+            "following_count": 513,
+            "tweet_count": 1369,
+            "listed_count": 9
+        },
+        "username": "hugoledoux"
+    },
+    {
+        "protected": false,
+        "id": "17027323",
+        "name": "Maxar Technologies",
+        "public_metrics": {
+            "followers_count": 61626,
+            "following_count": 2296,
+            "tweet_count": 10198,
+            "listed_count": 1255
+        },
+        "username": "Maxar"
+    },
+    {
+        "protected": false,
+        "id": "574415163",
+        "name": "European Space Imaging",
+        "public_metrics": {
+            "followers_count": 6083,
+            "following_count": 1830,
+            "tweet_count": 1191,
+            "listed_count": 68
+        },
+        "username": "EUSPACEIMAGING"
+    },
+    {
+        "protected": false,
+        "id": "1179108061",
+        "name": "SGPF-SSPT",
+        "public_metrics": {
+            "followers_count": 322,
+            "following_count": 108,
+            "tweet_count": 718,
+            "listed_count": 9
+        },
+        "username": "SGPF_SSPT"
+    },
+    {
+        "protected": false,
+        "id": "461965747",
+        "name": "Racurs",
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 155,
+            "tweet_count": 698,
+            "listed_count": 5
+        },
+        "username": "Racurs"
+    },
+    {
+        "protected": false,
+        "id": "273619059",
+        "name": "Stephan Nebiker",
+        "public_metrics": {
+            "followers_count": 884,
+            "following_count": 698,
+            "tweet_count": 1990,
+            "listed_count": 43
+        },
+        "username": "snebiker"
+    },
+    {
+        "protected": false,
+        "id": "188441683",
+        "name": "Geo Week News",
+        "public_metrics": {
+            "followers_count": 4485,
+            "following_count": 2137,
+            "tweet_count": 7983,
+            "listed_count": 141
+        },
+        "username": "GeoWeekNews"
+    },
+    {
+        "protected": false,
+        "id": "129666751",
+        "name": "martin isenburg",
+        "public_metrics": {
+            "followers_count": 3544,
+            "following_count": 344,
+            "tweet_count": 3757,
+            "listed_count": 136
+        },
+        "username": "rapidlasso"
+    },
+    {
+        "protected": false,
+        "id": "18799724",
+        "name": "GIM International",
+        "public_metrics": {
+            "followers_count": 9044,
+            "following_count": 2673,
+            "tweet_count": 21394,
+            "listed_count": 230
+        },
+        "username": "gim_intl"
+    },
+    {
+        "protected": false,
+        "id": "193854643",
+        "name": "GeoInformatics",
+        "public_metrics": {
+            "followers_count": 11709,
+            "following_count": 4306,
+            "tweet_count": 2711,
+            "listed_count": 257
+        },
+        "username": "Geoinformatics1"
+    },
+    {
+        "protected": false,
+        "id": "17558476",
+        "name": "Surveying & Mapping",
+        "public_metrics": {
+            "followers_count": 7132,
+            "following_count": 152,
+            "tweet_count": 12881,
+            "listed_count": 152
+        },
+        "username": "surveying"
+    },
+    {
+        "protected": false,
+        "id": "33919440",
+        "name": "Lidar News",
+        "public_metrics": {
+            "followers_count": 4766,
+            "following_count": 1253,
+            "tweet_count": 5939,
+            "listed_count": 157
+        },
+        "username": "lidarnews"
+    },
+    {
+        "protected": false,
+        "id": "41413769",
+        "name": "Laser Scanning Forum",
+        "public_metrics": {
+            "followers_count": 5218,
+            "following_count": 47,
+            "tweet_count": 79790,
+            "listed_count": 90
+        },
+        "username": "LaserScanning"
+    },
+    {
+        "protected": false,
+        "id": "603634327",
+        "name": "Photogrammetry",
+        "public_metrics": {
+            "followers_count": 926,
+            "following_count": 339,
+            "tweet_count": 350,
+            "listed_count": 27
+        },
+        "username": "Photogrammetry1"
+    },
+    {
+        "protected": false,
+        "id": "32469172",
+        "name": "Trimble Geospatial",
+        "public_metrics": {
+            "followers_count": 9333,
+            "following_count": 189,
+            "tweet_count": 3351,
+            "listed_count": 143
+        },
+        "username": "TrimbleNews"
+    },
+    {
+        "protected": false,
+        "id": "16132791",
+        "name": "Esri",
+        "public_metrics": {
+            "followers_count": 187112,
+            "following_count": 74561,
+            "tweet_count": 19738,
+            "listed_count": 3865
+        },
+        "username": "Esri"
+    },
+    {
+        "protected": false,
+        "id": "48483730",
+        "name": "GeospatialOnline.com",
+        "public_metrics": {
+            "followers_count": 16159,
+            "following_count": 1202,
+            "tweet_count": 1251,
+            "listed_count": 431
+        },
+        "username": "GeospatialXYZ"
+    },
+    {
+        "protected": false,
+        "id": "16100480",
+        "name": "GIS Lounge",
+        "public_metrics": {
+            "followers_count": 48661,
+            "following_count": 284,
+            "tweet_count": 21046,
+            "listed_count": 1377
+        },
+        "username": "GISLounge"
+    },
+    {
+        "protected": false,
+        "id": "17126255",
+        "name": "GEOSPATIAL WORLD",
+        "public_metrics": {
+            "followers_count": 30468,
+            "following_count": 2692,
+            "tweet_count": 24580,
+            "listed_count": 868
+        },
+        "username": "geoworldmedia"
+    },
+    {
+        "protected": false,
+        "id": "1598324696",
+        "name": "DH Group at FBK",
+        "public_metrics": {
+            "followers_count": 2073,
+            "following_count": 1502,
+            "tweet_count": 13052,
+            "listed_count": 183
+        },
+        "username": "DH_FBK"
+    },
+    {
+        "protected": false,
+        "id": "26080216",
+        "name": "Open Geospatial: OGC",
+        "public_metrics": {
+            "followers_count": 22839,
+            "following_count": 228,
+            "tweet_count": 4444,
+            "listed_count": 610
+        },
+        "username": "opengeospatial"
+    },
+    {
+        "protected": false,
+        "id": "97814412",
+        "name": "ASPRS",
+        "public_metrics": {
+            "followers_count": 3808,
+            "following_count": 91,
+            "tweet_count": 486,
+            "listed_count": 120
+        },
+        "username": "ASPRSorg"
+    },
+    {
+        "protected": false,
+        "id": "39327448",
+        "name": "OpenTopography",
+        "public_metrics": {
+            "followers_count": 7537,
+            "following_count": 643,
+            "tweet_count": 2441,
+            "listed_count": 217
+        },
+        "username": "OpenTopography"
+    },
+    {
+        "protected": false,
+        "id": "279477355",
+        "name": "Martin Isenburg",
+        "public_metrics": {
+            "followers_count": 5500,
+            "following_count": 491,
+            "tweet_count": 3507,
+            "listed_count": 166
+        },
+        "username": "LAStools"
+    },
+    {
+        "protected": false,
+        "id": "18088375",
+        "name": "CyArk",
+        "public_metrics": {
+            "followers_count": 6131,
+            "following_count": 53,
+            "tweet_count": 3010,
+            "listed_count": 245
+        },
+        "username": "CyArk"
+    },
+    {
+        "protected": false,
+        "id": "1259961931",
+        "name": "CIPA Heritage Documentation",
+        "public_metrics": {
+            "followers_count": 1225,
+            "following_count": 1943,
+            "tweet_count": 1138,
+            "listed_count": 43
+        },
+        "username": "CIPAHeritageDOC"
+    },
+    {
+        "protected": false,
+        "id": "126106622",
+        "name": "GISCafe",
+        "public_metrics": {
+            "followers_count": 5177,
+            "following_count": 1660,
+            "tweet_count": 2748,
+            "listed_count": 153
+        },
+        "username": "NewOnGISCafe"
+    },
+    {
+        "protected": false,
+        "id": "1947589122",
+        "name": "GeoSpatial Stream",
+        "public_metrics": {
+            "followers_count": 1826,
+            "following_count": 1185,
+            "tweet_count": 741,
+            "listed_count": 53
+        },
+        "username": "GSpatialStream"
+    },
+    {
+        "protected": false,
+        "id": "3377124214",
+        "name": "ISPRS IJGI",
+        "public_metrics": {
+            "followers_count": 1419,
+            "following_count": 1110,
+            "tweet_count": 2012,
+            "listed_count": 18
+        },
+        "username": "ISPRS_IJGI"
+    },
+    {
+        "protected": false,
+        "id": "2306348858",
+        "name": "ISPRS WG IV/9 GeoVis",
+        "public_metrics": {
+            "followers_count": 1415,
+            "following_count": 2231,
+            "tweet_count": 3831,
+            "listed_count": 75
+        },
+        "username": "geovis_isprs"
+    },
+    {
+        "protected": false,
+        "id": "258960402",
+        "name": "ISPRS SC",
+        "public_metrics": {
+            "followers_count": 1515,
+            "following_count": 312,
+            "tweet_count": 2167,
+            "listed_count": 18
+        },
+        "username": "ISPRS_SC"
+    },
+    {
+        "protected": false,
+        "id": "317472777",
+        "name": "Geo Week",
+        "public_metrics": {
+            "followers_count": 4556,
+            "following_count": 425,
+            "tweet_count": 1089,
+            "listed_count": 90
+        },
+        "username": "GeoWeekExpo"
+    },
+    {
+        "protected": false,
+        "id": "17373869",
+        "name": "Hexagon Geospatial",
+        "public_metrics": {
+            "followers_count": 9988,
+            "following_count": 383,
+            "tweet_count": 9482,
+            "listed_count": 339
+        },
+        "username": "HexGeospatial"
+    },
+    {
+        "protected": false,
+        "id": "278866842",
+        "name": "Hexagon AB",
+        "public_metrics": {
+            "followers_count": 10475,
+            "following_count": 796,
+            "tweet_count": 3599,
+            "listed_count": 162
+        },
+        "username": "HexagonAB"
+    },
+    {
+        "protected": false,
+        "id": "60952828",
+        "name": "RIEGL",
+        "public_metrics": {
+            "followers_count": 5391,
+            "following_count": 2583,
+            "tweet_count": 10415,
+            "listed_count": 129
+        },
+        "username": "RIEGL"
+    },
+    {
+        "protected": false,
+        "id": "82582147",
+        "name": "LeicaGeosystems",
+        "public_metrics": {
+            "followers_count": 15280,
+            "following_count": 772,
+            "tweet_count": 9205,
+            "listed_count": 276
+        },
+        "username": "LeicaGeosystems"
+    },
+    {
+        "protected": false,
+        "id": "92630840",
+        "name": "EuroGeographics",
+        "public_metrics": {
+            "followers_count": 2421,
+            "following_count": 674,
+            "tweet_count": 3981,
+            "listed_count": 107
+        },
+        "username": "EuroGeographics"
+    },
+    {
+        "protected": false,
+        "id": "280140430",
+        "name": "Jantien Stoter",
+        "public_metrics": {
+            "followers_count": 1006,
+            "following_count": 316,
+            "tweet_count": 818,
+            "listed_count": 24
+        },
+        "username": "jantienstoter"
+    },
+    {
+        "protected": false,
+        "id": "849162722",
+        "name": "EuroSDR",
+        "public_metrics": {
+            "followers_count": 510,
+            "following_count": 231,
+            "tweet_count": 356,
+            "listed_count": 1
+        },
+        "username": "EuroSDR"
+    },
+    {
+        "protected": false,
+        "id": "2913896423",
+        "name": "3D Geoinfo @TU Delft",
+        "public_metrics": {
+            "followers_count": 1299,
+            "following_count": 189,
+            "tweet_count": 553,
+            "listed_count": 20
+        },
+        "username": "tudelft3d"
+    },
+    {
+        "protected": false,
+        "id": "79568844",
+        "name": "Vexcel Imaging",
+        "public_metrics": {
+            "followers_count": 690,
+            "following_count": 51,
+            "tweet_count": 849,
+            "listed_count": 27
+        },
+        "username": "vexcel_imaging"
+    },
+    {
+        "protected": false,
+        "id": "903856329223176192",
+        "name": "Anka",
+        "public_metrics": {
+            "followers_count": 60,
+            "following_count": 138,
+            "tweet_count": 68,
+            "listed_count": 0
+        },
+        "username": "AnkaLisec"
+    },
+    {
+        "protected": false,
+        "id": "877520967987343360",
+        "name": "VOLTA",
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 87,
+            "tweet_count": 344,
+            "listed_count": 1
+        },
+        "username": "VOLTA_MSCA"
+    },
+    {
+        "protected": false,
+        "id": "88636048",
+        "name": "MUSE_Museum",
+        "public_metrics": {
+            "followers_count": 14178,
+            "following_count": 1744,
+            "tweet_count": 13819,
+            "listed_count": 340
+        },
+        "username": "MUSE_Trento"
+    },
+    {
+        "protected": false,
+        "id": "2520417229",
+        "name": "Comune di Trento",
+        "public_metrics": {
+            "followers_count": 3377,
+            "following_count": 372,
+            "tweet_count": 6364,
+            "listed_count": 53
+        },
+        "username": "comunetn"
+    },
+    {
+        "protected": false,
+        "id": "174589147",
+        "name": "Provincia Trento",
+        "public_metrics": {
+            "followers_count": 16172,
+            "following_count": 218,
+            "tweet_count": 34748,
+            "listed_count": 220
+        },
+        "username": "ProvinciaTrento"
+    },
+    {
+        "protected": false,
+        "id": "224559652",
+        "name": "l'Adige",
+        "public_metrics": {
+            "followers_count": 17483,
+            "following_count": 134,
+            "tweet_count": 92532,
+            "listed_count": 262
+        },
+        "username": "giornaleladige"
+    },
+    {
+        "protected": false,
+        "id": "432305935",
+        "name": "Mattia Civico",
+        "public_metrics": {
+            "followers_count": 1432,
+            "following_count": 618,
+            "tweet_count": 1499,
+            "listed_count": 11
+        },
+        "username": "MattiaCivico"
+    },
+    {
+        "protected": false,
+        "id": "151451407",
+        "name": "Alpe Cimbra",
+        "public_metrics": {
+            "followers_count": 3042,
+            "following_count": 1160,
+            "tweet_count": 7532,
+            "listed_count": 75
+        },
+        "username": "AlpeCimbra"
+    },
+    {
+        "protected": false,
+        "id": "356164932",
+        "name": "Fondazione Bruno Kessler FBK",
+        "public_metrics": {
+            "followers_count": 8999,
+            "following_count": 8664,
+            "tweet_count": 9513,
+            "listed_count": 215
+        },
+        "username": "FBK_research"
+    },
+    {
+        "protected": false,
+        "id": "62760325",
+        "name": "Fondazione Edmund Mach",
+        "public_metrics": {
+            "followers_count": 2854,
+            "following_count": 136,
+            "tweet_count": 2863,
+            "listed_count": 53
+        },
+        "username": "fondazionemach"
+    },
+    {
+        "protected": false,
+        "id": "1089305798",
+        "name": "ANSA Trentino-AA",
+        "public_metrics": {
+            "followers_count": 7627,
+            "following_count": 4,
+            "tweet_count": 36010,
+            "listed_count": 101
+        },
+        "username": "AnsaTrentinoAA"
+    },
+    {
+        "protected": false,
+        "id": "742725109",
+        "name": "Garda Outdoors",
+        "public_metrics": {
+            "followers_count": 3961,
+            "following_count": 2174,
+            "tweet_count": 13335,
+            "listed_count": 107
+        },
+        "username": "GardaOutdoors"
+    },
+    {
+        "protected": false,
+        "id": "124874351",
+        "name": "Visit Trentino",
+        "public_metrics": {
+            "followers_count": 35163,
+            "following_count": 276,
+            "tweet_count": 19780,
+            "listed_count": 484
+        },
+        "username": "VisitTrentino"
+    },
+    {
+        "protected": false,
+        "id": "3014695414",
+        "name": "Dolomites UNESCO",
+        "public_metrics": {
+            "followers_count": 16451,
+            "following_count": 6677,
+            "tweet_count": 8453,
+            "listed_count": 233
+        },
+        "username": "DolomitesUNESCO"
+    },
+    {
+        "protected": false,
+        "id": "606160025",
+        "name": "Trentino Sviluppo",
+        "public_metrics": {
+            "followers_count": 4196,
+            "following_count": 557,
+            "tweet_count": 4266,
+            "listed_count": 167
+        },
+        "username": "TnSviluppo"
+    },
+    {
+        "protected": false,
+        "id": "16242648",
+        "name": "GardaTrentino",
+        "public_metrics": {
+            "followers_count": 12108,
+            "following_count": 1527,
+            "tweet_count": 21587,
+            "listed_count": 236
+        },
+        "username": "GardaTrentino"
+    },
+    {
+        "protected": false,
+        "id": "1374717066",
+        "name": "Università di Trento",
+        "public_metrics": {
+            "followers_count": 5330,
+            "following_count": 191,
+            "tweet_count": 4694,
+            "listed_count": 90
+        },
+        "username": "UniTrento"
+    },
+    {
+        "protected": false,
+        "id": "2361057685",
+        "name": "PressTrentino",
+        "public_metrics": {
+            "followers_count": 3448,
+            "following_count": 1396,
+            "tweet_count": 2075,
+            "listed_count": 69
+        },
+        "username": "PressTrentino"
+    },
+    {
+        "protected": false,
+        "id": "5159271",
+        "name": "Maurizio Napolitano",
+        "public_metrics": {
+            "followers_count": 5247,
+            "following_count": 1941,
+            "tweet_count": 28327,
+            "listed_count": 540
+        },
+        "username": "napo"
+    },
+    {
+        "protected": false,
+        "id": "2237963774",
+        "name": "Prot civile Trentino",
+        "public_metrics": {
+            "followers_count": 3412,
+            "following_count": 8,
+            "tweet_count": 7826,
+            "listed_count": 41
+        },
+        "username": "dpcpat1"
+    },
+    {
+        "protected": false,
+        "id": "364331110",
+        "name": "DiscoverTrento",
+        "public_metrics": {
+            "followers_count": 5177,
+            "following_count": 433,
+            "tweet_count": 3676,
+            "listed_count": 67
+        },
+        "username": "AptTrento"
+    },
+    {
+        "protected": false,
+        "id": "157981564",
+        "name": "European Commission 🇪🇺",
+        "public_metrics": {
+            "followers_count": 1550340,
+            "following_count": 667,
+            "tweet_count": 42277,
+            "listed_count": 13249
+        },
+        "username": "EU_Commission"
+    },
+    {
+        "protected": false,
+        "id": "882235051",
+        "name": "Ministero dell’Istruzione",
+        "public_metrics": {
+            "followers_count": 140146,
+            "following_count": 2899,
+            "tweet_count": 15128,
+            "listed_count": 917
+        },
+        "username": "MIsocialTW"
+    }
+]

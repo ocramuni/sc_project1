@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-11T19:20:34.000Z",
+        "public_metrics": {
+            "retweet_count": 504,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1458877327253942277",
+        "lang": "it",
+        "text": "RT @RobertoBurioni: Ci sono due mondi. Uno è quello dei vaccinati, nel quale il virus arranca; l’altro quello dei non vaccinati, dove prosp…"
+    },
+    {
+        "created_at": "2021-11-11T18:28:34.000Z",
+        "public_metrics": {
+            "retweet_count": 3082,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1458864243315552261",
+        "lang": "und",
+        "text": "RT @negworkingcap: Q3 2021 😂 https://t.co/G4KW6IvN0i"
+    },
+    {
+        "created_at": "2021-07-27T19:10:11.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1420099214630133761",
+        "lang": "it",
+        "text": "@pierpassu Prenoto il notaio anche per te @pierpassu"
+    },
+    {
+        "created_at": "2021-07-27T19:05:40.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1420098076560216067",
+        "lang": "it",
+        "text": "@pierpassu Sta cosa delle SRL a 1€ rende CEO un po’ tutti"
+    },
+    {
+        "created_at": "2021-04-22T19:39:29.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1385317353366429702",
+        "lang": "pt",
+        "text": "@andreacortiula @andreabassutti A vôl timp par bevi"
+    }
+]

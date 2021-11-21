@@ -1,0 +1,5906 @@
+[
+    {
+        "username": "omerhankrm",
+        "protected": false,
+        "id": "481571912",
+        "public_metrics": {
+            "followers_count": 110747,
+            "following_count": 493,
+            "tweet_count": 26869,
+            "listed_count": 692
+        },
+        "name": "Ömerhan Karamahmutoğlu"
+    },
+    {
+        "username": "cog_ist",
+        "protected": false,
+        "id": "1204451801237512193",
+        "public_metrics": {
+            "followers_count": 3381,
+            "following_count": 371,
+            "tweet_count": 913,
+            "listed_count": 16
+        },
+        "name": "CogIST"
+    },
+    {
+        "username": "laplace2011",
+        "protected": false,
+        "id": "229389391",
+        "public_metrics": {
+            "followers_count": 68785,
+            "following_count": 679,
+            "tweet_count": 25805,
+            "listed_count": 444
+        },
+        "name": "Devrim Akyıl Laplace’s Demon"
+    },
+    {
+        "username": "MozartCultures",
+        "protected": false,
+        "id": "928130112385626112",
+        "public_metrics": {
+            "followers_count": 124062,
+            "following_count": 154,
+            "tweet_count": 19315,
+            "listed_count": 318
+        },
+        "name": "MozartCultures TR"
+    },
+    {
+        "username": "acai2021",
+        "protected": false,
+        "id": "1400407060311851009",
+        "public_metrics": {
+            "followers_count": 184,
+            "following_count": 53,
+            "tweet_count": 41,
+            "listed_count": 2
+        },
+        "name": "acai2021"
+    },
+    {
+        "username": "yakin_iliskiler",
+        "protected": false,
+        "id": "1041753419688697858",
+        "public_metrics": {
+            "followers_count": 30527,
+            "following_count": 188,
+            "tweet_count": 3972,
+            "listed_count": 45
+        },
+        "name": "Yakın İlişkiler"
+    },
+    {
+        "username": "AhmetBeyefendi",
+        "protected": false,
+        "id": "159483463",
+        "public_metrics": {
+            "followers_count": 89633,
+            "following_count": 1773,
+            "tweet_count": 4132,
+            "listed_count": 573
+        },
+        "name": "Ahmet"
+    },
+    {
+        "username": "pin_trader",
+        "protected": false,
+        "id": "2391948989",
+        "public_metrics": {
+            "followers_count": 53263,
+            "following_count": 420,
+            "tweet_count": 27754,
+            "listed_count": 360
+        },
+        "name": "Pin Trader"
+    },
+    {
+        "username": "miandji",
+        "protected": false,
+        "id": "912552555762388992",
+        "public_metrics": {
+            "followers_count": 33660,
+            "following_count": 279,
+            "tweet_count": 9702,
+            "listed_count": 82
+        },
+        "name": "Anooshirvan Miandji"
+    },
+    {
+        "username": "bongomy",
+        "protected": false,
+        "id": "291363358",
+        "public_metrics": {
+            "followers_count": 86532,
+            "following_count": 156,
+            "tweet_count": 2482,
+            "listed_count": 41
+        },
+        "name": "Giray Altınok"
+    },
+    {
+        "username": "YourAnonNews",
+        "protected": false,
+        "id": "279390084",
+        "public_metrics": {
+            "followers_count": 6616969,
+            "following_count": 806,
+            "tweet_count": 186737,
+            "listed_count": 14816
+        },
+        "name": "Anonymous"
+    },
+    {
+        "username": "SelimAkmen",
+        "protected": false,
+        "id": "788319636097990656",
+        "public_metrics": {
+            "followers_count": 41520,
+            "following_count": 1274,
+            "tweet_count": 116245,
+            "listed_count": 28
+        },
+        "name": "Arnavut Selim 💙"
+    },
+    {
+        "username": "afganistanajans",
+        "protected": false,
+        "id": "970696191326457857",
+        "public_metrics": {
+            "followers_count": 5151,
+            "following_count": 564,
+            "tweet_count": 2866,
+            "listed_count": 23
+        },
+        "name": "Afganistan Haber 🇹🇷🇦🇫"
+    },
+    {
+        "username": "abdullahnaci",
+        "protected": false,
+        "id": "455910373",
+        "public_metrics": {
+            "followers_count": 84378,
+            "following_count": 592,
+            "tweet_count": 8817,
+            "listed_count": 124
+        },
+        "name": "abdullah naci"
+    },
+    {
+        "username": "UniverCurious",
+        "protected": false,
+        "id": "892826509622353920",
+        "public_metrics": {
+            "followers_count": 548908,
+            "following_count": 146,
+            "tweet_count": 4399,
+            "listed_count": 2301
+        },
+        "name": "Universal Curiosity"
+    },
+    {
+        "username": "EOSIO",
+        "protected": false,
+        "id": "862675563693125632",
+        "public_metrics": {
+            "followers_count": 252734,
+            "following_count": 31,
+            "tweet_count": 2628,
+            "listed_count": 2583
+        },
+        "name": "EOSIO"
+    },
+    {
+        "username": "NektariaAna",
+        "protected": false,
+        "id": "854189242691596288",
+        "public_metrics": {
+            "followers_count": 12236,
+            "following_count": 1341,
+            "tweet_count": 1427,
+            "listed_count": 43
+        },
+        "name": "Nektaria Anastasiadou"
+    },
+    {
+        "username": "BitcoinLive1",
+        "protected": false,
+        "id": "949329396460081159",
+        "public_metrics": {
+            "followers_count": 15594,
+            "following_count": 129,
+            "tweet_count": 2307,
+            "listed_count": 201
+        },
+        "name": "Bitcoin Live"
+    },
+    {
+        "username": "vedatmilor",
+        "protected": false,
+        "id": "64820716",
+        "public_metrics": {
+            "followers_count": 1320127,
+            "following_count": 93,
+            "tweet_count": 9636,
+            "listed_count": 773
+        },
+        "name": "Vedat Milor"
+    },
+    {
+        "username": "kulluk_kahvesi",
+        "protected": false,
+        "id": "777801703169064960",
+        "public_metrics": {
+            "followers_count": 51094,
+            "following_count": 487,
+            "tweet_count": 12499,
+            "listed_count": 124
+        },
+        "name": "Küllük Kahvesi"
+    },
+    {
+        "username": "arsivtarih",
+        "protected": false,
+        "id": "541483613",
+        "public_metrics": {
+            "followers_count": 351197,
+            "following_count": 115,
+            "tweet_count": 4044,
+            "listed_count": 349
+        },
+        "name": "Arşiv Tarih"
+    },
+    {
+        "username": "JohnEDeaton1",
+        "protected": false,
+        "id": "1079853966681346048",
+        "public_metrics": {
+            "followers_count": 140296,
+            "following_count": 1213,
+            "tweet_count": 6344,
+            "listed_count": 420
+        },
+        "name": "John E Deaton"
+    },
+    {
+        "username": "Space_Station",
+        "protected": false,
+        "id": "1451773004",
+        "public_metrics": {
+            "followers_count": 5693693,
+            "following_count": 226,
+            "tweet_count": 15264,
+            "listed_count": 14797
+        },
+        "name": "International Space Station"
+    },
+    {
+        "username": "redditSpacePorn",
+        "protected": false,
+        "id": "822825713615175680",
+        "public_metrics": {
+            "followers_count": 362255,
+            "following_count": 1533,
+            "tweet_count": 15412,
+            "listed_count": 1067
+        },
+        "name": "Space Porn"
+    },
+    {
+        "username": "apostonews",
+        "protected": false,
+        "id": "1163522916581072896",
+        "public_metrics": {
+            "followers_count": 20674,
+            "following_count": 86,
+            "tweet_count": 1384,
+            "listed_count": 83
+        },
+        "name": "Aposto!"
+    },
+    {
+        "username": "monokrombulten",
+        "protected": false,
+        "id": "1253231547819442208",
+        "public_metrics": {
+            "followers_count": 1023,
+            "following_count": 0,
+            "tweet_count": 319,
+            "listed_count": 6
+        },
+        "name": "Monokrom"
+    },
+    {
+        "username": "kapsulbulten",
+        "protected": false,
+        "id": "1250916199862620166",
+        "public_metrics": {
+            "followers_count": 7110,
+            "following_count": 95,
+            "tweet_count": 2722,
+            "listed_count": 32
+        },
+        "name": "Kapsül"
+    },
+    {
+        "username": "aytekiak",
+        "protected": false,
+        "id": "2283353341",
+        "public_metrics": {
+            "followers_count": 6670,
+            "following_count": 814,
+            "tweet_count": 17016,
+            "listed_count": 99
+        },
+        "name": "Akin Aytekin"
+    },
+    {
+        "username": "Liveuamap",
+        "protected": false,
+        "id": "2388075212",
+        "public_metrics": {
+            "followers_count": 63429,
+            "following_count": 2736,
+            "tweet_count": 59277,
+            "listed_count": 1357
+        },
+        "name": "Liveuamap"
+    },
+    {
+        "username": "XrpMr",
+        "protected": false,
+        "id": "1013917997411418112",
+        "public_metrics": {
+            "followers_count": 96229,
+            "following_count": 2687,
+            "tweet_count": 12983,
+            "listed_count": 420
+        },
+        "name": "Mr. B XRP"
+    },
+    {
+        "username": "RobinhoodApp",
+        "protected": false,
+        "id": "1265037073",
+        "public_metrics": {
+            "followers_count": 751370,
+            "following_count": 18,
+            "tweet_count": 10523,
+            "listed_count": 2707
+        },
+        "name": "Robinhood"
+    },
+    {
+        "username": "atahanx",
+        "protected": false,
+        "id": "361206227",
+        "public_metrics": {
+            "followers_count": 291,
+            "following_count": 25,
+            "tweet_count": 56,
+            "listed_count": 2
+        },
+        "name": "Atahan Çelebi"
+    },
+    {
+        "username": "remdocan",
+        "protected": false,
+        "id": "541013326",
+        "public_metrics": {
+            "followers_count": 139504,
+            "following_count": 414,
+            "tweet_count": 20339,
+            "listed_count": 1080
+        },
+        "name": "Kamile U."
+    },
+    {
+        "username": "Sherlock_Hopes",
+        "protected": false,
+        "id": "77714289",
+        "public_metrics": {
+            "followers_count": 13353,
+            "following_count": 1250,
+            "tweet_count": 139247,
+            "listed_count": 26
+        },
+        "name": "JackTorrance"
+    },
+    {
+        "username": "RobinBrooksIIF",
+        "protected": false,
+        "id": "888118103095115780",
+        "public_metrics": {
+            "followers_count": 122540,
+            "following_count": 183,
+            "tweet_count": 12774,
+            "listed_count": 1993
+        },
+        "name": "Robin Brooks"
+    },
+    {
+        "username": "RachaelRuble",
+        "protected": false,
+        "id": "90841933",
+        "public_metrics": {
+            "followers_count": 9554,
+            "following_count": 791,
+            "tweet_count": 2673,
+            "listed_count": 33
+        },
+        "name": "Rachael Ruble"
+    },
+    {
+        "username": "tarlaio",
+        "protected": false,
+        "id": "855340501",
+        "public_metrics": {
+            "followers_count": 8135,
+            "following_count": 1924,
+            "tweet_count": 6142,
+            "listed_count": 74
+        },
+        "name": "tarla.io 🌾🛰️🌩️🌽"
+    },
+    {
+        "username": "ICIJorg",
+        "protected": false,
+        "id": "131935861",
+        "public_metrics": {
+            "followers_count": 298837,
+            "following_count": 1034,
+            "tweet_count": 25244,
+            "listed_count": 4638
+        },
+        "name": "ICIJ"
+    },
+    {
+        "username": "cagrimbakirci",
+        "protected": false,
+        "id": "187316309",
+        "public_metrics": {
+            "followers_count": 189480,
+            "following_count": 11226,
+            "tweet_count": 30860,
+            "listed_count": 474
+        },
+        "name": "Çağrı Mert Bakırcı"
+    },
+    {
+        "username": "ARABASEVDASIIl",
+        "protected": false,
+        "id": "2787761582",
+        "public_metrics": {
+            "followers_count": 177292,
+            "following_count": 6,
+            "tweet_count": 1798,
+            "listed_count": 104
+        },
+        "name": "Araba Sevdası"
+    },
+    {
+        "username": "MPI_CBS",
+        "protected": false,
+        "id": "753161312260255744",
+        "public_metrics": {
+            "followers_count": 3154,
+            "following_count": 633,
+            "tweet_count": 686,
+            "listed_count": 51
+        },
+        "name": "MPI für Kognitions- & Neurowissenschaften"
+    },
+    {
+        "username": "dkmylm",
+        "protected": false,
+        "id": "1112715650819076096",
+        "public_metrics": {
+            "followers_count": 8262,
+            "following_count": 535,
+            "tweet_count": 2664,
+            "listed_count": 16
+        },
+        "name": "Dr. Yalım Dikmen"
+    },
+    {
+        "username": "ferdiegilmez",
+        "protected": false,
+        "id": "95941878",
+        "public_metrics": {
+            "followers_count": 36717,
+            "following_count": 455,
+            "tweet_count": 10892,
+            "listed_count": 49
+        },
+        "name": "ferdi eğilmez"
+    },
+    {
+        "username": "droguzdemir",
+        "protected": false,
+        "id": "76440784",
+        "public_metrics": {
+            "followers_count": 45497,
+            "following_count": 968,
+            "tweet_count": 11975,
+            "listed_count": 176
+        },
+        "name": "Oğuz Demir"
+    },
+    {
+        "username": "PeterSchiff",
+        "protected": false,
+        "id": "56562803",
+        "public_metrics": {
+            "followers_count": 587427,
+            "following_count": 267,
+            "tweet_count": 20068,
+            "listed_count": 5360
+        },
+        "name": "Peter Schiff"
+    },
+    {
+        "username": "FGMR",
+        "protected": false,
+        "id": "45401607",
+        "public_metrics": {
+            "followers_count": 32565,
+            "following_count": 293,
+            "tweet_count": 977,
+            "listed_count": 602
+        },
+        "name": "James Turk"
+    },
+    {
+        "username": "Tradermayne",
+        "protected": false,
+        "id": "2446024556",
+        "public_metrics": {
+            "followers_count": 245129,
+            "following_count": 1472,
+            "tweet_count": 27940,
+            "listed_count": 4135
+        },
+        "name": "Mayne"
+    },
+    {
+        "username": "MedeniyetiTohum",
+        "protected": false,
+        "id": "1066692982882140160",
+        "public_metrics": {
+            "followers_count": 41937,
+            "following_count": 95,
+            "tweet_count": 7673,
+            "listed_count": 75
+        },
+        "name": "Tohum Medeniyeti"
+    },
+    {
+        "username": "kameraascisi",
+        "protected": false,
+        "id": "1111774705369968646",
+        "public_metrics": {
+            "followers_count": 132886,
+            "following_count": 268,
+            "tweet_count": 17069,
+            "listed_count": 688
+        },
+        "name": "Kamera Aşçısı"
+    },
+    {
+        "username": "TrendsCognSci",
+        "protected": false,
+        "id": "245564615",
+        "public_metrics": {
+            "followers_count": 23467,
+            "following_count": 538,
+            "tweet_count": 2412,
+            "listed_count": 593
+        },
+        "name": "Trends in Cognitive Sciences"
+    },
+    {
+        "username": "SibelOktay",
+        "protected": false,
+        "id": "22586685",
+        "public_metrics": {
+            "followers_count": 22883,
+            "following_count": 1049,
+            "tweet_count": 26897,
+            "listed_count": 135
+        },
+        "name": "Sibel Oktay"
+    },
+    {
+        "username": "DigitalTrends",
+        "protected": false,
+        "id": "14763734",
+        "public_metrics": {
+            "followers_count": 2034363,
+            "following_count": 211411,
+            "tweet_count": 196077,
+            "listed_count": 13201
+        },
+        "name": "Digital Trends"
+    },
+    {
+        "username": "WIRED",
+        "protected": false,
+        "id": "1344951",
+        "public_metrics": {
+            "followers_count": 10257467,
+            "following_count": 433,
+            "tweet_count": 136022,
+            "listed_count": 89322
+        },
+        "name": "WIRED"
+    },
+    {
+        "username": "ArditiMd",
+        "protected": false,
+        "id": "1250333961982586880",
+        "public_metrics": {
+            "followers_count": 7005,
+            "following_count": 909,
+            "tweet_count": 7225,
+            "listed_count": 42
+        },
+        "name": "MosheArditiMD"
+    },
+    {
+        "username": "WriteThatPhD",
+        "protected": false,
+        "id": "3224063257",
+        "public_metrics": {
+            "followers_count": 110297,
+            "following_count": 403,
+            "tweet_count": 5177,
+            "listed_count": 810
+        },
+        "name": "Write That PhD"
+    },
+    {
+        "username": "MlleIrem",
+        "protected": false,
+        "id": "1253783506263724033",
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 232,
+            "tweet_count": 135,
+            "listed_count": 0
+        },
+        "name": "Irem D."
+    },
+    {
+        "username": "TekinDeniz_",
+        "protected": false,
+        "id": "310069028",
+        "public_metrics": {
+            "followers_count": 30842,
+            "following_count": 495,
+            "tweet_count": 125972,
+            "listed_count": 77
+        },
+        "name": "Tekin Deniz"
+    },
+    {
+        "username": "paperswithcode",
+        "protected": false,
+        "id": "1076526138736951298",
+        "public_metrics": {
+            "followers_count": 73922,
+            "following_count": 61,
+            "tweet_count": 260,
+            "listed_count": 1195
+        },
+        "name": "Papers with Code"
+    },
+    {
+        "username": "Kuzubudu",
+        "protected": false,
+        "id": "399452775",
+        "public_metrics": {
+            "followers_count": 41349,
+            "following_count": 716,
+            "tweet_count": 18885,
+            "listed_count": 150
+        },
+        "name": "Kutsi Akıllı"
+    },
+    {
+        "username": "YalcindagYasin",
+        "protected": false,
+        "id": "1478547601",
+        "public_metrics": {
+            "followers_count": 9039,
+            "following_count": 33,
+            "tweet_count": 8173,
+            "listed_count": 93
+        },
+        "name": "Yasin Yalçındağ"
+    },
+    {
+        "username": "emrahablak4",
+        "protected": false,
+        "id": "1263154773303398400",
+        "public_metrics": {
+            "followers_count": 121496,
+            "following_count": 130,
+            "tweet_count": 389,
+            "listed_count": 117
+        },
+        "name": "emrah ablak"
+    },
+    {
+        "username": "taneryilmaz_",
+        "protected": false,
+        "id": "85613606",
+        "public_metrics": {
+            "followers_count": 9489,
+            "following_count": 2173,
+            "tweet_count": 6363,
+            "listed_count": 32
+        },
+        "name": "Taner Yılmaz"
+    },
+    {
+        "username": "Neuro_Skeptic",
+        "protected": false,
+        "id": "316327930",
+        "public_metrics": {
+            "followers_count": 220086,
+            "following_count": 363,
+            "tweet_count": 40969,
+            "listed_count": 3378
+        },
+        "name": "Neuroskeptic"
+    },
+    {
+        "username": "ozguralaz",
+        "protected": false,
+        "id": "611093",
+        "public_metrics": {
+            "followers_count": 229575,
+            "following_count": 2145,
+            "tweet_count": 23582,
+            "listed_count": 549
+        },
+        "name": "Özgür Alaz ➖Anitsayac.com 2️⃣8️⃣9️⃣"
+    },
+    {
+        "username": "ulu_manitu",
+        "protected": false,
+        "id": "47312502",
+        "public_metrics": {
+            "followers_count": 17398,
+            "following_count": 1801,
+            "tweet_count": 9276,
+            "listed_count": 107
+        },
+        "name": "Karabekir Akkoyunlu"
+    },
+    {
+        "username": "DrSerdarSavas",
+        "protected": false,
+        "id": "2940950033",
+        "public_metrics": {
+            "followers_count": 157957,
+            "following_count": 92,
+            "tweet_count": 2168,
+            "listed_count": 135
+        },
+        "name": "Serdar Savaş"
+    },
+    {
+        "username": "dragundogdu",
+        "protected": false,
+        "id": "485650717",
+        "public_metrics": {
+            "followers_count": 74458,
+            "following_count": 543,
+            "tweet_count": 19320,
+            "listed_count": 354
+        },
+        "name": "Doç.Dr.Aysel Gündoğdu"
+    },
+    {
+        "username": "KemalOzfirat",
+        "protected": false,
+        "id": "558994798",
+        "public_metrics": {
+            "followers_count": 17881,
+            "following_count": 198,
+            "tweet_count": 13511,
+            "listed_count": 178
+        },
+        "name": "Kemal Ozfirat"
+    },
+    {
+        "username": "Peter_Turchin",
+        "protected": false,
+        "id": "1242788624",
+        "public_metrics": {
+            "followers_count": 30284,
+            "following_count": 182,
+            "tweet_count": 8551,
+            "listed_count": 589
+        },
+        "name": "Peter Turchin"
+    },
+    {
+        "username": "burcutepekule",
+        "protected": false,
+        "id": "807403808",
+        "public_metrics": {
+            "followers_count": 6979,
+            "following_count": 1061,
+            "tweet_count": 2346,
+            "listed_count": 30
+        },
+        "name": "Burcu Tepekule"
+    },
+    {
+        "username": "furioustoday",
+        "protected": false,
+        "id": "780289960679182336",
+        "public_metrics": {
+            "followers_count": 2224,
+            "following_count": 432,
+            "tweet_count": 14247,
+            "listed_count": 3
+        },
+        "name": "Başak"
+    },
+    {
+        "username": "umityaban",
+        "protected": true,
+        "id": "93642667",
+        "public_metrics": {
+            "followers_count": 130,
+            "following_count": 280,
+            "tweet_count": 2048,
+            "listed_count": 0
+        },
+        "name": "ümit yaban"
+    },
+    {
+        "username": "Ekremisin",
+        "protected": false,
+        "id": "1547591928",
+        "public_metrics": {
+            "followers_count": 18098,
+            "following_count": 19,
+            "tweet_count": 2890,
+            "listed_count": 66
+        },
+        "name": "Ekrem IŞIN"
+    },
+    {
+        "username": "Mhsnkrmzgl",
+        "protected": false,
+        "id": "79449595",
+        "public_metrics": {
+            "followers_count": 359797,
+            "following_count": 126,
+            "tweet_count": 990,
+            "listed_count": 472
+        },
+        "name": "Mahsun Kırmızıgül"
+    },
+    {
+        "username": "selinsevindiren",
+        "protected": false,
+        "id": "34598398",
+        "public_metrics": {
+            "followers_count": 4592,
+            "following_count": 904,
+            "tweet_count": 3124,
+            "listed_count": 22
+        },
+        "name": "Selin Kandiyoti"
+    },
+    {
+        "username": "exploreorg",
+        "protected": false,
+        "id": "20565876",
+        "public_metrics": {
+            "followers_count": 128091,
+            "following_count": 2653,
+            "tweet_count": 27547,
+            "listed_count": 743
+        },
+        "name": "explore.org"
+    },
+    {
+        "username": "ozanvural_",
+        "protected": false,
+        "id": "71231774",
+        "public_metrics": {
+            "followers_count": 15658,
+            "following_count": 943,
+            "tweet_count": 10983,
+            "listed_count": 53
+        },
+        "name": "Ozan Vural"
+    },
+    {
+        "username": "IrinaEmiNicolae",
+        "protected": false,
+        "id": "915553232734351361",
+        "public_metrics": {
+            "followers_count": 105,
+            "following_count": 343,
+            "tweet_count": 388,
+            "listed_count": 3
+        },
+        "name": "Irina-Emilia Nicolae, PhD"
+    },
+    {
+        "username": "BulentTutluoglu",
+        "protected": false,
+        "id": "338132408",
+        "public_metrics": {
+            "followers_count": 86681,
+            "following_count": 3193,
+            "tweet_count": 6472,
+            "listed_count": 143
+        },
+        "name": "Bülent Tutluoglu"
+    },
+    {
+        "username": "duypoyraz",
+        "protected": false,
+        "id": "3416367291",
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 167,
+            "tweet_count": 671,
+            "listed_count": 0
+        },
+        "name": "Duygu"
+    },
+    {
+        "username": "tayfunkaya77",
+        "protected": false,
+        "id": "227051172",
+        "public_metrics": {
+            "followers_count": 22240,
+            "following_count": 22,
+            "tweet_count": 13730,
+            "listed_count": 175
+        },
+        "name": "Tayfun Kaya"
+    },
+    {
+        "username": "natashajaques",
+        "protected": false,
+        "id": "51257255",
+        "public_metrics": {
+            "followers_count": 16007,
+            "following_count": 941,
+            "tweet_count": 1100,
+            "listed_count": 293
+        },
+        "name": "Natasha Jaques"
+    },
+    {
+        "username": "behicak",
+        "protected": false,
+        "id": "56958100",
+        "public_metrics": {
+            "followers_count": 33271,
+            "following_count": 4400,
+            "tweet_count": 3552,
+            "listed_count": 55
+        },
+        "name": "behic ak"
+    },
+    {
+        "username": "crypto_wisdom_",
+        "protected": false,
+        "id": "860560931386003458",
+        "public_metrics": {
+            "followers_count": 43301,
+            "following_count": 2208,
+            "tweet_count": 13158,
+            "listed_count": 623
+        },
+        "name": "Crypto Wisdom ®"
+    },
+    {
+        "username": "devrimstadyumu",
+        "protected": false,
+        "id": "4850645080",
+        "public_metrics": {
+            "followers_count": 49731,
+            "following_count": 710,
+            "tweet_count": 104991,
+            "listed_count": 23
+        },
+        "name": "Frank Costanza(Aşık Kileri)"
+    },
+    {
+        "username": "dincerguner",
+        "protected": false,
+        "id": "79194034",
+        "public_metrics": {
+            "followers_count": 488618,
+            "following_count": 20321,
+            "tweet_count": 161132,
+            "listed_count": 389
+        },
+        "name": "Dinçer Güner"
+    },
+    {
+        "username": "BurakAcerakis",
+        "protected": false,
+        "id": "1238917638773968900",
+        "public_metrics": {
+            "followers_count": 62068,
+            "following_count": 932,
+            "tweet_count": 9118,
+            "listed_count": 45
+        },
+        "name": "Acerakis"
+    },
+    {
+        "username": "tojetoturska",
+        "protected": false,
+        "id": "2944885109",
+        "public_metrics": {
+            "followers_count": 24619,
+            "following_count": 1264,
+            "tweet_count": 11955,
+            "listed_count": 64
+        },
+        "name": "Yugoslavya Gurusu"
+    },
+    {
+        "username": "kulturistan",
+        "protected": false,
+        "id": "2910994685",
+        "public_metrics": {
+            "followers_count": 562154,
+            "following_count": 2256,
+            "tweet_count": 68579,
+            "listed_count": 626
+        },
+        "name": "kültürİstanbuL"
+    },
+    {
+        "username": "esenol",
+        "protected": false,
+        "id": "162769970",
+        "public_metrics": {
+            "followers_count": 266918,
+            "following_count": 1223,
+            "tweet_count": 47633,
+            "listed_count": 355
+        },
+        "name": "Esin Davutoğlu Şenol"
+    },
+    {
+        "username": "pir_anna",
+        "protected": false,
+        "id": "1062863426",
+        "public_metrics": {
+            "followers_count": 38034,
+            "following_count": 243,
+            "tweet_count": 18332,
+            "listed_count": 213
+        },
+        "name": "ANNA LİST"
+    },
+    {
+        "username": "Emrah_Altindis",
+        "protected": false,
+        "id": "357949858",
+        "public_metrics": {
+            "followers_count": 135086,
+            "following_count": 1013,
+            "tweet_count": 12517,
+            "listed_count": 291
+        },
+        "name": "Emrah Altindis"
+    },
+    {
+        "username": "smutlubm",
+        "protected": false,
+        "id": "2779309156",
+        "public_metrics": {
+            "followers_count": 17754,
+            "following_count": 1577,
+            "tweet_count": 82270,
+            "listed_count": 34
+        },
+        "name": "suna the küçük kibir topu"
+    },
+    {
+        "username": "YusufYuksel01",
+        "protected": false,
+        "id": "1039092852788219915",
+        "public_metrics": {
+            "followers_count": 9097,
+            "following_count": 801,
+            "tweet_count": 10448,
+            "listed_count": 97
+        },
+        "name": "Yusuf Yuksel"
+    },
+    {
+        "username": "_wwturkiye",
+        "protected": false,
+        "id": "1058748016549654528",
+        "public_metrics": {
+            "followers_count": 61581,
+            "following_count": 15,
+            "tweet_count": 2004,
+            "listed_count": 151
+        },
+        "name": "World War Türkiye"
+    },
+    {
+        "username": "AkiNikolaidis",
+        "protected": false,
+        "id": "308272243",
+        "public_metrics": {
+            "followers_count": 2024,
+            "following_count": 1284,
+            "tweet_count": 2916,
+            "listed_count": 24
+        },
+        "name": "Aki Nikolaidis"
+    },
+    {
+        "username": "AdnannKurt",
+        "protected": false,
+        "id": "406377992",
+        "public_metrics": {
+            "followers_count": 1743,
+            "following_count": 265,
+            "tweet_count": 8288,
+            "listed_count": 29
+        },
+        "name": "Adnan Kurt"
+    },
+    {
+        "username": "mehmetesen",
+        "protected": false,
+        "id": "78508867",
+        "public_metrics": {
+            "followers_count": 56456,
+            "following_count": 1143,
+            "tweet_count": 19183,
+            "listed_count": 155
+        },
+        "name": "mehmet esen"
+    },
+    {
+        "username": "juliahahntv",
+        "protected": false,
+        "id": "198279115",
+        "public_metrics": {
+            "followers_count": 6447,
+            "following_count": 889,
+            "tweet_count": 2915,
+            "listed_count": 111
+        },
+        "name": "Julia Hahn"
+    },
+    {
+        "username": "g_christides",
+        "protected": false,
+        "id": "266193274",
+        "public_metrics": {
+            "followers_count": 9404,
+            "following_count": 1386,
+            "tweet_count": 3548,
+            "listed_count": 218
+        },
+        "name": "Giorgos Christides"
+    },
+    {
+        "username": "etimoloji",
+        "protected": false,
+        "id": "1063169700950089730",
+        "public_metrics": {
+            "followers_count": 162684,
+            "following_count": 1,
+            "tweet_count": 2179,
+            "listed_count": 218
+        },
+        "name": "Etimoloji"
+    },
+    {
+        "username": "heissenstat",
+        "protected": false,
+        "id": "2416567776",
+        "public_metrics": {
+            "followers_count": 26408,
+            "following_count": 318,
+            "tweet_count": 37940,
+            "listed_count": 447
+        },
+        "name": "Howard Eissenstat"
+    },
+    {
+        "username": "ZafearXf105",
+        "protected": false,
+        "id": "2865643673",
+        "public_metrics": {
+            "followers_count": 3956,
+            "following_count": 1184,
+            "tweet_count": 3724,
+            "listed_count": 2
+        },
+        "name": "Yol Günlükleri"
+    },
+    {
+        "username": "evrimagaci",
+        "protected": false,
+        "id": "262348793",
+        "public_metrics": {
+            "followers_count": 818676,
+            "following_count": 140,
+            "tweet_count": 49185,
+            "listed_count": 1069
+        },
+        "name": "Evrim Ağacı"
+    },
+    {
+        "username": "sagliktayz",
+        "protected": false,
+        "id": "1101528485472989186",
+        "public_metrics": {
+            "followers_count": 2321,
+            "following_count": 4862,
+            "tweet_count": 1037,
+            "listed_count": 13
+        },
+        "name": "SagliktaYZ"
+    },
+    {
+        "username": "daktilo1984",
+        "protected": false,
+        "id": "1091080531008196608",
+        "public_metrics": {
+            "followers_count": 39823,
+            "following_count": 28,
+            "tweet_count": 3364,
+            "listed_count": 137
+        },
+        "name": "Daktilo1984"
+    },
+    {
+        "username": "muhdansaglam",
+        "protected": false,
+        "id": "44862050",
+        "public_metrics": {
+            "followers_count": 32898,
+            "following_count": 927,
+            "tweet_count": 23856,
+            "listed_count": 119
+        },
+        "name": "Mühdan Sağlam"
+    },
+    {
+        "username": "BigChonis",
+        "protected": false,
+        "id": "973372274735710208",
+        "public_metrics": {
+            "followers_count": 59833,
+            "following_count": 235,
+            "tweet_count": 6530,
+            "listed_count": 1025
+        },
+        "name": "Big Chonis Trading🍄"
+    },
+    {
+        "username": "dailymaymun",
+        "protected": false,
+        "id": "1016660021755686912",
+        "public_metrics": {
+            "followers_count": 53812,
+            "following_count": 10,
+            "tweet_count": 974,
+            "listed_count": 43
+        },
+        "name": "Daily Maymun"
+    },
+    {
+        "username": "NoroBlog",
+        "protected": false,
+        "id": "2247427316",
+        "public_metrics": {
+            "followers_count": 37842,
+            "following_count": 189,
+            "tweet_count": 6258,
+            "listed_count": 184
+        },
+        "name": "NöroBlog | Sinirbilim"
+    },
+    {
+        "username": "BigCheds",
+        "protected": false,
+        "id": "129935623",
+        "public_metrics": {
+            "followers_count": 155648,
+            "following_count": 152,
+            "tweet_count": 143809,
+            "listed_count": 2619
+        },
+        "name": "Cheds"
+    },
+    {
+        "username": "sigaramcamel",
+        "protected": false,
+        "id": "2835161549",
+        "public_metrics": {
+            "followers_count": 121609,
+            "following_count": 929,
+            "tweet_count": 120172,
+            "listed_count": 150
+        },
+        "name": "Kapheros"
+    },
+    {
+        "username": "yumyyumyyum",
+        "protected": true,
+        "id": "151849963",
+        "public_metrics": {
+            "followers_count": 200,
+            "following_count": 225,
+            "tweet_count": 2666,
+            "listed_count": 0
+        },
+        "name": "Nazlı Sezer"
+    },
+    {
+        "username": "derinhisse",
+        "protected": false,
+        "id": "967543587666825216",
+        "public_metrics": {
+            "followers_count": 220359,
+            "following_count": 701,
+            "tweet_count": 14785,
+            "listed_count": 1211
+        },
+        "name": "derinhisse 🇹🇷"
+    },
+    {
+        "username": "halilbariskan",
+        "protected": false,
+        "id": "1447190358",
+        "public_metrics": {
+            "followers_count": 16802,
+            "following_count": 506,
+            "tweet_count": 7171,
+            "listed_count": 184
+        },
+        "name": "Halil Barışkan, CMT"
+    },
+    {
+        "username": "HarpCografyasi",
+        "protected": false,
+        "id": "1079139019160780800",
+        "public_metrics": {
+            "followers_count": 93212,
+            "following_count": 461,
+            "tweet_count": 17547,
+            "listed_count": 191
+        },
+        "name": "DR. SELIM ERDOGAN"
+    },
+    {
+        "username": "enquire_ai",
+        "protected": false,
+        "id": "782756713405542401",
+        "public_metrics": {
+            "followers_count": 3216,
+            "following_count": 1360,
+            "tweet_count": 1551,
+            "listed_count": 36
+        },
+        "name": "Enquire (formerly GlobalWonks)"
+    },
+    {
+        "username": "JasonMcAteer7",
+        "protected": false,
+        "id": "183139246",
+        "public_metrics": {
+            "followers_count": 74151,
+            "following_count": 713,
+            "tweet_count": 14204,
+            "listed_count": 159
+        },
+        "name": "Cem Türktekin"
+    },
+    {
+        "username": "burcuas",
+        "protected": false,
+        "id": "593075686",
+        "public_metrics": {
+            "followers_count": 115572,
+            "following_count": 2909,
+            "tweet_count": 18779,
+            "listed_count": 312
+        },
+        "name": "Burcu Karakaş"
+    },
+    {
+        "username": "elcinarabaci",
+        "protected": false,
+        "id": "1507789706",
+        "public_metrics": {
+            "followers_count": 44009,
+            "following_count": 4279,
+            "tweet_count": 96174,
+            "listed_count": 130
+        },
+        "name": "Adrenalin Arsızı"
+    },
+    {
+        "username": "siyasiposting",
+        "protected": false,
+        "id": "1128016695271067649",
+        "public_metrics": {
+            "followers_count": 173844,
+            "following_count": 0,
+            "tweet_count": 4389,
+            "listed_count": 213
+        },
+        "name": "only türk siyasi posting"
+    },
+    {
+        "username": "SDKoleksiyon",
+        "protected": false,
+        "id": "753557510133583872",
+        "public_metrics": {
+            "followers_count": 151575,
+            "following_count": 28,
+            "tweet_count": 10244,
+            "listed_count": 294
+        },
+        "name": "Savaş Dünyası Koleksiyon🎖"
+    },
+    {
+        "username": "suyorumcusu",
+        "protected": false,
+        "id": "272704840",
+        "public_metrics": {
+            "followers_count": 990395,
+            "following_count": 656,
+            "tweet_count": 10027,
+            "listed_count": 464
+        },
+        "name": "hakan demir"
+    },
+    {
+        "username": "diaspora_turk",
+        "protected": false,
+        "id": "2814837002",
+        "public_metrics": {
+            "followers_count": 177811,
+            "following_count": 515,
+            "tweet_count": 2449,
+            "listed_count": 291
+        },
+        "name": "DiasporaTürk"
+    },
+    {
+        "username": "erdilyasaroglu",
+        "protected": false,
+        "id": "36304709",
+        "public_metrics": {
+            "followers_count": 3770119,
+            "following_count": 620,
+            "tweet_count": 6375,
+            "listed_count": 1977
+        },
+        "name": "Erdil Yasaroglu"
+    },
+    {
+        "username": "Armagan_caglaya",
+        "protected": false,
+        "id": "74498362",
+        "public_metrics": {
+            "followers_count": 1392823,
+            "following_count": 1365,
+            "tweet_count": 17992,
+            "listed_count": 716
+        },
+        "name": "Armagan Çağlayan"
+    },
+    {
+        "username": "DurmusYillmaz",
+        "protected": false,
+        "id": "3062441200",
+        "public_metrics": {
+            "followers_count": 264021,
+            "following_count": 407,
+            "tweet_count": 7070,
+            "listed_count": 712
+        },
+        "name": "Durmuş Yılmaz"
+    },
+    {
+        "username": "yilmazodabasi",
+        "protected": false,
+        "id": "227516616",
+        "public_metrics": {
+            "followers_count": 124879,
+            "following_count": 478,
+            "tweet_count": 3197,
+            "listed_count": 130
+        },
+        "name": "Yılmaz Odabaşı"
+    },
+    {
+        "username": "MuratYetkin2",
+        "protected": false,
+        "id": "381944770",
+        "public_metrics": {
+            "followers_count": 340057,
+            "following_count": 998,
+            "tweet_count": 21102,
+            "listed_count": 840
+        },
+        "name": "Murat Yetkin"
+    },
+    {
+        "username": "trt2tv",
+        "protected": false,
+        "id": "822081449151131651",
+        "public_metrics": {
+            "followers_count": 221250,
+            "following_count": 25,
+            "tweet_count": 7454,
+            "listed_count": 318
+        },
+        "name": "TRT 2"
+    },
+    {
+        "username": "SputnikInt",
+        "protected": false,
+        "id": "34262462",
+        "public_metrics": {
+            "followers_count": 324853,
+            "following_count": 306,
+            "tweet_count": 176512,
+            "listed_count": 6632
+        },
+        "name": "Sputnik"
+    },
+    {
+        "username": "RT_com",
+        "protected": false,
+        "id": "64643056",
+        "public_metrics": {
+            "followers_count": 2958685,
+            "following_count": 699,
+            "tweet_count": 407664,
+            "listed_count": 20692
+        },
+        "name": "RT"
+    },
+    {
+        "username": "en_germany",
+        "protected": false,
+        "id": "21082756",
+        "public_metrics": {
+            "followers_count": 301513,
+            "following_count": 2655,
+            "tweet_count": 24085,
+            "listed_count": 639
+        },
+        "name": "All about Germany | deutschland.de"
+    },
+    {
+        "username": "OCCRP",
+        "protected": false,
+        "id": "326071624",
+        "public_metrics": {
+            "followers_count": 104281,
+            "following_count": 2021,
+            "tweet_count": 26681,
+            "listed_count": 1721
+        },
+        "name": "Organized Crime and Corruption Reporting Project"
+    },
+    {
+        "username": "Seda_Ozen",
+        "protected": false,
+        "id": "584640871",
+        "public_metrics": {
+            "followers_count": 168328,
+            "following_count": 2668,
+            "tweet_count": 58278,
+            "listed_count": 491
+        },
+        "name": "Seda Özen Bilgili"
+    },
+    {
+        "username": "vaybebune",
+        "protected": false,
+        "id": "99524076",
+        "public_metrics": {
+            "followers_count": 56111,
+            "following_count": 340,
+            "tweet_count": 32283,
+            "listed_count": 57
+        },
+        "name": "Raskolnikov"
+    },
+    {
+        "username": "mmkubilay",
+        "protected": false,
+        "id": "109686800",
+        "public_metrics": {
+            "followers_count": 173569,
+            "following_count": 702,
+            "tweet_count": 15961,
+            "listed_count": 896
+        },
+        "name": "Dr. M. Murat Kubilay"
+    },
+    {
+        "username": "LastQuake",
+        "protected": false,
+        "id": "203226820",
+        "public_metrics": {
+            "followers_count": 199068,
+            "following_count": 481,
+            "tweet_count": 108265,
+            "listed_count": 1997
+        },
+        "name": "EMSC"
+    },
+    {
+        "username": "kamerknc",
+        "protected": false,
+        "id": "529464675",
+        "public_metrics": {
+            "followers_count": 94500,
+            "following_count": 1270,
+            "tweet_count": 79508,
+            "listed_count": 511
+        },
+        "name": "Turkish Market"
+    },
+    {
+        "username": "esesci",
+        "protected": false,
+        "id": "16626982",
+        "public_metrics": {
+            "followers_count": 118086,
+            "following_count": 846,
+            "tweet_count": 47134,
+            "listed_count": 428
+        },
+        "name": "sedat kapanoğlu"
+    },
+    {
+        "username": "TakipciCengiz",
+        "protected": false,
+        "id": "1056438730351894529",
+        "public_metrics": {
+            "followers_count": 61075,
+            "following_count": 51,
+            "tweet_count": 13429,
+            "listed_count": 326
+        },
+        "name": "🤛 TAKİPÇİ 🤜"
+    },
+    {
+        "username": "business",
+        "protected": false,
+        "id": "34713362",
+        "public_metrics": {
+            "followers_count": 7695272,
+            "following_count": 1364,
+            "tweet_count": 737829,
+            "listed_count": 63795
+        },
+        "name": "Bloomberg"
+    },
+    {
+        "username": "KKAYABALI",
+        "protected": false,
+        "id": "60617130",
+        "public_metrics": {
+            "followers_count": 9596,
+            "following_count": 1782,
+            "tweet_count": 16204,
+            "listed_count": 113
+        },
+        "name": "Dr. Kıvılcım Kayabalı"
+    },
+    {
+        "username": "AhmetGunestekin",
+        "protected": false,
+        "id": "220000801",
+        "public_metrics": {
+            "followers_count": 84926,
+            "following_count": 1526,
+            "tweet_count": 8434,
+            "listed_count": 87
+        },
+        "name": "Ahmet Güneştekin☀️"
+    },
+    {
+        "username": "avserkanozturk",
+        "protected": false,
+        "id": "300128698",
+        "public_metrics": {
+            "followers_count": 19757,
+            "following_count": 391,
+            "tweet_count": 11225,
+            "listed_count": 45
+        },
+        "name": "Serkan Öztürk"
+    },
+    {
+        "username": "tokcem",
+        "protected": false,
+        "id": "78411332",
+        "public_metrics": {
+            "followers_count": 423106,
+            "following_count": 724,
+            "tweet_count": 42248,
+            "listed_count": 669
+        },
+        "name": "CEM TOKER🐬"
+    },
+    {
+        "username": "e507",
+        "protected": false,
+        "id": "63409790",
+        "public_metrics": {
+            "followers_count": 102892,
+            "following_count": 507,
+            "tweet_count": 16697,
+            "listed_count": 873
+        },
+        "name": "beş•yüz•yedi"
+    },
+    {
+        "username": "ozlemyildiz1881",
+        "protected": false,
+        "id": "281221579",
+        "public_metrics": {
+            "followers_count": 100289,
+            "following_count": 1711,
+            "tweet_count": 38494,
+            "listed_count": 201
+        },
+        "name": "Özlem Kayım Yıldız"
+    },
+    {
+        "username": "muratagirel",
+        "protected": false,
+        "id": "567215576",
+        "public_metrics": {
+            "followers_count": 464434,
+            "following_count": 715,
+            "tweet_count": 10920,
+            "listed_count": 573
+        },
+        "name": "Murat AĞIREL"
+    },
+    {
+        "username": "ahmethtakan",
+        "protected": false,
+        "id": "405784860",
+        "public_metrics": {
+            "followers_count": 82823,
+            "following_count": 114,
+            "tweet_count": 4833,
+            "listed_count": 225
+        },
+        "name": "ahmet takan"
+    },
+    {
+        "username": "muradcobanoglu",
+        "protected": false,
+        "id": "732808808",
+        "public_metrics": {
+            "followers_count": 36881,
+            "following_count": 232,
+            "tweet_count": 252372,
+            "listed_count": 153
+        },
+        "name": "Murad Çobanoğlu"
+    },
+    {
+        "username": "mustfsnmz",
+        "protected": false,
+        "id": "93216214",
+        "public_metrics": {
+            "followers_count": 307390,
+            "following_count": 791,
+            "tweet_count": 32351,
+            "listed_count": 900
+        },
+        "name": "Mustafa Sönmez"
+    },
+    {
+        "username": "Rainmaker1973",
+        "protected": false,
+        "id": "177101260",
+        "public_metrics": {
+            "followers_count": 279926,
+            "following_count": 306,
+            "tweet_count": 188301,
+            "listed_count": 2386
+        },
+        "name": "Massimo"
+    },
+    {
+        "username": "tanerozarslan",
+        "protected": false,
+        "id": "354827740",
+        "public_metrics": {
+            "followers_count": 38854,
+            "following_count": 466,
+            "tweet_count": 14072,
+            "listed_count": 280
+        },
+        "name": "Taner Ozarslan"
+    },
+    {
+        "username": "argungen",
+        "protected": false,
+        "id": "4893037708",
+        "public_metrics": {
+            "followers_count": 18426,
+            "following_count": 473,
+            "tweet_count": 6351,
+            "listed_count": 145
+        },
+        "name": "ali rıza güngen"
+    },
+    {
+        "username": "zerohedge",
+        "protected": false,
+        "id": "18856867",
+        "public_metrics": {
+            "followers_count": 1137187,
+            "following_count": 834,
+            "tweet_count": 444502,
+            "listed_count": 21669
+        },
+        "name": "zerohedge"
+    },
+    {
+        "username": "HTurkcapar",
+        "protected": false,
+        "id": "581293528",
+        "public_metrics": {
+            "followers_count": 49041,
+            "following_count": 102,
+            "tweet_count": 7668,
+            "listed_count": 84
+        },
+        "name": "M. Hakan Türkçapar"
+    },
+    {
+        "username": "drbahartezcan",
+        "protected": false,
+        "id": "615651039",
+        "public_metrics": {
+            "followers_count": 88464,
+            "following_count": 901,
+            "tweet_count": 2576,
+            "listed_count": 105
+        },
+        "name": "dr bahar tezcan"
+    },
+    {
+        "username": "bilgingokberk",
+        "protected": false,
+        "id": "92117360",
+        "public_metrics": {
+            "followers_count": 168723,
+            "following_count": 1483,
+            "tweet_count": 54134,
+            "listed_count": 356
+        },
+        "name": "Bilgin Gökberk"
+    },
+    {
+        "username": "spleendistanbuI",
+        "protected": false,
+        "id": "810424754494697472",
+        "public_metrics": {
+            "followers_count": 66615,
+            "following_count": 526,
+            "tweet_count": 31631,
+            "listed_count": 87
+        },
+        "name": "Tevbo☀️Sonnenbrand"
+    },
+    {
+        "username": "0tur41",
+        "protected": true,
+        "id": "567271504",
+        "public_metrics": {
+            "followers_count": 612,
+            "following_count": 1563,
+            "tweet_count": 19530,
+            "listed_count": 20
+        },
+        "name": "trendfollower"
+    },
+    {
+        "username": "Morripek",
+        "protected": false,
+        "id": "306384869",
+        "public_metrics": {
+            "followers_count": 202507,
+            "following_count": 308,
+            "tweet_count": 51675,
+            "listed_count": 120
+        },
+        "name": "LAN İPEK 🤦🏻‍♀️"
+    },
+    {
+        "username": "Djaimre",
+        "protected": false,
+        "id": "84821407",
+        "public_metrics": {
+            "followers_count": 17106,
+            "following_count": 1917,
+            "tweet_count": 27376,
+            "listed_count": 36
+        },
+        "name": "L'éclat de vie"
+    },
+    {
+        "username": "richardindamadi",
+        "protected": false,
+        "id": "2887541069",
+        "public_metrics": {
+            "followers_count": 19879,
+            "following_count": 572,
+            "tweet_count": 42670,
+            "listed_count": 22
+        },
+        "name": "richard’ın damadı"
+    },
+    {
+        "username": "piskiartist",
+        "protected": false,
+        "id": "188353160",
+        "public_metrics": {
+            "followers_count": 39383,
+            "following_count": 252,
+            "tweet_count": 10687,
+            "listed_count": 80
+        },
+        "name": "piskiartist"
+    },
+    {
+        "username": "esocans",
+        "protected": false,
+        "id": "2445139304",
+        "public_metrics": {
+            "followers_count": 22654,
+            "following_count": 347,
+            "tweet_count": 101550,
+            "listed_count": 20
+        },
+        "name": "esocan"
+    },
+    {
+        "username": "nadirfotograf",
+        "protected": false,
+        "id": "902291736202006533",
+        "public_metrics": {
+            "followers_count": 349952,
+            "following_count": 0,
+            "tweet_count": 4202,
+            "listed_count": 300
+        },
+        "name": "Nadir Tarihi Fotoğraflar"
+    },
+    {
+        "username": "HergunYeniBilg",
+        "protected": false,
+        "id": "477676504",
+        "public_metrics": {
+            "followers_count": 3862510,
+            "following_count": 378,
+            "tweet_count": 36070,
+            "listed_count": 1261
+        },
+        "name": "Her gün 1 Yeni Bilgi"
+    },
+    {
+        "username": "steve_hanke",
+        "protected": false,
+        "id": "863527548",
+        "public_metrics": {
+            "followers_count": 364421,
+            "following_count": 6804,
+            "tweet_count": 37994,
+            "listed_count": 2882
+        },
+        "name": "Steve Hanke"
+    },
+    {
+        "username": "umitak",
+        "protected": false,
+        "id": "94272056",
+        "public_metrics": {
+            "followers_count": 80771,
+            "following_count": 1974,
+            "tweet_count": 12280,
+            "listed_count": 571
+        },
+        "name": "Umit Akcay"
+    },
+    {
+        "username": "tashecon",
+        "protected": false,
+        "id": "719047732476948480",
+        "public_metrics": {
+            "followers_count": 57528,
+            "following_count": 364,
+            "tweet_count": 21559,
+            "listed_count": 698
+        },
+        "name": "Timothy Ash"
+    },
+    {
+        "username": "ceesvanbeek",
+        "protected": false,
+        "id": "111846663",
+        "public_metrics": {
+            "followers_count": 9221,
+            "following_count": 2862,
+            "tweet_count": 5744,
+            "listed_count": 46
+        },
+        "name": "Cees Van Beek 🇳🇱 ‏🇬🇷"
+    },
+    {
+        "username": "MoatazAssem",
+        "protected": false,
+        "id": "235928074",
+        "public_metrics": {
+            "followers_count": 746,
+            "following_count": 721,
+            "tweet_count": 1502,
+            "listed_count": 7
+        },
+        "name": "Moataz Assem"
+    },
+    {
+        "username": "TechCharts",
+        "protected": false,
+        "id": "298953617",
+        "public_metrics": {
+            "followers_count": 75537,
+            "following_count": 552,
+            "tweet_count": 19593,
+            "listed_count": 1359
+        },
+        "name": "Aksel Kibar, CMT"
+    },
+    {
+        "username": "zeynep",
+        "protected": false,
+        "id": "65375759",
+        "public_metrics": {
+            "followers_count": 478020,
+            "following_count": 790,
+            "tweet_count": 106202,
+            "listed_count": 7653
+        },
+        "name": "zeynep tufekci"
+    },
+    {
+        "username": "BULLSBEARS2016",
+        "protected": false,
+        "id": "383787710",
+        "public_metrics": {
+            "followers_count": 11565,
+            "following_count": 315,
+            "tweet_count": 37854,
+            "listed_count": 116
+        },
+        "name": "C.N. Bulls & Bears"
+    },
+    {
+        "username": "hasansoylemez",
+        "protected": false,
+        "id": "97405769",
+        "public_metrics": {
+            "followers_count": 228241,
+            "following_count": 848,
+            "tweet_count": 14999,
+            "listed_count": 239
+        },
+        "name": "hasan söylemez"
+    },
+    {
+        "username": "yerbkhan",
+        "protected": false,
+        "id": "2255694950",
+        "public_metrics": {
+            "followers_count": 8853,
+            "following_count": 238,
+            "tweet_count": 89,
+            "listed_count": 173
+        },
+        "name": "Yerb"
+    },
+    {
+        "username": "makinvestment",
+        "protected": true,
+        "id": "875411976549261312",
+        "public_metrics": {
+            "followers_count": 37605,
+            "following_count": 59,
+            "tweet_count": 7554,
+            "listed_count": 594
+        },
+        "name": "MAK"
+    },
+    {
+        "username": "Kisa_Samsun",
+        "protected": false,
+        "id": "859662363141840896",
+        "public_metrics": {
+            "followers_count": 15648,
+            "following_count": 15,
+            "tweet_count": 1732,
+            "listed_count": 240
+        },
+        "name": "Obsidian"
+    },
+    {
+        "username": "EylemCulculoglu",
+        "protected": false,
+        "id": "1693569362",
+        "public_metrics": {
+            "followers_count": 253450,
+            "following_count": 71,
+            "tweet_count": 45585,
+            "listed_count": 980
+        },
+        "name": "Eylem Cülcüloğlu"
+    },
+    {
+        "username": "dan_pantera",
+        "protected": false,
+        "id": "385162204",
+        "public_metrics": {
+            "followers_count": 114764,
+            "following_count": 206,
+            "tweet_count": 1111,
+            "listed_count": 2339
+        },
+        "name": "Dan Morehead"
+    },
+    {
+        "username": "AmrasBTC",
+        "protected": false,
+        "id": "950096181161492487",
+        "public_metrics": {
+            "followers_count": 6187,
+            "following_count": 5,
+            "tweet_count": 4210,
+            "listed_count": 139
+        },
+        "name": "Amras"
+    },
+    {
+        "username": "IKucukparlak",
+        "protected": false,
+        "id": "2147619236",
+        "public_metrics": {
+            "followers_count": 111626,
+            "following_count": 1000,
+            "tweet_count": 17303,
+            "listed_count": 224
+        },
+        "name": "İlker Küçükparlak"
+    },
+    {
+        "username": "DCGco",
+        "protected": false,
+        "id": "2803852087",
+        "public_metrics": {
+            "followers_count": 113445,
+            "following_count": 639,
+            "tweet_count": 3884,
+            "listed_count": 1822
+        },
+        "name": "Digital Currency Group"
+    },
+    {
+        "username": "blockchainekono",
+        "protected": false,
+        "id": "936880607040192514",
+        "public_metrics": {
+            "followers_count": 23218,
+            "following_count": 1317,
+            "tweet_count": 10748,
+            "listed_count": 296
+        },
+        "name": "Blockchain Ekonomisi"
+    },
+    {
+        "username": "ForbesCrypto",
+        "protected": false,
+        "id": "902282851499917312",
+        "public_metrics": {
+            "followers_count": 398409,
+            "following_count": 361,
+            "tweet_count": 12150,
+            "listed_count": 5368
+        },
+        "name": "Forbes Crypto"
+    },
+    {
+        "username": "sebschepis",
+        "protected": false,
+        "id": "942443306",
+        "public_metrics": {
+            "followers_count": 2481,
+            "following_count": 824,
+            "tweet_count": 2249,
+            "listed_count": 40
+        },
+        "name": "Sebastian Schepis 🛡"
+    },
+    {
+        "username": "Bitchainer",
+        "protected": false,
+        "id": "945353542457614336",
+        "public_metrics": {
+            "followers_count": 782,
+            "following_count": 347,
+            "tweet_count": 687,
+            "listed_count": 17
+        },
+        "name": "Bitchainer"
+    },
+    {
+        "username": "weygand_gmt",
+        "protected": false,
+        "id": "102728705",
+        "public_metrics": {
+            "followers_count": 6166,
+            "following_count": 3715,
+            "tweet_count": 15706,
+            "listed_count": 185
+        },
+        "name": "Harald Weygand"
+    },
+    {
+        "username": "iamjosephyoung",
+        "protected": false,
+        "id": "2272640503",
+        "public_metrics": {
+            "followers_count": 167036,
+            "following_count": 1800,
+            "tweet_count": 4406,
+            "listed_count": 3334
+        },
+        "name": "Joseph Young"
+    },
+    {
+        "username": "_mrjgarcia",
+        "protected": false,
+        "id": "946925444376412160",
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 77,
+            "tweet_count": 169,
+            "listed_count": 1
+        },
+        "name": "mindofjosias"
+    },
+    {
+        "username": "ClockworkAlerts",
+        "protected": false,
+        "id": "54713716",
+        "public_metrics": {
+            "followers_count": 1050,
+            "following_count": 846,
+            "tweet_count": 8610,
+            "listed_count": 46
+        },
+        "name": "The Clockwork Group"
+    },
+    {
+        "username": "onemanatatime",
+        "protected": false,
+        "id": "145947376",
+        "public_metrics": {
+            "followers_count": 66645,
+            "following_count": 972,
+            "tweet_count": 33648,
+            "listed_count": 1851
+        },
+        "name": "Alvin Moon (🌎, 🌎)"
+    },
+    {
+        "username": "nulltxnews",
+        "protected": false,
+        "id": "2509810398",
+        "public_metrics": {
+            "followers_count": 33853,
+            "following_count": 10371,
+            "tweet_count": 17556,
+            "listed_count": 1022
+        },
+        "name": "Null TX"
+    },
+    {
+        "username": "Mrhuk_",
+        "protected": false,
+        "id": "169457278",
+        "public_metrics": {
+            "followers_count": 3809,
+            "following_count": 323,
+            "tweet_count": 4430,
+            "listed_count": 45
+        },
+        "name": "🚀Mr. Huk🚀"
+    },
+    {
+        "username": "Crypto0Coins",
+        "protected": false,
+        "id": "875464082035310592",
+        "public_metrics": {
+            "followers_count": 5772,
+            "following_count": 658,
+            "tweet_count": 861,
+            "listed_count": 126
+        },
+        "name": "Crypto Coins"
+    },
+    {
+        "username": "OTC_Bitcoin",
+        "protected": false,
+        "id": "18873970",
+        "public_metrics": {
+            "followers_count": 43278,
+            "following_count": 242,
+            "tweet_count": 80448,
+            "listed_count": 899
+        },
+        "name": "$truebit ONLY in Uniswap! Bitcoin-Fund-Manager.com"
+    },
+    {
+        "username": "cryptotutor",
+        "protected": false,
+        "id": "756002408",
+        "public_metrics": {
+            "followers_count": 62598,
+            "following_count": 490,
+            "tweet_count": 6385,
+            "listed_count": 1352
+        },
+        "name": "GΞM Tutor"
+    },
+    {
+        "username": "spongebit",
+        "protected": false,
+        "id": "943163327517282309",
+        "public_metrics": {
+            "followers_count": 2816,
+            "following_count": 222,
+            "tweet_count": 309,
+            "listed_count": 56
+        },
+        "name": "Sponge Bit"
+    },
+    {
+        "username": "coinclimber",
+        "protected": false,
+        "id": "919650926700433408",
+        "public_metrics": {
+            "followers_count": 16860,
+            "following_count": 328,
+            "tweet_count": 7941,
+            "listed_count": 236
+        },
+        "name": "Coin Climber"
+    },
+    {
+        "username": "RayRedacted",
+        "protected": false,
+        "id": "17552119",
+        "public_metrics": {
+            "followers_count": 40794,
+            "following_count": 7166,
+            "tweet_count": 36690,
+            "listed_count": 602
+        },
+        "name": "Ray [REDACTED]"
+    },
+    {
+        "username": "coinkafasi",
+        "protected": false,
+        "id": "882611077393022977",
+        "public_metrics": {
+            "followers_count": 72199,
+            "following_count": 954,
+            "tweet_count": 16684,
+            "listed_count": 862
+        },
+        "name": "Coin Kafası"
+    },
+    {
+        "username": "Mechaniccrypto",
+        "protected": false,
+        "id": "796730562849501184",
+        "public_metrics": {
+            "followers_count": 24610,
+            "following_count": 510,
+            "tweet_count": 3211,
+            "listed_count": 560
+        },
+        "name": "Crypto Mechanic"
+    },
+    {
+        "username": "officialmcafee",
+        "protected": false,
+        "id": "961445378",
+        "public_metrics": {
+            "followers_count": 1155075,
+            "following_count": 13925,
+            "tweet_count": 65669,
+            "listed_count": 7105
+        },
+        "name": "John McAfee"
+    },
+    {
+        "username": "syscoin",
+        "protected": false,
+        "id": "119060937",
+        "public_metrics": {
+            "followers_count": 83431,
+            "following_count": 6494,
+            "tweet_count": 7102,
+            "listed_count": 1113
+        },
+        "name": "Syscoin"
+    },
+    {
+        "username": "CryptoBulld0g",
+        "protected": false,
+        "id": "92242838",
+        "public_metrics": {
+            "followers_count": 22959,
+            "following_count": 351,
+            "tweet_count": 6708,
+            "listed_count": 479
+        },
+        "name": "Bulldog"
+    },
+    {
+        "username": "xamanap",
+        "protected": false,
+        "id": "326226858",
+        "public_metrics": {
+            "followers_count": 75882,
+            "following_count": 924,
+            "tweet_count": 31396,
+            "listed_count": 1201
+        },
+        "name": "xaman crypto //"
+    },
+    {
+        "username": "StellarOrg",
+        "protected": false,
+        "id": "2460502890",
+        "public_metrics": {
+            "followers_count": 689130,
+            "following_count": 346,
+            "tweet_count": 4081,
+            "listed_count": 4969
+        },
+        "name": "Stellar"
+    },
+    {
+        "username": "CryptoPeterD",
+        "protected": false,
+        "id": "760890986",
+        "public_metrics": {
+            "followers_count": 4410,
+            "following_count": 480,
+            "tweet_count": 4842,
+            "listed_count": 115
+        },
+        "name": "Pete"
+    },
+    {
+        "username": "CypherTrading",
+        "protected": false,
+        "id": "925062462017327106",
+        "public_metrics": {
+            "followers_count": 910,
+            "following_count": 23,
+            "tweet_count": 266,
+            "listed_count": 21
+        },
+        "name": "Cypherpunk Trading"
+    },
+    {
+        "username": "_ErkanOz",
+        "protected": false,
+        "id": "91581387",
+        "public_metrics": {
+            "followers_count": 205400,
+            "following_count": 1846,
+            "tweet_count": 18750,
+            "listed_count": 1249
+        },
+        "name": "Erkan Öz"
+    },
+    {
+        "username": "alansilbert",
+        "protected": false,
+        "id": "53089954",
+        "public_metrics": {
+            "followers_count": 34216,
+            "following_count": 1631,
+            "tweet_count": 19717,
+            "listed_count": 892
+        },
+        "name": "Alan Silbert"
+    },
+    {
+        "username": "Crypto_GAG",
+        "protected": false,
+        "id": "923517572410150919",
+        "public_metrics": {
+            "followers_count": 7768,
+            "following_count": 128,
+            "tweet_count": 1588,
+            "listed_count": 123
+        },
+        "name": "CryptoGAG"
+    },
+    {
+        "username": "TheDLavrov",
+        "protected": false,
+        "id": "3389635079",
+        "public_metrics": {
+            "followers_count": 15164,
+            "following_count": 117,
+            "tweet_count": 7643,
+            "listed_count": 324
+        },
+        "name": "Dmitriy Lavrov"
+    },
+    {
+        "username": "AntPoolofficial",
+        "protected": false,
+        "id": "843661033076023296",
+        "public_metrics": {
+            "followers_count": 27082,
+            "following_count": 384,
+            "tweet_count": 780,
+            "listed_count": 287
+        },
+        "name": "AntPool"
+    },
+    {
+        "username": "bit_gossip",
+        "protected": false,
+        "id": "899640523329347585",
+        "public_metrics": {
+            "followers_count": 135740,
+            "following_count": 2352,
+            "tweet_count": 28674,
+            "listed_count": 1404
+        },
+        "name": "Squanch🔺"
+    },
+    {
+        "username": "JihanWu",
+        "protected": false,
+        "id": "3022775424",
+        "public_metrics": {
+            "followers_count": 116203,
+            "following_count": 593,
+            "tweet_count": 989,
+            "listed_count": 2587
+        },
+        "name": "Jihan Wu"
+    },
+    {
+        "username": "Melt_Dem",
+        "protected": false,
+        "id": "2363290915",
+        "public_metrics": {
+            "followers_count": 225136,
+            "following_count": 1759,
+            "tweet_count": 32738,
+            "listed_count": 4560
+        },
+        "name": "Meltem Demir◎rs"
+    },
+    {
+        "username": "yilmazserkan",
+        "protected": false,
+        "id": "57351099",
+        "public_metrics": {
+            "followers_count": 72857,
+            "following_count": 122,
+            "tweet_count": 2281,
+            "listed_count": 141
+        },
+        "name": "Serkan Yılmaz"
+    },
+    {
+        "username": "Bill_Gross",
+        "protected": false,
+        "id": "47539748",
+        "public_metrics": {
+            "followers_count": 241244,
+            "following_count": 1724,
+            "tweet_count": 17052,
+            "listed_count": 5548
+        },
+        "name": "Bill Gross"
+    },
+    {
+        "username": "Oggitocom",
+        "protected": false,
+        "id": "725961054388408320",
+        "public_metrics": {
+            "followers_count": 26244,
+            "following_count": 2384,
+            "tweet_count": 18772,
+            "listed_count": 117
+        },
+        "name": "Oggito"
+    },
+    {
+        "username": "sendemilaila_",
+        "protected": false,
+        "id": "3169993337",
+        "public_metrics": {
+            "followers_count": 17240,
+            "following_count": 280,
+            "tweet_count": 35898,
+            "listed_count": 34
+        },
+        "name": "leylâ aslan"
+    },
+    {
+        "username": "github",
+        "protected": false,
+        "id": "13334762",
+        "public_metrics": {
+            "followers_count": 2173882,
+            "following_count": 327,
+            "tweet_count": 6627,
+            "listed_count": 16767
+        },
+        "name": "GitHub"
+    },
+    {
+        "username": "donanimhaber",
+        "protected": false,
+        "id": "153042209",
+        "public_metrics": {
+            "followers_count": 104355,
+            "following_count": 17,
+            "tweet_count": 63449,
+            "listed_count": 499
+        },
+        "name": "DonanımHaber"
+    },
+    {
+        "username": "XryptoWolfe",
+        "protected": false,
+        "id": "118331078",
+        "public_metrics": {
+            "followers_count": 57655,
+            "following_count": 776,
+            "tweet_count": 17906,
+            "listed_count": 767
+        },
+        "name": "𝐖𝐨𝐥𝐟𝐞 🐻"
+    },
+    {
+        "username": "JulianMI2",
+        "protected": false,
+        "id": "836266048907276288",
+        "public_metrics": {
+            "followers_count": 46168,
+            "following_count": 267,
+            "tweet_count": 2702,
+            "listed_count": 1212
+        },
+        "name": "Julian Brigden"
+    },
+    {
+        "username": "RVAnalysis",
+        "protected": false,
+        "id": "774001426297126912",
+        "public_metrics": {
+            "followers_count": 16488,
+            "following_count": 73,
+            "tweet_count": 1948,
+            "listed_count": 503
+        },
+        "name": "Real Vision Research"
+    },
+    {
+        "username": "TimDraper",
+        "protected": false,
+        "id": "20884310",
+        "public_metrics": {
+            "followers_count": 213510,
+            "following_count": 2473,
+            "tweet_count": 2428,
+            "listed_count": 3633
+        },
+        "name": "Tim Draper"
+    },
+    {
+        "username": "CoinDesk",
+        "protected": false,
+        "id": "1333467482",
+        "public_metrics": {
+            "followers_count": 2310554,
+            "following_count": 1426,
+            "tweet_count": 86125,
+            "listed_count": 17814
+        },
+        "name": "CoinDesk"
+    },
+    {
+        "username": "ToneVays",
+        "protected": false,
+        "id": "2577886615",
+        "public_metrics": {
+            "followers_count": 264631,
+            "following_count": 1097,
+            "tweet_count": 23672,
+            "listed_count": 4521
+        },
+        "name": "Tone Vays (#ArrestFauci 🤡🌎)"
+    },
+    {
+        "username": "DiaryofaMadeMan",
+        "protected": false,
+        "id": "103451046",
+        "public_metrics": {
+            "followers_count": 142899,
+            "following_count": 951,
+            "tweet_count": 2430,
+            "listed_count": 2079
+        },
+        "name": "Ian Balina"
+    },
+    {
+        "username": "slush",
+        "protected": false,
+        "id": "18903809",
+        "public_metrics": {
+            "followers_count": 41582,
+            "following_count": 570,
+            "tweet_count": 3687,
+            "listed_count": 1060
+        },
+        "name": "slush 🌴🟩"
+    },
+    {
+        "username": "isatolu",
+        "protected": false,
+        "id": "101066577",
+        "public_metrics": {
+            "followers_count": 9826,
+            "following_count": 503,
+            "tweet_count": 6618,
+            "listed_count": 118
+        },
+        "name": "isa tolu"
+    },
+    {
+        "username": "SanatnTarihi",
+        "protected": false,
+        "id": "744910205041905664",
+        "public_metrics": {
+            "followers_count": 285809,
+            "following_count": 890,
+            "tweet_count": 24182,
+            "listed_count": 630
+        },
+        "name": "Sanatın Tarihi"
+    },
+    {
+        "username": "petersinguili",
+        "protected": false,
+        "id": "173149432",
+        "public_metrics": {
+            "followers_count": 19707,
+            "following_count": 18984,
+            "tweet_count": 2870,
+            "listed_count": 395
+        },
+        "name": "Peter Sin 🇸🇬 Investment Trends | Trading Blog"
+    },
+    {
+        "username": "luluyilun",
+        "protected": false,
+        "id": "18897031",
+        "public_metrics": {
+            "followers_count": 24076,
+            "following_count": 2767,
+            "tweet_count": 6690,
+            "listed_count": 650
+        },
+        "name": "Lulu Yilun Chen"
+    },
+    {
+        "username": "SantManukyan",
+        "protected": false,
+        "id": "1047804866",
+        "public_metrics": {
+            "followers_count": 561772,
+            "following_count": 5,
+            "tweet_count": 38548,
+            "listed_count": 1742
+        },
+        "name": "Şant Manukyan"
+    },
+    {
+        "username": "BitfuryGeorge",
+        "protected": false,
+        "id": "72515407",
+        "public_metrics": {
+            "followers_count": 29607,
+            "following_count": 268,
+            "tweet_count": 11736,
+            "listed_count": 745
+        },
+        "name": "George Kikvadze ⛏⚡🇸🇻🇧🇷"
+    },
+    {
+        "username": "PeterLBrandt",
+        "protected": false,
+        "id": "247857712",
+        "public_metrics": {
+            "followers_count": 588498,
+            "following_count": 668,
+            "tweet_count": 22506,
+            "listed_count": 9525
+        },
+        "name": "Peter Brandt"
+    },
+    {
+        "username": "fidelitas_lex",
+        "protected": false,
+        "id": "843831410645438469",
+        "public_metrics": {
+            "followers_count": 86912,
+            "following_count": 2459,
+            "tweet_count": 20588,
+            "listed_count": 1183
+        },
+        "name": "Fidelitas Lex"
+    },
+    {
+        "username": "Selcoin",
+        "protected": false,
+        "id": "185640900",
+        "public_metrics": {
+            "followers_count": 598152,
+            "following_count": 263,
+            "tweet_count": 29433,
+            "listed_count": 3159
+        },
+        "name": "Selcoin"
+    },
+    {
+        "username": "ismailhpolat",
+        "protected": false,
+        "id": "50143871",
+        "public_metrics": {
+            "followers_count": 51355,
+            "following_count": 5217,
+            "tweet_count": 30080,
+            "listed_count": 623
+        },
+        "name": "İsmail H. Polat"
+    },
+    {
+        "username": "AlppIsik",
+        "protected": false,
+        "id": "338971880",
+        "public_metrics": {
+            "followers_count": 95004,
+            "following_count": 430,
+            "tweet_count": 17022,
+            "listed_count": 1000
+        },
+        "name": "Alp Işık 🔺"
+    },
+    {
+        "username": "Jetwell",
+        "protected": false,
+        "id": "21744965",
+        "public_metrics": {
+            "followers_count": 27480,
+            "following_count": 1596,
+            "tweet_count": 4874,
+            "listed_count": 258
+        },
+        "name": "Cemil Şinasi Türün"
+    },
+    {
+        "username": "loopringorg",
+        "protected": false,
+        "id": "9130922",
+        "public_metrics": {
+            "followers_count": 144228,
+            "following_count": 642,
+            "tweet_count": 5126,
+            "listed_count": 1497
+        },
+        "name": "Loopring"
+    },
+    {
+        "username": "KimDotcom",
+        "protected": false,
+        "id": "611986351",
+        "public_metrics": {
+            "followers_count": 722574,
+            "following_count": 18170,
+            "tweet_count": 22321,
+            "listed_count": 6237
+        },
+        "name": "Kim Dotcom"
+    },
+    {
+        "username": "Tikidikboy",
+        "protected": true,
+        "id": "2401853455",
+        "public_metrics": {
+            "followers_count": 24629,
+            "following_count": 139,
+            "tweet_count": 24865,
+            "listed_count": 491
+        },
+        "name": "- John Wick -"
+    },
+    {
+        "username": "Ripple",
+        "protected": false,
+        "id": "1051053836",
+        "public_metrics": {
+            "followers_count": 2237706,
+            "following_count": 930,
+            "tweet_count": 7857,
+            "listed_count": 11334
+        },
+        "name": "Ripple"
+    },
+    {
+        "username": "ethereumreport",
+        "protected": false,
+        "id": "2311915106",
+        "public_metrics": {
+            "followers_count": 51234,
+            "following_count": 1951,
+            "tweet_count": 6475,
+            "listed_count": 822
+        },
+        "name": "Ethereum Report"
+    },
+    {
+        "username": "VitalikButerin",
+        "protected": false,
+        "id": "295218901",
+        "public_metrics": {
+            "followers_count": 2784312,
+            "following_count": 277,
+            "tweet_count": 16931,
+            "listed_count": 21684
+        },
+        "name": "vitalik.eth"
+    },
+    {
+        "username": "SatoshiLite",
+        "protected": false,
+        "id": "14338147",
+        "public_metrics": {
+            "followers_count": 1041774,
+            "following_count": 497,
+            "tweet_count": 15993,
+            "listed_count": 10433
+        },
+        "name": "Charlie Lee"
+    },
+    {
+        "username": "LTCFoundation",
+        "protected": false,
+        "id": "1656328279",
+        "public_metrics": {
+            "followers_count": 204137,
+            "following_count": 103,
+            "tweet_count": 2647,
+            "listed_count": 1314
+        },
+        "name": "Litecoin Foundation"
+    },
+    {
+        "username": "moolaland",
+        "protected": false,
+        "id": "712017791965077504",
+        "public_metrics": {
+            "followers_count": 7314,
+            "following_count": 385,
+            "tweet_count": 18405,
+            "listed_count": 178
+        },
+        "name": "mitta Ƀ"
+    },
+    {
+        "username": "AntMwah",
+        "protected": false,
+        "id": "3978413296",
+        "public_metrics": {
+            "followers_count": 5788,
+            "following_count": 49,
+            "tweet_count": 10589,
+            "listed_count": 118
+        },
+        "name": "AntMwah"
+    },
+    {
+        "username": "el33th4xor",
+        "protected": false,
+        "id": "399412477",
+        "public_metrics": {
+            "followers_count": 198944,
+            "following_count": 2142,
+            "tweet_count": 32825,
+            "listed_count": 3420
+        },
+        "name": "Emin Gün Sirer🔺"
+    },
+    {
+        "username": "Cointelegraph",
+        "protected": false,
+        "id": "2207129125",
+        "public_metrics": {
+            "followers_count": 1411767,
+            "following_count": 688,
+            "tweet_count": 67942,
+            "listed_count": 11322
+        },
+        "name": "Cointelegraph"
+    },
+    {
+        "username": "NicTrades",
+        "protected": false,
+        "id": "126717954",
+        "public_metrics": {
+            "followers_count": 101703,
+            "following_count": 4414,
+            "tweet_count": 96668,
+            "listed_count": 3177
+        },
+        "name": "Nicola Duke"
+    },
+    {
+        "username": "TansuYegen",
+        "protected": false,
+        "id": "94543804",
+        "public_metrics": {
+            "followers_count": 454510,
+            "following_count": 937,
+            "tweet_count": 26396,
+            "listed_count": 1025
+        },
+        "name": "Tansu YEĞEN"
+    },
+    {
+        "username": "lordsinov",
+        "protected": false,
+        "id": "112289834",
+        "public_metrics": {
+            "followers_count": 614020,
+            "following_count": 638,
+            "tweet_count": 63660,
+            "listed_count": 968
+        },
+        "name": "Con Sinov"
+    },
+    {
+        "username": "elonmusk",
+        "protected": false,
+        "id": "44196397",
+        "public_metrics": {
+            "followers_count": 64309603,
+            "following_count": 105,
+            "tweet_count": 16053,
+            "listed_count": 81380
+        },
+        "name": "Elon Musk"
+    },
+    {
+        "username": "bbands",
+        "protected": false,
+        "id": "54675700",
+        "public_metrics": {
+            "followers_count": 201907,
+            "following_count": 589,
+            "tweet_count": 7394,
+            "listed_count": 2739
+        },
+        "name": "John Bollinger"
+    },
+    {
+        "username": "ErikVoorhees",
+        "protected": false,
+        "id": "61417559",
+        "public_metrics": {
+            "followers_count": 551073,
+            "following_count": 3922,
+            "tweet_count": 22781,
+            "listed_count": 7542
+        },
+        "name": "Erik Voorhees"
+    },
+    {
+        "username": "rogerkver",
+        "protected": false,
+        "id": "176758255",
+        "public_metrics": {
+            "followers_count": 737606,
+            "following_count": 1009,
+            "tweet_count": 3786,
+            "listed_count": 8339
+        },
+        "name": "Roger Ver"
+    },
+    {
+        "username": "SonerCanko",
+        "protected": false,
+        "id": "49107263",
+        "public_metrics": {
+            "followers_count": 28742,
+            "following_count": 1035,
+            "tweet_count": 1702,
+            "listed_count": 179
+        },
+        "name": "Soner CANKO"
+    },
+    {
+        "username": "uzmancoin",
+        "protected": false,
+        "id": "700402738434281472",
+        "public_metrics": {
+            "followers_count": 236110,
+            "following_count": 528,
+            "tweet_count": 13675,
+            "listed_count": 1406
+        },
+        "name": "Uzmancoin"
+    },
+    {
+        "username": "serbiatourism",
+        "protected": false,
+        "id": "201208124",
+        "public_metrics": {
+            "followers_count": 91439,
+            "following_count": 920,
+            "tweet_count": 4290,
+            "listed_count": 342
+        },
+        "name": "Serbia Travel"
+    },
+    {
+        "username": "TwoSignal12",
+        "protected": false,
+        "id": "862032985243226113",
+        "public_metrics": {
+            "followers_count": 1676,
+            "following_count": 78,
+            "tweet_count": 567,
+            "listed_count": 13
+        },
+        "name": "TwoSignal12"
+    },
+    {
+        "username": "tradingview",
+        "protected": false,
+        "id": "373457750",
+        "public_metrics": {
+            "followers_count": 344097,
+            "following_count": 3716,
+            "tweet_count": 150987,
+            "listed_count": 2883
+        },
+        "name": "TradingView"
+    },
+    {
+        "username": "TradingViewAlt",
+        "protected": false,
+        "id": "2461556142",
+        "public_metrics": {
+            "followers_count": 27823,
+            "following_count": 4,
+            "tweet_count": 1507378,
+            "listed_count": 587
+        },
+        "name": "TradingView Intern"
+    },
+    {
+        "username": "FOY_EFG",
+        "protected": false,
+        "id": "849340692832956417",
+        "public_metrics": {
+            "followers_count": 35267,
+            "following_count": 472,
+            "tweet_count": 8853,
+            "listed_count": 242
+        },
+        "name": "Finansal Okur Yazar"
+    },
+    {
+        "username": "spectatorindex",
+        "protected": false,
+        "id": "1626294277",
+        "public_metrics": {
+            "followers_count": 1891532,
+            "following_count": 0,
+            "tweet_count": 8278,
+            "listed_count": 11091
+        },
+        "name": "The Spectator Index"
+    },
+    {
+        "username": "TechCrunch",
+        "protected": false,
+        "id": "816653",
+        "public_metrics": {
+            "followers_count": 10158710,
+            "following_count": 971,
+            "tweet_count": 231625,
+            "listed_count": 108714
+        },
+        "name": "TechCrunch"
+    },
+    {
+        "username": "MatriksHaber",
+        "protected": false,
+        "id": "362073939",
+        "public_metrics": {
+            "followers_count": 144546,
+            "following_count": 325,
+            "tweet_count": 46494,
+            "listed_count": 750
+        },
+        "name": "Matriks Haber"
+    },
+    {
+        "username": "onurgozupek",
+        "protected": false,
+        "id": "91976959",
+        "public_metrics": {
+            "followers_count": 19523,
+            "following_count": 454,
+            "tweet_count": 33246,
+            "listed_count": 314
+        },
+        "name": "Onur 🏡👨🏻‍💻"
+    },
+    {
+        "username": "CoinMarketCap",
+        "protected": false,
+        "id": "2260491445",
+        "public_metrics": {
+            "followers_count": 3617316,
+            "following_count": 1852,
+            "tweet_count": 15169,
+            "listed_count": 12395
+        },
+        "name": "CoinMarketCap"
+    },
+    {
+        "username": "tr_tradingview",
+        "protected": false,
+        "id": "763018004129058816",
+        "public_metrics": {
+            "followers_count": 36329,
+            "following_count": 793,
+            "tweet_count": 47690,
+            "listed_count": 221
+        },
+        "name": "TradingView Türkiye 🇹🇷"
+    },
+    {
+        "username": "NfrslHaber",
+        "protected": false,
+        "id": "3897442943",
+        "public_metrics": {
+            "followers_count": 10556,
+            "following_count": 17,
+            "tweet_count": 432,
+            "listed_count": 91
+        },
+        "name": "NfrsL  Haber"
+    },
+    {
+        "username": "KediAnalizleri",
+        "protected": false,
+        "id": "827242323180417026",
+        "public_metrics": {
+            "followers_count": 1781,
+            "following_count": 21,
+            "tweet_count": 1994,
+            "listed_count": 9
+        },
+        "name": "Kedi Analizleri"
+    },
+    {
+        "username": "ewforecast",
+        "protected": false,
+        "id": "173203697",
+        "public_metrics": {
+            "followers_count": 29914,
+            "following_count": 94,
+            "tweet_count": 9114,
+            "listed_count": 477
+        },
+        "name": "Elliott Wave Service"
+    },
+    {
+        "username": "mserdark",
+        "protected": false,
+        "id": "15263572",
+        "public_metrics": {
+            "followers_count": 1355067,
+            "following_count": 1039,
+            "tweet_count": 62736,
+            "listed_count": 2049
+        },
+        "name": "M. Serdar Kuzuloğlu"
+    },
+    {
+        "username": "osmanaltintas",
+        "protected": false,
+        "id": "106523528",
+        "public_metrics": {
+            "followers_count": 45787,
+            "following_count": 94,
+            "tweet_count": 14434,
+            "listed_count": 323
+        },
+        "name": "OSMAN ALTINTAŞ"
+    },
+    {
+        "username": "neuroraf",
+        "protected": false,
+        "id": "405674870",
+        "public_metrics": {
+            "followers_count": 3498,
+            "following_count": 1780,
+            "tweet_count": 17567,
+            "listed_count": 167
+        },
+        "name": "Raphael Béné"
+    },
+    {
+        "username": "yusufkutbayy",
+        "protected": false,
+        "id": "2361094087",
+        "public_metrics": {
+            "followers_count": 38115,
+            "following_count": 49,
+            "tweet_count": 47,
+            "listed_count": 184
+        },
+        "name": "Yusuf Kutbay"
+    },
+    {
+        "username": "matematikselorg",
+        "protected": false,
+        "id": "713696844606545920",
+        "public_metrics": {
+            "followers_count": 83027,
+            "following_count": 135,
+            "tweet_count": 12867,
+            "listed_count": 208
+        },
+        "name": "Matematiksel"
+    },
+    {
+        "username": "TuncayTursucu",
+        "protected": false,
+        "id": "864765082512838657",
+        "public_metrics": {
+            "followers_count": 227739,
+            "following_count": 202,
+            "tweet_count": 8455,
+            "listed_count": 1316
+        },
+        "name": "Tuncay Turşucu"
+    },
+    {
+        "username": "futurism",
+        "protected": false,
+        "id": "2557446343",
+        "public_metrics": {
+            "followers_count": 226509,
+            "following_count": 20,
+            "tweet_count": 42322,
+            "listed_count": 3915
+        },
+        "name": "Futurism"
+    },
+    {
+        "username": "islemodasi",
+        "protected": false,
+        "id": "724858311422648324",
+        "public_metrics": {
+            "followers_count": 4958,
+            "following_count": 17,
+            "tweet_count": 9571,
+            "listed_count": 51
+        },
+        "name": "Ahmet S. Ozturk"
+    },
+    {
+        "username": "semsiyeanaliz",
+        "protected": false,
+        "id": "2484735801",
+        "public_metrics": {
+            "followers_count": 15963,
+            "following_count": 395,
+            "tweet_count": 1685,
+            "listed_count": 98
+        },
+        "name": "Selçuk..."
+    },
+    {
+        "username": "erdl1971",
+        "protected": false,
+        "id": "2398459994",
+        "public_metrics": {
+            "followers_count": 70856,
+            "following_count": 1066,
+            "tweet_count": 4146,
+            "listed_count": 407
+        },
+        "name": "ERD!L"
+    },
+    {
+        "username": "GizmenNalbantli",
+        "protected": false,
+        "id": "3328998556",
+        "public_metrics": {
+            "followers_count": 36129,
+            "following_count": 60,
+            "tweet_count": 3703,
+            "listed_count": 313
+        },
+        "name": "Gizmen Nalbantlı"
+    },
+    {
+        "username": "OpenBCI",
+        "protected": false,
+        "id": "1886909492",
+        "public_metrics": {
+            "followers_count": 17634,
+            "following_count": 1708,
+            "tweet_count": 2743,
+            "listed_count": 528
+        },
+        "name": "OpenBCI"
+    },
+    {
+        "username": "NeuroTechX",
+        "protected": false,
+        "id": "3384328197",
+        "public_metrics": {
+            "followers_count": 6897,
+            "following_count": 1643,
+            "tweet_count": 3065,
+            "listed_count": 210
+        },
+        "name": "NeuroTechX"
+    },
+    {
+        "username": "bncih2020",
+        "protected": false,
+        "id": "2841104997",
+        "public_metrics": {
+            "followers_count": 403,
+            "following_count": 63,
+            "tweet_count": 405,
+            "listed_count": 17
+        },
+        "name": "BNCI Horizon 2020"
+    },
+    {
+        "username": "mark_wronk",
+        "protected": false,
+        "id": "709636660305104896",
+        "public_metrics": {
+            "followers_count": 243,
+            "following_count": 94,
+            "tweet_count": 89,
+            "listed_count": 6
+        },
+        "name": "Mark Wronkiewicz"
+    },
+    {
+        "username": "analogist_net",
+        "protected": false,
+        "id": "2497408471",
+        "public_metrics": {
+            "followers_count": 1126,
+            "following_count": 679,
+            "tweet_count": 1794,
+            "listed_count": 31
+        },
+        "name": "James Wu"
+    },
+    {
+        "username": "ademayan66",
+        "protected": false,
+        "id": "406361220",
+        "public_metrics": {
+            "followers_count": 220400,
+            "following_count": 382,
+            "tweet_count": 39076,
+            "listed_count": 1432
+        },
+        "name": "Adem Ayan"
+    },
+    {
+        "username": "yatirgitsin",
+        "protected": false,
+        "id": "2455150429",
+        "public_metrics": {
+            "followers_count": 23389,
+            "following_count": 17,
+            "tweet_count": 12113,
+            "listed_count": 188
+        },
+        "name": "Cihan Ulaş"
+    },
+    {
+        "username": "aysenurdogan88",
+        "protected": false,
+        "id": "1452403374",
+        "public_metrics": {
+            "followers_count": 5833,
+            "following_count": 225,
+            "tweet_count": 4788,
+            "listed_count": 51
+        },
+        "name": "AysenurDogan"
+    },
+    {
+        "username": "buffetintorunu",
+        "protected": true,
+        "id": "860539084946780160",
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 10,
+            "tweet_count": 704,
+            "listed_count": 1
+        },
+        "name": "Buffetintorunu"
+    },
+    {
+        "username": "ProfDemirtas",
+        "protected": false,
+        "id": "276799677",
+        "public_metrics": {
+            "followers_count": 2848413,
+            "following_count": 887,
+            "tweet_count": 23363,
+            "listed_count": 3042
+        },
+        "name": "Özgür Demirtaş"
+    },
+    {
+        "username": "temelanalizci",
+        "protected": false,
+        "id": "2831153259",
+        "public_metrics": {
+            "followers_count": 74431,
+            "following_count": 205,
+            "tweet_count": 16146,
+            "listed_count": 674
+        },
+        "name": "Murat Bekar"
+    },
+    {
+        "username": "winingtrader",
+        "protected": false,
+        "id": "519797151",
+        "public_metrics": {
+            "followers_count": 28384,
+            "following_count": 193,
+            "tweet_count": 33684,
+            "listed_count": 289
+        },
+        "name": "WinningTrader"
+    },
+    {
+        "username": "bigborsa",
+        "protected": false,
+        "id": "817822613846327296",
+        "public_metrics": {
+            "followers_count": 9925,
+            "following_count": 654,
+            "tweet_count": 259,
+            "listed_count": 81
+        },
+        "name": "@bigborsa"
+    },
+    {
+        "username": "Halil_BUHUR",
+        "protected": false,
+        "id": "370031741",
+        "public_metrics": {
+            "followers_count": 133560,
+            "following_count": 95,
+            "tweet_count": 48723,
+            "listed_count": 1141
+        },
+        "name": "Halil BUHUR"
+    },
+    {
+        "username": "BorsaLab",
+        "protected": false,
+        "id": "845667496912965632",
+        "public_metrics": {
+            "followers_count": 26860,
+            "following_count": 276,
+            "tweet_count": 13631,
+            "listed_count": 251
+        },
+        "name": "Borsa Lab"
+    },
+    {
+        "username": "arifcoskun05",
+        "protected": false,
+        "id": "3255556330",
+        "public_metrics": {
+            "followers_count": 168469,
+            "following_count": 450,
+            "tweet_count": 20508,
+            "listed_count": 1145
+        },
+        "name": "AlgoritmArif"
+    },
+    {
+        "username": "kivancozbilgic",
+        "protected": false,
+        "id": "733989240665694208",
+        "public_metrics": {
+            "followers_count": 211392,
+            "following_count": 578,
+            "tweet_count": 32603,
+            "listed_count": 1579
+        },
+        "name": "Kıvanç Özbilgiç"
+    },
+    {
+        "username": "Eksenfx",
+        "protected": false,
+        "id": "291086170",
+        "public_metrics": {
+            "followers_count": 40107,
+            "following_count": 109,
+            "tweet_count": 6760,
+            "listed_count": 315
+        },
+        "name": "İbrahim Mert Şahin"
+    },
+    {
+        "username": "borsacibaba",
+        "protected": false,
+        "id": "3066080608",
+        "public_metrics": {
+            "followers_count": 135547,
+            "following_count": 180,
+            "tweet_count": 34653,
+            "listed_count": 864
+        },
+        "name": "borsacıbaba 🇹🇷"
+    },
+    {
+        "username": "AntonyWelfare",
+        "protected": false,
+        "id": "127807046",
+        "public_metrics": {
+            "followers_count": 3930,
+            "following_count": 4832,
+            "tweet_count": 25584,
+            "listed_count": 426
+        },
+        "name": "Antony Welfare"
+    },
+    {
+        "username": "IEEEBrain",
+        "protected": false,
+        "id": "4899833408",
+        "public_metrics": {
+            "followers_count": 5939,
+            "following_count": 1614,
+            "tweet_count": 3263,
+            "listed_count": 117
+        },
+        "name": "IEEE Brain"
+    },
+    {
+        "username": "wef",
+        "protected": false,
+        "id": "5120691",
+        "public_metrics": {
+            "followers_count": 4048771,
+            "following_count": 566,
+            "tweet_count": 168174,
+            "listed_count": 27164
+        },
+        "name": "World Economic Forum"
+    },
+    {
+        "username": "lucas_c_parra",
+        "protected": false,
+        "id": "2696019902",
+        "public_metrics": {
+            "followers_count": 1129,
+            "following_count": 129,
+            "tweet_count": 672,
+            "listed_count": 17
+        },
+        "name": "Lucas C Parra"
+    },
+    {
+        "username": "DH_Altin",
+        "protected": false,
+        "id": "387772904",
+        "public_metrics": {
+            "followers_count": 6025,
+            "following_count": 1046,
+            "tweet_count": 33210,
+            "listed_count": 75
+        },
+        "name": "Semih ⭐️⭐️⭐️"
+    },
+    {
+        "username": "RichardHaass",
+        "protected": false,
+        "id": "195826487",
+        "public_metrics": {
+            "followers_count": 213280,
+            "following_count": 1019,
+            "tweet_count": 8034,
+            "listed_count": 2758
+        },
+        "name": "Richard N. Haass"
+    },
+    {
+        "username": "WashingtonPoint",
+        "protected": false,
+        "id": "25937737",
+        "public_metrics": {
+            "followers_count": 137962,
+            "following_count": 2274,
+            "tweet_count": 97056,
+            "listed_count": 1507
+        },
+        "name": "ilhan tanir"
+    },
+    {
+        "username": "buraksaltoglu",
+        "protected": false,
+        "id": "215591478",
+        "public_metrics": {
+            "followers_count": 22132,
+            "following_count": 1519,
+            "tweet_count": 15701,
+            "listed_count": 247
+        },
+        "name": "burak saltoglu"
+    },
+    {
+        "username": "MeteAtature",
+        "protected": false,
+        "id": "1085563848",
+        "public_metrics": {
+            "followers_count": 215106,
+            "following_count": 1884,
+            "tweet_count": 12213,
+            "listed_count": 432
+        },
+        "name": "Mete Atature"
+    },
+    {
+        "username": "SALT_Online",
+        "protected": false,
+        "id": "256001151",
+        "public_metrics": {
+            "followers_count": 258029,
+            "following_count": 595,
+            "tweet_count": 9560,
+            "listed_count": 482
+        },
+        "name": "SALT Online"
+    },
+    {
+        "username": "hamdiulukaya",
+        "protected": false,
+        "id": "230328306",
+        "public_metrics": {
+            "followers_count": 57128,
+            "following_count": 382,
+            "tweet_count": 1616,
+            "listed_count": 336
+        },
+        "name": "Hamdi Ulukaya"
+    },
+    {
+        "username": "NASASolarSystem",
+        "protected": false,
+        "id": "15165493",
+        "public_metrics": {
+            "followers_count": 2042614,
+            "following_count": 437,
+            "tweet_count": 5351,
+            "listed_count": 11960
+        },
+        "name": "NASA Solar System"
+    },
+    {
+        "username": "bilimfili",
+        "protected": false,
+        "id": "2823800645",
+        "public_metrics": {
+            "followers_count": 128455,
+            "following_count": 60,
+            "tweet_count": 18419,
+            "listed_count": 451
+        },
+        "name": "BilimFili"
+    },
+    {
+        "username": "Bilim_Akademisi",
+        "protected": false,
+        "id": "759487206",
+        "public_metrics": {
+            "followers_count": 518919,
+            "following_count": 40,
+            "tweet_count": 2142,
+            "listed_count": 294
+        },
+        "name": "Bilim Akademisi"
+    },
+    {
+        "username": "jess_weixler",
+        "protected": false,
+        "id": "855720408",
+        "public_metrics": {
+            "followers_count": 5453,
+            "following_count": 593,
+            "tweet_count": 2919,
+            "listed_count": 83
+        },
+        "name": "Jess Weixler"
+    },
+    {
+        "username": "ILBERORTAYLIGSU",
+        "protected": false,
+        "id": "295674527",
+        "public_metrics": {
+            "followers_count": 3460527,
+            "following_count": 4,
+            "tweet_count": 3143,
+            "listed_count": 1188
+        },
+        "name": "İlber Ortaylı"
+    },
+    {
+        "username": "Nick_Ashdown",
+        "protected": false,
+        "id": "370331473",
+        "public_metrics": {
+            "followers_count": 32891,
+            "following_count": 4794,
+            "tweet_count": 42616,
+            "listed_count": 426
+        },
+        "name": "Nick Ashdown"
+    },
+    {
+        "username": "jpmorgan",
+        "protected": false,
+        "id": "1155522630",
+        "public_metrics": {
+            "followers_count": 614348,
+            "following_count": 48,
+            "tweet_count": 7711,
+            "listed_count": 3814
+        },
+        "name": "J.P. Morgan"
+    },
+    {
+        "username": "UBS",
+        "protected": false,
+        "id": "38237581",
+        "public_metrics": {
+            "followers_count": 521126,
+            "following_count": 88,
+            "tweet_count": 6119,
+            "listed_count": 2466
+        },
+        "name": "UBS"
+    },
+    {
+        "username": "DeutscheBank",
+        "protected": false,
+        "id": "41330603",
+        "public_metrics": {
+            "followers_count": 674184,
+            "following_count": 14,
+            "tweet_count": 19267,
+            "listed_count": 0
+        },
+        "name": "Deutsche Bank"
+    },
+    {
+        "username": "MorganStanley",
+        "protected": false,
+        "id": "426159377",
+        "public_metrics": {
+            "followers_count": 620079,
+            "following_count": 225,
+            "tweet_count": 10715,
+            "listed_count": 4118
+        },
+        "name": "Morgan Stanley"
+    },
+    {
+        "username": "CreditSuisse",
+        "protected": false,
+        "id": "84281104",
+        "public_metrics": {
+            "followers_count": 363350,
+            "following_count": 681,
+            "tweet_count": 8190,
+            "listed_count": 2481
+        },
+        "name": "Credit Suisse"
+    },
+    {
+        "username": "SPBASS1",
+        "protected": false,
+        "id": "36098873",
+        "public_metrics": {
+            "followers_count": 1545,
+            "following_count": 186,
+            "tweet_count": 43339,
+            "listed_count": 51
+        },
+        "name": "Simon Bulgacs"
+    },
+    {
+        "username": "evanderburg",
+        "protected": false,
+        "id": "16309969",
+        "public_metrics": {
+            "followers_count": 52965,
+            "following_count": 146,
+            "tweet_count": 536012,
+            "listed_count": 4282
+        },
+        "name": "Eric Vanderburg"
+    },
+    {
+        "username": "dw_turkce",
+        "protected": false,
+        "id": "61020403",
+        "public_metrics": {
+            "followers_count": 842182,
+            "following_count": 131,
+            "tweet_count": 127718,
+            "listed_count": 2492
+        },
+        "name": "DW Türkçe"
+    },
+    {
+        "username": "mariachait",
+        "protected": false,
+        "id": "2272154466",
+        "public_metrics": {
+            "followers_count": 1823,
+            "following_count": 606,
+            "tweet_count": 1777,
+            "listed_count": 23
+        },
+        "name": "Maria Chait (she/her)"
+    },
+    {
+        "username": "shiftdeletenet",
+        "protected": false,
+        "id": "28332200",
+        "public_metrics": {
+            "followers_count": 981188,
+            "following_count": 11,
+            "tweet_count": 96564,
+            "listed_count": 859
+        },
+        "name": "ShiftDelete.Net"
+    },
+    {
+        "username": "webrazzi",
+        "protected": false,
+        "id": "14250331",
+        "public_metrics": {
+            "followers_count": 509167,
+            "following_count": 27,
+            "tweet_count": 47701,
+            "listed_count": 1290
+        },
+        "name": "Webrazzi"
+    },
+    {
+        "username": "ErkinSahinoz",
+        "protected": false,
+        "id": "367866050",
+        "public_metrics": {
+            "followers_count": 276223,
+            "following_count": 6925,
+            "tweet_count": 28986,
+            "listed_count": 1288
+        },
+        "name": "Erkin Şahinöz"
+    },
+    {
+        "username": "OtomobilSayfasi",
+        "protected": false,
+        "id": "830431008",
+        "public_metrics": {
+            "followers_count": 3904,
+            "following_count": 6,
+            "tweet_count": 17286,
+            "listed_count": 19
+        },
+        "name": "Otomobil Sayfası"
+    },
+    {
+        "username": "alphanmanas",
+        "protected": false,
+        "id": "26745318",
+        "public_metrics": {
+            "followers_count": 121055,
+            "following_count": 1822,
+            "tweet_count": 14658,
+            "listed_count": 579
+        },
+        "name": "Alphan Manas"
+    },
+    {
+        "username": "SinaAfra",
+        "protected": false,
+        "id": "5203141",
+        "public_metrics": {
+            "followers_count": 415031,
+            "following_count": 973,
+            "tweet_count": 22009,
+            "listed_count": 617
+        },
+        "name": "Sina Afra"
+    },
+    {
+        "username": "AFP",
+        "protected": false,
+        "id": "380648579",
+        "public_metrics": {
+            "followers_count": 2087029,
+            "following_count": 607,
+            "tweet_count": 281095,
+            "listed_count": 24193
+        },
+        "name": "AFP News Agency"
+    },
+    {
+        "username": "sputnik_TR",
+        "protected": false,
+        "id": "424893128",
+        "public_metrics": {
+            "followers_count": 1060341,
+            "following_count": 18,
+            "tweet_count": 424448,
+            "listed_count": 2513
+        },
+        "name": "Sputnik Türkiye"
+    },
+    {
+        "username": "analiz_strfs",
+        "protected": false,
+        "id": "1068528038",
+        "public_metrics": {
+            "followers_count": 7466,
+            "following_count": 4,
+            "tweet_count": 2868,
+            "listed_count": 73
+        },
+        "name": "STRFS"
+    },
+    {
+        "username": "munihS",
+        "protected": false,
+        "id": "507839059",
+        "public_metrics": {
+            "followers_count": 1399,
+            "following_count": 389,
+            "tweet_count": 4826,
+            "listed_count": 16
+        },
+        "name": "Mustafa"
+    },
+    {
+        "username": "dianalucaci",
+        "protected": false,
+        "id": "15029529",
+        "public_metrics": {
+            "followers_count": 2348,
+            "following_count": 1357,
+            "tweet_count": 2421,
+            "listed_count": 128
+        },
+        "name": "Diana Lucaci"
+    },
+    {
+        "username": "WileyNeuro",
+        "protected": false,
+        "id": "338240032",
+        "public_metrics": {
+            "followers_count": 141613,
+            "following_count": 984,
+            "tweet_count": 7353,
+            "listed_count": 2255
+        },
+        "name": "Wiley Neuro"
+    },
+    {
+        "username": "NeuromarketNews",
+        "protected": false,
+        "id": "227805414",
+        "public_metrics": {
+            "followers_count": 5527,
+            "following_count": 11,
+            "tweet_count": 688,
+            "listed_count": 137
+        },
+        "name": "Neuromarketing"
+    },
+    {
+        "username": "openculture",
+        "protected": false,
+        "id": "19826509",
+        "public_metrics": {
+            "followers_count": 446225,
+            "following_count": 1024,
+            "tweet_count": 86807,
+            "listed_count": 12430
+        },
+        "name": "Open Culture"
+    },
+    {
+        "username": "CanPhD",
+        "protected": false,
+        "id": "216086512",
+        "public_metrics": {
+            "followers_count": 5684,
+            "following_count": 175,
+            "tweet_count": 34805,
+            "listed_count": 87
+        },
+        "name": "Ali Timuçin ALP"
+    },
+    {
+        "username": "qnbfinansinvest",
+        "protected": false,
+        "id": "52344537",
+        "public_metrics": {
+            "followers_count": 20945,
+            "following_count": 5,
+            "tweet_count": 25645,
+            "listed_count": 168
+        },
+        "name": "QNB Finansinvest"
+    },
+    {
+        "username": "OyakYatirim",
+        "protected": false,
+        "id": "133709774",
+        "public_metrics": {
+            "followers_count": 50747,
+            "following_count": 8,
+            "tweet_count": 35089,
+            "listed_count": 303
+        },
+        "name": "OYAK Yatırım"
+    },
+    {
+        "username": "MeksaYatirim",
+        "protected": false,
+        "id": "282575834",
+        "public_metrics": {
+            "followers_count": 32421,
+            "following_count": 13,
+            "tweet_count": 35997,
+            "listed_count": 244
+        },
+        "name": "Meksa Yatırım"
+    },
+    {
+        "username": "FrontNeurosci",
+        "protected": false,
+        "id": "397306055",
+        "public_metrics": {
+            "followers_count": 46036,
+            "following_count": 2903,
+            "tweet_count": 29087,
+            "listed_count": 821
+        },
+        "name": "Frontiers in Neuroscience"
+    },
+    {
+        "username": "for_a_few_quant",
+        "protected": false,
+        "id": "28775482",
+        "public_metrics": {
+            "followers_count": 1562,
+            "following_count": 996,
+            "tweet_count": 2308,
+            "listed_count": 129
+        },
+        "name": "Cem Sengezer INxJ-A #moneyball #quant #blackswan"
+    },
+    {
+        "username": "fotibenlisoy",
+        "protected": false,
+        "id": "411769677",
+        "public_metrics": {
+            "followers_count": 26384,
+            "following_count": 1903,
+            "tweet_count": 21234,
+            "listed_count": 106
+        },
+        "name": "Foti Benlisoy"
+    },
+    {
+        "username": "finansanalizci",
+        "protected": false,
+        "id": "572547630",
+        "public_metrics": {
+            "followers_count": 11294,
+            "following_count": 421,
+            "tweet_count": 663,
+            "listed_count": 83
+        },
+        "name": "Finans Analiz"
+    },
+    {
+        "username": "ebolgun",
+        "protected": false,
+        "id": "101840667",
+        "public_metrics": {
+            "followers_count": 34057,
+            "following_count": 819,
+            "tweet_count": 51570,
+            "listed_count": 267
+        },
+        "name": "EVREN BOLGÜN"
+    },
+    {
+        "username": "muratsagman",
+        "protected": false,
+        "id": "362953863",
+        "public_metrics": {
+            "followers_count": 173416,
+            "following_count": 1728,
+            "tweet_count": 8336,
+            "listed_count": 808
+        },
+        "name": "Murat Sagman"
+    },
+    {
+        "username": "borsagundem",
+        "protected": false,
+        "id": "47070156",
+        "public_metrics": {
+            "followers_count": 149983,
+            "following_count": 11,
+            "tweet_count": 316715,
+            "listed_count": 684
+        },
+        "name": "borsagundem"
+    },
+    {
+        "username": "yerdinc65",
+        "protected": false,
+        "id": "97734515",
+        "public_metrics": {
+            "followers_count": 618661,
+            "following_count": 1056,
+            "tweet_count": 15529,
+            "listed_count": 812
+        },
+        "name": "Yaşar Erdinc"
+    },
+    {
+        "username": "artunckocabalkn",
+        "protected": false,
+        "id": "105427788",
+        "public_metrics": {
+            "followers_count": 58440,
+            "following_count": 1992,
+            "tweet_count": 62732,
+            "listed_count": 370
+        },
+        "name": "Dr. Artunç Kocabalkan"
+    },
+    {
+        "username": "YFinansman",
+        "protected": false,
+        "id": "555978794",
+        "public_metrics": {
+            "followers_count": 41817,
+            "following_count": 8,
+            "tweet_count": 17077,
+            "listed_count": 279
+        },
+        "name": "Yatırım Finansman"
+    },
+    {
+        "username": "BloombergHT",
+        "protected": false,
+        "id": "239767112",
+        "public_metrics": {
+            "followers_count": 782147,
+            "following_count": 7,
+            "tweet_count": 206345,
+            "listed_count": 2362
+        },
+        "name": "Bloomberg HT"
+    },
+    {
+        "username": "ParaBorsaNet",
+        "protected": false,
+        "id": "234904062",
+        "public_metrics": {
+            "followers_count": 117936,
+            "following_count": 60,
+            "tweet_count": 363053,
+            "listed_count": 650
+        },
+        "name": "ParaBorsa.Net"
+    },
+    {
+        "username": "isyatirim",
+        "protected": false,
+        "id": "477739200",
+        "public_metrics": {
+            "followers_count": 283003,
+            "following_count": 14,
+            "tweet_count": 13124,
+            "listed_count": 655
+        },
+        "name": "İş Yatırım"
+    },
+    {
+        "username": "XtraStriate",
+        "protected": false,
+        "id": "28029077",
+        "public_metrics": {
+            "followers_count": 1802,
+            "following_count": 1267,
+            "tweet_count": 1913,
+            "listed_count": 113
+        },
+        "name": "Ayse Pinar Saygin (saygin.eth) 🦋"
+    },
+    {
+        "username": "racinginvr",
+        "protected": false,
+        "id": "215955146",
+        "public_metrics": {
+            "followers_count": 2952,
+            "following_count": 79,
+            "tweet_count": 979,
+            "listed_count": 145
+        },
+        "name": "Racing in VR"
+    },
+    {
+        "username": "ChooseMuse",
+        "protected": false,
+        "id": "65492831",
+        "public_metrics": {
+            "followers_count": 15336,
+            "following_count": 4842,
+            "tweet_count": 9061,
+            "listed_count": 620
+        },
+        "name": "Muse"
+    },
+    {
+        "username": "neuroconscience",
+        "protected": false,
+        "id": "47336791",
+        "public_metrics": {
+            "followers_count": 42197,
+            "following_count": 5084,
+            "tweet_count": 69389,
+            "listed_count": 1533
+        },
+        "name": "Neuroconscience"
+    },
+    {
+        "username": "bbcturkce",
+        "protected": false,
+        "id": "22475139",
+        "public_metrics": {
+            "followers_count": 4037067,
+            "following_count": 47,
+            "tweet_count": 191497,
+            "listed_count": 5160
+        },
+        "name": "BBC News Türkçe"
+    },
+    {
+        "username": "Seeker",
+        "protected": false,
+        "id": "16438248",
+        "public_metrics": {
+            "followers_count": 460293,
+            "following_count": 14808,
+            "tweet_count": 65323,
+            "listed_count": 7395
+        },
+        "name": "Seeker"
+    },
+    {
+        "username": "DiscoverMag",
+        "protected": false,
+        "id": "23962323",
+        "public_metrics": {
+            "followers_count": 1227492,
+            "following_count": 129,
+            "tweet_count": 91871,
+            "listed_count": 11581
+        },
+        "name": "Discover Magazine"
+    },
+    {
+        "username": "WIREDScience",
+        "protected": false,
+        "id": "8963722",
+        "public_metrics": {
+            "followers_count": 2032874,
+            "following_count": 156,
+            "tweet_count": 17696,
+            "listed_count": 24300
+        },
+        "name": "WIRED Science"
+    },
+    {
+        "username": "PopSci",
+        "protected": false,
+        "id": "19722699",
+        "public_metrics": {
+            "followers_count": 1445062,
+            "following_count": 1411,
+            "tweet_count": 130155,
+            "listed_count": 15388
+        },
+        "name": "Popular Science"
+    },
+    {
+        "username": "sciam",
+        "protected": false,
+        "id": "14647570",
+        "public_metrics": {
+            "followers_count": 4024585,
+            "following_count": 760,
+            "tweet_count": 66839,
+            "listed_count": 29676
+        },
+        "name": "Scientific American"
+    },
+    {
+        "username": "michiokaku",
+        "protected": false,
+        "id": "19515424",
+        "public_metrics": {
+            "followers_count": 818754,
+            "following_count": 51,
+            "tweet_count": 2090,
+            "listed_count": 9653
+        },
+        "name": "Dr. Michio Kaku"
+    },
+    {
+        "username": "TEDTalks",
+        "protected": false,
+        "id": "15492359",
+        "public_metrics": {
+            "followers_count": 11357392,
+            "following_count": 676,
+            "tweet_count": 40481,
+            "listed_count": 53196
+        },
+        "name": "TED Talks"
+    },
+    {
+        "username": "_TurgutUyar_",
+        "protected": false,
+        "id": "2226509852",
+        "public_metrics": {
+            "followers_count": 88279,
+            "following_count": 0,
+            "tweet_count": 1145,
+            "listed_count": 48
+        },
+        "name": "Turgut Uyar"
+    },
+    {
+        "username": "birgulgeyimci",
+        "protected": true,
+        "id": "342168626",
+        "public_metrics": {
+            "followers_count": 95,
+            "following_count": 158,
+            "tweet_count": 269,
+            "listed_count": 0
+        },
+        "name": "Birgül Geyimci"
+    },
+    {
+        "username": "cemadrian",
+        "protected": false,
+        "id": "237034746",
+        "public_metrics": {
+            "followers_count": 449959,
+            "following_count": 2,
+            "tweet_count": 4121,
+            "listed_count": 189
+        },
+        "name": "cem adrian"
+    },
+    {
+        "username": "KadriGursel",
+        "protected": false,
+        "id": "584634700",
+        "public_metrics": {
+            "followers_count": 445115,
+            "following_count": 797,
+            "tweet_count": 21958,
+            "listed_count": 977
+        },
+        "name": "Kadri Gürsel"
+    },
+    {
+        "username": "ToistSinema",
+        "protected": false,
+        "id": "594519557",
+        "public_metrics": {
+            "followers_count": 2082,
+            "following_count": 91,
+            "tweet_count": 585,
+            "listed_count": 23
+        },
+        "name": "Time Out Sinema"
+    },
+    {
+        "username": "MuratGulsoy",
+        "protected": false,
+        "id": "70694795",
+        "public_metrics": {
+            "followers_count": 28346,
+            "following_count": 1533,
+            "tweet_count": 8521,
+            "listed_count": 142
+        },
+        "name": "Murat Gülsoy"
+    },
+    {
+        "username": "farukkayaFK",
+        "protected": false,
+        "id": "106691456",
+        "public_metrics": {
+            "followers_count": 103064,
+            "following_count": 456,
+            "tweet_count": 8708,
+            "listed_count": 367
+        },
+        "name": "Faruk Kaya"
+    },
+    {
+        "username": "angutyus",
+        "protected": false,
+        "id": "169043595",
+        "public_metrics": {
+            "followers_count": 21677,
+            "following_count": 144,
+            "tweet_count": 540,
+            "listed_count": 41
+        },
+        "name": "angutyus"
+    },
+    {
+        "username": "candundaradasi",
+        "protected": false,
+        "id": "1638231860",
+        "public_metrics": {
+            "followers_count": 5286812,
+            "following_count": 2897,
+            "tweet_count": 56170,
+            "listed_count": 2337
+        },
+        "name": "Can Dündar"
+    },
+    {
+        "username": "mungan_murathan",
+        "protected": false,
+        "id": "405015059",
+        "public_metrics": {
+            "followers_count": 524729,
+            "following_count": 93,
+            "tweet_count": 4940,
+            "listed_count": 429
+        },
+        "name": "murathan mungan"
+    },
+    {
+        "username": "EmrahSerbes",
+        "protected": false,
+        "id": "139205255",
+        "public_metrics": {
+            "followers_count": 359125,
+            "following_count": 77,
+            "tweet_count": 321,
+            "listed_count": 376
+        },
+        "name": "Emrah Serbes"
+    },
+    {
+        "username": "MensHealth_TR",
+        "protected": false,
+        "id": "322591686",
+        "public_metrics": {
+            "followers_count": 14794,
+            "following_count": 160,
+            "tweet_count": 18525,
+            "listed_count": 53
+        },
+        "name": "Men's Health Türkiye"
+    },
+    {
+        "username": "drlauraina",
+        "protected": true,
+        "id": "186151852",
+        "public_metrics": {
+            "followers_count": 71,
+            "following_count": 82,
+            "tweet_count": 4602,
+            "listed_count": 0
+        },
+        "name": "dr.lauraina"
+    },
+    {
+        "username": "ceriLevis",
+        "protected": false,
+        "id": "162768926",
+        "public_metrics": {
+            "followers_count": 559548,
+            "following_count": 910,
+            "tweet_count": 11181,
+            "listed_count": 734
+        },
+        "name": "Ömür Özdemir"
+    },
+    {
+        "username": "yankiyazgancom",
+        "protected": false,
+        "id": "356124635",
+        "public_metrics": {
+            "followers_count": 70172,
+            "following_count": 816,
+            "tweet_count": 15328,
+            "listed_count": 135
+        },
+        "name": "Yankı Yazgan"
+    },
+    {
+        "username": "Figenozavci",
+        "protected": false,
+        "id": "272045009",
+        "public_metrics": {
+            "followers_count": 300833,
+            "following_count": 900,
+            "tweet_count": 75233,
+            "listed_count": 725
+        },
+        "name": "Figen Özavcı Gümülcineli"
+    },
+    {
+        "username": "TurkiyeWSJ",
+        "protected": false,
+        "id": "1241614537",
+        "public_metrics": {
+            "followers_count": 53254,
+            "following_count": 56,
+            "tweet_count": 18763,
+            "listed_count": 370
+        },
+        "name": "WSJ Türkiye"
+    },
+    {
+        "username": "mesut_sure",
+        "protected": false,
+        "id": "252758157",
+        "public_metrics": {
+            "followers_count": 164551,
+            "following_count": 1952,
+            "tweet_count": 15911,
+            "listed_count": 140
+        },
+        "name": "Mesut Süre"
+    },
+    {
+        "username": "mahfiegilmez",
+        "protected": false,
+        "id": "388012607",
+        "public_metrics": {
+            "followers_count": 1618122,
+            "following_count": 488,
+            "tweet_count": 74118,
+            "listed_count": 2932
+        },
+        "name": "Mahfi Eğilmez"
+    },
+    {
+        "username": "BenjaminHarvey",
+        "protected": false,
+        "id": "19668442",
+        "public_metrics": {
+            "followers_count": 83213,
+            "following_count": 1985,
+            "tweet_count": 21358,
+            "listed_count": 1129
+        },
+        "name": "Benjamin Harvey"
+    },
+    {
+        "username": "arnovillri",
+        "protected": false,
+        "id": "379876806",
+        "public_metrics": {
+            "followers_count": 856,
+            "following_count": 196,
+            "tweet_count": 291,
+            "listed_count": 15
+        },
+        "name": "Arno Villringer"
+    },
+    {
+        "username": "conquerum",
+        "protected": false,
+        "id": "315170974",
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 53,
+            "tweet_count": 444,
+            "listed_count": 1
+        },
+        "name": "Emin Çağatay Güler"
+    },
+    {
+        "username": "cenksidar",
+        "protected": false,
+        "id": "32750439",
+        "public_metrics": {
+            "followers_count": 103835,
+            "following_count": 7685,
+            "tweet_count": 8144,
+            "listed_count": 302
+        },
+        "name": "Cenk Sidar"
+    },
+    {
+        "username": "cakir_rusen",
+        "protected": false,
+        "id": "465416612",
+        "public_metrics": {
+            "followers_count": 807990,
+            "following_count": 3847,
+            "tweet_count": 137568,
+            "listed_count": 1455
+        },
+        "name": "rusen cakir"
+    },
+    {
+        "username": "iskenderpaydas",
+        "protected": false,
+        "id": "85149953",
+        "public_metrics": {
+            "followers_count": 150641,
+            "following_count": 1261,
+            "tweet_count": 18859,
+            "listed_count": 151
+        },
+        "name": "iskender paydas"
+    },
+    {
+        "username": "attilao",
+        "protected": false,
+        "id": "76686572",
+        "public_metrics": {
+            "followers_count": 59969,
+            "following_count": 498,
+            "tweet_count": 14874,
+            "listed_count": 101
+        },
+        "name": "Attila Ozdemiroglu"
+    },
+    {
+        "username": "kamilmasaraci",
+        "protected": false,
+        "id": "291053224",
+        "public_metrics": {
+            "followers_count": 9215,
+            "following_count": 943,
+            "tweet_count": 49201,
+            "listed_count": 40
+        },
+        "name": "Kamil Masaracı"
+    },
+    {
+        "username": "khanacademy",
+        "protected": false,
+        "id": "16689804",
+        "public_metrics": {
+            "followers_count": 756381,
+            "following_count": 640,
+            "tweet_count": 6022,
+            "listed_count": 9276
+        },
+        "name": "Khan Academy"
+    },
+    {
+        "username": "penguendergi",
+        "protected": false,
+        "id": "68433639",
+        "public_metrics": {
+            "followers_count": 3290025,
+            "following_count": 23,
+            "tweet_count": 1672,
+            "listed_count": 1303
+        },
+        "name": "Penguen"
+    },
+    {
+        "username": "BBCWorld",
+        "protected": false,
+        "id": "742143",
+        "public_metrics": {
+            "followers_count": 33564135,
+            "following_count": 18,
+            "tweet_count": 337840,
+            "listed_count": 126809
+        },
+        "name": "BBC News (World)"
+    },
+    {
+        "username": "koraycaliskan",
+        "protected": false,
+        "id": "50354388",
+        "public_metrics": {
+            "followers_count": 505771,
+            "following_count": 2998,
+            "tweet_count": 24403,
+            "listed_count": 631
+        },
+        "name": "Koray Çalışkan"
+    },
+    {
+        "username": "AylinAsLIM",
+        "protected": false,
+        "id": "26525324",
+        "public_metrics": {
+            "followers_count": 1046483,
+            "following_count": 1853,
+            "tweet_count": 26459,
+            "listed_count": 1864
+        },
+        "name": "aylin aslım"
+    },
+    {
+        "username": "ozge_mumcu",
+        "protected": false,
+        "id": "135476919",
+        "public_metrics": {
+            "followers_count": 205468,
+            "following_count": 1736,
+            "tweet_count": 44609,
+            "listed_count": 307
+        },
+        "name": "Özge Mumcu Aybars"
+    },
+    {
+        "username": "ille_de_eflatun",
+        "protected": false,
+        "id": "1301833123",
+        "public_metrics": {
+            "followers_count": 475,
+            "following_count": 1013,
+            "tweet_count": 3623,
+            "listed_count": 0
+        },
+        "name": "yerdeniz büyücüsü"
+    },
+    {
+        "username": "BeyondQuantumGM",
+        "protected": false,
+        "id": "444713989",
+        "public_metrics": {
+            "followers_count": 305,
+            "following_count": 419,
+            "tweet_count": 41,
+            "listed_count": 2
+        },
+        "name": "NeuroFeedback"
+    },
+    {
+        "username": "CogniFit",
+        "protected": false,
+        "id": "23498854",
+        "public_metrics": {
+            "followers_count": 22552,
+            "following_count": 161,
+            "tweet_count": 4371,
+            "listed_count": 287
+        },
+        "name": "CogniFit"
+    },
+    {
+        "username": "NeuroSky",
+        "protected": false,
+        "id": "50032327",
+        "public_metrics": {
+            "followers_count": 5666,
+            "following_count": 223,
+            "tweet_count": 1408,
+            "listed_count": 312
+        },
+        "name": "NeuroSky"
+    },
+    {
+        "username": "PersonalNeuro",
+        "protected": false,
+        "id": "786988242",
+        "public_metrics": {
+            "followers_count": 1349,
+            "following_count": 1712,
+            "tweet_count": 1,
+            "listed_count": 101
+        },
+        "name": "Personal Neuro Devices (PND)"
+    },
+    {
+        "username": "muzafferkaser",
+        "protected": false,
+        "id": "441106006",
+        "public_metrics": {
+            "followers_count": 3466,
+            "following_count": 900,
+            "tweet_count": 5807,
+            "listed_count": 44
+        },
+        "name": "Muzaffer Kaser 💙"
+    },
+    {
+        "username": "ozgurmumcu",
+        "protected": false,
+        "id": "34609354",
+        "public_metrics": {
+            "followers_count": 2136081,
+            "following_count": 2900,
+            "tweet_count": 39694,
+            "listed_count": 1428
+        },
+        "name": "Özgür Mumcu"
+    },
+    {
+        "username": "kucukiskender",
+        "protected": false,
+        "id": "144209845",
+        "public_metrics": {
+            "followers_count": 258023,
+            "following_count": 85,
+            "tweet_count": 4021,
+            "listed_count": 359
+        },
+        "name": "küçük İskender"
+    },
+    {
+        "username": "dottiyatro",
+        "protected": false,
+        "id": "29433646",
+        "public_metrics": {
+            "followers_count": 158585,
+            "following_count": 134,
+            "tweet_count": 7594,
+            "listed_count": 255
+        },
+        "name": "DOT / DOT Theatre"
+    },
+    {
+        "username": "AysegulAldinc",
+        "protected": false,
+        "id": "427650062",
+        "public_metrics": {
+            "followers_count": 271573,
+            "following_count": 555,
+            "tweet_count": 5419,
+            "listed_count": 229
+        },
+        "name": "Ayşegül Aldinç"
+    },
+    {
+        "username": "alenoar",
+        "protected": false,
+        "id": "31147270",
+        "public_metrics": {
+            "followers_count": 271,
+            "following_count": 261,
+            "tweet_count": 2713,
+            "listed_count": 8
+        },
+        "name": "parasutler"
+    },
+    {
+        "username": "asliaydintasbas",
+        "protected": false,
+        "id": "64753254",
+        "public_metrics": {
+            "followers_count": 753885,
+            "following_count": 1144,
+            "tweet_count": 23218,
+            "listed_count": 1177
+        },
+        "name": "asli aydintasbas"
+    },
+    {
+        "username": "smir1234",
+        "protected": true,
+        "id": "324859678",
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 172,
+            "tweet_count": 161,
+            "listed_count": 0
+        },
+        "name": "sömür"
+    },
+    {
+        "username": "MeltemYorulmaz",
+        "protected": false,
+        "id": "278970820",
+        "public_metrics": {
+            "followers_count": 104,
+            "following_count": 142,
+            "tweet_count": 1638,
+            "listed_count": 0
+        },
+        "name": "Meltem Yorulmaz"
+    },
+    {
+        "username": "MeralSomunyudan",
+        "protected": false,
+        "id": "984943502",
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 129,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "name": "Meral Somunyudan"
+    },
+    {
+        "username": "semraozguler",
+        "protected": false,
+        "id": "263314578",
+        "public_metrics": {
+            "followers_count": 136,
+            "following_count": 246,
+            "tweet_count": 480,
+            "listed_count": 0
+        },
+        "name": "sem"
+    },
+    {
+        "username": "yektakopan",
+        "protected": false,
+        "id": "62890569",
+        "public_metrics": {
+            "followers_count": 1304071,
+            "following_count": 843,
+            "tweet_count": 42914,
+            "listed_count": 1144
+        },
+        "name": "Yekta Kopan"
+    },
+    {
+        "username": "ntvyergosterici",
+        "protected": false,
+        "id": "802442102",
+        "public_metrics": {
+            "followers_count": 2191,
+            "following_count": 54,
+            "tweet_count": 139,
+            "listed_count": 10
+        },
+        "name": "Yer Gösterici"
+    },
+    {
+        "username": "banuguven",
+        "protected": false,
+        "id": "89277010",
+        "public_metrics": {
+            "followers_count": 2483990,
+            "following_count": 3588,
+            "tweet_count": 14291,
+            "listed_count": 1945
+        },
+        "name": "Banu Guven"
+    },
+    {
+        "username": "bakkos__",
+        "protected": false,
+        "id": "737377165",
+        "public_metrics": {
+            "followers_count": 64,
+            "following_count": 947,
+            "tweet_count": 494,
+            "listed_count": 0
+        },
+        "name": "Ufuk ANIL"
+    },
+    {
+        "username": "BrainGain_NL",
+        "protected": false,
+        "id": "212169733",
+        "public_metrics": {
+            "followers_count": 232,
+            "following_count": 145,
+            "tweet_count": 247,
+            "listed_count": 10
+        },
+        "name": "BrainGain"
+    },
+    {
+        "username": "newscientist",
+        "protected": false,
+        "id": "19658826",
+        "public_metrics": {
+            "followers_count": 4048474,
+            "following_count": 241,
+            "tweet_count": 89346,
+            "listed_count": 33799
+        },
+        "name": "New Scientist"
+    },
+    {
+        "username": "tanerbirsell",
+        "protected": false,
+        "id": "297042923",
+        "public_metrics": {
+            "followers_count": 31708,
+            "following_count": 368,
+            "tweet_count": 1561,
+            "listed_count": 77
+        },
+        "name": "Taner Birsel"
+    },
+    {
+        "username": "h_vatansever",
+        "protected": true,
+        "id": "337809638",
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 190,
+            "tweet_count": 211,
+            "listed_count": 0
+        },
+        "name": "Vitamini Kabuğunda"
+    },
+    {
+        "username": "MuratV23",
+        "protected": false,
+        "id": "461469310",
+        "public_metrics": {
+            "followers_count": 35,
+            "following_count": 286,
+            "tweet_count": 230,
+            "listed_count": 0
+        },
+        "name": "Murat Vatansever"
+    },
+    {
+        "username": "nehiryilmaz",
+        "protected": false,
+        "id": "109069086",
+        "public_metrics": {
+            "followers_count": 991,
+            "following_count": 391,
+            "tweet_count": 2525,
+            "listed_count": 2
+        },
+        "name": "Nehir Yilmaz"
+    },
+    {
+        "username": "olcayoztanir",
+        "protected": false,
+        "id": "40316948",
+        "public_metrics": {
+            "followers_count": 188,
+            "following_count": 122,
+            "tweet_count": 205,
+            "listed_count": 6
+        },
+        "name": "Olcay Öztanır"
+    },
+    {
+        "username": "MIND360",
+        "protected": false,
+        "id": "17588216",
+        "public_metrics": {
+            "followers_count": 6986,
+            "following_count": 2347,
+            "tweet_count": 1012,
+            "listed_count": 188
+        },
+        "name": "Brain Training Games"
+    },
+    {
+        "username": "emotiv",
+        "protected": false,
+        "id": "57468209",
+        "public_metrics": {
+            "followers_count": 10064,
+            "following_count": 254,
+            "tweet_count": 2619,
+            "listed_count": 451
+        },
+        "name": "EMOTIV"
+    },
+    {
+        "username": "neuroscientist",
+        "protected": false,
+        "id": "31671778",
+        "public_metrics": {
+            "followers_count": 3713,
+            "following_count": 1017,
+            "tweet_count": 359,
+            "listed_count": 180
+        },
+        "name": "Neuroscientist"
+    },
+    {
+        "username": "BrainworksRehab",
+        "protected": false,
+        "id": "103419829",
+        "public_metrics": {
+            "followers_count": 7030,
+            "following_count": 4487,
+            "tweet_count": 34528,
+            "listed_count": 258
+        },
+        "name": "Brainworks"
+    },
+    {
+        "username": "ThoughtWired",
+        "protected": false,
+        "id": "210427069",
+        "public_metrics": {
+            "followers_count": 1120,
+            "following_count": 1019,
+            "tweet_count": 4610,
+            "listed_count": 76
+        },
+        "name": "Thought-Wired"
+    },
+    {
+        "username": "ICT_Europe",
+        "protected": false,
+        "id": "112226085",
+        "public_metrics": {
+            "followers_count": 658,
+            "following_count": 160,
+            "tweet_count": 2321,
+            "listed_count": 35
+        },
+        "name": "ICT - Europe"
+    },
+    {
+        "username": "csureya",
+        "protected": false,
+        "id": "130587205",
+        "public_metrics": {
+            "followers_count": 1291015,
+            "following_count": 369,
+            "tweet_count": 11032,
+            "listed_count": 460
+        },
+        "name": "Cemal Süreya"
+    },
+    {
+        "username": "WiredResearch",
+        "protected": false,
+        "id": "19614344",
+        "public_metrics": {
+            "followers_count": 24797,
+            "following_count": 4,
+            "tweet_count": 451,
+            "listed_count": 1957
+        },
+        "name": "Wired Research"
+    },
+    {
+        "username": "medialab",
+        "protected": false,
+        "id": "13982132",
+        "public_metrics": {
+            "followers_count": 477420,
+            "following_count": 1259,
+            "tweet_count": 17362,
+            "listed_count": 12307
+        },
+        "name": "MIT Media Lab"
+    },
+    {
+        "username": "HarvardResearch",
+        "protected": false,
+        "id": "27081406",
+        "public_metrics": {
+            "followers_count": 132875,
+            "following_count": 80,
+            "tweet_count": 7540,
+            "listed_count": 4141
+        },
+        "name": "Harvard Research"
+    },
+    {
+        "username": "herbkubilenadam",
+        "protected": false,
+        "id": "62765508",
+        "public_metrics": {
+            "followers_count": 101915,
+            "following_count": 462,
+            "tweet_count": 13376,
+            "listed_count": 481
+        },
+        "name": "Her B🦠ku Bilen Adam 😷"
+    },
+    {
+        "username": "fp7mariecurie",
+        "protected": false,
+        "id": "270832800",
+        "public_metrics": {
+            "followers_count": 604,
+            "following_count": 30,
+            "tweet_count": 57,
+            "listed_count": 5
+        },
+        "name": "mariecurie"
+    },
+    {
+        "username": "EUREKA_NETWORK",
+        "protected": false,
+        "id": "92739411",
+        "public_metrics": {
+            "followers_count": 15916,
+            "following_count": 3758,
+            "tweet_count": 6912,
+            "listed_count": 446
+        },
+        "name": "Eureka"
+    },
+    {
+        "username": "altyazidergisi",
+        "protected": false,
+        "id": "99081085",
+        "public_metrics": {
+            "followers_count": 222699,
+            "following_count": 326,
+            "tweet_count": 13509,
+            "listed_count": 608
+        },
+        "name": "Altyazı Sinema Dergisi"
+    },
+    {
+        "username": "aslihandincer",
+        "protected": true,
+        "id": "68214033",
+        "public_metrics": {
+            "followers_count": 169,
+            "following_count": 1433,
+            "tweet_count": 1014,
+            "listed_count": 4
+        },
+        "name": "✨Dr. Aslihan Dincer✨"
+    },
+    {
+        "username": "ntv",
+        "protected": false,
+        "id": "15016209",
+        "public_metrics": {
+            "followers_count": 7598329,
+            "following_count": 27,
+            "tweet_count": 288083,
+            "listed_count": 5613
+        },
+        "name": "NTV"
+    },
+    {
+        "username": "Montijano",
+        "protected": false,
+        "id": "35498252",
+        "public_metrics": {
+            "followers_count": 7942,
+            "following_count": 1248,
+            "tweet_count": 9920,
+            "listed_count": 372
+        },
+        "name": "Manuel Montijano"
+    },
+    {
+        "username": "EUScienceInnov",
+        "protected": false,
+        "id": "193301414",
+        "public_metrics": {
+            "followers_count": 110162,
+            "following_count": 727,
+            "tweet_count": 37496,
+            "listed_count": 2531
+        },
+        "name": "EUScience&Innovation🇪🇺"
+    },
+    {
+        "username": "MSCActions",
+        "protected": false,
+        "id": "278506592",
+        "public_metrics": {
+            "followers_count": 52937,
+            "following_count": 1338,
+            "tweet_count": 12849,
+            "listed_count": 468
+        },
+        "name": "MarieSkłodowskaCurie"
+    },
+    {
+        "username": "bantmagazine",
+        "protected": false,
+        "id": "80251424",
+        "public_metrics": {
+            "followers_count": 168739,
+            "following_count": 644,
+            "tweet_count": 44672,
+            "listed_count": 377
+        },
+        "name": "bant mag."
+    },
+    {
+        "username": "TimeOutIstanbul",
+        "protected": false,
+        "id": "94353753",
+        "public_metrics": {
+            "followers_count": 177975,
+            "following_count": 513,
+            "tweet_count": 5546,
+            "listed_count": 447
+        },
+        "name": "Time Out İstanbul"
+    },
+    {
+        "username": "HAYKOCPQN",
+        "protected": false,
+        "id": "118488448",
+        "public_metrics": {
+            "followers_count": 2207749,
+            "following_count": 537,
+            "tweet_count": 16420,
+            "listed_count": 1106
+        },
+        "name": "HAYKO CEPKİN"
+    },
+    {
+        "username": "nevsinmengu",
+        "protected": false,
+        "id": "107655313",
+        "public_metrics": {
+            "followers_count": 2216221,
+            "following_count": 1003,
+            "tweet_count": 27126,
+            "listed_count": 1902
+        },
+        "name": "nevsin mengu"
+    },
+    {
+        "username": "melisdanismend",
+        "protected": false,
+        "id": "142330580",
+        "public_metrics": {
+            "followers_count": 224052,
+            "following_count": 882,
+            "tweet_count": 5636,
+            "listed_count": 234
+        },
+        "name": "Melis Danişmend"
+    },
+    {
+        "username": "siring",
+        "protected": false,
+        "id": "60668913",
+        "public_metrics": {
+            "followers_count": 1571904,
+            "following_count": 763,
+            "tweet_count": 17839,
+            "listed_count": 1382
+        },
+        "name": "Sirin Payzin"
+    },
+    {
+        "username": "nrmnt",
+        "protected": true,
+        "id": "87892170",
+        "public_metrics": {
+            "followers_count": 56,
+            "following_count": 265,
+            "tweet_count": 1011,
+            "listed_count": 0
+        },
+        "name": "Nermin T."
+    },
+    {
+        "username": "radioeksen",
+        "protected": false,
+        "id": "43843493",
+        "public_metrics": {
+            "followers_count": 255897,
+            "following_count": 586,
+            "tweet_count": 25275,
+            "listed_count": 448
+        },
+        "name": "Radyo Eksen"
+    },
+    {
+        "username": "ModernSinema",
+        "protected": false,
+        "id": "71525415",
+        "public_metrics": {
+            "followers_count": 50464,
+            "following_count": 55,
+            "tweet_count": 2045,
+            "listed_count": 323
+        },
+        "name": "İstanbulModernSinema"
+    },
+    {
+        "username": "ScienceNews",
+        "protected": false,
+        "id": "19402238",
+        "public_metrics": {
+            "followers_count": 4114654,
+            "following_count": 595,
+            "tweet_count": 61697,
+            "listed_count": 19932
+        },
+        "name": "Science News"
+    },
+    {
+        "username": "Nature",
+        "protected": false,
+        "id": "15862891",
+        "public_metrics": {
+            "followers_count": 2223389,
+            "following_count": 3730,
+            "tweet_count": 66257,
+            "listed_count": 20450
+        },
+        "name": "nature"
+    },
+    {
+        "username": "guardianscience",
+        "protected": false,
+        "id": "21581503",
+        "public_metrics": {
+            "followers_count": 1116560,
+            "following_count": 2160,
+            "tweet_count": 43763,
+            "listed_count": 14957
+        },
+        "name": "Guardian Science"
+    },
+    {
+        "username": "umitnazliboyner",
+        "protected": false,
+        "id": "198436064",
+        "public_metrics": {
+            "followers_count": 403874,
+            "following_count": 574,
+            "tweet_count": 3848,
+            "listed_count": 546
+        },
+        "name": "ÜMİT NAZLI BOYNER"
+    },
+    {
+        "username": "levent_kazak",
+        "protected": false,
+        "id": "121095372",
+        "public_metrics": {
+            "followers_count": 611691,
+            "following_count": 1439,
+            "tweet_count": 7076,
+            "listed_count": 599
+        },
+        "name": "levent kazak"
+    },
+    {
+        "username": "ferdiozbegen",
+        "protected": false,
+        "id": "102389341",
+        "public_metrics": {
+            "followers_count": 32735,
+            "following_count": 5,
+            "tweet_count": 860,
+            "listed_count": 124
+        },
+        "name": "ferdi ozbegen"
+    },
+    {
+        "username": "cemmumcu",
+        "protected": false,
+        "id": "70170860",
+        "public_metrics": {
+            "followers_count": 171005,
+            "following_count": 1570,
+            "tweet_count": 17289,
+            "listed_count": 379
+        },
+        "name": "Cem Mumcu"
+    },
+    {
+        "username": "selcukerdem",
+        "protected": false,
+        "id": "44145244",
+        "public_metrics": {
+            "followers_count": 3455458,
+            "following_count": 611,
+            "tweet_count": 9606,
+            "listed_count": 1952
+        },
+        "name": "Selçuk Erdem"
+    },
+    {
+        "username": "LocalDigital",
+        "protected": false,
+        "id": "104862494",
+        "public_metrics": {
+            "followers_count": 619,
+            "following_count": 233,
+            "tweet_count": 144,
+            "listed_count": 9
+        },
+        "name": "Local Digital"
+    },
+    {
+        "username": "neokuyorsun",
+        "protected": false,
+        "id": "54486932",
+        "public_metrics": {
+            "followers_count": 7247,
+            "following_count": 86,
+            "tweet_count": 109,
+            "listed_count": 54
+        },
+        "name": "NeOkuyorsun?"
+    },
+    {
+        "username": "milesnsmilesgb",
+        "protected": false,
+        "id": "50629732",
+        "public_metrics": {
+            "followers_count": 12548,
+            "following_count": 18,
+            "tweet_count": 2785,
+            "listed_count": 29
+        },
+        "name": "Miles&Smiles Garanti Kredi Kartları"
+    },
+    {
+        "username": "NASA",
+        "protected": false,
+        "id": "11348282",
+        "public_metrics": {
+            "followers_count": 49832533,
+            "following_count": 178,
+            "tweet_count": 67176,
+            "listed_count": 96941
+        },
+        "name": "NASA"
+    },
+    {
+        "username": "ayhansicimoglu",
+        "protected": false,
+        "id": "86848647",
+        "public_metrics": {
+            "followers_count": 638686,
+            "following_count": 1101,
+            "tweet_count": 11802,
+            "listed_count": 391
+        },
+        "name": "Ayhan Sicimoglu"
+    },
+    {
+        "username": "resetmagazin",
+        "protected": false,
+        "id": "91877482",
+        "public_metrics": {
+            "followers_count": 1718,
+            "following_count": 237,
+            "tweet_count": 1321,
+            "listed_count": 48
+        },
+        "name": "Reset! Magazine"
+    },
+    {
+        "username": "Newsweek",
+        "protected": false,
+        "id": "2884771",
+        "public_metrics": {
+            "followers_count": 3458371,
+            "following_count": 544,
+            "tweet_count": 288391,
+            "listed_count": 37229
+        },
+        "name": "Newsweek"
+    },
+    {
+        "username": "nytimes",
+        "protected": false,
+        "id": "807095",
+        "public_metrics": {
+            "followers_count": 50999204,
+            "following_count": 858,
+            "tweet_count": 454044,
+            "listed_count": 211752
+        },
+        "name": "The New York Times"
+    },
+    {
+        "username": "serdargut",
+        "protected": false,
+        "id": "54491223",
+        "public_metrics": {
+            "followers_count": 262348,
+            "following_count": 92,
+            "tweet_count": 4475,
+            "listed_count": 776
+        },
+        "name": "serdar turgut"
+    },
+    {
+        "username": "ahuozyurt",
+        "protected": false,
+        "id": "60212414",
+        "public_metrics": {
+            "followers_count": 473378,
+            "following_count": 5972,
+            "tweet_count": 17060,
+            "listed_count": 1320
+        },
+        "name": "Ahu Ozyurt"
+    },
+    {
+        "username": "orayegin",
+        "protected": false,
+        "id": "21446427",
+        "public_metrics": {
+            "followers_count": 297670,
+            "following_count": 1,
+            "tweet_count": 98,
+            "listed_count": 929
+        },
+        "name": "Oray Egin"
+    },
+    {
+        "username": "metinustundag",
+        "protected": false,
+        "id": "153169236",
+        "public_metrics": {
+            "followers_count": 1588762,
+            "following_count": 0,
+            "tweet_count": 2927,
+            "listed_count": 1044
+        },
+        "name": "metin üstündağ"
+    },
+    {
+        "username": "nuriyedeniz",
+        "protected": true,
+        "id": "155318186",
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 205,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "name": "Nuriye CantekinDeniz"
+    },
+    {
+        "username": "sevdadeniz",
+        "protected": false,
+        "id": "76077877",
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 974,
+            "tweet_count": 2282,
+            "listed_count": 0
+        },
+        "name": "dasdisdos"
+    },
+    {
+        "username": "MirgunCabas",
+        "protected": false,
+        "id": "49381990",
+        "public_metrics": {
+            "followers_count": 1631248,
+            "following_count": 535,
+            "tweet_count": 11860,
+            "listed_count": 1435
+        },
+        "name": "Mirgun Cabas"
+    },
+    {
+        "username": "cuneytozdemir",
+        "protected": false,
+        "id": "30631061",
+        "public_metrics": {
+            "followers_count": 7185480,
+            "following_count": 1254,
+            "tweet_count": 40584,
+            "listed_count": 4539
+        },
+        "name": "cüneyt özdemir"
+    },
+    {
+        "username": "ifistanbul",
+        "protected": false,
+        "id": "80268332",
+        "public_metrics": {
+            "followers_count": 528371,
+            "following_count": 493,
+            "tweet_count": 6720,
+            "listed_count": 740
+        },
+        "name": "!f istanbul"
+    }
+]

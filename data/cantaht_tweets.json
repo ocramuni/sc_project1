@@ -1,0 +1,62 @@
+[
+    {
+        "text": "RT @MemesCentraI: \"You were the best bot.\" https://t.co/vt8DzWLOIN",
+        "public_metrics": {
+            "retweet_count": 808,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1432226058489696256",
+        "created_at": "2021-08-30T06:17:56.000Z",
+        "lang": "en"
+    },
+    {
+        "text": "Finalmente sono sereno https://t.co/rqyb6OfobA",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1376697154979397633",
+        "created_at": "2021-03-30T00:45:54.000Z",
+        "lang": "it"
+    },
+    {
+        "text": "RT @theMemesBot: Unskippable pain https://t.co/YtinO3m1C5",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1370812409154256896",
+        "created_at": "2021-03-13T19:02:01.000Z",
+        "lang": "en"
+    },
+    {
+        "text": "RT @fra_bomba6: @cantaht @Ilele99",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1358231051190075399",
+        "created_at": "2021-02-07T01:48:11.000Z",
+        "lang": "und"
+    },
+    {
+        "text": "@fra_bomba6 @Ilele99 Quelle cose che fanno ridere perché sono vere",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "id": "1358231010681495553",
+        "created_at": "2021-02-07T01:48:02.000Z",
+        "lang": "it"
+    }
+]

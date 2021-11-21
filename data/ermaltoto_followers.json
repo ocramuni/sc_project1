@@ -1,0 +1,112 @@
+[
+    {
+        "id": "56381337",
+        "public_metrics": {
+            "followers_count": 70,
+            "following_count": 98,
+            "tweet_count": 30,
+            "listed_count": 0
+        },
+        "description": "CS PhD student @HyadataLab. Interested in Data Science, Human-Computer Interaction, NLP, and computational creativity.",
+        "location": "Jerusalem, Israel",
+        "protected": false,
+        "name": "Moran Mizrahi",
+        "username": "moranmiz"
+    },
+    {
+        "id": "456522899",
+        "public_metrics": {
+            "followers_count": 58,
+            "following_count": 189,
+            "tweet_count": 153,
+            "listed_count": 3
+        },
+        "description": "Data Scientist",
+        "location": "Cambridge, England",
+        "protected": false,
+        "name": "Ozge",
+        "username": "ozgyas"
+    },
+    {
+        "id": "1596043861",
+        "public_metrics": {
+            "followers_count": 863,
+            "following_count": 841,
+            "tweet_count": 2531,
+            "listed_count": 19
+        },
+        "description": "Historian, author of The Summits of Modern Man & writing about Everest for @Harvard_Press; prof @WPI; opinions own; RT≠endorsement",
+        "location": "Worcester, MA",
+        "protected": false,
+        "name": "Peter H. Hansen",
+        "username": "PhansenH"
+    },
+    {
+        "id": "2350912188",
+        "public_metrics": {
+            "followers_count": 76,
+            "following_count": 654,
+            "tweet_count": 869,
+            "listed_count": 0
+        },
+        "description": "no te preocupes por las personas de tu pasado, hay una razón por las que no llegaron a tu futuro",
+        "location": "gye",
+        "protected": false,
+        "name": "gabriela",
+        "username": "gake_89"
+    },
+    {
+        "id": "1944565940",
+        "public_metrics": {
+            "followers_count": 94,
+            "following_count": 1072,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "protected": false,
+        "name": "ermal varfaj",
+        "username": "EVarfaj"
+    },
+    {
+        "id": "1655286301",
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 213,
+            "tweet_count": 402,
+            "listed_count": 2
+        },
+        "description": "",
+        "location": "Tirana, Albania",
+        "protected": false,
+        "name": "Alkimistet",
+        "username": "Alkimistet"
+    },
+    {
+        "id": "274783482",
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 53,
+            "tweet_count": 104,
+            "listed_count": 0
+        },
+        "description": "",
+        "protected": false,
+        "name": "Pandeli Kolomitro",
+        "username": "neophenomenon"
+    },
+    {
+        "id": "320727185",
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 230,
+            "tweet_count": 110,
+            "listed_count": 0
+        },
+        "description": "Studying Psychology at University of Tirana. I speak Albanian, American English,Greek and Italian.",
+        "location": "Albania ",
+        "protected": true,
+        "name": "BesJana Toto",
+        "username": "BesaToto"
+    }
+]

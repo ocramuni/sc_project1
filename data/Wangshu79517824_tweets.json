@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-04T09:12:51.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1456187677976383492",
+        "text": "RT @shuyiwang_karly: 🌞🍻🏖️🏄‍♀️🥤⛵️",
+        "lang": "und"
+    },
+    {
+        "created_at": "2021-11-02T16:17:34.000Z",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1455569785186492416",
+        "text": "RT @CIKM2021: Congratulations to all the nominations for best paper at #cikm2021 -- And a special congratulations to the best paper award f…",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-10-29T10:14:57.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1454028976549023750",
+        "text": "@hanglics But that was an enjoyable and slow pace intern 😂",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-10-29T10:09:48.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1454027680110690304",
+        "text": "@AixinSG Hopefully 🤠🤠",
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-10-28T02:09:48.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "id": "1453544496122134529",
+        "text": "🥲🥲🥲 https://t.co/N3NbafshSA",
+        "lang": "und"
+    }
+]

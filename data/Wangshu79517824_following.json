@@ -1,0 +1,470 @@
+[
+    {
+        "id": "1363188675539001349",
+        "username": "arXiv_cs_ir",
+        "name": "arXiv",
+        "public_metrics": {
+            "followers_count": 172,
+            "following_count": 357,
+            "tweet_count": 1553,
+            "listed_count": 3
+        },
+        "protected": false
+    },
+    {
+        "id": "114485232",
+        "username": "lintool",
+        "name": "Jimmy Lin",
+        "public_metrics": {
+            "followers_count": 11141,
+            "following_count": 833,
+            "tweet_count": 3671,
+            "listed_count": 541
+        },
+        "protected": false
+    },
+    {
+        "id": "1190461842922995712",
+        "username": "CIKM2021",
+        "name": "CIKM 2021",
+        "public_metrics": {
+            "followers_count": 829,
+            "following_count": 3128,
+            "tweet_count": 124,
+            "listed_count": 9
+        },
+        "protected": false
+    },
+    {
+        "id": "19659370",
+        "username": "eglu81",
+        "name": "Gianluca Demartini",
+        "public_metrics": {
+            "followers_count": 633,
+            "following_count": 679,
+            "tweet_count": 412,
+            "listed_count": 36
+        },
+        "protected": false
+    },
+    {
+        "id": "35997368",
+        "username": "qldhealth",
+        "name": "Queensland Health",
+        "public_metrics": {
+            "followers_count": 96275,
+            "following_count": 200,
+            "tweet_count": 9326,
+            "listed_count": 657
+        },
+        "protected": false
+    },
+    {
+        "id": "386277982",
+        "username": "UQ_EAIT",
+        "name": "UQ Engineering and Technology",
+        "public_metrics": {
+            "followers_count": 2020,
+            "following_count": 1288,
+            "tweet_count": 5938,
+            "listed_count": 111
+        },
+        "protected": false
+    },
+    {
+        "id": "1432708124427919364",
+        "username": "zhiyi_liu21",
+        "name": "Zhiyi_Liu",
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 22,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "1192991154452615168",
+        "username": "KXinwen",
+        "name": "Karen Xinwen Liu",
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 259,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "217377296",
+        "username": "matthias_hagen",
+        "name": "Matthias Hagen",
+        "public_metrics": {
+            "followers_count": 678,
+            "following_count": 776,
+            "tweet_count": 285,
+            "listed_count": 19
+        },
+        "protected": false
+    },
+    {
+        "id": "1570094562",
+        "username": "ismail_sabei",
+        "name": "Ismail",
+        "public_metrics": {
+            "followers_count": 178,
+            "following_count": 524,
+            "tweet_count": 507,
+            "listed_count": 1
+        },
+        "protected": false
+    },
+    {
+        "id": "736893980",
+        "username": "Sebastiancrossx",
+        "name": "Sebastian Cross",
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 79,
+            "tweet_count": 52,
+            "listed_count": 2
+        },
+        "protected": false
+    },
+    {
+        "id": "327122348",
+        "username": "AixinSG",
+        "name": "Aixin Sun",
+        "public_metrics": {
+            "followers_count": 521,
+            "following_count": 367,
+            "tweet_count": 1185,
+            "listed_count": 20
+        },
+        "protected": false
+    },
+    {
+        "id": "1255599597763862529",
+        "username": "luyu_gao",
+        "name": "Luyu Gao",
+        "public_metrics": {
+            "followers_count": 181,
+            "following_count": 81,
+            "tweet_count": 61,
+            "listed_count": 3
+        },
+        "protected": false
+    },
+    {
+        "id": "2903173148",
+        "username": "RCCUQ",
+        "name": "UQ Research Computing Centre",
+        "public_metrics": {
+            "followers_count": 1631,
+            "following_count": 2122,
+            "tweet_count": 6390,
+            "listed_count": 109
+        },
+        "protected": false
+    },
+    {
+        "id": "2613619922",
+        "username": "byron_c_wallace",
+        "name": "byron wallace",
+        "public_metrics": {
+            "followers_count": 1074,
+            "following_count": 669,
+            "tweet_count": 415,
+            "listed_count": 30
+        },
+        "protected": false
+    },
+    {
+        "id": "1189786677318807552",
+        "username": "BingLiu1011",
+        "name": "Bing Liu",
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 51,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "1189744336415723520",
+        "username": "SIGIRConf",
+        "name": "SIGIR 2022",
+        "public_metrics": {
+            "followers_count": 1383,
+            "following_count": 36,
+            "tweet_count": 374,
+            "listed_count": 25
+        },
+        "protected": false
+    },
+    {
+        "id": "768288307532836864",
+        "username": "shuyiwang_karly",
+        "name": "Shuyi(Karly) Wang",
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 103,
+            "tweet_count": 10,
+            "listed_count": 1
+        },
+        "protected": false
+    },
+    {
+        "id": "1708743114",
+        "username": "hscells",
+        "name": "Harry Scells",
+        "public_metrics": {
+            "followers_count": 192,
+            "following_count": 270,
+            "tweet_count": 218,
+            "listed_count": 1
+        },
+        "protected": false
+    },
+    {
+        "id": "429259920",
+        "username": "ahsmourad",
+        "name": "Ahmed Mourad",
+        "public_metrics": {
+            "followers_count": 144,
+            "following_count": 257,
+            "tweet_count": 267,
+            "listed_count": 1
+        },
+        "protected": false
+    },
+    {
+        "id": "1182908622113660929",
+        "username": "hanglics",
+        "name": "Hang Li",
+        "public_metrics": {
+            "followers_count": 248,
+            "following_count": 809,
+            "tweet_count": 261,
+            "listed_count": 2
+        },
+        "protected": false
+    },
+    {
+        "id": "1162690737516863494",
+        "username": "ShengyaoZhuang",
+        "name": "Shengyao Zhuang",
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 121,
+            "tweet_count": 52,
+            "listed_count": 1
+        },
+        "protected": false
+    },
+    {
+        "id": "544737616",
+        "username": "guidozuc",
+        "name": "Guido Zuccon",
+        "public_metrics": {
+            "followers_count": 820,
+            "following_count": 506,
+            "tweet_count": 4961,
+            "listed_count": 47
+        },
+        "protected": false
+    },
+    {
+        "id": "984275749824638976",
+        "username": "IELabGroup",
+        "name": "ielab",
+        "public_metrics": {
+            "followers_count": 124,
+            "following_count": 80,
+            "tweet_count": 96,
+            "listed_count": 4
+        },
+        "protected": false
+    },
+    {
+        "id": "708353768786624512",
+        "username": "AussieJobsClub",
+        "name": "Australia Jobs Club",
+        "public_metrics": {
+            "followers_count": 871,
+            "following_count": 807,
+            "tweet_count": 259980,
+            "listed_count": 2
+        },
+        "protected": false
+    },
+    {
+        "id": "19176710",
+        "username": "WestAustralia",
+        "name": "Western Australia",
+        "public_metrics": {
+            "followers_count": 136807,
+            "following_count": 280,
+            "tweet_count": 34519,
+            "listed_count": 1008
+        },
+        "protected": false
+    },
+    {
+        "id": "26015589",
+        "username": "Skyscanner",
+        "name": "Skyscanner",
+        "public_metrics": {
+            "followers_count": 165375,
+            "following_count": 1543,
+            "tweet_count": 50087,
+            "listed_count": 1510
+        },
+        "protected": false
+    },
+    {
+        "id": "427459511",
+        "username": "AirChinaNA",
+        "name": "Air China",
+        "public_metrics": {
+            "followers_count": 25476,
+            "following_count": 2467,
+            "tweet_count": 6555,
+            "listed_count": 353
+        },
+        "protected": false
+    },
+    {
+        "id": "22919665",
+        "username": "airasia",
+        "name": "airasia Super App",
+        "public_metrics": {
+            "followers_count": 3253364,
+            "following_count": 421,
+            "tweet_count": 50522,
+            "listed_count": 4900
+        },
+        "protected": false
+    },
+    {
+        "id": "179379726",
+        "username": "AVA_airasia",
+        "name": "airasia Support",
+        "public_metrics": {
+            "followers_count": 316518,
+            "following_count": 9793,
+            "tweet_count": 653523,
+            "listed_count": 533
+        },
+        "protected": false
+    },
+    {
+        "id": "1542862735",
+        "username": "Ryanair",
+        "name": "Ryanair",
+        "public_metrics": {
+            "followers_count": 498763,
+            "following_count": 352,
+            "tweet_count": 283238,
+            "listed_count": 2069
+        },
+        "protected": false
+    },
+    {
+        "id": "1671130698",
+        "username": "TEDxUofGlasgow",
+        "name": "TEDxUofGlasgow",
+        "public_metrics": {
+            "followers_count": 1185,
+            "following_count": 259,
+            "tweet_count": 1645,
+            "listed_count": 23
+        },
+        "protected": false
+    },
+    {
+        "id": "2203940882",
+        "username": "WoScholarships",
+        "name": "World Scholarships",
+        "public_metrics": {
+            "followers_count": 615,
+            "following_count": 0,
+            "tweet_count": 4511,
+            "listed_count": 13
+        },
+        "protected": false
+    },
+    {
+        "id": "470124926",
+        "username": "Scholarships_T",
+        "name": "ScholarshipsTimes",
+        "public_metrics": {
+            "followers_count": 7762,
+            "following_count": 1900,
+            "tweet_count": 7466,
+            "listed_count": 23
+        },
+        "protected": false
+    },
+    {
+        "id": "22742520",
+        "username": "uwanews",
+        "name": "UWA",
+        "public_metrics": {
+            "followers_count": 22683,
+            "following_count": 2984,
+            "tweet_count": 13123,
+            "listed_count": 350
+        },
+        "protected": false
+    },
+    {
+        "id": "63681020",
+        "username": "VirginTrains",
+        "name": "Virgin Trains",
+        "public_metrics": {
+            "followers_count": 436897,
+            "following_count": 6754,
+            "tweet_count": 1109321,
+            "listed_count": 1410
+        },
+        "protected": false
+    },
+    {
+        "id": "292105151",
+        "username": "CityofPerth",
+        "name": "City of Perth",
+        "public_metrics": {
+            "followers_count": 111535,
+            "following_count": 1489,
+            "tweet_count": 14147,
+            "listed_count": 331
+        },
+        "protected": false
+    },
+    {
+        "id": "16416978",
+        "username": "GlasgowCC",
+        "name": "Glasgow City Council",
+        "public_metrics": {
+            "followers_count": 200885,
+            "following_count": 758,
+            "tweet_count": 28702,
+            "listed_count": 971
+        },
+        "protected": false
+    },
+    {
+        "id": "19760151",
+        "username": "UofGlasgow",
+        "name": "University of Glasgow",
+        "public_metrics": {
+            "followers_count": 121276,
+            "following_count": 1932,
+            "tweet_count": 24295,
+            "listed_count": 1240
+        },
+        "protected": false
+    }
+]

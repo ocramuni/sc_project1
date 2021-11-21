@@ -1,0 +1,140 @@
+[
+    {
+        "id": "1258837547624660992",
+        "username": "DabechOfficial",
+        "name": "LISA Sandford",
+        "description": "Lives in || Okinawa Japan ||\nFrom || San Jose California ||\nSingle 🌹||",
+        "location": "Okinawa-ken, Japan",
+        "public_metrics": {
+            "followers_count": 184,
+            "following_count": 172,
+            "tweet_count": 692,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "129155606",
+        "username": "TheShahrozTariq",
+        "name": "Shahroz Tariq (looking for an academic job)",
+        "description": "Looking for an academic position. Ph.D. candidate at Sungkyunkwan Uni., South Korea. Previously @SBUCOMPSC - I work on #DeepFake, #Security & #Privacy of AI",
+        "location": "Suwon-si, Republic of Korea",
+        "public_metrics": {
+            "followers_count": 193,
+            "following_count": 1800,
+            "tweet_count": 758,
+            "listed_count": 1
+        },
+        "protected": false
+    },
+    {
+        "id": "1432698364248956936",
+        "username": "FtoonShaqra",
+        "name": "Futoon M. abushaqra",
+        "description": "PhD student @RMIT, Learning is a delight 📚📖\nLOVE 🖤:  Clouds☁️  Blossoms🌸 Rain☔\n\"BE KIND\" 🙏",
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 27,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "50298820",
+        "username": "omarkhadeer",
+        "name": "Omar Hussain",
+        "description": "",
+        "location": "Canberra",
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 38,
+            "tweet_count": 297,
+            "listed_count": 0
+        },
+        "protected": true
+    },
+    {
+        "id": "16549460",
+        "username": "karinv",
+        "name": "professor karin verspoor",
+        "description": "Executive Dean @RMITComputing; AI in medicine; text mining, bioinformatics, health informatics #NLProc #techdiversity #TeamHB3 pronouns: she/her",
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 2337,
+            "following_count": 1670,
+            "tweet_count": 4448,
+            "listed_count": 97
+        },
+        "protected": false
+    },
+    {
+        "id": "1317027190005903360",
+        "username": "SyamMoh34876112",
+        "name": "Syam Mohan",
+        "description": "Tech Enthusiast #AI #ML #Robotics Lover",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 106,
+            "tweet_count": 18,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "93781753",
+        "username": "RMITComputing",
+        "name": "RMIT School of Computing Technologies",
+        "description": "Tech news and ICT updates brought to you by specialists at the RMIT University's School of Computing Technologies, based in Melbourne, Australia.",
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 7958,
+            "following_count": 6109,
+            "tweet_count": 70154,
+            "listed_count": 1923
+        },
+        "protected": false
+    },
+    {
+        "id": "132646210",
+        "username": "damiano10",
+        "name": "Damiano Spina",
+        "description": "PhD in Computer Science. Lecturer & DECRA at @RMIT, @RMITComputing, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira @ACDP_Australia. Percussionist at @Wombatuque.",
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 963,
+            "following_count": 821,
+            "tweet_count": 2835,
+            "listed_count": 55
+        },
+        "protected": false
+    },
+    {
+        "id": "553547614",
+        "username": "GaofengZhang",
+        "name": "Gaofeng Zhang",
+        "description": "New rain, old maple.",
+        "location": "London, UK",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 85,
+            "tweet_count": 66,
+            "listed_count": 0
+        },
+        "protected": false
+    },
+    {
+        "id": "589776382",
+        "username": "CurtinSports",
+        "name": "Curtin Sports",
+        "description": "The official Curtin Stadium Sports Twitter! Keep up to date with all the sport opportunities at Curtin University.",
+        "location": "Perth",
+        "public_metrics": {
+            "followers_count": 394,
+            "following_count": 981,
+            "tweet_count": 466,
+            "listed_count": 9
+        },
+        "protected": false
+    }
+]

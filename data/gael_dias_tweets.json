@@ -1,0 +1,62 @@
+[
+    {
+        "text": "RT @AntoinDoucet: Full details: https://t.co/Vs7M1yhsGM and https://t.co/eZ4yvbOUaj",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-06T13:09:52.000Z",
+        "lang": "en",
+        "id": "1445738077293408261"
+    },
+    {
+        "text": "Welcome to @AlexandrePerier who joins @IMAGE_GreycLab for a 4-month internship on Unsupervised Generation of Humorous Quotes.",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-06T14:36:19.000Z",
+        "lang": "en",
+        "id": "1434888197998264324"
+    },
+    {
+        "text": "Our paper on Multimodal Web Page Segmentation Using Self-organized Multi-objective Clustering with S. Jayashree, @Judithjfreeda S. Saha, @maurel_fabrice and S. Ferrari accepted at @acmtois. #WebAcessibility #VisuallyImpairedPeople",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-06T14:35:18.000Z",
+        "lang": "en",
+        "id": "1434887940669333509"
+    },
+    {
+        "text": "RT @jgmorenof: bravo @HoussamAkhmouch !!!! our paper \"Understanding Feature Focus in Multitask Settings for Lexico-semantic Relation Identi…",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-06T18:54:43.000Z",
+        "lang": "en",
+        "id": "1390379518133784580"
+    },
+    {
+        "text": "Our paper on Improving Neural Text Style Transfer by Introducing Loss Function Sequentiality with @chinmayrane16, Lechervy A. and Ekbal A. accepted at #SIGIR2021 @IMAGE_GreycLab @IITPAT",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "created_at": "2021-04-16T16:10:41.000Z",
+        "lang": "en",
+        "id": "1383090478212640770"
+    }
+]

@@ -1,106 +1,136 @@
-{
-    "mizzaro": [
-        {
-            "id": 998681467696885761,
-            "name": "Oleg Zendel",
-            "screen_name": "OlegZendel",
-            "location": "Melbourne, Victoria",
-            "description": "IR Ph.D. candidate at @RMIT",
-            "protected": false,
+[
+    {
+        "location": "Melbourne, Victoria",
+        "description": "IR Ph.D. candidate at @RMIT",
+        "username": "OlegZendel",
+        "id": "998681467696885761",
+        "protected": false,
+        "name": "Oleg Zendel",
+        "public_metrics": {
             "followers_count": 91,
-            "friends_count": 513
-        },
-        {
-            "id": 1369078711,
-            "name": "Lynda Said Lhadj",
-            "screen_name": "LyndaSaidLhadj",
-            "location": "Algiers",
-            "description": "Assistant Professor @esi_ex_ini, former Post-doc at MLIA LIP6, interested in Information Access and Retrieval, Applied NLP, and Applied Machine/deep learning.",
-            "protected": false,
-            "followers_count": 339,
-            "friends_count": 763
-        },
-        {
-            "id": 1400407060311851009,
-            "name": "acai2021",
-            "screen_name": "acai2021",
-            "location": "Berlin",
-            "description": "The 18th European Advanced Course on AI: Human-centred AI",
-            "protected": false,
+            "following_count": 513,
+            "tweet_count": 116,
+            "listed_count": 1
+        }
+    },
+    {
+        "location": "Algiers",
+        "description": "Assistant Professor @esi_ex_ini, former Post-doc at MLIA LIP6, interested in Information Access and Retrieval, Applied NLP, and Applied Machine/deep learning.",
+        "username": "LyndaSaidLhadj",
+        "id": "1369078711",
+        "protected": false,
+        "name": "Lynda Said Lhadj",
+        "public_metrics": {
+            "followers_count": 340,
+            "following_count": 764,
+            "tweet_count": 259,
+            "listed_count": 8
+        }
+    },
+    {
+        "location": "Berlin",
+        "description": "The 18th European Advanced Course on AI: Human-centred AI",
+        "username": "acai2021",
+        "id": "1400407060311851009",
+        "protected": false,
+        "name": "acai2021",
+        "public_metrics": {
             "followers_count": 184,
-            "friends_count": 53
-        },
-        {
-            "id": 1265795638551212032,
-            "name": "Rodger Benham",
-            "screen_name": "rodger_benham",
-            "location": "",
-            "description": "Software Engineer at @RubiconWater in the final stages of a Computer Science PhD at @RMIT.",
-            "protected": false,
-            "followers_count": 133,
-            "friends_count": 270
-        },
-        {
-            "id": 740410382,
-            "name": "ἀν-ἀρχή",
-            "screen_name": "ColoursRiot",
-            "location": "",
-            "description": "",
-            "protected": false,
+            "following_count": 53,
+            "tweet_count": 41,
+            "listed_count": 2
+        }
+    },
+    {
+        "description": "Software Engineer at @RubiconWater in the final stages of a Computer Science PhD at @RMIT.",
+        "username": "rodger_benham",
+        "id": "1265795638551212032",
+        "protected": false,
+        "name": "Rodger Benham",
+        "public_metrics": {
+            "followers_count": 132,
+            "following_count": 270,
+            "tweet_count": 82,
+            "listed_count": 1
+        }
+    },
+    {
+        "description": "",
+        "username": "ColoursRiot",
+        "id": "740410382",
+        "protected": false,
+        "name": "ἀν-ἀρχή",
+        "public_metrics": {
             "followers_count": 27,
-            "friends_count": 235
+            "following_count": 235,
+            "tweet_count": 900,
+            "listed_count": 1
         }
-    ],
-    "Miccighel_": [
-        {
-            "id": 1455458703524700161,
-            "name": "Federico",
-            "screen_name": "Il_Bale_",
-            "location": "",
-            "description": "",
-            "protected": false,
-            "followers_count": 1,
-            "friends_count": 20
-        },
-        {
-            "id": 822006673267159040,
-            "name": "Outsider 🐝",
-            "screen_name": "Outsider289",
-            "location": "",
-            "description": "Never settle.\n⬇️👩🏻‍🍳🧁⬇️",
-            "protected": false,
+    },
+    {
+        "protected": false,
+        "public_metrics": {
             "followers_count": 125,
-            "friends_count": 117
+            "following_count": 117,
+            "tweet_count": 1368,
+            "listed_count": 0
         },
-        {
-            "id": 18932422,
-            "name": "mizzaro",
-            "screen_name": "mizzaro",
-            "location": "",
-            "description": "",
-            "protected": false,
+        "username": "Outsider289",
+        "name": "Outsider 🐝",
+        "id": "822006673267159040",
+        "description": "Never settle.\n⬇️👩🏻‍🍳🧁⬇️"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
             "followers_count": 162,
-            "friends_count": 358
+            "following_count": 358,
+            "tweet_count": 154,
+            "listed_count": 8
         },
-        {
-            "id": 2478451308,
-            "name": "EURO ARTISTS",
-            "screen_name": "EUROARTISTS",
-            "location": "",
-            "description": "Management of Symphony and Chamber orchestra and big events",
-            "protected": false,
+        "username": "mizzaro",
+        "name": "mizzaro",
+        "id": "18932422",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "public_metrics": {
             "followers_count": 185,
-            "friends_count": 463
+            "following_count": 463,
+            "tweet_count": 41,
+            "listed_count": 0
         },
-        {
-            "id": 860108790645084160,
-            "name": "Francesco",
-            "screen_name": "fra_bomba6",
-            "location": "Lignano Sabbiadoro, Friuli-Ven",
-            "description": "",
-            "protected": false,
-            "followers_count": 10,
-            "friends_count": 62
-        }
-    ]
-}
+        "username": "EUROARTISTS",
+        "name": "EURO ARTISTS",
+        "id": "2478451308",
+        "description": "Management of Symphony and Chamber orchestra and big events"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 85,
+            "tweet_count": 51,
+            "listed_count": 0
+        },
+        "username": "VincenzoCarli15",
+        "name": "Vincenzo Carlino",
+        "id": "1274089631580073984",
+        "description": "You can never understand everything. But, you should push yourself to understand the system. Software Architect at @mvlabsit"
+    },
+    {
+        "protected": false,
+        "location": "Udine, Friuli-Venezia Giulia",
+        "public_metrics": {
+            "followers_count": 185,
+            "following_count": 345,
+            "tweet_count": 2867,
+            "listed_count": 1
+        },
+        "username": "Ilele99",
+        "name": "dominiciiii",
+        "id": "2572511777",
+        "description": "Sparkler \nCobra"
+    }
+]

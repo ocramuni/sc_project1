@@ -1,0 +1,3167 @@
+[
+    {
+        "name": "Ilaria Ermacora",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 702,
+            "following_count": 707,
+            "tweet_count": 9182,
+            "listed_count": 0
+        },
+        "location": "Magnano in Riviera, Friuli-Ven",
+        "username": "Ilaaa182",
+        "id": "1259761850",
+        "description": "Live fast die che 'ndemo 🤙🏻"
+    },
+    {
+        "name": "Leo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 330,
+            "following_count": 286,
+            "tweet_count": 9051,
+            "listed_count": 0
+        },
+        "location": "Friuli-Venezia Giulia, Italia",
+        "username": "LeonardoVale96",
+        "id": "2496540962",
+        "description": "Il cielo non pensa e nemmeno si agita ed è per questo che in fondo un poco lo invidio"
+    },
+    {
+        "name": "Sop",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 69,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "sopluke",
+        "id": "822933216206188544",
+        "description": ""
+    },
+    {
+        "name": "EG",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 49,
+            "following_count": 89,
+            "tweet_count": 560,
+            "listed_count": 0
+        },
+        "location": "Gemona del Friuli, Friuli-Vene",
+        "username": "erikagubiani99",
+        "id": "782992728095326209",
+        "description": ""
+    },
+    {
+        "name": "Em",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 321,
+            "following_count": 420,
+            "tweet_count": 701,
+            "listed_count": 2
+        },
+        "username": "em_I_lost",
+        "id": "315707871",
+        "description": "UniTs |  📚🏔🏃‍♀️🧘‍♀️ | she/her"
+    },
+    {
+        "name": "Ceci n'est pas Alessia",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 55,
+            "following_count": 74,
+            "tweet_count": 655,
+            "listed_count": 0
+        },
+        "location": "Gemona del Friuli, Friuli-Vene",
+        "username": "AlessiaMarzona",
+        "id": "912398983435309056",
+        "description": "When life gives you lemons, make lemonade"
+    },
+    {
+        "name": "Ilia Pinosa",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 154,
+            "following_count": 153,
+            "tweet_count": 2279,
+            "listed_count": 0
+        },
+        "location": "Udine",
+        "username": "IliaPinosa",
+        "id": "615044648",
+        "description": ""
+    },
+    {
+        "name": "Tiziana",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 117,
+            "tweet_count": 29,
+            "listed_count": 0
+        },
+        "username": "TemporalTiziana",
+        "id": "1372510804277407746",
+        "description": "Ogni tanto sono simpatica"
+    },
+    {
+        "name": "ELISA",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 601,
+            "following_count": 863,
+            "tweet_count": 6096,
+            "listed_count": 1
+        },
+        "location": "Udine, Friuli-Venezia Giulia",
+        "username": "BiancolinoElisa",
+        "id": "700064764",
+        "description": "Italy • Public Relations Office @uniud • Master #Food & #Wine 4.0 @IUS_VE • Art, travel and photography addicted"
+    },
+    {
+        "name": "CIKM 2021",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 829,
+            "following_count": 3128,
+            "tweet_count": 124,
+            "listed_count": 9
+        },
+        "location": "Gold Coast, QLD, Australia",
+        "username": "CIKM2021",
+        "id": "1190461842922995712",
+        "description": "ACM CIKM 2021 Conference\n1-5 Nov 2021, Online"
+    },
+    {
+        "name": "juliute-",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 56,
+            "tweet_count": 217,
+            "listed_count": 0
+        },
+        "username": "julietajazmin__",
+        "id": "1254150528986120192",
+        "description": "sta scrivendo..."
+    },
+    {
+        "name": "Gianluca Demartini",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 633,
+            "following_count": 679,
+            "tweet_count": 412,
+            "listed_count": 36
+        },
+        "location": "Brisbane, Queensland",
+        "username": "eglu81",
+        "id": "19659370",
+        "description": "Associate Professor in #datascience at @UQSchoolITEE @UQ_EAIT working on Information Retrieval, human-in-the-loop #AI, #bias, #fakenews, and #bigdata analytics"
+    },
+    {
+        "name": "Kevin Roitero",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 121,
+            "following_count": 289,
+            "tweet_count": 22,
+            "listed_count": 5
+        },
+        "username": "KevinRoitero",
+        "id": "3036907250",
+        "description": ""
+    },
+    {
+        "name": "UnoVirgolaVentuno",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 63,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "username": "1virgola21",
+        "id": "3043883367",
+        "description": "Di viaggi: mentali, sognati, vissuti, ricordati."
+    },
+    {
+        "name": "Dj Skamsta",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 262,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "username": "skamsta",
+        "id": "2574849792",
+        "description": "Follow my page on Facebook and be sure to follow Despicable Bass n all the DJ’s and MC’s 🔊🤪 follow link ; https://t.co/8wHIzmLQwU"
+    },
+    {
+        "name": "The Machine Learning Hub",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10410,
+            "following_count": 9284,
+            "tweet_count": 1162,
+            "listed_count": 213
+        },
+        "location": "The place where AI happens",
+        "username": "TheMLHub",
+        "id": "829108462244093952",
+        "description": "opinions are my own and do not reflect my company’s opinions"
+    },
+    {
+        "name": "JacopoBertoli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 357,
+            "tweet_count": 471,
+            "listed_count": 1
+        },
+        "username": "JacopoBertoli",
+        "id": "897568340075479040",
+        "description": "Rubo radicchio dagli orti degli altri.\n\nPhD candidate EHESS/LAS"
+    },
+    {
+        "name": "Marco Casagrande",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 147,
+            "following_count": 139,
+            "tweet_count": 11,
+            "listed_count": 1
+        },
+        "location": "Gemona Del Friuli",
+        "username": "piombin18",
+        "id": "2544647385",
+        "description": "Nulla è più raro al mondo, che una persona abitualmente sopportabile. -G. Leopardi-"
+    },
+    {
+        "name": "Giulia Andreana",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 71,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "andreana_giulia",
+        "id": "848138109833420800",
+        "description": ""
+    },
+    {
+        "name": "Giovanni Colomba",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 63,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "ColombaGiovanni",
+        "id": "843506680851763200",
+        "description": ""
+    },
+    {
+        "name": "Pilar",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 76,
+            "tweet_count": 35,
+            "listed_count": 0
+        },
+        "username": "pilarbordano",
+        "id": "838131126002728960",
+        "description": ""
+    },
+    {
+        "name": "Jerry",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 81,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "jerrypicco1",
+        "id": "832361946154401792",
+        "description": ""
+    },
+    {
+        "name": "Tiziana Picco",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 95,
+            "tweet_count": 107,
+            "listed_count": 0
+        },
+        "username": "PiccoTiziana",
+        "id": "830790223344844800",
+        "description": "😘😘😘😘😘😘😘😘"
+    },
+    {
+        "name": "Outsider 🐝",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 125,
+            "following_count": 117,
+            "tweet_count": 1368,
+            "listed_count": 0
+        },
+        "username": "Outsider289",
+        "id": "822006673267159040",
+        "description": "Never settle.\n⬇️👩🏻‍🍳🧁⬇️"
+    },
+    {
+        "name": "Giulia Zuliani",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40,
+            "following_count": 59,
+            "tweet_count": 382,
+            "listed_count": 0
+        },
+        "username": "zulianigiulia21",
+        "id": "800741784372461571",
+        "description": "Ciò che non è adeguato è inutile averlo!🎀"
+    },
+    {
+        "name": "Alessia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 79,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "vhaley14",
+        "id": "819979339034988544",
+        "description": ""
+    },
+    {
+        "name": "Tinovantatre",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 89,
+            "tweet_count": 521,
+            "listed_count": 0
+        },
+        "location": "Venzone, Friuli-Venezia Giulia",
+        "username": "tinovantatre",
+        "id": "817074124493324288",
+        "description": "Troppi interessi, poco tempo"
+    },
+    {
+        "name": "Tommaso Pavon",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 91,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "tommy_pavi01",
+        "id": "813697723773886464",
+        "description": ""
+    },
+    {
+        "name": "Denis",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 75,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "denisvenier1",
+        "id": "799253224226193409",
+        "description": ""
+    },
+    {
+        "name": "Anna Montagnese",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 59,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "anna_montagnese",
+        "id": "784658801823735808",
+        "description": ""
+    },
+    {
+        "name": "Elaine",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 172,
+            "following_count": 1627,
+            "tweet_count": 1860,
+            "listed_count": 2
+        },
+        "location": "Perugia, Umbria",
+        "username": "IleniaMarie",
+        "id": "742818471306792960",
+        "description": "un po' come quando hai la felicità ad un palmo di mano e quella chiude il pugno.👋🏽👊🏽"
+    },
+    {
+        "name": "Stephanie L",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 63,
+            "following_count": 895,
+            "tweet_count": 1620,
+            "listed_count": 1
+        },
+        "username": "snlfoto",
+        "id": "141589012",
+        "description": "Future art educator \r\nLove to Collage & Photograph"
+    },
+    {
+        "name": "felix",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 165,
+            "tweet_count": 55,
+            "listed_count": 0
+        },
+        "username": "DiDidofelix",
+        "id": "513467849",
+        "description": ""
+    },
+    {
+        "name": "Anna Berry",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 129,
+            "following_count": 3028,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "FERDAVID32",
+        "id": "137562171",
+        "description": ""
+    },
+    {
+        "name": "Susan Douglas",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 2317,
+            "tweet_count": 19,
+            "listed_count": 0
+        },
+        "username": "ScottMillie",
+        "id": "574310302",
+        "description": "Honey! I'm waiting u here (my login same in tw) -  https://t.co/jANdzkZQNe"
+    },
+    {
+        "name": "Sally Ermacora",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 81,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "location": "a casa mia",
+        "username": "SallyErmacora",
+        "id": "741611174840655872",
+        "description": "Moda & Design"
+    },
+    {
+        "name": "john walsh",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 811,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "location": "Leitrim ",
+        "username": "jpw_irl",
+        "id": "435650551",
+        "description": ""
+    },
+    {
+        "name": "Federico",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 48,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "location": "Ragogna, Friuli-Venezia Giulia",
+        "username": "federicobufi",
+        "id": "739565869433524225",
+        "description": ""
+    },
+    {
+        "name": "Anna",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 46,
+            "following_count": 40,
+            "tweet_count": 83,
+            "listed_count": 0
+        },
+        "location": "Gemona del Friuli",
+        "username": "anna_londe",
+        "id": "710740622349623296",
+        "description": ""
+    },
+    {
+        "name": "Nico",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 75,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Nico67107180",
+        "id": "725385525595672577",
+        "description": ""
+    },
+    {
+        "name": "fabio",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 46,
+            "following_count": 235,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "location": "Portis di Venzone",
+        "username": "fabiodibernard2",
+        "id": "3216603743",
+        "description": ""
+    },
+    {
+        "name": "Vane",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 73,
+            "following_count": 510,
+            "tweet_count": 22,
+            "listed_count": 1
+        },
+        "username": "VezVane",
+        "id": "3409096732",
+        "description": "Don't worry, don't cry, drink vodka and fly"
+    },
+    {
+        "name": "Беппе Беппе",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 101,
+            "following_count": 79,
+            "tweet_count": 738,
+            "listed_count": 0
+        },
+        "username": "TimeusGiuseppe",
+        "id": "377257805",
+        "description": ""
+    },
+    {
+        "name": "Dj Francesco Dm",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 240,
+            "following_count": 1784,
+            "tweet_count": 20,
+            "listed_count": 0
+        },
+        "username": "francescodimag1",
+        "id": "407263375",
+        "description": "info facebook francesco di maggio cell.3484923103  #sempreforti"
+    },
+    {
+        "name": "Anna",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 61,
+            "following_count": 757,
+            "tweet_count": 24,
+            "listed_count": 0
+        },
+        "location": "Georgia",
+        "username": "bezanishvili",
+        "id": "1259050231",
+        "description": ""
+    },
+    {
+        "name": "Dimagrire Facile",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 211,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "username": "FacileDimgrire",
+        "id": "4236756923",
+        "description": ""
+    },
+    {
+        "name": "Paolo ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 59,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "username": "paolodeprato",
+        "id": "3449711117",
+        "description": ""
+    },
+    {
+        "name": "TREXENTATOURISM",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 428,
+            "following_count": 1783,
+            "tweet_count": 6,
+            "listed_count": 3
+        },
+        "username": "TREXENTATOUR",
+        "id": "3345359614",
+        "description": ""
+    },
+    {
+        "name": "Eimmy Elizabeth",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 79,
+            "tweet_count": 133,
+            "listed_count": 0
+        },
+        "username": "EimmyElizabeth",
+        "id": "2534808292",
+        "description": ""
+    },
+    {
+        "name": "irene onofrio",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 405,
+            "following_count": 1244,
+            "tweet_count": 362,
+            "listed_count": 0
+        },
+        "username": "idonimorte98",
+        "id": "3327924454",
+        "description": "\"voldemort ci ha insegnato che senza amore non si vive si sopravvive\" 🖤"
+    },
+    {
+        "name": "Christian Zuttion",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 97,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "ChristianZutti1",
+        "id": "3296695011",
+        "description": ""
+    },
+    {
+        "name": "francesco gibilras",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 60,
+            "following_count": 784,
+            "tweet_count": 78,
+            "listed_count": 1
+        },
+        "username": "francescogibil2",
+        "id": "3242397351",
+        "description": ""
+    },
+    {
+        "name": "Nadia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 249,
+            "tweet_count": 153,
+            "listed_count": 1
+        },
+        "username": "NadiaPersello",
+        "id": "3085641776",
+        "description": "se ti droghi ti capisco,perché il modo ti fa schifo. Se non lo fai ti ammiro perché sei in grado di combatterlo"
+    },
+    {
+        "name": "tempusestjocundum",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 288,
+            "tweet_count": 59,
+            "listed_count": 0
+        },
+        "location": "Gemona del Friuli",
+        "username": "tempusgemona",
+        "id": "3197088767",
+        "description": "Gemona del Friuli (UD) rivive il suo antico splendore con serate di ambientazione medievale. #tempus2016 #tempusgemona"
+    },
+    {
+        "name": "Miliute",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 362,
+            "following_count": 713,
+            "tweet_count": 4062,
+            "listed_count": 1
+        },
+        "username": "EmiliaPituelli",
+        "id": "1212632928",
+        "description": "Italy 🇮🇹//\nDancer // Gym // \nSport addicted //\nLove travelling // \n19"
+    },
+    {
+        "name": "LevantE",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 94,
+            "following_count": 218,
+            "tweet_count": 136,
+            "listed_count": 0
+        },
+        "username": "EValent91",
+        "id": "3028772411",
+        "description": "12.10.1991 // Padova // Lettere // Non scriverò bei Tweet ma almeno sono stupenda. No, dai, scherzavo: sono belli anche i miei Tweet."
+    },
+    {
+        "name": "❤️K][A][R][E][N]❤️",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 376,
+            "following_count": 2891,
+            "tweet_count": 763,
+            "listed_count": 1
+        },
+        "username": "spicelove85",
+        "id": "3026969013",
+        "description": ""
+    },
+    {
+        "name": "Maila Bozzo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 36,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "BozzoMaila",
+        "id": "3019826075",
+        "description": ""
+    },
+    {
+        "name": "StefanoBass",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 24,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "location": "Venzone",
+        "username": "StefanoBassi17",
+        "id": "1439670505",
+        "description": "- Stefano Bassi -"
+    },
+    {
+        "name": "Querini Francesca",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 212,
+            "tweet_count": 18,
+            "listed_count": 0
+        },
+        "location": "osoppo",
+        "username": "_Querix_",
+        "id": "517818047",
+        "description": ""
+    },
+    {
+        "name": "sebastianmatiz",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 383,
+            "following_count": 1625,
+            "tweet_count": 27,
+            "listed_count": 1
+        },
+        "username": "Matiz56Sebastia",
+        "id": "2816227462",
+        "description": ""
+    },
+    {
+        "name": "Michele Diocrespy Kl",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 101,
+            "tweet_count": 18,
+            "listed_count": 0
+        },
+        "username": "KlMichele",
+        "id": "2900424513",
+        "description": ""
+    },
+    {
+        "name": "SixtySound",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 170,
+            "tweet_count": 259,
+            "listed_count": 1
+        },
+        "location": "Majano",
+        "username": "SixtySound",
+        "id": "2328843320",
+        "description": "SIXTIES ARE BACK...\nROCK, while having much fun :)        CONTATTI: 349 6766031 (Antonella) 347 9324539 (Luca)"
+    },
+    {
+        "name": "Giovanna Genovino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 255,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "GiovannaGenovi3",
+        "id": "2883786004",
+        "description": ""
+    },
+    {
+        "name": "Lau",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 84,
+            "following_count": 85,
+            "tweet_count": 858,
+            "listed_count": 0
+        },
+        "username": "lauradelsanto",
+        "id": "2861511412",
+        "description": "Forse si, sono un po' stronza"
+    },
+    {
+        "name": "lorenzo mainardis ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 105,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "loli_lory",
+        "id": "2820396873",
+        "description": ""
+    },
+    {
+        "name": "EliCottero ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 69,
+            "following_count": 150,
+            "tweet_count": 193,
+            "listed_count": 0
+        },
+        "username": "EBertolano",
+        "id": "2806137233",
+        "description": "All the dreams we held so close seemed to all go up in smoke"
+    },
+    {
+        "name": "Mattia.rvs",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 303,
+            "following_count": 545,
+            "tweet_count": 10320,
+            "listed_count": 4
+        },
+        "location": "Ovaro",
+        "username": "RovisMattia",
+        "id": "2165429591",
+        "description": "È adesso che stai scrivendo la tua storia, e dovrai chiederti se quando l'avrai finita, qualcuno vorrà leggerla!"
+    },
+    {
+        "name": "MelodyFood",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 49,
+            "following_count": 87,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "username": "AriannaDose",
+        "id": "289937215",
+        "description": ""
+    },
+    {
+        "name": "Thu menolsiito ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 188,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "username": "RodalvinPreetyy",
+        "id": "2784281146",
+        "description": "@Tu Lindoo toi mas bueno q ricki martin 3"
+    },
+    {
+        "name": "Blue Koma Festival",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 589,
+            "tweet_count": 120,
+            "listed_count": 2
+        },
+        "location": "London",
+        "username": "bluekomafest",
+        "id": "2828953765",
+        "description": "Electronic / Dance / Trance / House Music Festival"
+    },
+    {
+        "name": "Ma sti cazzi.",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 735,
+            "following_count": 531,
+            "tweet_count": 15638,
+            "listed_count": 1
+        },
+        "location": "Udine - Brindisi",
+        "username": "_remember_him",
+        "id": "428489196",
+        "description": "20 / Puglia / Italy. What are we waiting for? Udine."
+    },
+    {
+        "name": "Marianna F",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 608,
+            "tweet_count": 94,
+            "listed_count": 0
+        },
+        "username": "mf_falco",
+        "id": "1917043884",
+        "description": ""
+    },
+    {
+        "name": "Matteo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 48,
+            "following_count": 265,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "matteo1035",
+        "id": "2760321640",
+        "description": "Basket is my life"
+    },
+    {
+        "name": "Sergio Vacchi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 216,
+            "following_count": 1647,
+            "tweet_count": 552,
+            "listed_count": 0
+        },
+        "username": "vacchi32",
+        "id": "2754814433",
+        "description": "Betta ti amooo"
+    },
+    {
+        "name": "Giovanna Genovino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 352,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "location": "Udine",
+        "username": "genovino89",
+        "id": "2763755527",
+        "description": ""
+    },
+    {
+        "name": "Marley🐾",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 624,
+            "following_count": 578,
+            "tweet_count": 17035,
+            "listed_count": 7
+        },
+        "location": "Gemona del Friuli, Friuli-Venezia Giulia",
+        "username": "cometenessuno_",
+        "id": "2297476732",
+        "description": "Rimanere abbracciati. A non dirsi niente. A sentire tutto."
+    },
+    {
+        "name": "A L E ♛",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 114,
+            "tweet_count": 8,
+            "listed_count": 0
+        },
+        "username": "casan_ale",
+        "id": "2741324319",
+        "description": "Freedom"
+    },
+    {
+        "name": "Fabiano Ghedin",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 71,
+            "tweet_count": 77,
+            "listed_count": 0
+        },
+        "username": "FabianoGhedin",
+        "id": "2735046987",
+        "description": "Drummer | La vita è una questione di ritmo"
+    },
+    {
+        "name": "Caaaaarl",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 205,
+            "tweet_count": 69,
+            "listed_count": 0
+        },
+        "username": "CarlIlLama",
+        "id": "2692828814",
+        "description": "Amo Paul e le mani-Sociopatico con svariati disturbi della personalità-Creo draghi di carne-Bacio le statue di ghiaccio-Mangio baristi-Suono il Saxofono"
+    },
+    {
+        "name": "Antonella turani",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 31,
+            "tweet_count": 23,
+            "listed_count": 0
+        },
+        "username": "AntonellaTurani",
+        "id": "2263483079",
+        "description": ""
+    },
+    {
+        "name": "Patrick Bellina",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 172,
+            "following_count": 297,
+            "tweet_count": 703,
+            "listed_count": 0
+        },
+        "username": "PatrickBellina",
+        "id": "2725508158",
+        "description": "In polleggio"
+    },
+    {
+        "name": "Alma Palma",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 15,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "almagallerio",
+        "id": "2720830107",
+        "description": ""
+    },
+    {
+        "name": "Domenico Zarrillo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 58,
+            "following_count": 580,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "username": "zarrillodomeni2",
+        "id": "2714310207",
+        "description": ""
+    },
+    {
+        "name": "Nico Soranno",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 75,
+            "following_count": 231,
+            "tweet_count": 1856,
+            "listed_count": 1
+        },
+        "location": "Tarvisio",
+        "username": "Nicone93",
+        "id": "2282267509",
+        "description": "Perito informatico, appassionato di HW e riparazioni. Segue il mondo degli smartphone, in particolare Android. Pandista."
+    },
+    {
+        "name": "Bianca Tomadini",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 111,
+            "tweet_count": 91,
+            "listed_count": 0
+        },
+        "location": "Gemona del Friuli ",
+        "username": "BTomadini",
+        "id": "2492603860",
+        "description": ""
+    },
+    {
+        "name": "Fabio Panarelli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 129,
+            "following_count": 847,
+            "tweet_count": 754,
+            "listed_count": 0
+        },
+        "location": "Tarcento (UD)",
+        "username": "FabioPanarelli",
+        "id": "202626872",
+        "description": ""
+    },
+    {
+        "name": "Antonio Laurino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 608,
+            "following_count": 1799,
+            "tweet_count": 1151,
+            "listed_count": 17
+        },
+        "location": "Tra Bologna e Napoli",
+        "username": "antalur",
+        "id": "1066110834",
+        "description": "Un napoletano che non beve caffè."
+    },
+    {
+        "name": "sonny",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40,
+            "following_count": 97,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "username": "Sonnycolussi",
+        "id": "527775297",
+        "description": ""
+    },
+    {
+        "name": "Andre",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 63,
+            "following_count": 207,
+            "tweet_count": 736,
+            "listed_count": 0
+        },
+        "location": "Gemona",
+        "username": "a_londar93",
+        "id": "545400298",
+        "description": "Quando ti poni un obiettivo, anche se ci sono difficoltà, portalo sempre  a termine!"
+    },
+    {
+        "name": "Anna Sorrentino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 118,
+            "tweet_count": 150,
+            "listed_count": 0
+        },
+        "username": "annasorre_",
+        "id": "2564249572",
+        "description": "17 anni.// Udine."
+    },
+    {
+        "name": "BalconyTV Trieste",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 497,
+            "following_count": 1791,
+            "tweet_count": 259,
+            "listed_count": 8
+        },
+        "location": "Trieste, ITALY",
+        "username": "BalconyTVTriest",
+        "id": "2483393156",
+        "description": "Best music from Trieste (Italy) https://t.co/VzX3lQFeGn https://t.co/JXVPaDMt9P"
+    },
+    {
+        "name": "Playin'Penguin",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 113,
+            "tweet_count": 22,
+            "listed_count": 0
+        },
+        "username": "PlayinPenguin",
+        "id": "2560958309",
+        "description": "Profilo creato per condividere, aggiornare e diffondere le news riguardanti il mondo della tecnologia e del gaming."
+    },
+    {
+        "name": "vadym lopez",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 64,
+            "following_count": 404,
+            "tweet_count": 1133,
+            "listed_count": 0
+        },
+        "location": "Barcelona",
+        "username": "vadymlopez1",
+        "id": "2272194534",
+        "description": "Ingeniero de la energía"
+    },
+    {
+        "name": "Mauro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 177,
+            "tweet_count": 24136,
+            "listed_count": 31
+        },
+        "location": "Italy",
+        "username": "miccolismau",
+        "id": "2423567514",
+        "description": "Meeeeeee e moo? 007 dalla Puglia col furgone"
+    },
+    {
+        "name": "Anahì D'Odorico",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 156,
+            "following_count": 112,
+            "tweet_count": 1306,
+            "listed_count": 0
+        },
+        "username": "AnahiDodorico",
+        "id": "2425919418",
+        "description": "Finalmente completa."
+    },
+    {
+        "name": "Chant",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 176,
+            "following_count": 263,
+            "tweet_count": 935,
+            "listed_count": 0
+        },
+        "location": "-udine-",
+        "username": "chantal_boer",
+        "id": "465660353",
+        "description": "'ho soltanto una vita e la vorrei dividere con te che anche nel difetto e nell'imperfezione sei soltanto incanto'"
+    },
+    {
+        "name": "gianni",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 201,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "giangiannigian",
+        "id": "2338231660",
+        "description": ""
+    },
+    {
+        "name": "IL Sanso",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 166,
+            "following_count": 157,
+            "tweet_count": 2609,
+            "listed_count": 2
+        },
+        "username": "AlexSansone3",
+        "id": "2397945705",
+        "description": "Loading..."
+    },
+    {
+        "name": "paolo madrassi",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 90,
+            "following_count": 87,
+            "tweet_count": 658,
+            "listed_count": 0
+        },
+        "username": "madrac92",
+        "id": "2396364515",
+        "description": ""
+    },
+    {
+        "name": "ilcentrodelmondo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 277,
+            "tweet_count": 3309,
+            "listed_count": 0
+        },
+        "username": "Carla_dv_",
+        "id": "2328954662",
+        "description": "Istantanee di secondi lunghi quanto un anno bisestile.\n\n•snapchat: carladellavedov •"
+    },
+    {
+        "name": "Marty_Perez",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 81,
+            "following_count": 180,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "username": "martu95perez",
+        "id": "2381016539",
+        "description": "Amo esa cosita hermosa que el es..."
+    },
+    {
+        "name": "Giulia.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 366,
+            "following_count": 563,
+            "tweet_count": 3699,
+            "listed_count": 0
+        },
+        "location": "Artegna, Friuli-Venezia Giulia",
+        "username": "GiulyMartarello",
+        "id": "2366860841",
+        "description": ""
+    },
+    {
+        "name": "korin",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 607,
+            "following_count": 2145,
+            "tweet_count": 5586,
+            "listed_count": 0
+        },
+        "location": "Agropoli, Campania",
+        "username": "corin1993",
+        "id": "1594116986",
+        "description": "''Nata 3-3-93 ( Ma sono stata concepita nel 92)a  AGROPOLI ma non ci vivo''- sono ITALO-FRANCESE DA PARTE DI MIO PADRE... Instagram Corinpastoret8501"
+    },
+    {
+        "name": "Pedro Cecchini",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 151,
+            "tweet_count": 1594,
+            "listed_count": 0
+        },
+        "location": "-Italy-",
+        "username": "CecchiniPedro",
+        "id": "1269448278",
+        "description": "Embrace your dreams"
+    },
+    {
+        "name": "---",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 128,
+            "following_count": 126,
+            "tweet_count": 1729,
+            "listed_count": 1
+        },
+        "username": "_12_11___",
+        "id": "1683866318",
+        "description": ""
+    },
+    {
+        "name": "valentina cimenti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 42,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "valentinaciment",
+        "id": "2328619960",
+        "description": ""
+    },
+    {
+        "name": "alessiomentil",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 70,
+            "following_count": 86,
+            "tweet_count": 257,
+            "listed_count": 0
+        },
+        "location": "Trasaghis",
+        "username": "alessiomentil",
+        "id": "2327710427",
+        "description": "Ascolta tutti, impara da tutti, ma fai di testa tua"
+    },
+    {
+        "name": "Federico Petri",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 181,
+            "following_count": 644,
+            "tweet_count": 438,
+            "listed_count": 1
+        },
+        "username": "federico_petri",
+        "id": "1209344695",
+        "description": "Sport, politica e auto."
+    },
+    {
+        "name": "The Dark Side of R",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 228,
+            "following_count": 561,
+            "tweet_count": 9218,
+            "listed_count": 5
+        },
+        "location": " ",
+        "username": "sideBvinyl",
+        "id": "1967154103",
+        "description": "XXII - #TvSeriesAddicted  Art makes me feel better."
+    },
+    {
+        "name": "Debora",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 115,
+            "following_count": 111,
+            "tweet_count": 1486,
+            "listed_count": 0
+        },
+        "location": "Majano",
+        "username": "CamerinD",
+        "id": "952069206",
+        "description": "See the flames inside my eyes\r\nIt burns so bright I wanna feel your love, no\r\nEasy baby, maybe I'm a liar"
+    },
+    {
+        "name": "Iris (IndianA)",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 166,
+            "following_count": 145,
+            "tweet_count": 3388,
+            "listed_count": 0
+        },
+        "username": "IrisColle",
+        "id": "1443140276",
+        "description": ""
+    },
+    {
+        "name": "Cieli Vani",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 255,
+            "following_count": 414,
+            "tweet_count": 6659,
+            "listed_count": 1
+        },
+        "username": "greed_or_need",
+        "id": "1043021486",
+        "description": "Ciao."
+    },
+    {
+        "name": "Martina",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 425,
+            "following_count": 439,
+            "tweet_count": 5740,
+            "listed_count": 2
+        },
+        "location": "Giungla",
+        "username": "cielistellati_",
+        "id": "106505501",
+        "description": "A head full of dreams (and flowers) since 90s"
+    },
+    {
+        "name": "Morris",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 520,
+            "following_count": 184,
+            "tweet_count": 224,
+            "listed_count": 0
+        },
+        "username": "MorrisMarini",
+        "id": "981014994",
+        "description": "https://t.co/tN7v7oOfxM"
+    },
+    {
+        "name": "ⓑⓤⓡⓘ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 64,
+            "tweet_count": 4065,
+            "listed_count": 3
+        },
+        "username": "buri94",
+        "id": "455645701",
+        "description": ""
+    },
+    {
+        "name": "Tboy Tigre",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 92,
+            "following_count": 561,
+            "tweet_count": 39,
+            "listed_count": 0
+        },
+        "location": "UD CITY",
+        "username": "TramaRF",
+        "id": "2275885979",
+        "description": "Rapper"
+    },
+    {
+        "name": "Wonderland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 136,
+            "following_count": 288,
+            "tweet_count": 3346,
+            "listed_count": 1
+        },
+        "username": "AlessiaNano1",
+        "id": "559704087",
+        "description": "Eternamente tuo, eternamente mia, eternamente nostri."
+    },
+    {
+        "name": "Andromon",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 45,
+            "tweet_count": 862,
+            "listed_count": 0
+        },
+        "username": "decekk",
+        "id": "2177013442",
+        "description": "Fa'n po' come cazzo te pare."
+    },
+    {
+        "name": "Giulia.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 153,
+            "tweet_count": 978,
+            "listed_count": 0
+        },
+        "username": "GiuliForgiarini",
+        "id": "2267813052",
+        "description": ""
+    },
+    {
+        "name": "Karen",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 202,
+            "following_count": 132,
+            "tweet_count": 2752,
+            "listed_count": 0
+        },
+        "username": "KarenRoncastri",
+        "id": "2203738120",
+        "description": "Se non ami l'amore poco o niente alla fine rimane di noi - Questa nostra stagione"
+    },
+    {
+        "name": "Јасмина",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 178,
+            "following_count": 107,
+            "tweet_count": 2632,
+            "listed_count": 0
+        },
+        "location": "Magnano in Riviera, Udine",
+        "username": "j_nakova",
+        "id": "1972057800",
+        "description": "19, Strumica, Macedonia"
+    },
+    {
+        "name": "Chri",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 199,
+            "following_count": 159,
+            "tweet_count": 2264,
+            "listed_count": 0
+        },
+        "location": "Gemona (Udine)",
+        "username": "ChriLondero",
+        "id": "517592509",
+        "description": "C'è una grande differenza tra l'essere ossessionati e l'essere motivati."
+    },
+    {
+        "name": "Emanuele Ressa",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 51,
+            "tweet_count": 223,
+            "listed_count": 0
+        },
+        "username": "EmanueleRessa",
+        "id": "2148921494",
+        "description": ""
+    },
+    {
+        "name": "Fil",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 237,
+            "tweet_count": 4506,
+            "listed_count": 2
+        },
+        "username": "filippo_missio",
+        "id": "1934192923",
+        "description": "Fil  • Photography lover 📷 and Reading addicted 📖 •\n• SysAdmin extraordinaire 🖥️ and Tech geek 🎥 • Da prendere sempre con un pizzico di ironia e sarcasmo"
+    },
+    {
+        "name": "Davide Crivelli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 638,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "username": "DavideCrivelli1",
+        "id": "461105363",
+        "description": ""
+    },
+    {
+        "name": "ILDOMINGO",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 62,
+            "tweet_count": 612,
+            "listed_count": 0
+        },
+        "username": "sisanmk",
+        "id": "2182980058",
+        "description": "UNA BUONA GUINNESS RISOLVE SEMPRE TUTTO!!!!!!!!!!"
+    },
+    {
+        "name": "Елса",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 267,
+            "following_count": 191,
+            "tweet_count": 5375,
+            "listed_count": 0
+        },
+        "username": "elsaludovica",
+        "id": "1506559866",
+        "description": ""
+    },
+    {
+        "name": "Martina Lo Giudice",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 220,
+            "following_count": 123,
+            "tweet_count": 2638,
+            "listed_count": 0
+        },
+        "location": "Gemona del Friuli",
+        "username": "HeiGiud",
+        "id": "479798490",
+        "description": ""
+    },
+    {
+        "name": "Benedetta Nardi ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 78,
+            "following_count": 85,
+            "tweet_count": 525,
+            "listed_count": 0
+        },
+        "location": "Gemona",
+        "username": "Bennuuz",
+        "id": "1405090544",
+        "description": "Bisogna dare a chi merita di ricevere!"
+    },
+    {
+        "name": "Daniele Galtarossa",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 83,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "DanieleGalta",
+        "id": "507704726",
+        "description": ""
+    },
+    {
+        "name": "federicüte",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 389,
+            "following_count": 402,
+            "tweet_count": 4015,
+            "listed_count": 0
+        },
+        "username": "FedericaLondero",
+        "id": "833174810",
+        "description": "..La strada che porta alla felicità.."
+    },
+    {
+        "name": "tocchetto",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 750,
+            "tweet_count": 108,
+            "listed_count": 0
+        },
+        "username": "VTocchetto",
+        "id": "1879887258",
+        "description": "La felicità è quando sorridi e non te ne accorgi"
+    },
+    {
+        "name": "nikiiii",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 193,
+            "following_count": 1066,
+            "tweet_count": 67,
+            "listed_count": 0
+        },
+        "username": "NPascuttiji",
+        "id": "1879954297",
+        "description": "♥ 19.07.14 Wien Krieau Avicii ♥ 17.08.14 Brno Ceské Republiky Grandprix ♥"
+    },
+    {
+        "name": "Iris De Colle",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 116,
+            "following_count": 110,
+            "tweet_count": 733,
+            "listed_count": 0
+        },
+        "username": "colle_iris",
+        "id": "1900532431",
+        "description": ""
+    },
+    {
+        "name": "José",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 442,
+            "following_count": 187,
+            "tweet_count": 15620,
+            "listed_count": 3
+        },
+        "location": "Udine, Italy",
+        "username": "aalbertopicco",
+        "id": "1007071207",
+        "description": "."
+    },
+    {
+        "name": "infamia.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 155,
+            "tweet_count": 66,
+            "listed_count": 0
+        },
+        "username": "helenmorphine",
+        "id": "1893230322",
+        "description": "Vi odio a prescindere."
+    },
+    {
+        "name": "Lucrezia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 246,
+            "following_count": 461,
+            "tweet_count": 897,
+            "listed_count": 0
+        },
+        "location": "Udine, Italy",
+        "username": "LucreziaCap",
+        "id": "1005929540",
+        "description": "Put your dress on, put on a smile, and be damn grateful."
+    },
+    {
+        "name": "Veronica",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 137,
+            "following_count": 127,
+            "tweet_count": 5463,
+            "listed_count": 1
+        },
+        "username": "veronitar",
+        "id": "566703294",
+        "description": "Al dolore rispondi col sorriso che hai."
+    },
+    {
+        "name": "Micael Franceschino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 42,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "location": "Cornino",
+        "username": "MicaelFrancesch",
+        "id": "1007122148",
+        "description": "mangiare come se non ci fosse un domani.."
+    },
+    {
+        "name": "Heartline",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 234,
+            "tweet_count": 168,
+            "listed_count": 0
+        },
+        "username": "heartlinemusic",
+        "id": "1677808003",
+        "description": "We are the Heartline, three young guys (Massimo Pezzetta Andrea Bellina Giovanni Piazza) who enjoy to create and share emotions ..The New Tracks is coming soon!"
+    },
+    {
+        "name": "Elena Coppola",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 22,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "username": "ElenaLele89",
+        "id": "264302854",
+        "description": ""
+    },
+    {
+        "name": "Martina Gollino",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 97,
+            "following_count": 73,
+            "tweet_count": 565,
+            "listed_count": 0
+        },
+        "username": "GollinoMartina",
+        "id": "616215819",
+        "description": ""
+    },
+    {
+        "name": "Anna",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 424,
+            "following_count": 223,
+            "tweet_count": 6699,
+            "listed_count": 1
+        },
+        "username": "annagubiani97",
+        "id": "1630609164",
+        "description": "La vita è bella. La gente,insomma."
+    },
+    {
+        "name": "{•} ✏️",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 105,
+            "tweet_count": 5086,
+            "listed_count": 0
+        },
+        "username": "Signorina_7",
+        "id": "1625510558",
+        "description": "va te faire foutre !"
+    },
+    {
+        "name": "_Ary",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 182,
+            "following_count": 148,
+            "tweet_count": 8018,
+            "listed_count": 0
+        },
+        "username": "Arianna_Galante",
+        "id": "934482541",
+        "description": "Sulla soglia dell'esaurimento"
+    },
+    {
+        "name": "Michael Coletti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 126,
+            "following_count": 179,
+            "tweet_count": 249,
+            "listed_count": 0
+        },
+        "location": "Forgaria (UD) ",
+        "username": "ColettiMichael",
+        "id": "527454176",
+        "description": ""
+    },
+    {
+        "name": "Sunflower",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 483,
+            "following_count": 439,
+            "tweet_count": 2958,
+            "listed_count": 1
+        },
+        "username": "adribellorini",
+        "id": "377571301",
+        "description": "“Helping one person might not change the whole world,  but it could change the world for one person” 🌻"
+    },
+    {
+        "name": "CataMello",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 501,
+            "following_count": 200,
+            "tweet_count": 28943,
+            "listed_count": 5
+        },
+        "location": "Milano, Lombardia",
+        "username": "TassaraCata",
+        "id": "1578022897",
+        "description": "lei sa di birra e occasioni sprecate"
+    },
+    {
+        "name": "salu(ti)(amo)ci",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 163,
+            "following_count": 234,
+            "tweet_count": 1763,
+            "listed_count": 0
+        },
+        "username": "MichaelPittoni",
+        "id": "1575028530",
+        "description": "sono sempre i sogni a dare forma al mondo"
+    },
+    {
+        "name": "Max Ⓜ️",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 364,
+            "following_count": 213,
+            "tweet_count": 13331,
+            "listed_count": 1
+        },
+        "location": "Bordano, Friuli-Venezia Giulia",
+        "username": "Rossi_96_",
+        "id": "579142250",
+        "description": ""
+    },
+    {
+        "name": "vittorio rovis",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 40,
+            "following_count": 566,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "username": "Pallocchio58",
+        "id": "1566102265",
+        "description": ""
+    },
+    {
+        "name": "Capòt",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 270,
+            "following_count": 108,
+            "tweet_count": 5930,
+            "listed_count": 0
+        },
+        "location": "Trasaghis e Venezia",
+        "username": "Richardmarcuzzi",
+        "id": "1560522900",
+        "description": "Non confondere il coraggio con l'incoscienza"
+    },
+    {
+        "name": "Veraw",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 213,
+            "following_count": 320,
+            "tweet_count": 7180,
+            "listed_count": 0
+        },
+        "username": "SignoraManiaca",
+        "id": "323198064",
+        "description": "24 anni per niente  || Cats addicted  || Pizza lover  || 27.03"
+    },
+    {
+        "name": "Angeli Alex",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 406,
+            "tweet_count": 453,
+            "listed_count": 0
+        },
+        "username": "vespangelik",
+        "id": "265559519",
+        "description": ""
+    },
+    {
+        "name": "Linda",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 330,
+            "following_count": 612,
+            "tweet_count": 7249,
+            "listed_count": 1
+        },
+        "location": "Tarcento, Friuli-Venezia Giuli",
+        "username": "LindaDalMas",
+        "id": "174991185",
+        "description": "25"
+    },
+    {
+        "name": "Votate I Biscotti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 194,
+            "following_count": 239,
+            "tweet_count": 32,
+            "listed_count": 0
+        },
+        "username": "AsocialePatetic",
+        "id": "1465189764",
+        "description": "#VotateiBiscotti Partito che combatte per il diritto di mangiare i biscotti.  La vita è un biscotto, ma se piove si scoglie"
+    },
+    {
+        "name": "Matteo zamolo",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 191,
+            "following_count": 492,
+            "tweet_count": 1083,
+            "listed_count": 1
+        },
+        "username": "patmatteo7",
+        "id": "704970474",
+        "description": "Biografia"
+    },
+    {
+        "name": "Gianna",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 352,
+            "following_count": 243,
+            "tweet_count": 4737,
+            "listed_count": 0
+        },
+        "username": "annamonasso",
+        "id": "570142377",
+        "description": ""
+    },
+    {
+        "name": "AndreaPoiazzi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 148,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "username": "Poia18",
+        "id": "1412062459",
+        "description": ""
+    },
+    {
+        "name": "Lorenzo Giorgiani",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 97,
+            "following_count": 992,
+            "tweet_count": 70,
+            "listed_count": 0
+        },
+        "username": "LorenzoGiorgian",
+        "id": "900121513",
+        "description": "I HAVE DREAM..."
+    },
+    {
+        "name": "decho1991",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 162,
+            "following_count": 322,
+            "tweet_count": 2066,
+            "listed_count": 0
+        },
+        "username": "MDCC91",
+        "id": "1109067043",
+        "description": ""
+    },
+    {
+        "name": "Alessia ❤",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 298,
+            "following_count": 732,
+            "tweet_count": 555,
+            "listed_count": 0
+        },
+        "username": "alessia1606",
+        "id": "1082126083",
+        "description": "Credo nell'amore che ti consuma e ti spacca il cuore.  Credo negli abbracci che ti tolgono il respiro e nei baci che ti accarezzano la carne.. ❤"
+    },
+    {
+        "name": "Wilson de Jesus",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 351,
+            "following_count": 482,
+            "tweet_count": 20313,
+            "listed_count": 1
+        },
+        "location": "Los Mina - Pineta",
+        "username": "ibrahimowil",
+        "id": "220020080",
+        "description": "Vero. 24/7/365"
+    },
+    {
+        "name": "avvocati volto umano",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3679,
+            "following_count": 3149,
+            "tweet_count": 4875,
+            "listed_count": 39
+        },
+        "location": "Vignola, Modena",
+        "username": "avvocatidvu",
+        "id": "447858291",
+        "description": "tutti i giorni alle 9 la risposta ad un vostro problema legale, più 2 o 3 post dagli archivi, news, riflessioni e battute in tema; a cura di @tsolignani"
+    },
+    {
+        "name": "Michele Pontelli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 60,
+            "following_count": 57,
+            "tweet_count": 594,
+            "listed_count": 0
+        },
+        "username": "MichelePontelli",
+        "id": "616572834",
+        "description": "Yeah science, bitch!"
+    },
+    {
+        "name": "Ambra",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 35,
+            "tweet_count": 61,
+            "listed_count": 0
+        },
+        "username": "AmbraMiao",
+        "id": "1079473267",
+        "description": ""
+    },
+    {
+        "name": "Andy Bee",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28,
+            "following_count": 145,
+            "tweet_count": 75,
+            "listed_count": 0
+        },
+        "username": "AndyBeeMusic",
+        "id": "833492713",
+        "description": "♫♫The music is a heavy substance with no side effects ♫ ♫"
+    },
+    {
+        "name": "elisa casani",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 97,
+            "tweet_count": 872,
+            "listed_count": 0
+        },
+        "username": "elisacasani97",
+        "id": "1055793762",
+        "description": ""
+    },
+    {
+        "name": "Marco",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 119,
+            "following_count": 291,
+            "tweet_count": 917,
+            "listed_count": 0
+        },
+        "location": "Italia",
+        "username": "MatteoBuzz",
+        "id": "194989299",
+        "description": ""
+    },
+    {
+        "name": "Gaspari Editore",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 266,
+            "tweet_count": 75,
+            "listed_count": 0
+        },
+        "location": "Udine, Via Vittorio Veneto 49",
+        "username": "GaspariEditore",
+        "id": "593490149",
+        "description": "Casa editrice specializzata Grande Guerra."
+    },
+    {
+        "name": "Marta 🌻",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 822,
+            "following_count": 369,
+            "tweet_count": 7260,
+            "listed_count": 3
+        },
+        "location": "Gemona del Friuli ",
+        "username": "MartaBoezio",
+        "id": "334170116",
+        "description": "Alè Udin | @TizianoFerro"
+    },
+    {
+        "name": "⚫️SMOOTHIES⚫️",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 127,
+            "following_count": 190,
+            "tweet_count": 92,
+            "listed_count": 0
+        },
+        "username": "BrianTiberi",
+        "id": "1098543391",
+        "description": "..Te me salti in groppa quando dico daje... Daje sul mio cuore come colpi di mannaie.."
+    },
+    {
+        "name": "Udine 24",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1425,
+            "following_count": 1510,
+            "tweet_count": 1046,
+            "listed_count": 9
+        },
+        "location": "Udine",
+        "username": "Udine24",
+        "id": "1053498499",
+        "description": "Le Ultime Notizie Da Udine selezionate dagli utenti di http://t.co/d6JgdLcS"
+    },
+    {
+        "name": "zizu",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 264,
+            "following_count": 185,
+            "tweet_count": 4057,
+            "listed_count": 0
+        },
+        "location": "artegna",
+        "username": "boersharonmery",
+        "id": "541699483",
+        "description": ""
+    },
+    {
+        "name": "Sick Boy.",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 252,
+            "following_count": 183,
+            "tweet_count": 2751,
+            "listed_count": 1
+        },
+        "username": "Gabbosbabber",
+        "id": "573722983",
+        "description": "'Chi ti ha fatto gli occhi e quelle gambe, ci sapeva fare' ❤️ Gabbo. Italy. Techno. OKC Thunder. FreeWeed. Instagram: gabbovoodoo"
+    },
+    {
+        "name": "~帅哥",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 288,
+            "following_count": 79,
+            "tweet_count": 1211,
+            "listed_count": 0
+        },
+        "username": "chebombasexy",
+        "id": "623113563",
+        "description": "Il giorno dell'addio è sempre più vicino"
+    },
+    {
+        "name": "La Vale",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 412,
+            "following_count": 499,
+            "tweet_count": 3274,
+            "listed_count": 2
+        },
+        "location": "Milano",
+        "username": "LaVale8626",
+        "id": "1096511215",
+        "description": "What doesn't kill you fucks you up mentally"
+    },
+    {
+        "name": "laura ferramonti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 117,
+            "following_count": 341,
+            "tweet_count": 103,
+            "listed_count": 0
+        },
+        "username": "FLaura9611",
+        "id": "1233882390",
+        "description": ""
+    },
+    {
+        "name": "Paola Locatelli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 71,
+            "following_count": 140,
+            "tweet_count": 720,
+            "listed_count": 0
+        },
+        "username": "lalocatelli",
+        "id": "496793438",
+        "description": ""
+    },
+    {
+        "name": "Arsen Bahirian",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 682,
+            "tweet_count": 98,
+            "listed_count": 0
+        },
+        "location": "Kharkov,Ukraine",
+        "username": "ArsenBagiryan",
+        "id": "1169825221",
+        "description": "Web and UI/UX designer \nMy email: dyslarsen@gmail.com"
+    },
+    {
+        "name": "RRoby92 il Pelipe ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 141,
+            "tweet_count": 488,
+            "listed_count": 0
+        },
+        "location": "Gemona del Fruli (UD)",
+        "username": "RRoby92",
+        "id": "1188986599",
+        "description": "Un saggio una volta ha detto i progressi lenti sono progressi duraturi"
+    },
+    {
+        "name": "Max",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 182,
+            "following_count": 117,
+            "tweet_count": 2881,
+            "listed_count": 0
+        },
+        "username": "max5cecc",
+        "id": "540069125",
+        "description": "Big easy"
+    },
+    {
+        "name": "Raquel Trigili",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 28,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "location": "Udine",
+        "username": "Raqueltrigili",
+        "id": "1172571906",
+        "description": ""
+    },
+    {
+        "name": "Christian",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 147,
+            "following_count": 118,
+            "tweet_count": 5257,
+            "listed_count": 1
+        },
+        "location": "Italia",
+        "username": "chris_miti",
+        "id": "1049969125",
+        "description": "It's my life, it's now or never. I ain't gonna live forever, I just wanna live when I'm alive. It's my life!"
+    },
+    {
+        "name": "S e B a ! ! !",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 123,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "username": "738476402",
+        "id": "406691070",
+        "description": ""
+    },
+    {
+        "name": "Gio",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 131,
+            "following_count": 103,
+            "tweet_count": 1162,
+            "listed_count": 1
+        },
+        "location": "Gemona del Friuli - Udine",
+        "username": "GioVale46",
+        "id": "947564749",
+        "description": ""
+    },
+    {
+        "name": "MauricioJorge Artale",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 345,
+            "following_count": 342,
+            "tweet_count": 1592,
+            "listed_count": 0
+        },
+        "location": "Gemona",
+        "username": "MJ_artale",
+        "id": "1074807847",
+        "description": "Memento audere semper. - Audaces fortuna iuvat"
+    },
+    {
+        "name": "Elisa Breezy Brown",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 23,
+            "tweet_count": 35,
+            "listed_count": 0
+        },
+        "location": "Udine, Italy",
+        "username": "elisamonfera",
+        "id": "993726613",
+        "description": ""
+    },
+    {
+        "name": "Davide Molinaro",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 443,
+            "tweet_count": 162,
+            "listed_count": 0
+        },
+        "location": "Ita",
+        "username": "davimoli23",
+        "id": "836312762",
+        "description": "La prima bellezza e' la praticita'"
+    },
+    {
+        "name": "wanda",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 175,
+            "following_count": 178,
+            "tweet_count": 1231,
+            "listed_count": 0
+        },
+        "username": "TimmyTurner186",
+        "id": "184817606",
+        "description": ""
+    },
+    {
+        "name": "Michelangelo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 27,
+            "following_count": 172,
+            "tweet_count": 22,
+            "listed_count": 0
+        },
+        "location": "Roma",
+        "username": "Michibuonarroti",
+        "id": "1089302341",
+        "description": "Tutta la matematica del mondo non potrà mai supplire la mancanza di Genio."
+    },
+    {
+        "name": "Sparkss.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 140,
+            "following_count": 217,
+            "tweet_count": 2833,
+            "listed_count": 1
+        },
+        "username": "PiazzaShima",
+        "id": "1080194059",
+        "description": "Lamborghini"
+    },
+    {
+        "name": "manuel forgiarini",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 32,
+            "tweet_count": 408,
+            "listed_count": 0
+        },
+        "location": "italy",
+        "username": "mf1510",
+        "id": "393243196",
+        "description": ""
+    },
+    {
+        "name": "Less",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 257,
+            "following_count": 216,
+            "tweet_count": 1989,
+            "listed_count": 2
+        },
+        "username": "iamtessale",
+        "id": "792156464",
+        "description": "The greatest pleasure in life is doing what people say you cannot do."
+    },
+    {
+        "name": "Meli ❤",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 65,
+            "following_count": 89,
+            "tweet_count": 38,
+            "listed_count": 0
+        },
+        "location": "Udine",
+        "username": "Meeliissa_92",
+        "id": "889657748",
+        "description": "«Destroy what destroys you»"
+    },
+    {
+        "name": "tanya",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 127,
+            "tweet_count": 513,
+            "listed_count": 0
+        },
+        "username": "tanya_931",
+        "id": "925220088",
+        "description": ""
+    },
+    {
+        "name": "Sweeterman",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 358,
+            "following_count": 248,
+            "tweet_count": 7439,
+            "listed_count": 3
+        },
+        "location": "Trasaghis",
+        "username": "DevidVidoni",
+        "id": "489306816",
+        "description": "daily usage of creative visualization"
+    },
+    {
+        "name": "pilo red",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 11,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "location": "venzone",
+        "username": "pilo_red",
+        "id": "581362254",
+        "description": ""
+    },
+    {
+        "name": "Università di Udine",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9634,
+            "following_count": 1367,
+            "tweet_count": 13212,
+            "listed_count": 184
+        },
+        "location": "Udine, Italia",
+        "username": "uniud",
+        "id": "190161488",
+        "description": "Account ufficiale dell'Università degli Studi di Udine | Official account - University of Udine  #HicSuntFutura #Uniud"
+    },
+    {
+        "name": "Verena Ambrosino",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 85,
+            "following_count": 78,
+            "tweet_count": 963,
+            "listed_count": 0
+        },
+        "location": "twitto dal Paese dei Balocchi ",
+        "username": "VerenaAmbrosino",
+        "id": "944443345",
+        "description": "Don’t follow me, I’m lost too"
+    },
+    {
+        "name": "To'",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 329,
+            "following_count": 395,
+            "tweet_count": 4190,
+            "listed_count": 0
+        },
+        "username": "ThomPollo93",
+        "id": "370102769",
+        "description": "Sarà che ci facciamo viaggi, ma è sognare che ci rende saggi"
+    },
+    {
+        "name": "friuli rock",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 493,
+            "following_count": 865,
+            "tweet_count": 1243,
+            "listed_count": 7
+        },
+        "username": "FriuliRock",
+        "id": "856505166",
+        "description": "Concerti,news,recensioni,interviste,aggiornamenti e tanto altro sul panorama musicale friulano."
+    },
+    {
+        "name": "Jessica Pascolo",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 63,
+            "tweet_count": 67,
+            "listed_count": 0
+        },
+        "location": "venzone",
+        "username": "JessicaPascolo",
+        "id": "183750197",
+        "description": "Life begins at the end of your comfort zone!"
+    },
+    {
+        "name": "Memy🕉️",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 82,
+            "following_count": 101,
+            "tweet_count": 3767,
+            "listed_count": 0
+        },
+        "username": "EmilyColussi1",
+        "id": "578046400",
+        "description": "~Menomale che siete speciali voi così mi risparmio la fatica~\n👉~La gente non è cattiva, è infelice~👈"
+    },
+    {
+        "name": "Matteo Senatore",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 81,
+            "tweet_count": 201,
+            "listed_count": 0
+        },
+        "location": "Villa Santina",
+        "username": "MatteoSenatore",
+        "id": "299659731",
+        "description": "Io sono la luce del mondo... chi crede in me vivrà in eterno"
+    },
+    {
+        "name": "Michela Stefanutti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 217,
+            "tweet_count": 455,
+            "listed_count": 1
+        },
+        "location": "venzone",
+        "username": "mickystefanutti",
+        "id": "170451477",
+        "description": "📷 io, dall'altra parte dell'obiettivo 📷 🐨Koalina🐨 💕Venzone💕 Intressed in: 🇮🇹 turism, 📚 books, 🎿sports !!!don't touch my 📷 Photos!!!"
+    },
+    {
+        "name": "Alex",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 253,
+            "following_count": 86,
+            "tweet_count": 9170,
+            "listed_count": 0
+        },
+        "location": "Vipiteno, Trentino-Alto Adige",
+        "username": "AlexRessa2",
+        "id": "784360308",
+        "description": "Sei stato scelto per questa vita perchè sei abbastanza forte per viverla"
+    },
+    {
+        "name": "alessandro saponaro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 10,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "location": "venzone (UD)",
+        "username": "ale92sapo",
+        "id": "724006026",
+        "description": ""
+    },
+    {
+        "name": "✌️",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5544,
+            "following_count": 9147,
+            "tweet_count": 6275,
+            "listed_count": 3
+        },
+        "username": "__SeuJeito",
+        "id": "557746884",
+        "description": "''Os homens de poucas palavras são os melhores'' - Willian Shakespeare"
+    },
+    {
+        "name": "Anna Zearo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 213,
+            "tweet_count": 19,
+            "listed_count": 0
+        },
+        "username": "Sono_Simpatica",
+        "id": "624208322",
+        "description": "Ho 15 anni, vado a scuola al Marchetti e amo la musica."
+    },
+    {
+        "name": "Consuelo Rizzo",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 182,
+            "following_count": 222,
+            "tweet_count": 339,
+            "listed_count": 0
+        },
+        "username": "SoulSister95",
+        "id": "579115459",
+        "description": ""
+    },
+    {
+        "name": "Barbara Fisichella",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 34,
+            "following_count": 59,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "username": "BarbaraFisichel",
+        "id": "637073222",
+        "description": ""
+    },
+    {
+        "name": "MADDEO",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 99,
+            "following_count": 274,
+            "tweet_count": 3388,
+            "listed_count": 0
+        },
+        "username": "theothesmoker",
+        "id": "556861332",
+        "description": "Questa vita non guarda in faccia, in faccia al massimo sputa.."
+    },
+    {
+        "name": "Lara Mazzolini",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 75,
+            "following_count": 39,
+            "tweet_count": 194,
+            "listed_count": 0
+        },
+        "username": "LaraMazzolini",
+        "id": "623125524",
+        "description": "Non recitare. Agisci. / Non ricreare. Crea. / Non imitare la vita. Vivi. / Non scolpire immagini. Sii. / Se non ti piace, cambialo"
+    },
+    {
+        "name": "Mirco De Monte",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 38,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "username": "mircoDeMonte",
+        "id": "616564407",
+        "description": ""
+    },
+    {
+        "name": "Loput",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 55,
+            "tweet_count": 27,
+            "listed_count": 0
+        },
+        "location": "Cavazzo Carnico, UD",
+        "username": "DavideGollino",
+        "id": "610363916",
+        "description": "Chi vuole intendere intenda... Gli altri in camper :)"
+    },
+    {
+        "name": "Piero Fabris",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 40,
+            "tweet_count": 34,
+            "listed_count": 0
+        },
+        "location": "Friuli, Italia",
+        "username": "PieroBlanc",
+        "id": "226106856",
+        "description": "The greed is good.\r\n#Law student, interested in #cinema, #economy, classic #literature, #history, #genealogy and #vintage cars!\r\nI'm not very fast! Follow me!"
+    },
+    {
+        "name": "~ Deb",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 373,
+            "following_count": 304,
+            "tweet_count": 3659,
+            "listed_count": 1
+        },
+        "location": "Udine",
+        "username": "Debbie2395",
+        "id": "483172916",
+        "description": "Rognosa ventenne indecisa."
+    },
+    {
+        "name": "Luca Floreani",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 144,
+            "following_count": 459,
+            "tweet_count": 1105,
+            "listed_count": 0
+        },
+        "username": "lucafloreani",
+        "id": "455675376",
+        "description": "Vi odio tutti."
+    },
+    {
+        "name": "Christian Petris",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 18,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "ChristianPetris",
+        "id": "544360896",
+        "description": ""
+    },
+    {
+        "name": "Alessia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1065,
+            "following_count": 417,
+            "tweet_count": 12348,
+            "listed_count": 2
+        },
+        "username": "DisAlessica",
+        "id": "535205576",
+        "description": "Mi piacciono i gatti, il vino e la coerenza: i miei gatti si chiamano Ribolla e Schioppettino."
+    },
+    {
+        "name": "Isabì",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 150,
+            "following_count": 538,
+            "tweet_count": 1102,
+            "listed_count": 0
+        },
+        "location": "Majano",
+        "username": "Fantomatic_girl",
+        "id": "150346051",
+        "description": "http://t.co/ueofPrWGBV.Sweets."
+    },
+    {
+        "name": "Samantha Ridolfo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 165,
+            "following_count": 195,
+            "tweet_count": 350,
+            "listed_count": 0
+        },
+        "username": "SamanthaRidolfo",
+        "id": "533315563",
+        "description": "..illumini il mio cielo ogni sguardo che fai!"
+    },
+    {
+        "name": "Elvin Perez",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 135,
+            "following_count": 366,
+            "tweet_count": 55,
+            "listed_count": 0
+        },
+        "username": "perez_elvin",
+        "id": "407798901",
+        "description": "€l_nęgrØ_o €n lª çªšª..(:"
+    },
+    {
+        "name": "Sir Andrew.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 151,
+            "following_count": 116,
+            "tweet_count": 4008,
+            "listed_count": 1
+        },
+        "location": "Gemona",
+        "username": "Andrea_Natali5",
+        "id": "103059431",
+        "description": "BlackBerry  ✌️ Football  ✌️ Burberry ✌️"
+    },
+    {
+        "name": "Chiara Pesenti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 68,
+            "tweet_count": 50,
+            "listed_count": 0
+        },
+        "username": "_ChiaraPesenti",
+        "id": "548276558",
+        "description": ""
+    },
+    {
+        "name": "Michele Coseani",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 28,
+            "following_count": 38,
+            "tweet_count": 102,
+            "listed_count": 0
+        },
+        "location": "orsaria",
+        "username": "MicheleCoseani",
+        "id": "487642301",
+        "description": ""
+    },
+    {
+        "name": "Agamennone",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 341,
+            "following_count": 154,
+            "tweet_count": 18977,
+            "listed_count": 8
+        },
+        "location": "Trasaghis",
+        "username": "C15Cristian",
+        "id": "479538809",
+        "description": "Chef : perchè la cucina non è solo cucina è amore, come vedi il mare per la prima volta o come il ti amo detto alla ragazza della porta accanto."
+    },
+    {
+        "name": "Luca Simeoni",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 197,
+            "following_count": 815,
+            "tweet_count": 5315,
+            "listed_count": 3
+        },
+        "location": "Gemona del Friuli",
+        "username": "LSime24",
+        "id": "51263647",
+        "description": "straight outta Ospedaletto"
+    },
+    {
+        "name": "Giú",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 198,
+            "tweet_count": 1071,
+            "listed_count": 0
+        },
+        "location": "Venzone",
+        "username": "giulia_divora",
+        "id": "540985738",
+        "description": ""
+    },
+    {
+        "name": "Desiriade",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 157,
+            "following_count": 235,
+            "tweet_count": 805,
+            "listed_count": 0
+        },
+        "location": "Tolmezzo",
+        "username": "franco_desiree",
+        "id": "432667457",
+        "description": "Italian girl ~ Udine / Bologna ~ Psychology ~ Follow me"
+    },
+    {
+        "name": "Massimo De Luisa",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 225,
+            "following_count": 599,
+            "tweet_count": 6316,
+            "listed_count": 1
+        },
+        "location": "Italia, Friuli Venezia Giulia",
+        "username": "massimodeluisa",
+        "id": "176870844",
+        "description": "Just another dreamer..."
+    },
+    {
+        "name": "Michael Soprano",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 330,
+            "following_count": 213,
+            "tweet_count": 10889,
+            "listed_count": 19
+        },
+        "location": "Chiusaforte",
+        "username": "Miccighel_",
+        "id": "15750573",
+        "description": "University Life, Computer Science, Photography, Reading, Gaming, Comics. PhD Student at the University of Udine. That's me."
+    },
+    {
+        "name": "3cnf-sat 🔥",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 207,
+            "tweet_count": 6265,
+            "listed_count": 7
+        },
+        "location": "Udine, Friuli-Venezia Giulia",
+        "username": "3cnf_sat",
+        "id": "555461978",
+        "description": "Love, Dharma, Music, Singing, Fitness, Teaching, E-Learning, Engineering, Cooking, 27."
+    },
+    {
+        "name": "J-ANICE",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 514,
+            "following_count": 219,
+            "tweet_count": 11771,
+            "listed_count": 5
+        },
+        "username": "JaniceManfredi",
+        "id": "453269927",
+        "description": "🍷"
+    }
+]

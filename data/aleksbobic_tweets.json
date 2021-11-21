@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-10-28T14:10:42.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1453725918191505418",
+        "lang": "en",
+        "text": "Unnamed company: Oh my god we care so much about the environment. We're adapting our business to be more #environmentallyFriendly! \n\nSame unnamed company: Proceeds to spam me with piles of paper ads instead of simply sending a monthly email. \n\nMake up your mind... 🙄"
+    },
+    {
+        "created_at": "2021-10-21T17:50:29.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1451244514363035655",
+        "lang": "en",
+        "text": "@mervenoyann What’s a pretty PR? 👀 … ok but on a serious note: that might be a cool blog post for future data scientists or folks not working with production data science systems! 🤔"
+    },
+    {
+        "created_at": "2021-10-21T15:23:04.000Z",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1451207416402653187",
+        "lang": "en",
+        "text": "RT @CoDiSLabGraz: We’re happy to share the tree contributions made by members of @CoDiSLabGraz @tugraz @tugraz_csbme @CERN at the 3rd Inter…"
+    },
+    {
+        "created_at": "2021-10-11T08:34:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1447480811952001025",
+        "lang": "en",
+        "text": "@mervenoyann Let me know if you find a way to avoid this! I have the same issue with Twitter and Reddit 😅"
+    },
+    {
+        "created_at": "2021-10-10T12:29:27.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "id": "1447177456100724742",
+        "lang": "en",
+        "text": "People standing in line for 20min before boarding and standing up 10min before it’s your turn to get of a plane what do you do with the extra 2 milliseconds you gain by doing so? 🤔 #traveling #flying"
+    }
+]

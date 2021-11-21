@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-11T21:34:50.000Z",
+        "id": "1458911117518913547",
+        "text": "@jobergum Exactly. Freezing the document embeddings brings many advantages and the results demonstrate that just training the query tower is almost enough😆\nThank you for reaching out!",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-11-03T16:02:18.000Z",
+        "id": "1455928329257689088",
+        "text": "RT @guidozuc: Session 4C search and retrieval: focus on representations and learning has been so far my #cikm2021 favourite session. Thanks…",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-11-03T01:36:31.000Z",
+        "id": "1455710450021060610",
+        "text": "@hammad_khan23 Thank you😆",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-11-03T01:34:54.000Z",
+        "id": "1455710040589959169",
+        "text": "\"Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance\" will be presented today twice at Session 4C #CIKM2021. \nHope to see you there!🥰 I may also talk a little about RepCONC. #DenseRetrieval #IR #WSDM2022",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "created_at": "2021-11-01T03:30:02.000Z",
+        "id": "1455014241249869827",
+        "text": "RT @CIKM2021: The #CIKM2021 proceedings are now online! https://t.co/qR2l1FyZwv",
+        "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    }
+]

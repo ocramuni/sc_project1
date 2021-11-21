@@ -1,0 +1,577 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 248,
+            "following_count": 809,
+            "tweet_count": 261,
+            "listed_count": 2
+        },
+        "name": "Hang Li",
+        "username": "hanglics",
+        "id": "1182908622113660929",
+        "description": "CS/IR PhD Candidate @IELabGroup The University of Queensland 🇦🇺. @UMNComputerSci 🇺🇸 alumni. Information Retrieval. Find me at https://t.co/WRT9MS2sbY",
+        "location": "Brisbane, Queensland",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 197,
+            "following_count": 362,
+            "tweet_count": 671,
+            "listed_count": 7
+        },
+        "name": "Ruey-Cheng Chen",
+        "username": "rueycheng",
+        "id": "71167669",
+        "description": "Computer Scientist, Theoretician, NLP/IR Junkie. Bored. Will work for beers.",
+        "location": "Melbourne, Australia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 829,
+            "following_count": 3128,
+            "tweet_count": 124,
+            "listed_count": 9
+        },
+        "name": "CIKM 2021",
+        "username": "CIKM2021",
+        "id": "1190461842922995712",
+        "description": "ACM CIKM 2021 Conference\n1-5 Nov 2021, Online",
+        "location": "Gold Coast, QLD, Australia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 91,
+            "following_count": 513,
+            "tweet_count": 116,
+            "listed_count": 1
+        },
+        "name": "Oleg Zendel",
+        "username": "OlegZendel",
+        "id": "998681467696885761",
+        "description": "IR Ph.D. candidate at @RMIT",
+        "location": "Melbourne, Victoria",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2311,
+            "following_count": 1808,
+            "tweet_count": 11644,
+            "listed_count": 115
+        },
+        "name": "@arjen@idf.social",
+        "username": "arjenpdevries",
+        "id": "16868154",
+        "description": "Computer scientist and entrepeneur specialized in information access to dataspaces through the integration of information retrieval and databases.",
+        "location": "Utrecht, The Netherlands",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 781,
+            "following_count": 5001,
+            "tweet_count": 1992,
+            "listed_count": 25
+        },
+        "name": "Alena Harley",
+        "username": "alenushka",
+        "id": "11773812",
+        "description": "ML researcher, bioinformatitian, tinkering with DL, exploring mountain-tops of truths, searching for the wisdom of the sands, confronting the unknown :-)",
+        "location": "Los Gatos, CA",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 245,
+            "following_count": 2237,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "name": "Marislove",
+        "username": "Marislo42138602",
+        "id": "1215687835379957760",
+        "description": "I am here to make new good friends",
+        "location": "New Jersey",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 290,
+            "following_count": 804,
+            "tweet_count": 650,
+            "listed_count": 4
+        },
+        "name": "Ahmed Alharthi",
+        "username": "alharth_ahmed",
+        "id": "2492690671",
+        "description": "I was born to make mistakes, and I’ll die with all of my lessons learned | Faculty @uqu_edu | CS PhD in software engineering | PhD @RMIT | Master @Macquarie_uni",
+        "location": "Melbourne, AUS & Makkah, KSA",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 868,
+            "following_count": 1270,
+            "tweet_count": 3626,
+            "listed_count": 62
+        },
+        "name": "miles_kehoe",
+        "username": "miles_kehoe",
+        "id": "15856984",
+        "description": "The personal account of Miles Kehoe of New Idea Engineering, author, blogger, search techie & private pilot. Alum of HP, Verity, Fulcrum & Lucidworks.",
+        "location": "Santa Clara, CA USA",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 144,
+            "following_count": 257,
+            "tweet_count": 267,
+            "listed_count": 1
+        },
+        "name": "Ahmed Mourad",
+        "username": "ahsmourad",
+        "id": "429259920",
+        "description": "Postdoc at UQ, Computer Science | searchin 4 my RI | triathlete in the making",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 560,
+            "following_count": 238,
+            "tweet_count": 89,
+            "listed_count": 13
+        },
+        "name": "ECIR 2020",
+        "username": "ecir2020",
+        "id": "1070321898951753728",
+        "description": "42nd European Conference on Information Retrieval | Lisbon | 14-17 April 2020",
+        "location": "Lisbona, Portugal",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7958,
+            "following_count": 6109,
+            "tweet_count": 70154,
+            "listed_count": 1923
+        },
+        "name": "RMIT School of Computing Technologies",
+        "username": "RMITComputing",
+        "id": "93781753",
+        "description": "Tech news and ICT updates brought to you by specialists at the RMIT University's School of Computing Technologies, based in Melbourne, Australia.",
+        "location": "Melbourne, Australia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4861,
+            "following_count": 3987,
+            "tweet_count": 2473,
+            "listed_count": 86
+        },
+        "name": "Signal Leadership Communication Inc.",
+        "username": "signaleadership",
+        "id": "4806332176",
+        "description": "Helping senior leaders move their organizations forward with convincing communication that strikes the right public relations chord. Signal your leadership!",
+        "location": "43.649712, -79.376453",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 355,
+            "tweet_count": 9,
+            "listed_count": 2
+        },
+        "name": "Luke Gallagher",
+        "username": "lgr3d",
+        "id": "94732055",
+        "description": "",
+        "location": "Australia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 246,
+            "following_count": 554,
+            "tweet_count": 701,
+            "listed_count": 13
+        },
+        "name": "Will Radford",
+        "username": "wejradford",
+        "id": "1072910977",
+        "description": "Machine Learning Engineer at @canva, Dad and Husband. Likes, dislikes and opinions my own, etc.",
+        "location": "Sydney, New South Wales",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1117,
+            "following_count": 1122,
+            "tweet_count": 310,
+            "listed_count": 14
+        },
+        "name": "Machine Reading Comprehension",
+        "username": "MachineReading",
+        "id": "1008467019082158080",
+        "description": "ReTweets and Tweets on: Machine Comprehension - Natural Language Understanding - NLU - Natural Language Processing - NLP - Concept Mining - Text Mining",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 345,
+            "following_count": 349,
+            "tweet_count": 370,
+            "listed_count": 24
+        },
+        "name": "Daniel Pressel",
+        "username": "DanielPressel",
+        "id": "2844738948",
+        "description": "ML/NLP research @interactionsco",
+        "location": "Tree Town USA",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2648,
+            "following_count": 3009,
+            "tweet_count": 3255,
+            "listed_count": 162
+        },
+        "name": "UKeiG",
+        "username": "UKeiG",
+        "id": "15402786",
+        "description": "Championing expertise & innovation in e-information, including #search, #intranets, #knowledgemanagement, #digitalliteracy, #informationretrieval",
+        "location": "UK",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 127,
+            "tweet_count": 61,
+            "listed_count": 0
+        },
+        "name": "Ali Allaith 🇾🇪",
+        "username": "AliMAllaith",
+        "id": "516285695",
+        "description": "PhD Research Scholar and Research Associate at Center for Language Engineering",
+        "location": "Lahore, Pakistan",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 963,
+            "following_count": 821,
+            "tweet_count": 2835,
+            "listed_count": 55
+        },
+        "name": "Damiano Spina",
+        "username": "damiano10",
+        "id": "132646210",
+        "description": "PhD in Computer Science. Lecturer & DECRA at @RMIT, @RMITComputing, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira @ACDP_Australia. Percussionist at @Wombatuque.",
+        "location": "Melbourne, Australia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 420,
+            "following_count": 4177,
+            "tweet_count": 30,
+            "listed_count": 0
+        },
+        "name": "بوابه الانترنت  1",
+        "username": "trky347",
+        "id": "782714397378633729",
+        "description": "‏‏‏طالب",
+        "location": "صنعاء",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 81,
+            "following_count": 154,
+            "tweet_count": 33,
+            "listed_count": 0
+        },
+        "name": "Faisal Saeed",
+        "username": "Faisalalsamet",
+        "id": "801471787141713920",
+        "description": "Assistant Professor, Taibah University",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 52,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "name": "Abo Hala",
+        "username": "undertiker2017",
+        "id": "799763080875950080",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 54,
+            "following_count": 222,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "name": "TAUFIQ",
+        "username": "TAUFIQ19602613",
+        "id": "4515368003",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5228,
+            "following_count": 1721,
+            "tweet_count": 4476,
+            "listed_count": 172
+        },
+        "name": "Jaime Teevan",
+        "username": "jteevan",
+        "id": "44973000",
+        "description": "Chief Scientist at Microsoft. Professor at UW. Mother to four wild boys. #AI #HCI #Productivity #FutureOfWork",
+        "location": "Pacific Northwest",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 146,
+            "following_count": 562,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "name": "يامخارج الاخجف لاودف",
+        "username": "havesaidno",
+        "id": "2238256228",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 362,
+            "following_count": 143,
+            "tweet_count": 3888,
+            "listed_count": 1
+        },
+        "name": "sanaafalcon",
+        "username": "sanaafalcon",
+        "id": "255336880",
+        "description": "was gefällt mir am meisten?und wem gefalle ich am besten?",
+        "location": "Science land",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 30329,
+            "following_count": 3697,
+            "tweet_count": 25038,
+            "listed_count": 1027
+        },
+        "name": "ML @ REDDIT",
+        "username": "mxlearn",
+        "id": "167346791",
+        "description": "/r/MachineLearning: Research, News, Discussions, Software @ Machine Learning, Data Mining, Text Processing, Information Retrieval, Search Computing and alike",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 102,
+            "following_count": 255,
+            "tweet_count": 667,
+            "listed_count": 0
+        },
+        "name": "إبـراهيم المــاحي",
+        "username": "ibalmahy",
+        "id": "421647029",
+        "description": "‏‏.‏Assistant Professor @ IUA\n\nيرجو  النجاة ولم يسلك مسالكها ، ومُعوّلُه على رحمةِ ربه",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 418,
+            "following_count": 1483,
+            "tweet_count": 122,
+            "listed_count": 3
+        },
+        "name": "Greg le baiseur",
+        "username": "Greg33400",
+        "id": "1002193231",
+        "description": "Tais-toi et suce. Nique les pd avec vos PP de manga de tarlouzes",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 43,
+            "following_count": 638,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "name": "paperfoc.us",
+        "username": "disruptuniv",
+        "id": "618551148",
+        "description": "The Twitter for EECS researchers!",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 704,
+            "following_count": 2629,
+            "tweet_count": 193,
+            "listed_count": 12
+        },
+        "name": "Michelle",
+        "username": "Myfreecourses",
+        "id": "812908818",
+        "description": "Free courses online from top universities, Yale, LSE, Harvard, Standord etc. Also languages, accounting, IT courses and more.",
+        "location": "Sydney",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 271,
+            "following_count": 1121,
+            "tweet_count": 32857,
+            "listed_count": 3
+        },
+        "name": "shirah_mhd",
+        "username": "sunset_skyy",
+        "id": "47347493",
+        "description": "Leo, 🇲🇾",
+        "location": "Malaysia",
+        "protected": true
+    },
+    {
+        "public_metrics": {
+            "followers_count": 682,
+            "following_count": 1056,
+            "tweet_count": 525,
+            "listed_count": 48
+        },
+        "name": "NTCIR",
+        "username": "NTCIR",
+        "id": "40389352",
+        "description": "NTCIR organizes shared-tasks in IR, QA, MT, NLP, Summarization, Data/Opinion Mining.",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 292,
+            "following_count": 908,
+            "tweet_count": 1152,
+            "listed_count": 4
+        },
+        "name": "Amir Fahmi",
+        "username": "amirfhm",
+        "id": "296059289",
+        "description": "I am just a simple boy from KL who's trying to change his own destiny :)",
+        "location": "Malaysia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 216,
+            "following_count": 1078,
+            "tweet_count": 1132,
+            "listed_count": 3
+        },
+        "name": "Sajimee",
+        "username": "sajimee",
+        "id": "297313432",
+        "description": "Sajimee is the latest instant noodles to hit Malaysian market, with various tasty flavours! Sajimee...Layan Habiiis!",
+        "location": "Malaysia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 211,
+            "following_count": 485,
+            "tweet_count": 2000,
+            "listed_count": 9
+        },
+        "name": "Chan Kin Meng",
+        "username": "chankinmeng",
+        "id": "30135955",
+        "description": "Founder of Gameconomy and Coder53 #Entrepreneur #Blockchain #Coffee #YNWA #Shadewfare #NFTs",
+        "location": "Malaysia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 317,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "name": "NJZ",
+        "username": "innuendogi19724",
+        "id": "49929866",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 111,
+            "following_count": 1255,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "name": "Leanne Joy Herrera",
+        "username": "leanneherr45866",
+        "id": "49512668",
+        "description": "",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 120,
+            "tweet_count": 257,
+            "listed_count": 10
+        },
+        "name": "Azreen",
+        "username": "azreenlatiff",
+        "id": "26937480",
+        "description": "Co-Founder http://t.co/UI23c1VXD0 - fully online school management system.",
+        "location": "San Francisco",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 173,
+            "following_count": 150,
+            "tweet_count": 683,
+            "listed_count": 2
+        },
+        "name": "Anne Fernando",
+        "username": "annefernando",
+        "id": "28306149",
+        "description": "",
+        "location": "Malaysia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 193,
+            "following_count": 165,
+            "tweet_count": 319,
+            "listed_count": 12
+        },
+        "name": "Aris Samad-Yahaya",
+        "username": "aris_samad",
+        "id": "27376604",
+        "description": "Software Developer",
+        "location": "Silicon Valley, CA",
+        "protected": false
+    }
+]

@@ -1,0 +1,1274 @@
+[
+    {
+        "username": "amit_sheen",
+        "protected": false,
+        "id": "1020412387541831680",
+        "public_metrics": {
+            "followers_count": 3564,
+            "following_count": 350,
+            "tweet_count": 400,
+            "listed_count": 44
+        },
+        "name": "Amit Sheen"
+    },
+    {
+        "username": "VincenzoCarli15",
+        "protected": false,
+        "id": "1274089631580073984",
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 85,
+            "tweet_count": 52,
+            "listed_count": 0
+        },
+        "name": "Vincenzo Carlino"
+    },
+    {
+        "username": "diegobetto",
+        "protected": false,
+        "id": "57903937",
+        "public_metrics": {
+            "followers_count": 226,
+            "following_count": 337,
+            "tweet_count": 4317,
+            "listed_count": 24
+        },
+        "name": "Diego Betto"
+    },
+    {
+        "username": "veekas",
+        "protected": false,
+        "id": "15126830",
+        "public_metrics": {
+            "followers_count": 1506,
+            "following_count": 1336,
+            "tweet_count": 7388,
+            "listed_count": 33
+        },
+        "name": "veekas ashoka"
+    },
+    {
+        "username": "Sleaze55546934",
+        "protected": false,
+        "id": "1136339583959019521",
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 117,
+            "tweet_count": 66,
+            "listed_count": 0
+        },
+        "name": "Sleaze"
+    },
+    {
+        "username": "stolinski",
+        "protected": false,
+        "id": "18727585",
+        "public_metrics": {
+            "followers_count": 50426,
+            "following_count": 1317,
+            "tweet_count": 16273,
+            "listed_count": 827
+        },
+        "name": "Scott Tolinski - Syntax.fm - Level Up Tutorials"
+    },
+    {
+        "username": "wesbos",
+        "protected": false,
+        "id": "815246",
+        "public_metrics": {
+            "followers_count": 265799,
+            "following_count": 1427,
+            "tweet_count": 75868,
+            "listed_count": 4460
+        },
+        "name": "Wes Bos"
+    },
+    {
+        "username": "syntaxfm",
+        "protected": false,
+        "id": "733722018596687872",
+        "public_metrics": {
+            "followers_count": 37059,
+            "following_count": 2,
+            "tweet_count": 1676,
+            "listed_count": 449
+        },
+        "name": "Syntax"
+    },
+    {
+        "username": "pogany_",
+        "protected": false,
+        "id": "1031098929469898752",
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 83,
+            "tweet_count": 291,
+            "listed_count": 0
+        },
+        "name": "pogany"
+    },
+    {
+        "username": "StanProkopenko",
+        "protected": false,
+        "id": "29368120",
+        "public_metrics": {
+            "followers_count": 34248,
+            "following_count": 204,
+            "tweet_count": 2588,
+            "listed_count": 338
+        },
+        "name": "Stan Prokopenko"
+    },
+    {
+        "username": "figmadesign",
+        "protected": false,
+        "id": "3181020308",
+        "public_metrics": {
+            "followers_count": 198733,
+            "following_count": 960,
+            "tweet_count": 15486,
+            "listed_count": 2550
+        },
+        "name": "Figma"
+    },
+    {
+        "username": "analizapandac",
+        "protected": false,
+        "id": "3453761005",
+        "public_metrics": {
+            "followers_count": 273,
+            "following_count": 740,
+            "tweet_count": 316,
+            "listed_count": 3
+        },
+        "name": "Ana Liza 👩🏽‍💻"
+    },
+    {
+        "username": "davidwalshblog",
+        "protected": false,
+        "id": "15759583",
+        "public_metrics": {
+            "followers_count": 83533,
+            "following_count": 540,
+            "tweet_count": 36071,
+            "listed_count": 3668
+        },
+        "name": "David Walsh"
+    },
+    {
+        "username": "aaroniker_me",
+        "protected": false,
+        "id": "816183109481861121",
+        "public_metrics": {
+            "followers_count": 9773,
+            "following_count": 285,
+            "tweet_count": 1058,
+            "listed_count": 153
+        },
+        "name": "Aaron Iker"
+    },
+    {
+        "username": "Volorf",
+        "protected": false,
+        "id": "98317711",
+        "public_metrics": {
+            "followers_count": 1264,
+            "following_count": 1136,
+            "tweet_count": 6683,
+            "listed_count": 119
+        },
+        "name": "Oleg Frolov"
+    },
+    {
+        "username": "RomansEtianen",
+        "protected": false,
+        "id": "510648731",
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 33,
+            "tweet_count": 37,
+            "listed_count": 0
+        },
+        "name": "Etianen"
+    },
+    {
+        "username": "chriscoyier",
+        "protected": false,
+        "id": "793830",
+        "public_metrics": {
+            "followers_count": 245924,
+            "following_count": 3340,
+            "tweet_count": 39191,
+            "listed_count": 8811
+        },
+        "name": "Chris Coyier"
+    },
+    {
+        "username": "GavinCettolo",
+        "protected": false,
+        "id": "579842788",
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 121,
+            "tweet_count": 317,
+            "listed_count": 3
+        },
+        "name": "Gavin Cettolo"
+    },
+    {
+        "username": "NegroLuca",
+        "protected": false,
+        "id": "461997072",
+        "public_metrics": {
+            "followers_count": 100,
+            "following_count": 135,
+            "tweet_count": 70,
+            "listed_count": 0
+        },
+        "name": "Luca Negro"
+    },
+    {
+        "username": "SimoneBearzot",
+        "protected": false,
+        "id": "326841363",
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 636,
+            "tweet_count": 472,
+            "listed_count": 0
+        },
+        "name": "Simone Bearzot"
+    },
+    {
+        "username": "Sleaze3",
+        "protected": false,
+        "id": "58273937",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 69,
+            "tweet_count": 43,
+            "listed_count": 0
+        },
+        "name": "Stefano Florio"
+    },
+    {
+        "username": "VueMastery",
+        "protected": false,
+        "id": "936654774434398208",
+        "public_metrics": {
+            "followers_count": 19962,
+            "following_count": 658,
+            "tweet_count": 2509,
+            "listed_count": 459
+        },
+        "name": "Vue Mastery"
+    },
+    {
+        "username": "VueNewsletter",
+        "protected": false,
+        "id": "752495200300310528",
+        "public_metrics": {
+            "followers_count": 43991,
+            "following_count": 54,
+            "tweet_count": 711,
+            "listed_count": 739
+        },
+        "name": "Official Vue.js News"
+    },
+    {
+        "username": "youyuxi",
+        "protected": false,
+        "id": "182821975",
+        "public_metrics": {
+            "followers_count": 158639,
+            "following_count": 1299,
+            "tweet_count": 7889,
+            "listed_count": 2359
+        },
+        "name": "Evan You"
+    },
+    {
+        "username": "vuejs",
+        "protected": false,
+        "id": "2292889800",
+        "public_metrics": {
+            "followers_count": 232442,
+            "following_count": 517,
+            "tweet_count": 3631,
+            "listed_count": 3222
+        },
+        "name": "Vue.js"
+    },
+    {
+        "username": "freeCodeCamp",
+        "protected": false,
+        "id": "1668100142",
+        "public_metrics": {
+            "followers_count": 495322,
+            "following_count": 153,
+            "tweet_count": 24737,
+            "listed_count": 4872
+        },
+        "name": "freeCodeCamp.org"
+    },
+    {
+        "username": "loweisz",
+        "protected": false,
+        "id": "2252739506",
+        "public_metrics": {
+            "followers_count": 295,
+            "following_count": 501,
+            "tweet_count": 383,
+            "listed_count": 6
+        },
+        "name": "Lorenz 🐧"
+    },
+    {
+        "username": "SalvoBarbera2",
+        "protected": false,
+        "id": "1107583936505528320",
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 178,
+            "tweet_count": 169,
+            "listed_count": 0
+        },
+        "name": "Salvo Barbera"
+    },
+    {
+        "username": "tonroosendaal",
+        "protected": false,
+        "id": "211087208",
+        "public_metrics": {
+            "followers_count": 53392,
+            "following_count": 215,
+            "tweet_count": 12066,
+            "listed_count": 831
+        },
+        "name": "Ton Roosendaal"
+    },
+    {
+        "username": "andrewpprice",
+        "protected": false,
+        "id": "20309234",
+        "public_metrics": {
+            "followers_count": 111749,
+            "following_count": 361,
+            "tweet_count": 31577,
+            "listed_count": 1238
+        },
+        "name": "Andrew Price"
+    },
+    {
+        "username": "whatabout_trash",
+        "protected": false,
+        "id": "1128065534380134400",
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 6,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "name": "WAT?"
+    },
+    {
+        "username": "SachaGreif",
+        "protected": false,
+        "id": "14261086",
+        "public_metrics": {
+            "followers_count": 25776,
+            "following_count": 3695,
+            "tweet_count": 23067,
+            "listed_count": 1248
+        },
+        "name": "Sacha Greif"
+    },
+    {
+        "username": "dan_abramov",
+        "protected": false,
+        "id": "70345946",
+        "public_metrics": {
+            "followers_count": 308896,
+            "following_count": 360,
+            "tweet_count": 82716,
+            "listed_count": 5348
+        },
+        "name": "Dan"
+    },
+    {
+        "username": "CodePen",
+        "protected": false,
+        "id": "517021184",
+        "public_metrics": {
+            "followers_count": 151286,
+            "following_count": 2882,
+            "tweet_count": 18781,
+            "listed_count": 2801
+        },
+        "name": "CodePen.IO"
+    },
+    {
+        "username": "ge1doot",
+        "protected": false,
+        "id": "77855135",
+        "public_metrics": {
+            "followers_count": 5606,
+            "following_count": 3042,
+            "tweet_count": 1664,
+            "listed_count": 189
+        },
+        "name": "Gerard Ferrandez"
+    },
+    {
+        "username": "keithclarkcouk",
+        "protected": false,
+        "id": "74691846",
+        "public_metrics": {
+            "followers_count": 3806,
+            "following_count": 566,
+            "tweet_count": 8719,
+            "listed_count": 264
+        },
+        "name": "Keith Clark"
+    },
+    {
+        "username": "RealHughJackman",
+        "protected": false,
+        "id": "27042513",
+        "public_metrics": {
+            "followers_count": 14584039,
+            "following_count": 23,
+            "tweet_count": 4071,
+            "listed_count": 25778
+        },
+        "name": "Hugh Jackman"
+    },
+    {
+        "username": "kentcdodds",
+        "protected": false,
+        "id": "389681470",
+        "public_metrics": {
+            "followers_count": 150983,
+            "following_count": 118,
+            "tweet_count": 115897,
+            "listed_count": 2923
+        },
+        "name": "Kent C. Dodds 💿"
+    },
+    {
+        "username": "dribbble",
+        "protected": false,
+        "id": "14351575",
+        "public_metrics": {
+            "followers_count": 259416,
+            "following_count": 997,
+            "tweet_count": 16441,
+            "listed_count": 5517
+        },
+        "name": "Dribbble"
+    },
+    {
+        "username": "Daily_UI",
+        "protected": false,
+        "id": "3810384134",
+        "public_metrics": {
+            "followers_count": 23555,
+            "following_count": 10,
+            "tweet_count": 1782,
+            "listed_count": 442
+        },
+        "name": "Daily UI"
+    },
+    {
+        "username": "awscloud",
+        "protected": false,
+        "id": "66780587",
+        "public_metrics": {
+            "followers_count": 1956924,
+            "following_count": 936,
+            "tweet_count": 35903,
+            "listed_count": 8953
+        },
+        "name": "Amazon Web Services"
+    },
+    {
+        "username": "tempestive_com",
+        "protected": false,
+        "id": "834062931629318144",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 108,
+            "tweet_count": 94,
+            "listed_count": 0
+        },
+        "name": "tempestive.com"
+    },
+    {
+        "username": "CentroPhoenix_",
+        "protected": false,
+        "id": "1374785971",
+        "public_metrics": {
+            "followers_count": 347,
+            "following_count": 281,
+            "tweet_count": 584,
+            "listed_count": 2
+        },
+        "name": "Centro Phoenix"
+    },
+    {
+        "username": "AlanMattiassi",
+        "protected": false,
+        "id": "4685562026",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 74,
+            "tweet_count": 19,
+            "listed_count": 2
+        },
+        "name": "Alan Mattiassi"
+    },
+    {
+        "username": "dottor",
+        "protected": false,
+        "id": "14582256",
+        "public_metrics": {
+            "followers_count": 883,
+            "following_count": 576,
+            "tweet_count": 4904,
+            "listed_count": 68
+        },
+        "name": "Andrea Dottor"
+    },
+    {
+        "username": "SmashingUXD",
+        "protected": false,
+        "id": "355542364",
+        "public_metrics": {
+            "followers_count": 18988,
+            "following_count": 5,
+            "tweet_count": 433,
+            "listed_count": 833
+        },
+        "name": "Smashing UX Design"
+    },
+    {
+        "username": "marcobortolin",
+        "protected": false,
+        "id": "268982285",
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 169,
+            "tweet_count": 531,
+            "listed_count": 2
+        },
+        "name": "Marco Bortolin"
+    },
+    {
+        "username": "xedotnet",
+        "protected": false,
+        "id": "75883383",
+        "public_metrics": {
+            "followers_count": 408,
+            "following_count": 35,
+            "tweet_count": 758,
+            "listed_count": 0
+        },
+        "name": "XE - user group"
+    },
+    {
+        "username": "alexprut",
+        "protected": false,
+        "id": "1225443146",
+        "public_metrics": {
+            "followers_count": 322,
+            "following_count": 172,
+            "tweet_count": 835,
+            "listed_count": 12
+        },
+        "name": "Alex Prut"
+    },
+    {
+        "username": "DesignerDepot",
+        "protected": false,
+        "id": "17636405",
+        "public_metrics": {
+            "followers_count": 640568,
+            "following_count": 4750,
+            "tweet_count": 42105,
+            "listed_count": 14453
+        },
+        "name": "Webdesigner Depot"
+    },
+    {
+        "username": "GoogleDesign",
+        "protected": false,
+        "id": "2427421832",
+        "public_metrics": {
+            "followers_count": 188014,
+            "following_count": 469,
+            "tweet_count": 1928,
+            "listed_count": 3533
+        },
+        "name": "Google Design"
+    },
+    {
+        "username": "printmag",
+        "protected": false,
+        "id": "16336998",
+        "public_metrics": {
+            "followers_count": 854464,
+            "following_count": 3547,
+            "tweet_count": 32094,
+            "listed_count": 11800
+        },
+        "name": "Print magazine"
+    },
+    {
+        "username": "DesignObserver",
+        "protected": false,
+        "id": "17623957",
+        "public_metrics": {
+            "followers_count": 854301,
+            "following_count": 746,
+            "tweet_count": 21136,
+            "listed_count": 14394
+        },
+        "name": "DesignObserver"
+    },
+    {
+        "username": "martechismktg",
+        "protected": false,
+        "id": "12553672",
+        "public_metrics": {
+            "followers_count": 206174,
+            "following_count": 1005,
+            "tweet_count": 73471,
+            "listed_count": 7185
+        },
+        "name": "MarTech"
+    },
+    {
+        "username": "uxplanet",
+        "protected": false,
+        "id": "2445982310",
+        "public_metrics": {
+            "followers_count": 7487,
+            "following_count": 0,
+            "tweet_count": 6499,
+            "listed_count": 205
+        },
+        "name": "UX Planet"
+    },
+    {
+        "username": "UXforGood",
+        "protected": false,
+        "id": "165615450",
+        "public_metrics": {
+            "followers_count": 26517,
+            "following_count": 2491,
+            "tweet_count": 1958,
+            "listed_count": 0
+        },
+        "name": "UX for Good"
+    },
+    {
+        "username": "IxDA",
+        "protected": false,
+        "id": "14345141",
+        "public_metrics": {
+            "followers_count": 65273,
+            "following_count": 1731,
+            "tweet_count": 8853,
+            "listed_count": 2770
+        },
+        "name": "IxDA"
+    },
+    {
+        "username": "uxweek",
+        "protected": false,
+        "id": "7827862",
+        "public_metrics": {
+            "followers_count": 23622,
+            "following_count": 438,
+            "tweet_count": 1860,
+            "listed_count": 1022
+        },
+        "name": "UX Week"
+    },
+    {
+        "username": "skrug",
+        "protected": false,
+        "id": "18544024",
+        "public_metrics": {
+            "followers_count": 77821,
+            "following_count": 38,
+            "tweet_count": 3197,
+            "listed_count": 3065
+        },
+        "name": "Steve Krug"
+    },
+    {
+        "username": "jnd1er",
+        "protected": false,
+        "id": "33213413",
+        "public_metrics": {
+            "followers_count": 86201,
+            "following_count": 63,
+            "tweet_count": 549,
+            "listed_count": 2643
+        },
+        "name": "Don Norman"
+    },
+    {
+        "username": "NNgroup",
+        "protected": false,
+        "id": "15022225",
+        "public_metrics": {
+            "followers_count": 99587,
+            "following_count": 49,
+            "tweet_count": 2085,
+            "listed_count": 4284
+        },
+        "name": "Nielsen Norman Group"
+    },
+    {
+        "username": "MeasuringU",
+        "protected": false,
+        "id": "103951768",
+        "public_metrics": {
+            "followers_count": 26659,
+            "following_count": 663,
+            "tweet_count": 24548,
+            "listed_count": 1500
+        },
+        "name": "MeasuringU"
+    },
+    {
+        "username": "UXPA_Int",
+        "protected": false,
+        "id": "47451021",
+        "public_metrics": {
+            "followers_count": 25717,
+            "following_count": 1945,
+            "tweet_count": 9740,
+            "listed_count": 1186
+        },
+        "name": "UXPA International"
+    },
+    {
+        "username": "finduxevents",
+        "protected": false,
+        "id": "84589618",
+        "public_metrics": {
+            "followers_count": 24633,
+            "following_count": 1367,
+            "tweet_count": 16951,
+            "listed_count": 1168
+        },
+        "name": "Find UX Events"
+    },
+    {
+        "username": "uxmastery",
+        "protected": false,
+        "id": "631741925",
+        "public_metrics": {
+            "followers_count": 55826,
+            "following_count": 3500,
+            "tweet_count": 12587,
+            "listed_count": 1812
+        },
+        "name": "UX Mastery"
+    },
+    {
+        "username": "uxmatters",
+        "protected": false,
+        "id": "23922220",
+        "public_metrics": {
+            "followers_count": 96016,
+            "following_count": 94,
+            "tweet_count": 3479,
+            "listed_count": 3340
+        },
+        "name": "UXmatters"
+    },
+    {
+        "username": "AdaptivePath",
+        "protected": false,
+        "id": "673973",
+        "public_metrics": {
+            "followers_count": 45747,
+            "following_count": 584,
+            "tweet_count": 3963,
+            "listed_count": 2704
+        },
+        "name": "Adaptive Path"
+    },
+    {
+        "username": "boxesandarrows",
+        "protected": false,
+        "id": "17293364",
+        "public_metrics": {
+            "followers_count": 23374,
+            "following_count": 797,
+            "tweet_count": 1828,
+            "listed_count": 1555
+        },
+        "name": "Boxes and Arrows"
+    },
+    {
+        "username": "UXBooth",
+        "protected": false,
+        "id": "16740348",
+        "public_metrics": {
+            "followers_count": 111208,
+            "following_count": 202,
+            "tweet_count": 10924,
+            "listed_count": 5309
+        },
+        "name": "UX Booth"
+    },
+    {
+        "username": "uxmag",
+        "protected": false,
+        "id": "15056788",
+        "public_metrics": {
+            "followers_count": 201316,
+            "following_count": 7052,
+            "tweet_count": 6555,
+            "listed_count": 8807
+        },
+        "name": "UX Magazine"
+    },
+    {
+        "username": "ChuiSquared",
+        "protected": false,
+        "id": "10504042",
+        "public_metrics": {
+            "followers_count": 1659,
+            "following_count": 384,
+            "tweet_count": 3230,
+            "listed_count": 137
+        },
+        "name": "Chui Chui Tan"
+    },
+    {
+        "username": "hannesvdvreken",
+        "protected": false,
+        "id": "65640580",
+        "public_metrics": {
+            "followers_count": 1969,
+            "following_count": 1229,
+            "tweet_count": 14211,
+            "listed_count": 78
+        },
+        "name": "Hannes Van De Vreken"
+    },
+    {
+        "username": "whites11",
+        "protected": false,
+        "id": "100193640",
+        "public_metrics": {
+            "followers_count": 103,
+            "following_count": 112,
+            "tweet_count": 1126,
+            "listed_count": 4
+        },
+        "name": "chris whites 🇪🇺"
+    },
+    {
+        "username": "FrontendDaily",
+        "protected": false,
+        "id": "359047792",
+        "public_metrics": {
+            "followers_count": 42678,
+            "following_count": 201,
+            "tweet_count": 8905,
+            "listed_count": 1131
+        },
+        "name": "Frontend Daily 🚀"
+    },
+    {
+        "username": "computer_phile",
+        "protected": false,
+        "id": "1342321700",
+        "public_metrics": {
+            "followers_count": 41421,
+            "following_count": 28,
+            "tweet_count": 1688,
+            "listed_count": 544
+        },
+        "name": "Computerphile"
+    },
+    {
+        "username": "lucamonfredo",
+        "protected": false,
+        "id": "382662969",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 223,
+            "tweet_count": 242,
+            "listed_count": 6
+        },
+        "name": "Luca Monfredo"
+    },
+    {
+        "username": "drigani",
+        "protected": false,
+        "id": "20497791",
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 283,
+            "tweet_count": 554,
+            "listed_count": 11
+        },
+        "name": "Diego Drigani"
+    },
+    {
+        "username": "stefanovalle",
+        "protected": false,
+        "id": "146159328",
+        "public_metrics": {
+            "followers_count": 230,
+            "following_count": 166,
+            "tweet_count": 203,
+            "listed_count": 16
+        },
+        "name": "Stefano Valle"
+    },
+    {
+        "username": "pollution",
+        "protected": false,
+        "id": "14409592",
+        "public_metrics": {
+            "followers_count": 163,
+            "following_count": 144,
+            "tweet_count": 472,
+            "listed_count": 9
+        },
+        "name": "pollution"
+    },
+    {
+        "username": "ibanez182",
+        "protected": false,
+        "id": "6612982",
+        "public_metrics": {
+            "followers_count": 177,
+            "following_count": 373,
+            "tweet_count": 1726,
+            "listed_count": 14
+        },
+        "name": "Nicola Pressi"
+    },
+    {
+        "username": "andreacoiutti",
+        "protected": false,
+        "id": "2754573014",
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 112,
+            "tweet_count": 196,
+            "listed_count": 2
+        },
+        "name": "Andrea Coiutti"
+    },
+    {
+        "username": "getyedone",
+        "protected": false,
+        "id": "554192682",
+        "public_metrics": {
+            "followers_count": 187,
+            "following_count": 0,
+            "tweet_count": 1691,
+            "listed_count": 3
+        },
+        "name": "Challenge Accepted"
+    },
+    {
+        "username": "Briharad",
+        "protected": true,
+        "id": "61149904",
+        "public_metrics": {
+            "followers_count": 224,
+            "following_count": 518,
+            "tweet_count": 3521,
+            "listed_count": 7
+        },
+        "name": "Lou Catoso"
+    },
+    {
+        "username": "EasyReadingFont",
+        "protected": false,
+        "id": "729559936758362113",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 20,
+            "tweet_count": 4,
+            "listed_count": 2
+        },
+        "name": "EasyReading"
+    },
+    {
+        "username": "scottecs",
+        "protected": false,
+        "id": "16080866",
+        "public_metrics": {
+            "followers_count": 58224,
+            "following_count": 1072,
+            "tweet_count": 12708,
+            "listed_count": 168
+        },
+        "name": "Sio"
+    },
+    {
+        "username": "elemind",
+        "protected": false,
+        "id": "15823025",
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 35,
+            "tweet_count": 182,
+            "listed_count": 0
+        },
+        "name": "elemind"
+    },
+    {
+        "username": "SassCSS",
+        "protected": false,
+        "id": "1269955578",
+        "public_metrics": {
+            "followers_count": 74926,
+            "following_count": 27,
+            "tweet_count": 1521,
+            "listed_count": 1491
+        },
+        "name": "Sass"
+    },
+    {
+        "username": "FoundationCSS",
+        "protected": false,
+        "id": "360434586",
+        "public_metrics": {
+            "followers_count": 51337,
+            "following_count": 55,
+            "tweet_count": 14516,
+            "listed_count": 1293
+        },
+        "name": "Foundation Framework"
+    },
+    {
+        "username": "MobileDevDaily",
+        "protected": false,
+        "id": "2729296830",
+        "public_metrics": {
+            "followers_count": 1862,
+            "following_count": 139,
+            "tweet_count": 3358,
+            "listed_count": 87
+        },
+        "name": "Mobile Dev Daily"
+    },
+    {
+        "username": "JavaScriptDaily",
+        "protected": false,
+        "id": "459275531",
+        "public_metrics": {
+            "followers_count": 491036,
+            "following_count": 151,
+            "tweet_count": 15360,
+            "listed_count": 7857
+        },
+        "name": "JavaScript Daily"
+    },
+    {
+        "username": "getbootstrap",
+        "protected": false,
+        "id": "372475592",
+        "public_metrics": {
+            "followers_count": 556441,
+            "following_count": 21,
+            "tweet_count": 1991,
+            "listed_count": 6638
+        },
+        "name": "Bootstrap"
+    },
+    {
+        "username": "Ionicframework",
+        "protected": false,
+        "id": "1723662264",
+        "public_metrics": {
+            "followers_count": 120598,
+            "following_count": 5,
+            "tweet_count": 8238,
+            "listed_count": 1851
+        },
+        "name": "ionic"
+    },
+    {
+        "username": "ReactJSNews",
+        "protected": false,
+        "id": "2426422297",
+        "public_metrics": {
+            "followers_count": 148444,
+            "following_count": 89,
+            "tweet_count": 2645,
+            "listed_count": 2062
+        },
+        "name": "ReactJS News"
+    },
+    {
+        "username": "reactjs",
+        "protected": false,
+        "id": "1566463268",
+        "public_metrics": {
+            "followers_count": 530830,
+            "following_count": 270,
+            "tweet_count": 2433,
+            "listed_count": 0
+        },
+        "name": "React"
+    },
+    {
+        "username": "nodejs",
+        "protected": false,
+        "id": "91985735",
+        "public_metrics": {
+            "followers_count": 749291,
+            "following_count": 642,
+            "tweet_count": 6948,
+            "listed_count": 8598
+        },
+        "name": "Node.js"
+    },
+    {
+        "username": "angular",
+        "protected": false,
+        "id": "202230373",
+        "public_metrics": {
+            "followers_count": 403772,
+            "following_count": 290,
+            "tweet_count": 3678,
+            "listed_count": 5324
+        },
+        "name": "Angular"
+    },
+    {
+        "username": "jsconfit",
+        "protected": false,
+        "id": "215145657",
+        "public_metrics": {
+            "followers_count": 2265,
+            "following_count": 654,
+            "tweet_count": 2461,
+            "listed_count": 157
+        },
+        "name": "jsday - JS Italian Conf"
+    },
+    {
+        "username": "Alycia_vdgg",
+        "protected": false,
+        "id": "2946708419",
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 151,
+            "tweet_count": 65,
+            "listed_count": 2
+        },
+        "name": "Alycia"
+    },
+    {
+        "username": "zend",
+        "protected": false,
+        "id": "15012215",
+        "public_metrics": {
+            "followers_count": 45064,
+            "following_count": 451,
+            "tweet_count": 10582,
+            "listed_count": 1518
+        },
+        "name": "Zend"
+    },
+    {
+        "username": "MaterializeCSS",
+        "protected": false,
+        "id": "2874337545",
+        "public_metrics": {
+            "followers_count": 13407,
+            "following_count": 10,
+            "tweet_count": 338,
+            "listed_count": 168
+        },
+        "name": "Materialize"
+    },
+    {
+        "username": "RuneAudio",
+        "protected": false,
+        "id": "2159613620",
+        "public_metrics": {
+            "followers_count": 1744,
+            "following_count": 61,
+            "tweet_count": 216,
+            "listed_count": 43
+        },
+        "name": "RuneAudio"
+    },
+    {
+        "username": "maraspin",
+        "protected": false,
+        "id": "132493534",
+        "public_metrics": {
+            "followers_count": 1047,
+            "following_count": 782,
+            "tweet_count": 2842,
+            "listed_count": 51
+        },
+        "name": "Steve Maraspin"
+    },
+    {
+        "username": "codethink",
+        "protected": false,
+        "id": "25337753",
+        "public_metrics": {
+            "followers_count": 3731,
+            "following_count": 3384,
+            "tweet_count": 1782,
+            "listed_count": 95
+        },
+        "name": "Codethink"
+    },
+    {
+        "username": "smashingmag",
+        "protected": false,
+        "id": "15736190",
+        "public_metrics": {
+            "followers_count": 947628,
+            "following_count": 2563,
+            "tweet_count": 79577,
+            "listed_count": 36024
+        },
+        "name": "Smashing Magazine"
+    },
+    {
+        "username": "0612tv",
+        "protected": false,
+        "id": "191774443",
+        "public_metrics": {
+            "followers_count": 325,
+            "following_count": 0,
+            "tweet_count": 1555,
+            "listed_count": 2
+        },
+        "name": "0612 TV w/ NERDfirst"
+    },
+    {
+        "username": "mvlabsit",
+        "protected": false,
+        "id": "715208754",
+        "public_metrics": {
+            "followers_count": 218,
+            "following_count": 67,
+            "tweet_count": 440,
+            "listed_count": 20
+        },
+        "name": "MV Labs"
+    }
+]

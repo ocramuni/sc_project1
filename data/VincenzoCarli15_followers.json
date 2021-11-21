@@ -1,0 +1,234 @@
+[
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 10,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "username": "nicologarolla",
+        "name": "Nicolò garolla",
+        "id": "2318656707",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "location": "Gaiarine",
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 20,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "username": "Baggio_Giacomo",
+        "name": "Baggio_Giacomo",
+        "id": "4164882915",
+        "description": "A pezzo de infame"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 8,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "Xiper01",
+        "name": "Xavier_Perin",
+        "id": "950448415514775553",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 39,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "username": "MaxKraus87",
+        "name": "Massimiliano Kraus",
+        "id": "1417524044799356928",
+        "description": "Solution architect, software developer, teacher"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 30,
+            "following_count": 277,
+            "tweet_count": 767,
+            "listed_count": 0
+        },
+        "username": "12_lollo",
+        "name": "Lorenzo",
+        "id": "2512799996",
+        "description": "tempo di nuove conoscenze"
+    },
+    {
+        "protected": false,
+        "location": "Italy",
+        "public_metrics": {
+            "followers_count": 553,
+            "following_count": 689,
+            "tweet_count": 3666,
+            "listed_count": 2
+        },
+        "username": "vagabiondaa",
+        "name": "J🦋",
+        "id": "716152406",
+        "description": "d’arborea vita viventi 🌿\nTutte le cose che non posso fare le scrivo.\nI complain about docker... a lot."
+    },
+    {
+        "protected": false,
+        "location": "Udine",
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 106,
+            "tweet_count": 43,
+            "listed_count": 0
+        },
+        "username": "silviajoy21",
+        "name": "Silvia Gioia Florio",
+        "id": "800628924254257152",
+        "description": "Front end developer. Aspiring UX/UI designer. Love to read social psychology books and analyze human behavior."
+    },
+    {
+        "protected": false,
+        "location": "Tunisia 🌍",
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 433,
+            "tweet_count": 273,
+            "listed_count": 0
+        },
+        "username": "Acewings_sk",
+        "name": "Not_Your_Typical_Programmer ⚡",
+        "id": "3091360817",
+        "description": "Software Engineer, Team Lead @Edidact.ch, #laravel⭐, #Reactjs🔥, #Nodejs ✨ developer, passionate young programmer who love commiting to open source projects 📂."
+    },
+    {
+        "protected": false,
+        "location": "Pordenone",
+        "public_metrics": {
+            "followers_count": 186,
+            "following_count": 164,
+            "tweet_count": 1710,
+            "listed_count": 13
+        },
+        "username": "vittore",
+        "name": "vittore",
+        "id": "14417569",
+        "description": "Dad of 3. Husband. PHP enthusiast with fullstack passion. Mikrotiker for network environment."
+    },
+    {
+        "protected": false,
+        "location": "Florida, USA",
+        "public_metrics": {
+            "followers_count": 58513,
+            "following_count": 11838,
+            "tweet_count": 25487,
+            "listed_count": 1318
+        },
+        "username": "JoeIngeno",
+        "name": "Joe Ingeno",
+        "id": "122122818",
+        "description": "Software Architect | Developer | Author of Software Architect's Handbook https://t.co/6wlrMhW1Xc"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 230,
+            "following_count": 166,
+            "tweet_count": 203,
+            "listed_count": 16
+        },
+        "username": "stefanovalle",
+        "name": "Stefano Valle",
+        "id": "146159328",
+        "description": "Software engineer, hermit (IE don't expect too many tweets). Loving his wife, software development & design and country music. In that exact order"
+    },
+    {
+        "protected": false,
+        "location": "Treviso, Italy",
+        "public_metrics": {
+            "followers_count": 883,
+            "following_count": 576,
+            "tweet_count": 4904,
+            "listed_count": 68
+        },
+        "username": "dottor",
+        "name": "Andrea Dottor",
+        "id": "14582256",
+        "description": "Microsoft MVP Developer Technologies, .NET & Web Consultant, Developer, Speaker, Ultra Trail Runner, MTB Runner."
+    },
+    {
+        "protected": false,
+        "location": "Udine, Italy",
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 112,
+            "tweet_count": 196,
+            "listed_count": 2
+        },
+        "username": "andreacoiutti",
+        "name": "Andrea Coiutti",
+        "id": "2754573014",
+        "description": "Front-end developer. UX/UI engineer. Webdesigner. Hi-Fi and music lover."
+    },
+    {
+        "protected": false,
+        "location": "Udine, Friuli-Venezia Giulia",
+        "public_metrics": {
+            "followers_count": 106,
+            "following_count": 287,
+            "tweet_count": 877,
+            "listed_count": 3
+        },
+        "username": "marcoc_753",
+        "name": "Marco Collovati",
+        "id": "2910615303",
+        "description": "Passionate software developer. Father and husband. Huge #Vaadin fan"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 102,
+            "tweet_count": 11,
+            "listed_count": 0
+        },
+        "username": "brv_ale",
+        "name": "Alessandro",
+        "id": "1233547876548169728",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "location": "Udine, Italy",
+        "public_metrics": {
+            "followers_count": 1047,
+            "following_count": 782,
+            "tweet_count": 2842,
+            "listed_count": 51
+        },
+        "username": "maraspin",
+        "name": "Steve Maraspin",
+        "id": "132493534",
+        "description": "Abstraction climber, silos saboteur, interested in #software, #ux, #psychology. @mvlabsit Managing Partner."
+    },
+    {
+        "protected": false,
+        "location": "Udine, Italy",
+        "public_metrics": {
+            "followers_count": 226,
+            "following_count": 337,
+            "tweet_count": 4317,
+            "listed_count": 24
+        },
+        "username": "diegobetto",
+        "name": "Diego Betto",
+        "id": "57903937",
+        "description": "https://t.co/O68j6Ouc9u founder, senior full-stack designer & developer, ReactJS & Vue lover, music-dependent, reflex addicted ;)"
+    }
+]

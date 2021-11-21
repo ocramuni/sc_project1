@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1461715104676855810",
+        "created_at": "2021-11-19T15:16:52.000Z",
+        "text": "👑🤷🏻‍♂️https://t.co/DwmP0Vofv2",
+        "lang": "und",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1461569787872661508",
+        "created_at": "2021-11-19T05:39:26.000Z",
+        "text": "RT @FraVonV: Sei grande quando mangi una cosa per non farla andare a male ma vorresti altro.",
+        "lang": "it",
+        "public_metrics": {
+            "retweet_count": 202,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1461464646557315076",
+        "created_at": "2021-11-18T22:41:39.000Z",
+        "text": "RT @OfficialHIMYM: Can't fight if you're not there! 🏃‍♂️💨 💨 #TipsFromBarney https://t.co/bTPxbxvIpA",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 114,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1461294289749745667",
+        "created_at": "2021-11-18T11:24:42.000Z",
+        "text": "@MarkMichaelis Great!",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "id": "1461275864113553414",
+        "created_at": "2021-11-18T10:11:29.000Z",
+        "text": "Hi @MarkMichaelis , I'm following your talk for UpdateConference remotely, so I'cant ask u questions.\nI'm trying to reach you here with this gist: https://t.co/zoGiXpDkSD \nThank you so much!\n#UpdateConferencePrague2021",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    }
+]

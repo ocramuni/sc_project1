@@ -1,0 +1,62 @@
+[
+    {
+        "text": "RT @bricksdont: Join us next week for a casual Q&amp;A all about machine translation! Register here: https://t.co/OCDhXd5eJG. You can even ask…",
+        "created_at": "2021-11-19T20:59:58.000Z",
+        "id": "1461801448468066304",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "text": "RT @conll_conf: Please check the schedule on the CoNLL website to find the paper_title-&gt;paper_ID mapping! (useful to locate a poster on Gat…",
+        "created_at": "2021-11-10T23:36:08.000Z",
+        "id": "1458579255869284358",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "text": "RT @_SheilaCastilho: If you're attending the #EMNLP2021 workshops today and are interested in Doc-level #MT, come watch our presentation of…",
+        "created_at": "2021-11-10T14:23:49.000Z",
+        "id": "1458440260053082122",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "text": "RT @_SheilaCastilho: I absolutely loved the keynote speech at #EMNLP2021 by @ev_fedorenko. I'm very interested to see if and how these resu…",
+        "created_at": "2021-11-09T11:21:58.000Z",
+        "id": "1458032108153233409",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    },
+    {
+        "text": "RT @annargrs: A highlight from the amazing @ev_fedorenko's keynote: The language system in the human brain at #EMNLP2021\n\nIt doesn't really…",
+        "created_at": "2021-11-09T08:57:33.000Z",
+        "id": "1457995765075353602",
+        "public_metrics": {
+            "retweet_count": 47,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en"
+    }
+]

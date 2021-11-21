@@ -1,0 +1,126 @@
+[
+    {
+        "location": "Los Angeles, CA",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 874876,
+            "following_count": 446440,
+            "tweet_count": 38363,
+            "listed_count": 3318
+        },
+        "id": "54938044",
+        "description": "Inc. 500 Entrepreneur. Business Consultant. NFTs. Crypto. Digital Marketing. Investor. Gamer. #Marketing #Founder #Blockchain #Tech #AI #Startups #NFTs",
+        "username": "BrianDEvans",
+        "name": "Brian D. Evans"
+    },
+    {
+        "location": "San Francisco, CA",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1137,
+            "following_count": 4994,
+            "tweet_count": 420,
+            "listed_count": 5
+        },
+        "id": "1147848256577245189",
+        "description": "Securing DevOps pipelines from code to cloud. Read Gartner's latest research on securing software supply chains here: https://t.co/dROhe4Q7Ek",
+        "username": "CycodeHQ",
+        "name": "Cycode"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 249,
+            "tweet_count": 310,
+            "listed_count": 0
+        },
+        "id": "709249880431132672",
+        "description": "Nothing is wrong at all!",
+        "username": "shimels_habtamu",
+        "name": "Habtamu Shimels"
+    },
+    {
+        "location": "Verona, Veneto",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 12,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "1330907017825964039",
+        "description": "19 y/o, Aerialist 🎪💙",
+        "username": "Rachele09087526",
+        "name": "Rachele"
+    },
+    {
+        "location": "Lignano Sabbiadoro, Friuli-Ven",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 62,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "id": "860108790645084160",
+        "description": "",
+        "username": "fra_bomba6",
+        "name": "Francesco"
+    },
+    {
+        "location": "Udine, Friuli-Venezia Giulia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 185,
+            "following_count": 345,
+            "tweet_count": 2867,
+            "listed_count": 1
+        },
+        "id": "2572511777",
+        "description": "Sparkler \nCobra",
+        "username": "Ilele99",
+        "name": "dominiciiii"
+    },
+    {
+        "location": "World Wide Web",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 19572,
+            "following_count": 14353,
+            "tweet_count": 2306,
+            "listed_count": 112
+        },
+        "id": "166573638",
+        "description": "The best way to predict the future is to create it 💡\n#BlackLivesMatter ✊🏿✊🏾✊🏽✊🏼✊🏻✊",
+        "username": "ahamadou_io",
+        "name": "🔎 Ahamadou 🔍"
+    },
+    {
+        "location": "Italy",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 401,
+            "following_count": 152,
+            "tweet_count": 1067,
+            "listed_count": 0
+        },
+        "id": "3172828894",
+        "description": "22 | Freelance Graphic Designer \nTROPIXFAM* 🚀 \nI usually move pixels for a living",
+        "username": "MortalDesign",
+        "name": "MortalDesign"
+    },
+    {
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 79,
+            "following_count": 740,
+            "tweet_count": 113,
+            "listed_count": 1
+        },
+        "id": "1003022062305316864",
+        "description": "Musician: Guitarist / Bassist / Pianist - Composer / Producer / Songwriter. DM open for jobs.",
+        "username": "q_criterion",
+        "name": "Q Criterion"
+    }
+]

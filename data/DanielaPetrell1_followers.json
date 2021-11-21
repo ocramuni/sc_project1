@@ -1,0 +1,4257 @@
+[
+    {
+        "name": "James Louis Smith",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2262,
+            "following_count": 4097,
+            "tweet_count": 12665,
+            "listed_count": 49
+        },
+        "location": "Cork, Ireland",
+        "username": "ScrivenerSmith",
+        "id": "98319183",
+        "description": "Postdoc for @PortsPastPres at @EnglishUCC, #envhum, #water, #spatialhumanities and #openaccess. Convenor of @coastalseminars. He/Him."
+    },
+    {
+        "name": "Stefania Serafin",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1516,
+            "following_count": 2949,
+            "tweet_count": 1516,
+            "listed_count": 39
+        },
+        "location": "Copenhagen",
+        "username": "stefasera",
+        "id": "312221806",
+        "description": "Professor and mom; sonic Interaction design, VR/AR  https://t.co/TyTE0JwyHu and https://t.co/L7kQdbyYdf"
+    },
+    {
+        "name": "Dirk vom Lehn",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2801,
+            "following_count": 3494,
+            "tweet_count": 58033,
+            "listed_count": 237
+        },
+        "location": "Twitter",
+        "username": "dirkvl",
+        "id": "22008121",
+        "description": "Dad. #Organisational #Sociology Associate Editor @sijournal @kingsbschool, #interaction, #ethnomethodology #emca #sssi - https://t.co/sEOQ5FIsfY"
+    },
+    {
+        "name": "Daisuke Uriu / 瓜生 大輔",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 564,
+            "following_count": 544,
+            "tweet_count": 8397,
+            "listed_count": 27
+        },
+        "location": "Nerima-ku, Tokyo",
+        "username": "daisukeuriu",
+        "id": "5062191",
+        "description": "PhD in Media Design. Project Lecturer at the University of Tokyo. Memorialization Designer. 弔いデザイナー\b／博士（メディアデザイン学）／東京大学先端科学技術研究センター特任講師／もるもっと @japanesemarmot の人"
+    },
+    {
+        "name": "Emme Nomade",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 333,
+            "following_count": 572,
+            "tweet_count": 1007,
+            "listed_count": 9
+        },
+        "location": "Aalborg, Danmark",
+        "username": "emmenomade",
+        "id": "14820265",
+        "description": "Associate Professor at Aalborg University, he/him"
+    },
+    {
+        "name": "Lesley",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 288,
+            "following_count": 984,
+            "tweet_count": 540,
+            "listed_count": 2
+        },
+        "location": "UK",
+        "username": "LesleyJohnston_",
+        "id": "1605603570",
+        "description": "Narrative Designer (Archive and Immersive XR) - KTP Associate at UK Antarctic Heritage Trust"
+    },
+    {
+        "name": "Minha Lee",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1610,
+            "following_count": 2332,
+            "tweet_count": 1953,
+            "listed_count": 35
+        },
+        "location": "Eindhoven de gekste",
+        "username": "minhappylee",
+        "id": "253926677",
+        "description": "Corgi mom 🐶 Assistant Prof. @TUE_ID, Future Everyday.\nResearch: Interactional morality, conversational agents, HCI, phil. She/They+Korean/Minnesotan✌Feeler💕"
+    },
+    {
+        "name": "Epicneveryday",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 279,
+            "following_count": 2336,
+            "tweet_count": 2259,
+            "listed_count": 2
+        },
+        "username": "epicneveryday",
+        "id": "2252329162",
+        "description": ""
+    },
+    {
+        "name": "Department of Art & Design - Sheffield Hallam",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 674,
+            "following_count": 1238,
+            "tweet_count": 2444,
+            "listed_count": 8
+        },
+        "location": "Head Post Office, Sheffield",
+        "username": "ArtandDesignSHU",
+        "id": "1125690195330961408",
+        "description": "We are the thinkers, creators, innovators and change-makers. Transforming lives through applied creativity since 1843. Part of @HallamSSA at @SheffHallamUni."
+    },
+    {
+        "name": "Carlotta Paltrinieri",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 477,
+            "following_count": 579,
+            "tweet_count": 774,
+            "listed_count": 10
+        },
+        "location": "UK",
+        "username": "CarlPaltr",
+        "id": "605573674",
+        "description": "Lecturer @LLC_RHUL Visiting Fellow @IMLR_News Ph.D. - @IUBloomington"
+    },
+    {
+        "name": "stephenbot",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 206,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "stephenbot2",
+        "id": "1375394230516940801",
+        "description": ""
+    },
+    {
+        "name": "Ying-Hsang Liu",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 669,
+            "following_count": 1344,
+            "tweet_count": 1397,
+            "listed_count": 42
+        },
+        "location": "Kolding, Danmark",
+        "username": "ruyhliu",
+        "id": "23761309",
+        "description": "Senior Researcher at Oslo Metropolitan University (OsloMet). All views my own."
+    },
+    {
+        "name": "G E McQueen 莫琨",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 181,
+            "following_count": 870,
+            "tweet_count": 349,
+            "listed_count": 4
+        },
+        "username": "gemcq",
+        "id": "2753111088",
+        "description": "Artist and co-founder of liminal art . org. #citylis alumnus, working at @lshtm Interests: information theories, #OA and contemporary art practice."
+    },
+    {
+        "name": "Dr. Angelika Strohmayer 🇪🇺👻",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2737,
+            "following_count": 4998,
+            "tweet_count": 10266,
+            "listed_count": 58
+        },
+        "location": "Newcastle | Wien",
+        "username": "tripsandflips_",
+        "id": "2871167445",
+        "description": "Senior lecturer in design @NorthumbriaUni 📚 research at the intersections of feminisms, safety, charities, craft, & tech 💌 co-run @fempowertech 👩‍💻 she/her"
+    },
+    {
+        "name": "Jayne Wallace",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 669,
+            "following_count": 698,
+            "tweet_count": 780,
+            "listed_count": 24
+        },
+        "location": "Newcastle Upon Tyne, England",
+        "username": "JayneWellAce",
+        "id": "64523124",
+        "description": "Professor in Craft and Wellbeing at Northumbria University: Researcher: Digital Jeweller: Volunteer Cruse Bereavement Care https://t.co/JeBM8aml9L"
+    },
+    {
+        "name": "Alec Badenoch",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 908,
+            "following_count": 1793,
+            "tweet_count": 5079,
+            "listed_count": 11
+        },
+        "username": "alec_badenoch",
+        "id": "824286947493507072",
+        "description": "Media historian; migrant; archives. Prof. transnational media @VUamsterdam for @BeeldenGeluid and ast. prof. @UniUtrecht; @StR_u_G; Tweets mine & quite random"
+    },
+    {
+        "name": "Tom Goskar",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3055,
+            "following_count": 1622,
+            "tweet_count": 13859,
+            "listed_count": 141
+        },
+        "location": "Penzance, UK",
+        "username": "tomgoskar",
+        "id": "754587",
+        "description": "Archaeologist @curatorialRC | FSA | #3Dscanning since 2002 | #Metaverse thinker | Rock art & inscriptions | Traditions & customs | Mandolins | e-Estonian 🇪🇪"
+    },
+    {
+        "name": "Denise Heffernan",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 83,
+            "following_count": 333,
+            "tweet_count": 80,
+            "listed_count": 1
+        },
+        "location": "Cork",
+        "username": "DeniseDoesStuff",
+        "id": "1318942869621821442",
+        "description": "#UX #UI #Design #Research | UX Researcher @NimbusCentre \n\nAll opinions my own."
+    },
+    {
+        "name": "Hasina Akter",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 180,
+            "following_count": 722,
+            "tweet_count": 1421,
+            "listed_count": 0
+        },
+        "location": "CHITTAGONG",
+        "username": "Hasina9h",
+        "id": "1327624650021474304",
+        "description": "#ROLL UP BANNER #MINIMAL #LOGO DESIGN AND CUSTOM #T-SHIRT DESIGNER\n#GRAPHICS DESIGN  #LOGO DESIGN"
+    },
+    {
+        "name": "Fabio Ciravegna",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 338,
+            "following_count": 102,
+            "tweet_count": 122,
+            "listed_count": 17
+        },
+        "username": "fabcira",
+        "id": "17390300",
+        "description": ""
+    },
+    {
+        "name": "Steve Colmer",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1627,
+            "following_count": 2703,
+            "tweet_count": 4728,
+            "listed_count": 51
+        },
+        "location": "Glasgow, Scotland",
+        "username": "steve_colmer",
+        "id": "3119146126",
+        "description": "I'm Steve, and & I do immersive digital storytelling for Museum & Heritage sectors.Previously was Soluis Heritage and currently at @lateralnorth #VR #AR"
+    },
+    {
+        "name": "Dr Carla Ardis",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3220,
+            "following_count": 3096,
+            "tweet_count": 6606,
+            "listed_count": 51
+        },
+        "location": "A spasso per il mondo",
+        "username": "Carla_Ardis",
+        "id": "793839600045133824",
+        "description": "Archaeological Illustrator at @MOLArchaeology, Ph.D. Archaeologist @IMTLucca, Tourist guide.\nUsed to tweet for @VEiLProject, @Aarg_Venice2018 & @Museo_Setificio"
+    },
+    {
+        "name": "Dr Megan Kasten",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 630,
+            "following_count": 717,
+            "tweet_count": 1233,
+            "listed_count": 7
+        },
+        "location": "Glasgow, Scotland",
+        "username": "3Dgroovanstones",
+        "id": "728880255784587264",
+        "description": "She/her. Postdoctoral Research Assistant at the University of Glasgow for SPARC and Og(h)am projects; researching Digital Imaging and Early Medieval Sculpture"
+    },
+    {
+        "name": "Bodleian Centre for the Study of the Book",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9736,
+            "following_count": 1871,
+            "tweet_count": 1651,
+            "listed_count": 186
+        },
+        "location": "Bodleian Library",
+        "username": "bodleiancsb",
+        "id": "359904144",
+        "description": "Research and events from the Centre for the Study of the Book, in \nBodleian Libraries Special Collections, rare books and manuscripts"
+    },
+    {
+        "name": "dr. eve stirling",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 902,
+            "following_count": 1255,
+            "tweet_count": 2534,
+            "listed_count": 51
+        },
+        "location": "Sheffield",
+        "username": "evestirling",
+        "id": "23755339",
+        "description": "a crafter // research // pathways to zero // gaming // digital & physical spaces // ethical data reuse // speculative design // head of pg & fine art"
+    },
+    {
+        "name": "Tiziana Lombardo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 743,
+            "following_count": 1677,
+            "tweet_count": 1670,
+            "listed_count": 45
+        },
+        "location": "Pisa, Italy",
+        "username": "tizianalombardo",
+        "id": "153053272",
+        "description": "Digital professioNERD, lazy yogini, crazy mom,happy knitter,  lost witch, dream traveler, lame dancer"
+    },
+    {
+        "name": "Kevin Doherty",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 431,
+            "following_count": 570,
+            "tweet_count": 377,
+            "listed_count": 3
+        },
+        "location": "Copenhagen, Denmark",
+        "username": "kevinHCI",
+        "id": "1943803232",
+        "description": "#HCI & Mental Health Technology Researcher @DTU_HealthTech @Koebenhavns_UNI Formerly @TCDDublin @GrenobleINP @NCAD_Dublin @MSFTResearch Creator @ConciseISL 🕊️"
+    },
+    {
+        "name": "Rita levi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 66,
+            "following_count": 845,
+            "tweet_count": 242,
+            "listed_count": 0
+        },
+        "username": "Ritalev68569920",
+        "id": "1210812474775130119",
+        "description": ""
+    },
+    {
+        "name": "Physics@Pages",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 387,
+            "tweet_count": 20,
+            "listed_count": 0
+        },
+        "username": "forum_physics",
+        "id": "1309363105445498881",
+        "description": "I am the Conference Coordinator at PAGES LLC.\nOur Organization is Conducting Conference on Physics at Brussels, Belgium"
+    },
+    {
+        "name": "Loraine Clarke",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 252,
+            "following_count": 633,
+            "tweet_count": 47,
+            "listed_count": 8
+        },
+        "location": "Scotland",
+        "username": "LoraineClarke",
+        "id": "21877820",
+        "description": "HCI design researcher & lecturer @univofstandrews @SACHI @StAndrewsCS.Tinkering with creative technologies, interactive museum exhibits and community engagement"
+    },
+    {
+        "name": "Shaimaa",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 628,
+            "following_count": 1121,
+            "tweet_count": 1502,
+            "listed_count": 17
+        },
+        "location": "Alexandria, Egypt",
+        "username": "ShaimaaLazem",
+        "id": "77778527",
+        "description": "Egyptian Assoc Prof, Computer Science PhD at Virginia Tech, Newton-Mosharafa Prog Officer STDF EGYPT, Leaders in Innovation Fellow  RAEng UK, Cofounder @ArabHCI"
+    },
+    {
+        "name": "C&T2021",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 253,
+            "following_count": 564,
+            "tweet_count": 70,
+            "listed_count": 3
+        },
+        "location": "Seattle, WA, USA",
+        "username": "comtech2021",
+        "id": "1277934392183152644",
+        "description": "Official account for the Communities & Technologies Conference, June 21-25, 2021 in Seattle.  #comtech2021.  2021 Theme: \"Wicked Problems in the Age of Tech\""
+    },
+    {
+        "name": "Maria Mullane",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 213,
+            "following_count": 878,
+            "tweet_count": 722,
+            "listed_count": 3
+        },
+        "location": "Edinburgh / Sheffield",
+        "username": "DesignPose",
+        "id": "2686363305",
+        "description": "PhD Lab4Living / Proximal support interfaces / Origami critical artefacts/ Product Design Lecturer /"
+    },
+    {
+        "name": "Gabriele Ciravegna",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 49,
+            "tweet_count": 8,
+            "listed_count": 0
+        },
+        "location": "PhD Student",
+        "username": "CiraGabriele",
+        "id": "1387597873",
+        "description": "PhD Student in Artificial Intelligence at the University of Siena. \nPassionate in studying how to couple and enhancing Machine Learning with Reasoning"
+    },
+    {
+        "name": "Violeta",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 170,
+            "following_count": 356,
+            "tweet_count": 112,
+            "listed_count": 2
+        },
+        "location": "Newcastle Upon Tyne, England",
+        "username": "ViTsenova",
+        "id": "831300272",
+        "description": "PhD Candidate at Newcastle University, HCA and Open Lab.\n\nDigital Interpretation, Critical Heritage, Co-Design"
+    },
+    {
+        "name": "Jessica Horne",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 258,
+            "following_count": 916,
+            "tweet_count": 397,
+            "listed_count": 0
+        },
+        "location": "Various books ",
+        "username": "heritagehermit",
+        "id": "1171048731724124160",
+        "description": "PhD candidate and research assistant exploring #volunteering in the #cultural sector @SussexUni. Interested in arts-based methods inc #walking – she/her."
+    },
+    {
+        "name": "Sophia Angelica",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 136,
+            "following_count": 3451,
+            "tweet_count": 302,
+            "listed_count": 0
+        },
+        "username": "SophiaA51246578",
+        "id": "1202582771022983168",
+        "description": "character"
+    },
+    {
+        "name": "Advanced Materials Conference",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 349,
+            "following_count": 845,
+            "tweet_count": 234,
+            "listed_count": 0
+        },
+        "location": "Online",
+        "username": "material_confe",
+        "id": "1202546633168175110",
+        "description": "26th International Conference on Advanced Materials & Nanotechnology will be held during November 15-16, 2021 in Madrid, Spain\n#AdvancedMaterials2021"
+    },
+    {
+        "name": "Euan Winton",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 60,
+            "following_count": 84,
+            "tweet_count": 55,
+            "listed_count": 2
+        },
+        "location": "Usually Edinburgh",
+        "username": "EuanWinton",
+        "id": "126374261",
+        "description": "Academic, creative practitioner, light artist & PhD Student exploring designs capacity for change & empowerment with people living with dementia."
+    },
+    {
+        "name": "AHRC Design Research",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2320,
+            "following_count": 2553,
+            "tweet_count": 1538,
+            "listed_count": 25
+        },
+        "location": "Glasgow, Scotland",
+        "username": "AHRCDesignLF",
+        "id": "915491447239053312",
+        "description": "@ahrcpress Design Priority Area. Follow for News, Events, Funding & Insights Curated on behalf of Design Leadership Fellow, Professor Paul Rodgers @paulstweet"
+    },
+    {
+        "name": "Peter Lloyd Jones",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1672,
+            "following_count": 3761,
+            "tweet_count": 6350,
+            "listed_count": 58
+        },
+        "location": "UK & US",
+        "username": "studioscientist",
+        "id": "2718899182",
+        "description": "Professor of Design in Lab, Studio & Clinic @lab4living @sheffhallamuni / https://t.co/lvVwlKL7hA / https://t.co/AQUnRbqiuA / my own views"
+    },
+    {
+        "name": "federicot",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 123,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "username": "federicotaj",
+        "id": "3293980786",
+        "description": ""
+    },
+    {
+        "name": "Maria Murray",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 626,
+            "following_count": 1309,
+            "tweet_count": 2198,
+            "listed_count": 6
+        },
+        "location": "Cork, Ireland",
+        "username": "maria_c2h",
+        "id": "121040581",
+        "description": "PhD student @AppPsychUCC - digital SEA in expanding rural communities. Lecturer Creative Digital Media @MTU_Crawford. Views expressed are my own, she/her 🇵🇸"
+    },
+    {
+        "name": "Sha liang",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 66,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "location": "Clydebank, Scotland",
+        "username": "Shaliang1",
+        "id": "2404873838",
+        "description": "augmented reality, human factors"
+    },
+    {
+        "name": "Dr Will Wyeth",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1138,
+            "following_count": 2357,
+            "tweet_count": 1805,
+            "listed_count": 7
+        },
+        "location": "Dunbar, Scotland",
+        "username": "willwyeth",
+        "id": "765398562",
+        "description": "@englishheritage castle historian. Currently #LongCovid. Views mine, he/him."
+    },
+    {
+        "name": "ClaraCrivellaro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 427,
+            "following_count": 629,
+            "tweet_count": 357,
+            "listed_count": 13
+        },
+        "username": "unsolopunto",
+        "id": "340506045",
+        "description": "Design + Sociotech for Democracy & Social Justice @OpenLab_Ncl\n@notequaltech | sporadic SM “user” | views generated with people, places and things"
+    },
+    {
+        "name": "Christopher Morse",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 495,
+            "following_count": 1306,
+            "tweet_count": 226,
+            "listed_count": 16
+        },
+        "location": "Luxembourg",
+        "username": "christophrmorse",
+        "id": "123602378",
+        "description": "paper art & cultural informatics ☀️ PhD in Psych 🎓 \n#queer #art #dogs #esoterica #ethicalAI (he/they) \n🇲🇽 🇺🇸 🇯🇵 🇱🇺 🏳️‍🌈"
+    },
+    {
+        "name": "Sandy Gould",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 888,
+            "following_count": 1775,
+            "tweet_count": 4414,
+            "listed_count": 26
+        },
+        "username": "sjjgo",
+        "id": "56097623",
+        "description": "Academic @CompScienceCU"
+    },
+    {
+        "name": "Tim Gorichanaz",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 698,
+            "following_count": 304,
+            "tweet_count": 6016,
+            "listed_count": 23
+        },
+        "location": "Philadelphia",
+        "username": "timgorichanaz",
+        "id": "16538488",
+        "description": "\"I sit at my desk and what I do is just dream.\" —@harukimurakami_\nTeaching ethics + design @DrexelCCI\n#amwriting #ultrarunning #GoMarquette #IHSV"
+    },
+    {
+        "name": "Colm Forde // Doc'n Roll",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1180,
+            "following_count": 4572,
+            "tweet_count": 4356,
+            "listed_count": 22
+        },
+        "location": "London",
+        "username": "Cartlann",
+        "id": "617088369",
+        "description": "#MusicDoc World Sales, Acq & Distribution // Programmer @DocnRollFest. AV Archivist. There's more to life than books you know, but not much more. #Éireannach"
+    },
+    {
+        "name": "Elisabeth Johnson",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 242,
+            "following_count": 316,
+            "tweet_count": 3579,
+            "listed_count": 7
+        },
+        "location": "Crookes, Sheffield",
+        "username": "LoveCatsSheff",
+        "id": "470134369",
+        "description": "Love Cats will care for your pet at home. I will treat your pet as I would my own. I look after cats to rabbits, dog walking to gerbils."
+    },
+    {
+        "name": "Nadia Pantidi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 231,
+            "following_count": 261,
+            "tweet_count": 301,
+            "listed_count": 8
+        },
+        "location": "Wellington",
+        "username": "pantidinad",
+        "id": "27413593",
+        "description": "Lecturer in Victoria University of Wellington"
+    },
+    {
+        "name": "Alex Taylor",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1978,
+            "following_count": 1189,
+            "tweet_count": 3754,
+            "listed_count": 42
+        },
+        "location": "London, England",
+        "username": "alxndrt",
+        "id": "222044507",
+        "description": "Partner & daddy in vibrant E. LDN; pondering on sociology, feminist technoscience, STS, multi-species relations, community and HCI. Co-director at @cityuni_hcid"
+    },
+    {
+        "name": "Kerry Berry",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 265,
+            "following_count": 1773,
+            "tweet_count": 633,
+            "listed_count": 20
+        },
+        "location": "Winchester, UK",
+        "username": "ilikechilli",
+        "id": "68704662",
+        "description": ""
+    },
+    {
+        "name": "GoFit4Fun",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 103,
+            "tweet_count": 46,
+            "listed_count": 1
+        },
+        "location": "Sheffield & Beyond, England & Beyond",
+        "username": "GoFit4Fun",
+        "id": "1130879784433672194",
+        "description": "Being active has never been so creative and fun so come and join the GoFit4Fun community, like all the cool cats 🐱🤙"
+    },
+    {
+        "name": "Tom Battey",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 427,
+            "following_count": 869,
+            "tweet_count": 3530,
+            "listed_count": 13
+        },
+        "location": "London, England",
+        "username": "tombattey",
+        "id": "202630094",
+        "description": "Narrative designer and games scholar. Games Designer in Residence at Sheffield Hallam University. He/him."
+    },
+    {
+        "name": "UCC BA Psychology and Computing",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 314,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "location": "Cork, Ireland",
+        "username": "uccpsycomp",
+        "id": "1181511807913123841",
+        "description": "The BA Psychology and Computing is a programme offered by the School of Computer Science and the School of Applied Psychology, University College Cork"
+    },
+    {
+        "name": "Julia Udall",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2653,
+            "following_count": 4995,
+            "tweet_count": 16813,
+            "listed_count": 37
+        },
+        "location": "Sheffield",
+        "username": "JuliaUdall",
+        "id": "344751408",
+        "description": "~SL @ArchitectureSHU ~ Director @StudioPolpo~ outside/ architecture/ politics/ passions/ commoning/ distributed design/ economies/ cheap thrill(er)s..."
+    },
+    {
+        "name": "anchellei",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 99,
+            "tweet_count": 97,
+            "listed_count": 4
+        },
+        "username": "anchellei",
+        "id": "2948990453",
+        "description": ""
+    },
+    {
+        "name": "PEAK15 – Making Research Visible",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 353,
+            "following_count": 1455,
+            "tweet_count": 549,
+            "listed_count": 0
+        },
+        "username": "Peak_Fifteen",
+        "id": "738733334457667585",
+        "description": "Peak15 is a #design studio working with researchers and #academia to communicate their #research. NL/UK. Tweets Sigrid Schmeisser"
+    },
+    {
+        "name": "Mark Lochrie",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 948,
+            "following_count": 1046,
+            "tweet_count": 14114,
+            "listed_count": 90
+        },
+        "location": "Chorley, UK",
+        "username": "marklochrie",
+        "id": "12690112",
+        "description": "Exploring the intersection of objects, people and interactions viewed through the lens of meaningful experiences that are woven by physical & digital materials."
+    },
+    {
+        "name": "chrisspeed",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3610,
+            "following_count": 2749,
+            "tweet_count": 17149,
+            "listed_count": 161
+        },
+        "location": "iPhone: 55.946209,-3.201298",
+        "username": "chrisspeed",
+        "id": "15169089",
+        "description": ""
+    },
+    {
+        "name": "Kalliopi Kontiza",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1196,
+            "following_count": 5003,
+            "tweet_count": 10297,
+            "listed_count": 30
+        },
+        "location": "London,UK",
+        "username": "popaylove",
+        "id": "184917701",
+        "description": "exploring Information Science, adopted DHer, digital migrant, UCL PhD 'mature Student'  #CrossCult_H2020, #ΔΙΜΙΝ #ionianislandsmuseumsnetwork, #dhgrnetwork"
+    },
+    {
+        "name": "Jen Ross",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4292,
+            "following_count": 3332,
+            "tweet_count": 4725,
+            "listed_count": 201
+        },
+        "location": "Edinburgh",
+        "username": "jar",
+        "id": "1350231",
+        "description": "senior lecturer at the University of Edinburgh. Digital Education, Education Futures & Digital Cultural Heritage."
+    },
+    {
+        "name": "Dr Deborah Wilson",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 192,
+            "following_count": 259,
+            "tweet_count": 383,
+            "listed_count": 10
+        },
+        "location": "University of Winchester, UK",
+        "username": "debrianne",
+        "id": "31387199",
+        "description": "Designing mobile/multiplatform apps for heritage sites ‘The Talking Walls’, PhD research on designing heritage interpretation & Senior Lecturer - Digital Media"
+    },
+    {
+        "name": "Louis Nisiotis",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 436,
+            "following_count": 723,
+            "tweet_count": 1536,
+            "listed_count": 31
+        },
+        "username": "lnisio",
+        "id": "158820196",
+        "description": "VR/AR/MR/XR Cyber-Physical-Social Systems, Immersive Learning Technologies. Games Development Lecturer at the University of Central Lancashire, Cyprus campus."
+    },
+    {
+        "name": "Ben Templeton",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1930,
+            "following_count": 1248,
+            "tweet_count": 3662,
+            "listed_count": 70
+        },
+        "location": "London",
+        "username": "thoughtben",
+        "id": "22941397",
+        "description": "Games, playful experiences and innovation for arts and culture // #ArtStrike instigator // Founder @thoughtden // Associate @preloaded // Hosts https://t.co/en3j6R7o1G"
+    },
+    {
+        "name": "Elisabetta Airaghi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 482,
+            "following_count": 652,
+            "tweet_count": 936,
+            "listed_count": 16
+        },
+        "location": "Brussels, Belgium",
+        "username": "EliAiraghi",
+        "id": "521633190",
+        "description": "Senior Consultant @KEAtweets passionate about #CulturalHeritage former intern @GuggenheimPGC @lacappellamusic #Bocconi graduate #CLEACC #CLAPI & @Hitotsubashi_U"
+    },
+    {
+        "name": "Lorena Dianel Aldana",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 590,
+            "following_count": 1330,
+            "tweet_count": 523,
+            "listed_count": 15
+        },
+        "location": "Brussels, Belgium🇪🇺",
+        "username": "Dianel_Aldana",
+        "id": "738658136609918976",
+        "description": "Cultural professional from 🇲🇽 | Working at @europanostra | Previous: @EU_Commission & @OECD | Alumna ITESM, Science Po, UNIBO \n\n views are my own"
+    },
+    {
+        "name": "Europa Nostra",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 15682,
+            "following_count": 2405,
+            "tweet_count": 10168,
+            "listed_count": 320
+        },
+        "location": "The Hague & Brussels, Europe",
+        "username": "europanostra",
+        "id": "79175292",
+        "description": "The 🇪🇺 Voice of #CivilSociety committed to #CulturalHeritage #EuropeanHeritageAwards #7MostEndangered #EuropeanHeritageAlliance #EuropaNostraAgora"
+    },
+    {
+        "name": "ILUCIDARE",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 778,
+            "following_count": 617,
+            "tweet_count": 706,
+            "listed_count": 16
+        },
+        "username": "ilucidare",
+        "id": "1113452638199263233",
+        "description": "a #Horizon2020 funded project establishing an international network to promote #heritage-led innovation and international relations #EuropeforCulture"
+    },
+    {
+        "name": "🟠🔶🟧",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 183,
+            "following_count": 853,
+            "tweet_count": 583,
+            "listed_count": 12
+        },
+        "location": "Stockholm, Sweden",
+        "username": "_ff6600",
+        "id": "104164459",
+        "description": "Hi, I’m Charles Windlin. Currently researching how interactive technology can help to understand and regulate emotions together."
+    },
+    {
+        "name": "Lisa Tweedie",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1480,
+            "following_count": 3048,
+            "tweet_count": 25517,
+            "listed_count": 69
+        },
+        "location": "Wiltshire, UK",
+        "username": "LisaTw",
+        "id": "26619905",
+        "description": "Dr Lisa Tweedie - Ux architect,  mother, community activist."
+    },
+    {
+        "name": "Marco Di Paolo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 488,
+            "following_count": 2304,
+            "tweet_count": 310,
+            "listed_count": 248
+        },
+        "location": "Planetary",
+        "username": "d10sk0ur01",
+        "id": "49475565",
+        "description": ""
+    },
+    {
+        "name": "Jocelyn Cady Spence",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 285,
+            "following_count": 384,
+            "tweet_count": 411,
+            "listed_count": 12
+        },
+        "location": "Nottingham, UK",
+        "username": "stronglanguage",
+        "id": "39968183",
+        "description": "Research Fellow in Performative Experience Design at the Mixed Reality Lab, into all things ExD/IxD, performance, gifting, and cultural heritage"
+    },
+    {
+        "name": "m 🍃",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 91,
+            "following_count": 451,
+            "tweet_count": 865,
+            "listed_count": 0
+        },
+        "username": "marteeeeeeeee",
+        "id": "2475878432",
+        "description": "She/Her"
+    },
+    {
+        "name": "Myriam Lewkowicz",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 575,
+            "following_count": 958,
+            "tweet_count": 510,
+            "listed_count": 4
+        },
+        "location": "France",
+        "username": "myrlewko",
+        "id": "50391029",
+        "description": "Professor @UTTroyes, head of Tech-CICO research group, @EUSSET chair, CSCWJ deputy editor in chief. Basically a lurker here..."
+    },
+    {
+        "name": "Emilie Giles",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1448,
+            "following_count": 1481,
+            "tweet_count": 3855,
+            "listed_count": 71
+        },
+        "location": "London",
+        "username": "me_backwards",
+        "id": "21250944",
+        "description": "Senior Lecturer in Graphic Design at @inspiredAUB; PhD in HCI from @OpenUniversity; Previously @codasign & current co-organiser for @estitcheslondon"
+    },
+    {
+        "name": "Abigail Durrant",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1406,
+            "following_count": 1664,
+            "tweet_count": 892,
+            "listed_count": 27
+        },
+        "location": "🌊 Tynemouth, UK",
+        "username": "abigail_durrant",
+        "id": "25703196",
+        "description": "Professor @OpenLab_Ncl | Designer + researcher of data interactions shaping ideas of selfhood, wellbeing, inclusion, histories, futures | PI of @INTUIT_project"
+    },
+    {
+        "name": "Ian Sallmann",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 213,
+            "following_count": 3081,
+            "tweet_count": 78,
+            "listed_count": 0
+        },
+        "location": "Wisconsin, USA",
+        "username": "pillowpulse",
+        "id": "119409219",
+        "description": ""
+    },
+    {
+        "name": "Helen Fisher",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 835,
+            "following_count": 1031,
+            "tweet_count": 1104,
+            "listed_count": 20
+        },
+        "location": "Yorkshire and The Humber",
+        "username": "HelenFisher_",
+        "id": "384942463",
+        "description": "Researcher and designer with a focus on ageing, dementia, end of life and grief @lab4living Artist too! ✏️ Instagram: paw_traits"
+    },
+    {
+        "name": "Juliane Stiller",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 576,
+            "following_count": 877,
+            "tweet_count": 1351,
+            "listed_count": 28
+        },
+        "location": "Berlin, Germany",
+        "username": "stillinsky",
+        "id": "22066521",
+        "description": "#digitalisierung #digitalskills #lifelonglearning #digitalekompetenzen #informationswissenschaft #informationscience Vorständin: https://t.co/a5Kk7DohfM"
+    },
+    {
+        "name": "David Kirk",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1087,
+            "following_count": 1168,
+            "tweet_count": 998,
+            "listed_count": 18
+        },
+        "location": "Tynemouth",
+        "username": "dave_kirk",
+        "id": "89313100",
+        "description": "Professor of Human-Computer Interaction | Director of @OpenLab_Ncl | Design Research for Digital Living | Humanist | @UniofNewcastle"
+    },
+    {
+        "name": "Nils Pharo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 692,
+            "following_count": 574,
+            "tweet_count": 3464,
+            "listed_count": 19
+        },
+        "location": "Oslo",
+        "username": "nilsph1",
+        "id": "174169614",
+        "description": "Professor i kunnskapsorganisasjon og informasjonsgjenfinning ved @OsloMet_ABI. Styremedlem @OsloMet. Leser bøker. Synger i @verstingrock"
+    },
+    {
+        "name": "Alexandra Petrelli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 44,
+            "tweet_count": 34,
+            "listed_count": 0
+        },
+        "username": "Alexand06409777",
+        "id": "1055598192019103744",
+        "description": "Arte de Ensinar ❤"
+    },
+    {
+        "name": "ockie",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 515,
+            "following_count": 3346,
+            "tweet_count": 3850,
+            "listed_count": 7
+        },
+        "location": "Tokyo, Japan",
+        "username": "ockie1729",
+        "id": "733877373737652227",
+        "description": "ソフトウェアエンジニア見習いです"
+    },
+    {
+        "name": "daniela de angeli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 113,
+            "following_count": 165,
+            "tweet_count": 460,
+            "listed_count": 1
+        },
+        "username": "danieladeangeli",
+        "id": "260235968",
+        "description": "I love games and toys...so I design and research them"
+    },
+    {
+        "name": "Nathalie",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 339,
+            "following_count": 896,
+            "tweet_count": 589,
+            "listed_count": 15
+        },
+        "location": "Paris, France",
+        "username": "nmamosa",
+        "id": "428263312",
+        "description": "Audiovisuel & multimédia"
+    },
+    {
+        "name": "Dr Mike Galsworthy",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 209206,
+            "following_count": 56435,
+            "tweet_count": 56625,
+            "listed_count": 1132
+        },
+        "location": "London, UK",
+        "username": "mikegalsworthy",
+        "id": "34247411",
+        "description": "Founder of @Scientists4EU & Bylines Network. Presenter at @BylineTV. Tweets on politics, Brexit, EU & UK science policy, health policy, NHS."
+    },
+    {
+        "name": "HEP",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 237,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "username": "HEP77HEP",
+        "id": "1007241451061772288",
+        "description": "Northerner. Enjoys ice hockey, nature and geographically curious."
+    },
+    {
+        "name": "Ruth A. Deller",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1091,
+            "following_count": 1593,
+            "tweet_count": 4779,
+            "listed_count": 42
+        },
+        "location": "Sheffield / ruthdeller.co.uk",
+        "username": "RuthDeller",
+        "id": "134510503",
+        "description": "Reader in Media/Comms at SHU. Got 2 busted arms so can't tweet or blog much. Reality Television: The TV Phenomenon That Changed the World out now! (see link)"
+    },
+    {
+        "name": "Kellie Morrissey",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1403,
+            "following_count": 1355,
+            "tweet_count": 8121,
+            "listed_count": 32
+        },
+        "location": "Limerick, Ireland",
+        "username": "kelliemorrissey",
+        "id": "19789799",
+        "description": "Lecturer in Design for Health & Wellbeing @UL, researching HCI. PhD from @AppPsychUCC. Reader. Generally trying to make things better. she/her"
+    },
+    {
+        "name": "Stefano Parisi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 119,
+            "following_count": 184,
+            "tweet_count": 63,
+            "listed_count": 3
+        },
+        "location": "Milan, Italy",
+        "username": "stefanoparisiSP",
+        "id": "2885109934",
+        "description": "Research Fellow and PhD candidate in Design at PoliMi @datemats_eu project @MaterialsXLab"
+    },
+    {
+        "name": "Anna Foka",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1510,
+            "following_count": 2448,
+            "tweet_count": 6606,
+            "listed_count": 39
+        },
+        "location": "Uppsala, Sverige",
+        "username": "AnnaOFoka",
+        "id": "1070166612",
+        "description": "Associate Professor of Humanities&IT. Ionian Islander, Australian, Swedish. Tweets : Swe-English /jokes: Yiddish. Leading @dhuppsala PI of @PeriegesisH"
+    },
+    {
+        "name": "NEMOSINE Project",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 195,
+            "following_count": 1065,
+            "tweet_count": 991,
+            "listed_count": 2
+        },
+        "username": "nemosineproject",
+        "id": "1087636996875579393",
+        "description": "Development of innovative packages to preserve the European cultural heritage. This project receives funding from the @EU_H2020 Research & Innovation Programme."
+    },
+    {
+        "name": "Dr. Laura Forlano",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4627,
+            "following_count": 4992,
+            "tweet_count": 12149,
+            "listed_count": 174
+        },
+        "location": "New York",
+        "username": "laura4lano",
+        "id": "17374940",
+        "description": "Writer. Design Researcher. Professor @IITDesign. Type 1D. Design, Tech and Radical Futures. Noodle Fanatic, Laser Cut Fashionista and Latin Alternative Rocker."
+    },
+    {
+        "name": "AudioMostly",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 708,
+            "following_count": 1003,
+            "tweet_count": 385,
+            "listed_count": 7
+        },
+        "username": "AudioMostly",
+        "id": "490716134",
+        "description": "A conference about interaction with sound!"
+    },
+    {
+        "name": "Dr Jo Clements",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 565,
+            "following_count": 519,
+            "tweet_count": 1540,
+            "listed_count": 5
+        },
+        "username": "Historian4Hire",
+        "id": "705348301",
+        "description": "Archivist, curator, historian of Scottish music, obsessive mind map creator, and mountaineer"
+    },
+    {
+        "name": "Alex Butterworth",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3069,
+            "following_count": 5002,
+            "tweet_count": 8923,
+            "listed_count": 101
+        },
+        "username": "AlxButterworth",
+        "id": "124288407",
+        "description": "Narrative history in a digital age. Author 'The World That Never Was’'; PI, 'Lysander Flights' and 'Past Presence', Co- 'Tools of Knowledge.'"
+    },
+    {
+        "name": "Mariana Lopez",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3102,
+            "following_count": 3247,
+            "tweet_count": 14248,
+            "listed_count": 41
+        },
+        "username": "Mariana_J_Lopez",
+        "id": "2654208582",
+        "description": "Senior Lecturer in sound design and acoustics, Sound Designer, Educator.  I volunteer as a Zumba instructor to promote wellbeing. She/Her"
+    },
+    {
+        "name": "Alan Chamberlain",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1288,
+            "following_count": 1649,
+            "tweet_count": 4555,
+            "listed_count": 53
+        },
+        "location": "UK",
+        "username": "Alan_yn_Aber",
+        "id": "186438824",
+        "description": "Technology, Music, AI, Interaction, Design and Ethnography. \nSenior Research Fellow - Mixed Reality Lab, UoN\n\nTweeting in a personal capacity"
+    },
+    {
+        "name": "Valentina Carriero",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 325,
+            "following_count": 343,
+            "tweet_count": 605,
+            "listed_count": 1
+        },
+        "username": "vale_carriero",
+        "id": "2756905921",
+        "description": "PhD student @Unibo | Visiting PhD student @UvA_Amsterdam\n#semanticweb #ontology #culturalheritage"
+    },
+    {
+        "name": "Angela Argenzio",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2033,
+            "following_count": 1027,
+            "tweet_count": 9051,
+            "listed_count": 42
+        },
+        "location": "Europe",
+        "username": "msalilla",
+        "id": "202297504",
+        "description": "Green Cllr for Broomhill & Sharrow Vale. Activist & Trustee. Passionate about Human Rights, Social Justice, Equality, Disability, Sustainability she/her"
+    },
+    {
+        "name": "Philip Walker",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1404,
+            "following_count": 2404,
+            "tweet_count": 4710,
+            "listed_count": 19
+        },
+        "location": "South West, England",
+        "username": "PhilipJMWalker",
+        "id": "357105746",
+        "description": "#blacklivesmatter, arts, museums, heritage, culture, venues, projects, live performance, music, theatre, photography, festivals, film, family, fiddle-playing"
+    },
+    {
+        "name": "Sierra McKinney",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 373,
+            "following_count": 568,
+            "tweet_count": 391,
+            "listed_count": 2
+        },
+        "location": "Montréal, Québec",
+        "username": "archaeosmck",
+        "id": "776808018499338240",
+        "description": "Anthropology PhD student at the University of Montreal. Cultural Heritage, Archaeology and Emotions (she/her)"
+    },
+    {
+        "name": "Liz Robson",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 655,
+            "following_count": 660,
+            "tweet_count": 1003,
+            "listed_count": 8
+        },
+        "location": "Stirling, Scotland",
+        "username": "lizmrobson",
+        "id": "1003710111125209088",
+        "description": "PhD @StirUni with @HistEnvScot on methods for assessing the social values of the historic environment. Research Assistant #DeepCities project. FSA Scot."
+    },
+    {
+        "name": "António Correia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 522,
+            "following_count": 3572,
+            "tweet_count": 4,
+            "listed_count": 3
+        },
+        "location": "Lisbon, Portugal",
+        "username": "t0zecorreia",
+        "id": "894723591446687745",
+        "description": "Research Fellow @MSFTResearch, Research Assistant @INESCTEC (formerly Researcher @UniKent), PhD Candidate in Computer Science at UTAD (funded by FCT), Musician"
+    },
+    {
+        "name": "EnvironmentalNarrativeVideogames",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 169,
+            "following_count": 333,
+            "tweet_count": 3276,
+            "listed_count": 2
+        },
+        "username": "env_ig",
+        "id": "935168228288094208",
+        "description": "Interest group about educational environmental narrative videogames. The group is connected to the Reveal, European research project https://t.co/Ix4UWKIlXh"
+    },
+    {
+        "name": "Alessio Malizia",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1267,
+            "following_count": 266,
+            "tweet_count": 6959,
+            "listed_count": 111
+        },
+        "location": "Italia",
+        "username": "cikay72",
+        "id": "222735551",
+        "description": "Associate Professor, University of Pisa, Italy. The views expressed here are my own and do not necessarily reflect those of University of Pisa."
+    },
+    {
+        "name": "Elisabeth Maier",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 49,
+            "tweet_count": 39,
+            "listed_count": 0
+        },
+        "username": "ElisabethMaier1",
+        "id": "1058279652471513089",
+        "description": ""
+    },
+    {
+        "name": "Burcu Tung",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 101,
+            "following_count": 276,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "location": "Richmond, CA",
+        "username": "burcutung",
+        "id": "1474005212",
+        "description": "Educator, archaeologist, dialogue facilitator, mother and partner. Digs getting to the heart of the matter, where we shine in our truths. She/her"
+    },
+    {
+        "name": "Alison John",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 817,
+            "following_count": 778,
+            "tweet_count": 3488,
+            "listed_count": 35
+        },
+        "location": "Cardiff",
+        "username": "that_allie",
+        "id": "201195776",
+        "description": "✨ Producer at @yellobrick & @play_ark | 🐺 Bobbi Dog | 🧘‍♂️ Yoga teacher in training | 🌲 Lover of the great outdoors |🧗🏻‍♀️ Occasional climber | ☀️(she/her)"
+    },
+    {
+        "name": "yellobrick",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1219,
+            "following_count": 1246,
+            "tweet_count": 2542,
+            "listed_count": 33
+        },
+        "location": "Cardiff, Wales",
+        "username": "yellobrick",
+        "id": "458480530",
+        "description": "we create events that intertwine narrative and brand into exciting and playful experiences."
+    },
+    {
+        "name": "Ilaria Bellantuono",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 921,
+            "following_count": 800,
+            "tweet_count": 5268,
+            "listed_count": 41
+        },
+        "location": "Sheffield",
+        "username": "IBellantuono",
+        "id": "365028912",
+        "description": "Co-Director of the Healthy Lifespan Institute, interested in geroprotectors, multimorbidity & frailty, a runner, a classical music lover-opinions my own"
+    },
+    {
+        "name": "Jenny Kidd",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2136,
+            "following_count": 1654,
+            "tweet_count": 8942,
+            "listed_count": 131
+        },
+        "location": "UK",
+        "username": "jenkidd",
+        "id": "21865143",
+        "description": "Reader @CardiffJOMEC digital | creativity | museums. CoI @CreativePEC"
+    },
+    {
+        "name": "Our Favourite Places",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 14230,
+            "following_count": 3098,
+            "tweet_count": 18640,
+            "listed_count": 189
+        },
+        "location": "Sheffield",
+        "username": "faveplaces",
+        "id": "102697109",
+        "description": "A Sheffield culture guide written by in-the-know locals. From @ElevenSheffield. Tweets by Claire & Kat."
+    },
+    {
+        "name": "Nervo Xavier Verdezoto",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1591,
+            "following_count": 5000,
+            "tweet_count": 4579,
+            "listed_count": 23
+        },
+        "location": "Cardiff, Wales",
+        "username": "nervoxavier",
+        "id": "19769253",
+        "description": "HCI/CSCW/Digital Health & Sustainability. Lecturer at @CompScienceCU and @IROHMS\nPrevious: Lecturer at @UoLInformatics; Postdoc at UbiComp Group @AarhusUni"
+    },
+    {
+        "name": "Archival Platform",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2524,
+            "following_count": 1714,
+            "tweet_count": 16438,
+            "listed_count": 0
+        },
+        "location": "South Africa",
+        "username": "the_archive",
+        "id": "61437197",
+        "description": "Networking, advocacy and research about archives, heritage and museums in Africa. RTs not endorsements."
+    },
+    {
+        "name": "Latif Rahman",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 64,
+            "following_count": 351,
+            "tweet_count": 38,
+            "listed_count": 0
+        },
+        "username": "ablatifr",
+        "id": "47305187",
+        "description": ""
+    },
+    {
+        "name": "BatidaDeCoco",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 96,
+            "following_count": 193,
+            "tweet_count": 427,
+            "listed_count": 0
+        },
+        "username": "danaekapa",
+        "id": "55314379",
+        "description": "Ταφτ: η λακ για κάθε καιρό."
+    },
+    {
+        "name": "David Brazier",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 231,
+            "following_count": 561,
+            "tweet_count": 777,
+            "listed_count": 10
+        },
+        "location": "Comrie, Scotland",
+        "username": "BrazierPhD",
+        "id": "4053818032",
+        "description": "Lecturer at @ComputingNapier. Interested in Information Behaviours, Literacy and Retrieval."
+    },
+    {
+        "name": "Souvick Ghosh, Ph.D.",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 234,
+            "following_count": 380,
+            "tweet_count": 727,
+            "listed_count": 2
+        },
+        "location": "Piscataway, NJ",
+        "username": "ohmyghosh_",
+        "id": "43286828",
+        "description": "Assistant Prof. @SJSU | Ph.D. | Information and Computer Scientist | Footballer in Soul | Amateur Photographer | etc.| Tweets are my own"
+    },
+    {
+        "name": "Seamus Lawless",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1640,
+            "following_count": 2749,
+            "tweet_count": 12310,
+            "listed_count": 72
+        },
+        "location": "Bray, Co.Wicklow, Ireland",
+        "username": "seamuslawless",
+        "id": "11164692",
+        "description": "Information Retrieval, Personalisation & Digital Humanities @tcddublin @AdaptCentre @beyond_2022 \nClimbing Mount Everest @IrelandEverest\nEverton & Leinster fan"
+    },
+    {
+        "name": "Jennifer Wexler",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2910,
+            "following_count": 1228,
+            "tweet_count": 15523,
+            "listed_count": 101
+        },
+        "location": "London, UK",
+        "username": "JWexlerBM",
+        "id": "2414036778",
+        "description": "Explorer of forgotten objects/places & museum secrets. Digital Research Projects & Prehistoric Archaeology @britishmuseum @MicroPasts @FitzMuseum_UK #CEEF3D #GG"
+    },
+    {
+        "name": "Tizz : Tess Baxter",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 975,
+            "following_count": 1134,
+            "tweet_count": 10661,
+            "listed_count": 32
+        },
+        "location": "Skybeam, SL: Cumbria, UK",
+        "username": "TizzyCanucci",
+        "id": "2563033412",
+        "description": "Visual artist. Make videos as Tizz in virtual worlds https://t.co/s9JaGYc0Ox | Printmaker | Back where started working in outdoor & environmental studies"
+    },
+    {
+        "name": "David Nettleingham",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1382,
+            "following_count": 2759,
+            "tweet_count": 1453,
+            "listed_count": 4
+        },
+        "location": "Ramsgate, England",
+        "username": "danettleingham",
+        "id": "745162255403094017",
+        "description": "Senior Lecturer in Sociology @UniKent @DIndustrialKent researching place, community, memory and complicated heritage narratives. Woodcraft Folk leader."
+    },
+    {
+        "name": "Phil Brooker",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 583,
+            "following_count": 1489,
+            "tweet_count": 1101,
+            "listed_count": 4
+        },
+        "username": "pdbrooker",
+        "id": "889781270003277824",
+        "description": "Am into digital methods, a bit of HCI & Programming-as-Social-Science. Sociology & ethnomethodology FTW. Benevolent creator of @_Zen_Bot_"
+    },
+    {
+        "name": "Iris 💚🤍💜",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 359,
+            "following_count": 829,
+            "tweet_count": 2907,
+            "listed_count": 2
+        },
+        "username": "lee200_e",
+        "id": "3842080701",
+        "description": "Grounded in reality - girls and women’s sex based rights are not negotiable!"
+    },
+    {
+        "name": "ACM CHIIR 2022",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1406,
+            "following_count": 452,
+            "tweet_count": 1250,
+            "listed_count": 40
+        },
+        "location": "Regensburg, Bavaria",
+        "username": "ACM_CHIIR",
+        "id": "3041372326",
+        "description": "CHIIR (“cheer”) is the ACM SIGIR Conference on Human Information Interaction and Retrieval. Next up: 14th-18th March 2022 in Regensburg, Germany #CHIIR2022"
+    },
+    {
+        "name": "Danilo Giglitto",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 191,
+            "following_count": 312,
+            "tweet_count": 478,
+            "listed_count": 2
+        },
+        "location": "Sheffield, England",
+        "username": "danilo_gig",
+        "id": "2401877725",
+        "description": "Research Associate and Associate Lecturer at @sfeffhallamuni 👨‍🏫; long-standing #Wikipedian 👨‍💻; natural born #FCIM fan 🖤💙"
+    },
+    {
+        "name": "RCA IED",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2121,
+            "following_count": 475,
+            "tweet_count": 2638,
+            "listed_count": 40
+        },
+        "location": "London",
+        "username": "RCAIED",
+        "id": "941864971",
+        "description": "MA in Information Experience Design @RoyalCollegeofArt. #speculativedesign #fineart #systems #sciart #experimentaldesign"
+    },
+    {
+        "name": "Jo Ray",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 382,
+            "following_count": 1240,
+            "tweet_count": 629,
+            "listed_count": 5
+        },
+        "location": "UK",
+        "username": "_Jo_Ray",
+        "id": "2391681943",
+        "description": "Phd researcher, Sheffield Hallam. Artist, Lecturer, Serious Amateur."
+    },
+    {
+        "name": "Tonica",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 332,
+            "following_count": 747,
+            "tweet_count": 2538,
+            "listed_count": 0
+        },
+        "username": "toniiiiica",
+        "id": "216851967",
+        "description": "a way with words"
+    },
+    {
+        "name": "Conor Linehan",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1908,
+            "following_count": 3485,
+            "tweet_count": 10635,
+            "listed_count": 72
+        },
+        "location": "Cork",
+        "username": "conorlinehan",
+        "id": "101818541",
+        "description": "Senior Lecturer in Human Computer Interaction @AppPsychUCC \"I like your manifesto, put it to the test-o\""
+    },
+    {
+        "name": "Dr. Anna A. Prisacari",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 97,
+            "following_count": 183,
+            "tweet_count": 108,
+            "listed_count": 0
+        },
+        "location": "Minneapolis, MN",
+        "username": "AnnaAPrisacari",
+        "id": "844219019787874305",
+        "description": "HCI, UX, and AR researcher and practitioner. #futureshaper at #honeywell"
+    },
+    {
+        "name": "Jacob Habgood",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 713,
+            "following_count": 347,
+            "tweet_count": 1568,
+            "listed_count": 25
+        },
+        "location": "Sheffield",
+        "username": "jacobmph",
+        "id": "152968124",
+        "description": "Director of educational things. TIGA advisor. Tweets are my own."
+    },
+    {
+        "name": "nantia koulidou",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 194,
+            "following_count": 249,
+            "tweet_count": 359,
+            "listed_count": 2
+        },
+        "location": "Sheffield, England",
+        "username": "nantiakoulidou",
+        "id": "2801518155",
+        "description": "Course Leader at Jewellery Materials and Design at SHU- studied architecture - digital jewellery - codesign- interested in design methods and RtD"
+    },
+    {
+        "name": "VIVA",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 222,
+            "following_count": 2004,
+            "tweet_count": 1158,
+            "listed_count": 0
+        },
+        "location": "Portland, ME",
+        "username": "SeeVivaSing",
+        "id": "3115154080",
+        "description": "VIVA & The Reinforcements. #Followthesensation across the country and around the world"
+    },
+    {
+        "name": "SportsTech Ireland",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1735,
+            "following_count": 2785,
+            "tweet_count": 562,
+            "listed_count": 29
+        },
+        "location": "Limerick, Ireland",
+        "username": "SportsTechIRE",
+        "id": "846493937934221312",
+        "description": "Not-for-profit organisation championing sports technology and innovation in Ireland."
+    },
+    {
+        "name": "Pesquisa Museologica",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 23,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "username": "fichamentopesq",
+        "id": "3744858501",
+        "description": ""
+    },
+    {
+        "name": "CCRI at Sheffield Hallam University",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 591,
+            "following_count": 773,
+            "tweet_count": 1523,
+            "listed_count": 8
+        },
+        "location": "Sheffield",
+        "username": "ccri_news",
+        "id": "928965060143341568",
+        "description": "Showcasing research news, activities and events from the Culture & Creativity Research Institute (CCRI) @SheffHallamUni"
+    },
+    {
+        "name": "Maria Economou",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2452,
+            "following_count": 2561,
+            "tweet_count": 3820,
+            "listed_count": 52
+        },
+        "username": "MariaEcoGl",
+        "id": "2205967047",
+        "description": "Professor, Digital Cultural Heritage, Univ of Glasgow: @UofGInfoStudies & @hunterian, co-i @emotive_eu @poem_H2020 @scotimmersives, Co-director @UofGDCH network"
+    },
+    {
+        "name": "Ceri Batchelder",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2866,
+            "following_count": 4096,
+            "tweet_count": 9325,
+            "listed_count": 168
+        },
+        "location": "Yorkshire, UK",
+        "username": "ceribatchelder",
+        "id": "22613495",
+        "description": "Creating connections and building innovation ecosystems\n@WeAreTeamSY @capenterprise @Barnsley_DMC @sheffielduni\n#startups #tech #IoT #healthtech #Industry40"
+    },
+    {
+        "name": "Sheffield Hallam University Gallery",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2512,
+            "following_count": 1945,
+            "tweet_count": 1726,
+            "listed_count": 64
+        },
+        "location": "Sheffield, Yorkshire, UK",
+        "username": "SHUgallery",
+        "id": "533199739",
+        "description": "We're Sheffield Hallam University's gallery and programme of exhibitions and events."
+    },
+    {
+        "name": "Joe Rolph",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 177,
+            "following_count": 443,
+            "tweet_count": 347,
+            "listed_count": 2
+        },
+        "location": "United Kingdom",
+        "username": "joe_rolph",
+        "id": "253279572",
+        "description": ""
+    },
+    {
+        "name": "Dr Tim Woolliscroft (AKA DigitalTim)",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2155,
+            "following_count": 4983,
+            "tweet_count": 8328,
+            "listed_count": 78
+        },
+        "location": "Sheffield, England",
+        "username": "TimWcroft",
+        "id": "1650834678",
+        "description": "Digital business innovation lecturer, researcher and consultant.  Interested in digital health, user research, service design and systems thinking #digital"
+    },
+    {
+        "name": "Anton Fedosov",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 435,
+            "following_count": 739,
+            "tweet_count": 1501,
+            "listed_count": 20
+        },
+        "location": "Palo Alto, CA",
+        "username": "antonfedosov",
+        "id": "92804430",
+        "description": "Researcher in Human-Computer Interaction @uzh_ifi. PhD @USI_INF. Visiting design researcher @SIATSFU. Design for Sharing Practices: https://t.co/vRhoNGJCvL"
+    },
+    {
+        "name": "Dr Annelies Van de Ven",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1359,
+            "following_count": 1113,
+            "tweet_count": 7854,
+            "listed_count": 53
+        },
+        "location": "Belgium",
+        "username": "archaeoa1",
+        "id": "2865001744",
+        "description": "Archaeologist • Museum Researcher • Educator • Working with archaeological collections at UCLouvain • Tends to get lost in museum basements • She/her"
+    },
+    {
+        "name": "Jenny Dunn",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 207,
+            "following_count": 375,
+            "tweet_count": 415,
+            "listed_count": 4
+        },
+        "username": "Jen_Dunn_Sheff",
+        "id": "568034453",
+        "description": "Impact Manager @sheffhallamuni advocating research as a way to change the world. Netball player, lapsed viola player and proud Escafeldian (Sheffielder)."
+    },
+    {
+        "name": "Russell Stearman",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 437,
+            "following_count": 878,
+            "tweet_count": 1798,
+            "listed_count": 21
+        },
+        "location": "Sheffield",
+        "username": "russStearman",
+        "id": "235225860",
+        "description": "Tech Director for @Joi_Polloi. Artist/author of 'Insurrection'  - a comic about protesting. Other stuff too."
+    },
+    {
+        "name": "Nicolas Marechal",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 696,
+            "following_count": 1960,
+            "tweet_count": 1207,
+            "listed_count": 26
+        },
+        "location": "Taiwan",
+        "username": "nnimar",
+        "id": "28599351",
+        "description": "design for interaction and extended realities @fengchiauniv, research student @RCACommResearch, previously @UAL, @UniversiteLiege, sparingly taiwanese."
+    },
+    {
+        "name": "marcomason",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 223,
+            "following_count": 251,
+            "tweet_count": 200,
+            "listed_count": 13
+        },
+        "location": "Newcastle upon Tyne UK ",
+        "username": "marcomason",
+        "id": "56453879",
+        "description": "Senior Lecturer at the School of Desing Northumbria U. and two times Marie Curie research fellow specialising in Design Research for Digital Cultural Heritage"
+    },
+    {
+        "name": "Juan Hiriart",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 650,
+            "following_count": 605,
+            "tweet_count": 1102,
+            "listed_count": 8
+        },
+        "username": "juanfrahiriart",
+        "id": "2427373508",
+        "description": "Designer, artist, games developer. Senior Lecturer in Interactive Media Art and Design at Salford University, UK. Silly daddy. Husband"
+    },
+    {
+        "name": "Daniel Pletinckx",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 809,
+            "following_count": 2176,
+            "tweet_count": 3632,
+            "listed_count": 18
+        },
+        "location": "Ename, Belgium",
+        "username": "DanielPletinckx",
+        "id": "371331775",
+        "description": "I'm a digital heritage expert, with a focus on 3D, VR, AR and GroupVR"
+    },
+    {
+        "name": "Brendon Wilkins",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8171,
+            "following_count": 2543,
+            "tweet_count": 3626,
+            "listed_count": 265
+        },
+        "location": "London",
+        "username": "diggingthedirt",
+        "id": "26334835",
+        "description": "Co-founder @thedigventurers PhD @LeicsMusStud. 2021 @europanostra and @heritageinmotio laureate. Archaeology, the crowd, collective and artificial intelligence"
+    },
+    {
+        "name": "Asa M Larsson",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2452,
+            "following_count": 2434,
+            "tweet_count": 26804,
+            "listed_count": 121
+        },
+        "location": "Uppsala, Sweden",
+        "username": "archasa",
+        "id": "92104413",
+        "description": "Archaeologist (PhD). Swedish National Heritage Board developing Digital Heritage. Editor of @Fornvannen_jrnl. My tweets, my opinions. She/Her"
+    },
+    {
+        "name": "Chiara Zuanni",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2012,
+            "following_count": 2082,
+            "tweet_count": 5973,
+            "listed_count": 76
+        },
+        "location": "Graz, Austria",
+        "username": "kia_z",
+        "id": "312180705",
+        "description": "Ass.-Prof. in digital humanities @DH_Graz | Digital Cultural Heritage & Museology | Erasmus+ @CultureDigi - H2020 #ReInHerit | she/her"
+    },
+    {
+        "name": "The National Archives Education Service",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2670,
+            "following_count": 960,
+            "tweet_count": 2628,
+            "listed_count": 0
+        },
+        "location": "The National Archives, London",
+        "username": "UKNatArcEdu",
+        "id": "884743879949471745",
+        "description": "Providing free @UKNatArchives document based resources & taught sessions from #KS1 up to #Alevel. See website for queries & bookings."
+    },
+    {
+        "name": "Chiara Bonacchi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3666,
+            "following_count": 2955,
+            "tweet_count": 7461,
+            "listed_count": 112
+        },
+        "location": "Edinburgh",
+        "username": "chiara_bonacchi",
+        "id": "186058003",
+        "description": "Senior Lecturer @StirUni leading on Digital Heritage. I research the intersections of heritage, data and politics using digital methods. Exec com @Crit_Heritage"
+    },
+    {
+        "name": "Harald Fredheim",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1369,
+            "following_count": 2090,
+            "tweet_count": 5115,
+            "listed_count": 36
+        },
+        "username": "haraldfred",
+        "id": "3200443637",
+        "description": "heritage, archaeology and museums, mostly\nalso tweeting @achs_ecrn\nhe/him 🏳️‍🌈"
+    },
+    {
+        "name": "cristina cerulli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3250,
+            "following_count": 4151,
+            "tweet_count": 7043,
+            "listed_count": 86
+        },
+        "location": "sheffield",
+        "username": "c_cerulli",
+        "id": "211834924",
+        "description": "Professor of Ethical Practice in Architecture and Urban Design @ArchitectureSHU /'architetto'/ co-founder of @studiopolpo /ceramics Starter Studio @yartspace"
+    },
+    {
+        "name": "Dr Chiara Bartolini",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 354,
+            "following_count": 1437,
+            "tweet_count": 732,
+            "listed_count": 13
+        },
+        "username": "justcornflake",
+        "id": "567368595",
+        "description": "Lecturer at the University of Bologna. Researching museum communication/translation, museum inclusion/accessibility, AVT in museums/heritage sites"
+    },
+    {
+        "name": "Alison Honnor",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 492,
+            "following_count": 704,
+            "tweet_count": 1968,
+            "listed_count": 12
+        },
+        "location": "Sheffield, England",
+        "username": "AlisonHonnor",
+        "id": "303132863",
+        "description": "Research Impact at Sheffield Hallam, REF, Art History, Mountains, Coffee."
+    },
+    {
+        "name": "Austin Houldsworth",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 92,
+            "following_count": 51,
+            "tweet_count": 43,
+            "listed_count": 3
+        },
+        "username": "AusHouldsworth",
+        "id": "482986515",
+        "description": "An experimental designer."
+    },
+    {
+        "name": "Dr Beav",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 671,
+            "following_count": 1222,
+            "tweet_count": 2395,
+            "listed_count": 20
+        },
+        "location": "Southport, England",
+        "username": "sianbeavers",
+        "id": "2436764423",
+        "description": "Saturday Night Beaver. PhD in Classical history, digital games, interactive media, and learning. User Experience Researcher. Dogless dog Lover."
+    },
+    {
+        "name": "Sally McHugh",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 791,
+            "following_count": 381,
+            "tweet_count": 758,
+            "listed_count": 23
+        },
+        "location": "Galway, Ireland",
+        "username": "fordofthekings",
+        "id": "24729977",
+        "description": "Postdoctoral Researcher | School of Education @nuig | Fulbright - Creative Ireland Museum Fellow 2018-19"
+    },
+    {
+        "name": "Frank T. Hopfgartner",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 891,
+            "following_count": 623,
+            "tweet_count": 1377,
+            "listed_count": 44
+        },
+        "location": "Sheffield",
+        "username": "FTHopf",
+        "id": "91697719",
+        "description": "Senior Lecturer in Data Science and Head of the IR Group at @SheffieldUni, working on Information Retrieval, #RecSys, and Quantified Self."
+    },
+    {
+        "name": "Dave Walsh",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 902,
+            "tweet_count": 2266,
+            "listed_count": 11
+        },
+        "location": "UK",
+        "username": "walsh_d",
+        "id": "14947339",
+        "description": "Web Design and Development Senior Lecturer at Edge Hill University and PhD Student at Sheffield University iSchool. All views are my own."
+    },
+    {
+        "name": "Hilary Young (she/her)",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1178,
+            "following_count": 2094,
+            "tweet_count": 3172,
+            "listed_count": 34
+        },
+        "location": "Glasgow, Scotland",
+        "username": "DrHilaryYoung",
+        "id": "351556976",
+        "description": "Head of Learning @448StudioUK ➡️Training Academics, HE and Cultural Heritage in Digital Strategies & Social Media. Glasgow 🚴‍♀️"
+    },
+    {
+        "name": "MaziZone",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 601,
+            "following_count": 1057,
+            "tweet_count": 1502,
+            "listed_count": 45
+        },
+        "location": "Europe",
+        "username": "MaziZoneEU",
+        "id": "4705583425",
+        "description": "Researching a DIY networking toolkit for location-based collective\nawareness. Mazi is an EU H2020 CAPS project starting on Jan 1st, 2016."
+    },
+    {
+        "name": "Martin Halvey",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1215,
+            "following_count": 2805,
+            "tweet_count": 4152,
+            "listed_count": 19
+        },
+        "location": "Glasgow",
+        "username": "martinhalvey",
+        "id": "54875928",
+        "description": "Reader (Associate Professor) Computer and Info Sciences at University of Strathclyde, Irish guy, will watch any competitive sports. Views my own etc."
+    },
+    {
+        "name": "Jeffrey Allen",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1367,
+            "following_count": 1527,
+            "tweet_count": 4587,
+            "listed_count": 90
+        },
+        "location": "London, UK",
+        "username": "jallen300",
+        "id": "17028337",
+        "description": "I design services at @MoJGovUK & work with policy teams to apply user-centred design to complex challenges.\n\nI care about #servicedesign #govdesign #media4good"
+    },
+    {
+        "name": "NewMediaWritingPrize",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 785,
+            "following_count": 352,
+            "tweet_count": 562,
+            "listed_count": 18
+        },
+        "location": "UK",
+        "username": "NMWPrize",
+        "id": "602671018",
+        "description": "Encouraging writers working with new media to showcase their skills, provoke discussion and raise awareness of new media writing."
+    },
+    {
+        "name": "Muftah O'Fraifer",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 61,
+            "following_count": 523,
+            "tweet_count": 73,
+            "listed_count": 1
+        },
+        "location": "Dublino Città, Irlanda",
+        "username": "IronFraifer",
+        "id": "776043899261448193",
+        "description": "IDC member at UL ,PhD"
+    },
+    {
+        "name": "Kathryn Downey (she/her)",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1072,
+            "following_count": 3381,
+            "tweet_count": 2647,
+            "listed_count": 20
+        },
+        "username": "downey_kathryn",
+        "id": "2481448798",
+        "description": "Outreach Officer for Dept. of Materials, UoM. Research interests - co-design, participatory approaches and digital design. 💜 Tea & walking dogs :)"
+    },
+    {
+        "name": "Laura Maye",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 331,
+            "following_count": 429,
+            "tweet_count": 627,
+            "listed_count": 3
+        },
+        "username": "LauraMaye64",
+        "id": "843585710",
+        "description": "Lecturer at UCC. Human-centred design, Co-design, cultural heritage, collaborative communities (and music!). All views and words my own."
+    },
+    {
+        "name": "Eleonora Fiore",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 152,
+            "following_count": 168,
+            "tweet_count": 94,
+            "listed_count": 3
+        },
+        "username": "eleonora_fiore_",
+        "id": "3964939456",
+        "description": "Designer // PhD @PoliTOnews / #Designresearch #IoT #design #sustainability"
+    },
+    {
+        "name": "Bingjie Yu",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 360,
+            "following_count": 502,
+            "tweet_count": 359,
+            "listed_count": 4
+        },
+        "username": "bingo_yu",
+        "id": "1114575098",
+        "description": "HCI PhD @UniofBath; hopefully a scientist; research in online communities; uker; kalimba beginner; once a debater; 🤯sometimes"
+    },
+    {
+        "name": "Jasna",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 851,
+            "tweet_count": 12,
+            "listed_count": 2
+        },
+        "location": "Zurich, Switzerland",
+        "username": "jasna__",
+        "id": "93380843",
+        "description": "open science | digital humanities | personal account"
+    },
+    {
+        "name": "Alison Bown",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 847,
+            "following_count": 2299,
+            "tweet_count": 4041,
+            "listed_count": 36
+        },
+        "location": "Bristol",
+        "username": "southwestrushes",
+        "id": "46879491",
+        "description": "Sound, words, projects and education are the things that capture most of my attention."
+    },
+    {
+        "name": "Irida Ntalla",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 510,
+            "following_count": 1051,
+            "tweet_count": 1863,
+            "listed_count": 19
+        },
+        "location": "east London and beyond",
+        "username": "irisflying",
+        "id": "237479035",
+        "description": ""
+    },
+    {
+        "name": "msej",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 100,
+            "following_count": 1090,
+            "tweet_count": 654,
+            "listed_count": 0
+        },
+        "location": "Chennai, India",
+        "username": "MsejMsejjournal",
+        "id": "762617430883446785",
+        "description": "MSEJ is a quarterly open access peer-reviewed journal that publishes articles which contribute new results in all areas of the Materials Science and Engineering"
+    },
+    {
+        "name": "Rachel Rowles Davis",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2864,
+            "following_count": 4905,
+            "tweet_count": 57627,
+            "listed_count": 71
+        },
+        "location": "Taunton, UK",
+        "username": "RowlesDavis",
+        "id": "2276306226",
+        "description": "Solicitor and Director at Rowles Davis LTD planning & highway law firm. Tweets reflect my personal thoughts; retweets and links may not."
+    },
+    {
+        "name": "Gail Boyle",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1197,
+            "following_count": 529,
+            "tweet_count": 11506,
+            "listed_count": 22
+        },
+        "location": "Bristol",
+        "username": "Boyle123G",
+        "id": "487018831",
+        "description": "@Bristolmuseum Senior Curator (archaeology), Chair Pucklechurch PC, Former Chair @socmusarch Treasure Valuation Committee member, Granny & @Bristol_RFC fan ATMO"
+    },
+    {
+        "name": "Owen Gower",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1591,
+            "following_count": 995,
+            "tweet_count": 6051,
+            "listed_count": 14
+        },
+        "location": "Berkeley, England",
+        "username": "owentg",
+        "id": "462160044",
+        "description": "He/him | Museum and charity manager | Sometime youth/children’s worker | Often found talking about vaccination | Proud SE Londoner | Personal account, own views"
+    },
+    {
+        "name": "Becca Lewis",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 400,
+            "following_count": 1416,
+            "tweet_count": 803,
+            "listed_count": 4
+        },
+        "location": "Glasgow, Scotland",
+        "username": "BeccaMcBounce",
+        "id": "2356471592",
+        "description": "Facilities Management Officer @womenslibrary Newly happily arrived in Scotland from SW England. She/her. Views my own."
+    },
+    {
+        "name": "Caroline Z Morris 💙",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 266,
+            "following_count": 1012,
+            "tweet_count": 1111,
+            "listed_count": 7
+        },
+        "location": "Gloucestershire... just. ",
+        "username": "curioverse",
+        "id": "227275588",
+        "description": "Alphabetically - Artist; @CoriniumMuseum collections assistant; researcher; Walker; Bookseller.\nAll views my own. See also Insta @curioverse"
+    },
+    {
+        "name": "Fast Familiar",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5274,
+            "following_count": 5797,
+            "tweet_count": 8854,
+            "listed_count": 88
+        },
+        "username": "FastFamiliar",
+        "id": "55268063",
+        "description": "participatory, playful + political artworks by an interdisciplinary studio | powered by curiosity, coffee + misplaced idealism | tweets by Rachel (mostly)"
+    },
+    {
+        "name": "celine elliott",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1290,
+            "following_count": 3778,
+            "tweet_count": 4105,
+            "listed_count": 17
+        },
+        "location": "Kernow 〓〓",
+        "username": "celinelliott",
+        "id": "300488422",
+        "description": "Museums, galleries, art, social justice ✨@cornwallmp | Mancunian 🐝 Opinions my own | she/her |"
+    },
+    {
+        "name": "TrinkerMedia (he/his)",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 287,
+            "following_count": 366,
+            "tweet_count": 1482,
+            "listed_count": 36
+        },
+        "location": "UK",
+        "username": "TrinkerMedia",
+        "id": "18896364",
+        "description": "Web Scientist, Designer and Impact Production specialist. I work with cultural heritage and Tangible Interaction on the Web. \n#Decolonisation"
+    },
+    {
+        "name": "Isis Ruiz Soler",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 173,
+            "following_count": 255,
+            "tweet_count": 893,
+            "listed_count": 7
+        },
+        "username": "IsisRuizSoler",
+        "id": "1280128195",
+        "description": ""
+    },
+    {
+        "name": "Albert Sierra",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2726,
+            "following_count": 784,
+            "tweet_count": 11396,
+            "listed_count": 137
+        },
+        "location": "Barcelona",
+        "username": "albertsierra_re",
+        "id": "16530643",
+        "description": "Historiador de l'art, museòleg, tecnofílic... i ara faig webs, VR i el que calgui! Responsable noves tecnologies a l'Agència Catalana del Patrimoni Cultural"
+    },
+    {
+        "name": "Remi Bec",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 348,
+            "following_count": 558,
+            "tweet_count": 456,
+            "listed_count": 7
+        },
+        "username": "Rob_zone83",
+        "id": "240274915",
+        "description": "Design-Researcher @Lab4Living / 'Play' theme lead / Multidisciplinary / Health & Well being / Participatory / Playful methods\n\nFounder of @GoFit4Fun"
+    },
+    {
+        "name": "Read Digital Fiction",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 628,
+            "following_count": 669,
+            "tweet_count": 448,
+            "listed_count": 18
+        },
+        "location": "UK",
+        "username": "ReadDigFic",
+        "id": "2308535557",
+        "description": "Introducing readers to digital fiction and investigating digital fiction reading. Based at Sheffield Hallam University & Bangor University, funded by the AHRC."
+    },
+    {
+        "name": "Katrin",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 38285,
+            "following_count": 91741,
+            "tweet_count": 43968,
+            "listed_count": 104
+        },
+        "location": "Silicon Valley California USA",
+        "username": "BoekeKatrin",
+        "id": "586941998",
+        "description": "A pessimist sees the difficulty in every opportunity. An optimist sees the opportunity in every difficulty."
+    },
+    {
+        "name": "Kerry McSeveny",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 228,
+            "tweet_count": 537,
+            "listed_count": 7
+        },
+        "location": "Sheffield, England",
+        "username": "kerrymctweety",
+        "id": "19619068",
+        "description": ""
+    },
+    {
+        "name": "Iryna Prus",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 203,
+            "following_count": 771,
+            "tweet_count": 98,
+            "listed_count": 10
+        },
+        "location": "Italy",
+        "username": "IrynaPrus",
+        "id": "404029775",
+        "description": "Organization & People development specialist, workplace futurist, PhD student @unimib, design thinking geek, advocate of organisational wellbeing and aesthetics"
+    },
+    {
+        "name": "Sue Beckingham 🎓 💻 💡",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 12731,
+            "following_count": 10989,
+            "tweet_count": 57394,
+            "listed_count": 809
+        },
+        "location": "Sheffield",
+        "username": "suebecks",
+        "id": "34904126",
+        "description": "National Teaching Fellow|Principal Lecturer|SFHEA @sheffhallamuni Social Media Researcher JSML Editor #TEDxSpeaker @LTHEchat https://t.co/rmz7tfxkQY"
+    },
+    {
+        "name": "PleaseTouchProject",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 73,
+            "tweet_count": 27,
+            "listed_count": 5
+        },
+        "username": "please_touch_",
+        "id": "724674724228390912",
+        "description": "Please Touch is a co-produced project with @srsbcharity working to develop a series of tactile museum interactives with the Blind community."
+    },
+    {
+        "name": "Chris Elsden",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1192,
+            "following_count": 1879,
+            "tweet_count": 2690,
+            "listed_count": 41
+        },
+        "location": "Edinburgh",
+        "username": "ElsdenChris",
+        "id": "864572252",
+        "description": "Chancellor's Fellow in Service Design, @DesignInf, Edinburgh University. Tweets mostly about: a data-driven life // design // Creative Informatics // FinTech"
+    },
+    {
+        "name": "Mike Fraser",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 898,
+            "following_count": 2164,
+            "tweet_count": 1829,
+            "listed_count": 23
+        },
+        "location": "Bath, England",
+        "username": "profmikefraser",
+        "id": "979261158",
+        "description": "CompSci @UniofBath, @EPSRC ICT Fellow. European. History, heritage, books, cricket. Bad surfer. RT != endorsement. Views my own."
+    },
+    {
+        "name": "Curious House",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 475,
+            "following_count": 1870,
+            "tweet_count": 134,
+            "listed_count": 10
+        },
+        "location": "Sheffield, England",
+        "username": "curious_house_",
+        "id": "3353027153",
+        "description": "'Curious House' exhibition at Bishops' House, part of the Art Sheffield 2016; supported by Arts Council England / tweets by @CarolineClaisse & @Rachel_E_Taylor"
+    },
+    {
+        "name": "Paloma Diaz",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 621,
+            "following_count": 639,
+            "tweet_count": 1470,
+            "listed_count": 34
+        },
+        "location": "Madrid",
+        "username": "MPalomaD",
+        "id": "259198709",
+        "description": "Proud 1st woman Dean of the UC3M Engineering School. @deiLab | @innoEducaUC3M | UC3M-Telefonica Chair on womenInTech. Technologies for humans/human technologies"
+    },
+    {
+        "name": "MCN",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 11321,
+            "following_count": 1259,
+            "tweet_count": 13604,
+            "listed_count": 486
+        },
+        "location": "New York",
+        "username": "MuseumCN",
+        "id": "247566838",
+        "description": "Leading digital transformation in museums since 1967.  Our mission is to grow the digital capacity of museum professionals #musetech"
+    },
+    {
+        "name": "museweb",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 62556,
+            "following_count": 6313,
+            "tweet_count": 19965,
+            "listed_count": 2200
+        },
+        "location": "April 5-9, 2021",
+        "username": "museweb",
+        "id": "14289945",
+        "description": "An international conference on innovation in the cultural sector. #MW21 is virtual! https://t.co/SgK9F38LwO"
+    },
+    {
+        "name": "interactions",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4286,
+            "following_count": 940,
+            "tweet_count": 1652,
+            "listed_count": 224
+        },
+        "username": "interactionsMag",
+        "id": "91273652",
+        "description": "Interactions attracts + publishes content at the intersections of design, technology and society, spanning topics from user experience to responsible computing."
+    },
+    {
+        "name": "Design 4 Health",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1617,
+            "following_count": 793,
+            "tweet_count": 1035,
+            "listed_count": 43
+        },
+        "location": "Sheffield, UK",
+        "username": "design4health",
+        "id": "239737474",
+        "description": "A platform for interdisciplinary research in design and creative practice in health and wellbeing contexts through conferences and publications."
+    },
+    {
+        "name": "Danny Garside",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1258,
+            "following_count": 3108,
+            "tweet_count": 5779,
+            "listed_count": 26
+        },
+        "location": "Washington DC",
+        "username": "da5nsy",
+        "id": "15021046",
+        "description": "Colour vision researcher. Often thinking about open science and academic publishing.\nPronouns: he/him."
+    },
+    {
+        "name": "Dr Abi Hackett",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2208,
+            "following_count": 3274,
+            "tweet_count": 6610,
+            "listed_count": 26
+        },
+        "username": "AbiHackett",
+        "id": "236842195",
+        "description": "young children, movement, meaning making, museums, communities, outdoors spaces.\n\nout now:More-than-Human Literacies in Early Childhood\nhttps://t.co/kvM7SylpJr"
+    },
+    {
+        "name": "Roy van den Heuvel",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1210,
+            "following_count": 3307,
+            "tweet_count": 5009,
+            "listed_count": 57
+        },
+        "location": "Eindhoven",
+        "username": "royovic",
+        "id": "31742781",
+        "description": "Designing for Physical Activity in a Societal Context at Dept. of Industrial Design @TUeindhoven // IoT // Data-Enabled Design // Prototyping // Biertjes!"
+    },
+    {
+        "name": "sheffieldDevops",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1648,
+            "following_count": 4449,
+            "tweet_count": 712,
+            "listed_count": 39
+        },
+        "location": "Sheffield",
+        "username": "sheffieldDevops",
+        "id": "3361359683",
+        "description": ""
+    },
+    {
+        "name": "Eleonora Mencarini",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 222,
+            "following_count": 454,
+            "tweet_count": 306,
+            "listed_count": 5
+        },
+        "location": "Trento, Trentino-Alto Adige",
+        "username": "elme85",
+        "id": "205178589",
+        "description": "Researcher in Human-Computer Interaction at Fondazione Bruno Kessler (Italy)"
+    },
+    {
+        "name": "Tribeca Film Institute",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 192684,
+            "following_count": 11204,
+            "tweet_count": 10626,
+            "listed_count": 1722
+        },
+        "location": "NY, NY",
+        "username": "TribecaFilmIns",
+        "id": "19979590",
+        "description": "A nonprofit that provided funding and mentorship for storytellers whose POVs have been marginalized based on race, gender, class, or politics. ⏸️ 9.15.20"
+    },
+    {
+        "name": "Dr Amelia Knowlson",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 767,
+            "following_count": 892,
+            "tweet_count": 572,
+            "listed_count": 25
+        },
+        "username": "AmeliaKnowlson",
+        "id": "3731504777",
+        "description": "Teaching Fellow @PCI_UniofLeeds. Researcher and freelance practitioner exploring 3D technologies in heritage. Curious cat is my default mode."
+    },
+    {
+        "name": "Artist C. Kamila",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 716,
+            "following_count": 4944,
+            "tweet_count": 59,
+            "listed_count": 7
+        },
+        "location": "UK",
+        "username": "artistckamila",
+        "id": "3130865530",
+        "description": "Art, painting, drawing, illustrations & craft.\n\nhttps://t.co/Dm7et15wTF\nA collection of my personally designed cards."
+    },
+    {
+        "name": "Casey DK",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1796,
+            "following_count": 3056,
+            "tweet_count": 4400,
+            "listed_count": 86
+        },
+        "username": "CaseyEDavis1",
+        "id": "472296929",
+        "description": "#pubmedia archivist, oral history producer, alarmed about the climate, #actuallyautistic (https://t.co/h6ui9ZJZVO), I 💜my dog, she/they"
+    },
+    {
+        "name": "3Squared",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2170,
+            "following_count": 470,
+            "tweet_count": 5353,
+            "listed_count": 97
+        },
+        "location": "Sheffield and London",
+        "username": "3Squared",
+        "id": "384747170",
+        "description": "Enabling the transportation sector to be safer, greener & more efficient through digitalisation | Queen's Award Winner | Tweets about rail,tech & #3Squared life"
+    },
+    {
+        "name": "Martina Gajewski",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 421,
+            "following_count": 1827,
+            "tweet_count": 817,
+            "listed_count": 28
+        },
+        "location": "Cologne - Europe",
+        "username": "magaje",
+        "id": "168611837",
+        "description": "High School Teacher (Engl./Maths) - Semantic Web, Canada and Shakespeare aficionada - Quality Matters (Uni KL) - https://t.co/uEeNPI9EkY - mountaineer"
+    },
+    {
+        "name": "City of Making",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3416,
+            "following_count": 550,
+            "tweet_count": 2286,
+            "listed_count": 55
+        },
+        "location": "Sheffield, England",
+        "username": "cityofmaking",
+        "id": "4170966147",
+        "description": "A city of making, a city of makers — Sheffield #cityofmakers #YOM2016"
+    },
+    {
+        "name": "Agata Kołacz",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 592,
+            "following_count": 2122,
+            "tweet_count": 1507,
+            "listed_count": 0
+        },
+        "location": "Varsavia, Polonia",
+        "username": "agatakolacz",
+        "id": "60587775",
+        "description": "Culture Manager #matchmaker #culture #medias #communication"
+    },
+    {
+        "name": "Maja Drabczyk",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 399,
+            "following_count": 620,
+            "tweet_count": 531,
+            "listed_count": 11
+        },
+        "username": "majadrabczyk",
+        "id": "2557197034",
+        "description": "continuously excited about working on access & reuse of digital heritage and grasping the impact of GLAM @centrumcyfrowe @EUscreen /@Europeanaeu /@FIAT_IFTA"
+    },
+    {
+        "name": "EUscreen",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2042,
+            "following_count": 1285,
+            "tweet_count": 2685,
+            "listed_count": 102
+        },
+        "username": "EUscreen",
+        "id": "22898060",
+        "description": "EUscreen provides access to Europe's television heritage through an online portal with videos, photos and contextual information."
+    },
+    {
+        "name": "Rachel Hosker",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 796,
+            "following_count": 710,
+            "tweet_count": 3282,
+            "listed_count": 28
+        },
+        "location": "Edinburgh",
+        "username": "RachelHosker1",
+        "id": "2785728048",
+        "description": "Deputy Head of Special Collections, Archives Manager at The University of Edinburgh. Sometime festival 'performer' Music lover. :-) Views my own."
+    },
+    {
+        "name": "i3 group | FBK",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 409,
+            "following_count": 1192,
+            "tweet_count": 824,
+            "listed_count": 47
+        },
+        "location": "Trento, Trentino-Alto Adige",
+        "username": "i3_FBK",
+        "id": "3802194221",
+        "description": "We #codesign services for cutting-edge IT using an interdisciplinary approach #HCI #innovation #design #UCD @FBKcom More at: https://t.co/qhCDvYqKRd"
+    },
+    {
+        "name": "nikki wright",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 106,
+            "following_count": 351,
+            "tweet_count": 297,
+            "listed_count": 2
+        },
+        "location": "N 42°20' 0'' / W 88°9' 0''",
+        "username": "NikkiNikkiraye",
+        "id": "529412012",
+        "description": "only be you.. everyone else is taken"
+    },
+    {
+        "name": "Seven Hills WI",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2489,
+            "following_count": 1868,
+            "tweet_count": 5053,
+            "listed_count": 55
+        },
+        "location": "Sheffield",
+        "username": "SevenHillsWI",
+        "id": "65718036",
+        "description": "Sheffield's largest WI group. Est 2009. Campaigning, Fundraising, Baking and Friend-making"
+    },
+    {
+        "name": "Dr Alison Mayne",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2422,
+            "following_count": 3328,
+            "tweet_count": 8813,
+            "listed_count": 64
+        },
+        "location": "Central Scotland",
+        "username": "knittyphd",
+        "id": "2829202792",
+        "description": "Wellbeing, creativity, craft & digital communities research https://t.co/NILq6p38jY #WIASN She / Her https://t.co/sNovGDWXF5…"
+    },
+    {
+        "name": "Helen Crimlisk 😷🌻🌈💉",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3613,
+            "following_count": 2472,
+            "tweet_count": 9365,
+            "listed_count": 60
+        },
+        "location": "Sheffield",
+        "username": "helencrimlisk",
+        "id": "71489173",
+        "description": "Psychiatrist #LMC Chair & #GAP @RCPsych, DMD @SHSCFT, Psych Lead @SheffieldUni, GenQ5 @HealthFdn Leadership, MedEd, QI, PAs, Workforce, SU E&E, Tweets=my views"
+    },
+    {
+        "name": "Science&You",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8521,
+            "following_count": 9181,
+            "tweet_count": 6417,
+            "listed_count": 263
+        },
+        "location": "Nancy - Metz (France)",
+        "username": "Science_and_you",
+        "id": "468186996",
+        "description": "Intl' Event on Science Communication by @univ_lorraine - Metz (France) 16-19 Nov. 2021 | Science communicators and researchers are welcome! #SciYou2021"
+    },
+    {
+        "name": "Donal Cronin",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 109,
+            "tweet_count": 1344,
+            "listed_count": 0
+        },
+        "location": "Ireland",
+        "username": "Dacronin",
+        "id": "370840556",
+        "description": ""
+    },
+    {
+        "name": "تركي البكر",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 826,
+            "following_count": 2316,
+            "tweet_count": 35198,
+            "listed_count": 11
+        },
+        "username": "turkirob",
+        "id": "48789804",
+        "description": "‏‏‏‏‏‏إن الحقيقة يجب أن تقال مهما كلف الأمر لكي يتم الاصلاح بل أن الحقيقة يجب أن تقال حتى إذا لم يكن هناك أمل ما- كولن ولسن"
+    },
+    {
+        "name": "Expand Consciousness",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 422,
+            "following_count": 548,
+            "tweet_count": 317,
+            "listed_count": 15
+        },
+        "location": "Deeply Beyond Common Thought",
+        "username": "SpiritRiskTaker",
+        "id": "2526114894",
+        "description": "Neuroscience Researcher. Often Tweet Refreshing Opinions About Creative Geniuses."
+    },
+    {
+        "name": "Karran Sahadeo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 330,
+            "following_count": 642,
+            "tweet_count": 4901,
+            "listed_count": 13
+        },
+        "location": "Toronto",
+        "username": "karran",
+        "id": "14109415",
+        "description": "Photography & Design, Instagram: karr4n"
+    },
+    {
+        "name": "Digital Spaces Living Lab (DSLL)",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 157,
+            "following_count": 166,
+            "tweet_count": 1860,
+            "listed_count": 16
+        },
+        "location": "Sofia, Bulgaria",
+        "username": "digitalspacesll",
+        "id": "46362384",
+        "description": "DSLL incubates innovative companies which develop new technologies & apps for media, wearables, lifelogging, museums, smart cities, Earth Observation, agritech."
+    },
+    {
+        "name": "Rangers are back",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2795,
+            "following_count": 3264,
+            "tweet_count": 9632,
+            "listed_count": 20
+        },
+        "location": "W12",
+        "username": "RANGERSareBACK",
+        "id": "296145526",
+        "description": "QPR fan, I will chart our rise up the championship or slide to Div 1 - who knows with rangers Follow me and I'll follow you back."
+    },
+    {
+        "name": "Caro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 900,
+            "following_count": 1059,
+            "tweet_count": 1359,
+            "listed_count": 31
+        },
+        "location": "Newcastle Upon Tyne, England",
+        "username": "CarolineClaisse",
+        "id": "762337153",
+        "description": "Research Associate in Design @INTUIT_project \nDr-PhD Sheffield Hallam University MA Royal College of Art \nshe/her #Design #CoCreation #HCI #Feminism"
+    },
+    {
+        "name": "Patrick McEntaggart",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 136,
+            "following_count": 172,
+            "tweet_count": 395,
+            "listed_count": 6
+        },
+        "location": "Leeds and Sheffield",
+        "username": "pmcentaggart",
+        "id": "268941728",
+        "description": "Senior Lecturer in Interactive Design - Graphic design, interactive design, interactive narrative, digital memories... just some of the things that interest me."
+    },
+    {
+        "name": "C&T 2019",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 298,
+            "following_count": 289,
+            "tweet_count": 394,
+            "listed_count": 5
+        },
+        "location": "Vienna, Austria",
+        "username": "comtech2019",
+        "id": "2924537823",
+        "description": "Official account for Communities & Technologies Conference: C&T  #comtech2019 is in Vienna, Austria. June 3-7"
+    },
+    {
+        "name": "Technologies in Practice",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1658,
+            "following_count": 1187,
+            "tweet_count": 2467,
+            "listed_count": 71
+        },
+        "location": "Copenhagen, Denmark",
+        "username": "TiP_itu",
+        "id": "2227089183",
+        "description": "Research Group & Teaching @ITUkbh. #STS, #Anthro, #HCI & #CSCW. Digital technologies' mediation of work practices & everyday life. Tweets by @kaisirlin"
+    },
+    {
+        "name": "Galena Pisoni",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 176,
+            "following_count": 361,
+            "tweet_count": 470,
+            "listed_count": 6
+        },
+        "username": "GalenaPisoni",
+        "id": "39724809",
+        "description": "Lecturer in Innovation and Entrepreneurship, researcher with passion for arts and architecture. Traveler. Opinions are my own"
+    },
+    {
+        "name": "Westminster Abbey",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 96111,
+            "following_count": 2310,
+            "tweet_count": 11442,
+            "listed_count": 1073
+        },
+        "location": "Westminster, London",
+        "username": "wabbey",
+        "id": "20596231",
+        "description": "A royal church offering daily services for all and a World Heritage Site with over a thousand years of history."
+    },
+    {
+        "name": "James Morley",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3466,
+            "following_count": 4877,
+            "tweet_count": 25027,
+            "listed_count": 121
+        },
+        "location": "Somerset",
+        "username": "jamesinealing",
+        "id": "14235169",
+        "description": "Creator of https://t.co/EtseEnrnmt & general experimenter with everything heritage & digital. Half my life in Ealing, but just moved to Somerset"
+    },
+    {
+        "name": "Vero S",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 116,
+            "following_count": 299,
+            "tweet_count": 1099,
+            "listed_count": 27
+        },
+        "username": "vsdesignlab",
+        "id": "1731062845",
+        "description": "Narrative Strategy and Design for Experiences, Events, Exhibitions Interested in critical thinking, socio-political issues and more..."
+    },
+    {
+        "name": "Sarah Middle",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 965,
+            "following_count": 1542,
+            "tweet_count": 2078,
+            "listed_count": 37
+        },
+        "location": "Cambridge",
+        "username": "digitalshrew",
+        "id": "2469568179",
+        "description": "Postdoc @ToK_AHRC @NtlMuseumsScot | Digital Humanities PhD Researcher @OU_Classics @CHASE_DTP | Linked Ancient World Data | @ukmcg Secretary | she/her"
+    },
+    {
+        "name": "Lawrence",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 720,
+            "following_count": 1008,
+            "tweet_count": 3305,
+            "listed_count": 29
+        },
+        "username": "chilesl",
+        "id": "17703",
+        "description": "Head of digital services at the National Gallery, London. Museums, design, art, culture and all that. Plus cycling. Quite a lot of cycling"
+    },
+    {
+        "name": "dustfruit",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1113,
+            "following_count": 2628,
+            "tweet_count": 3995,
+            "listed_count": 26
+        },
+        "location": "Mexico",
+        "username": "dustfruit",
+        "id": "40953076",
+        "description": "Cultural Policy, Digital Humanities, Cultural Heritage & New Tech."
+    },
+    {
+        "name": "Jon Paul Little",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1441,
+            "following_count": 2312,
+            "tweet_count": 5303,
+            "listed_count": 88
+        },
+        "location": "Horsham",
+        "username": "JonPaulLittle",
+        "id": "20547328",
+        "description": "Digital and innovation professional. Passions for #ProductManagement #NewTechnology #Agile #UserCentred #Design #UX #iBeacons #Web #QPR"
+    },
+    {
+        "name": "Ben Earle",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 205,
+            "following_count": 593,
+            "tweet_count": 575,
+            "listed_count": 5
+        },
+        "location": "Norfolk",
+        "username": "BMEEarle",
+        "id": "299654932",
+        "description": "Museum Education, Environmental Science, Climate Action... blah, blah, blah."
+    },
+    {
+        "name": "Russell Dornan",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5529,
+            "following_count": 3951,
+            "tweet_count": 33651,
+            "listed_count": 157
+        },
+        "location": "Black Lives Matter",
+        "username": "RussellDornan",
+        "id": "24249066",
+        "description": "Very good at non-viral tweets | digital museum bits | digital @NtlMuseumsScot | He/him | 🏳️‍🌈 trans lives matter 🏳️‍⚧️ | #FreeBritney"
+    },
+    {
+        "name": "RTI Mobile",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 268,
+            "tweet_count": 145,
+            "listed_count": 4
+        },
+        "location": "Toronto",
+        "username": "RTImobile",
+        "id": "2450724679",
+        "description": "The mobile application for reflectance transformation imaging (RTI). Uncover the unique surface qualities of artifacts and see details in a new light."
+    },
+    {
+        "name": "Milda P",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 66,
+            "tweet_count": 26,
+            "listed_count": 1
+        },
+        "username": "MPetraityte",
+        "id": "2843431341",
+        "description": "Mad about all things 'cyber' and environment. Because there is no 'cyber' on a dead planet."
+    },
+    {
+        "name": "Lab4Living",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1667,
+            "following_count": 908,
+            "tweet_count": 1315,
+            "listed_count": 34
+        },
+        "username": "Lab4Living",
+        "id": "2558731807",
+        "description": "Design for life and for living. Empowering people through partnership between design and health practice and research. 100-Year Life and the Future home."
+    },
+    {
+        "name": "mon Rodriguez-Amat",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3061,
+            "following_count": 4914,
+            "tweet_count": 94586,
+            "listed_count": 225
+        },
+        "location": "Sheffield Hallam University,UK",
+        "username": "monrodriguez",
+        "id": "9192272",
+        "description": "Researcher & Lecturer. \nGovernance of Communicative Space-Times. Expect Tech, Signs, Politics and Follies. Resistance against the Empire."
+    },
+    {
+        "name": "Christian Michlits",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 290,
+            "tweet_count": 35,
+            "listed_count": 3
+        },
+        "location": "Vienna",
+        "username": "chr_michlits",
+        "id": "2704635700",
+        "description": "Historian, Archaeologist, Head Digital MAK. Private Account"
+    },
+    {
+        "name": "Ibd",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 597,
+            "following_count": 420,
+            "tweet_count": 13978,
+            "listed_count": 72
+        },
+        "username": "musdok",
+        "id": "373868088",
+        "description": "Museumsdokumentation / museum documentation (interested in, working in the field of); private account. Work = http://t.co/8BMNKJ82Wy"
+    },
+    {
+        "name": "james handley",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 38,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "gymjimgyming",
+        "id": "2780359524",
+        "description": ""
+    },
+    {
+        "name": "Caffeine Jones",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1903,
+            "following_count": 2361,
+            "tweet_count": 39787,
+            "listed_count": 112
+        },
+        "location": "The middle bit",
+        "username": "CatherineWeird",
+        "id": "795378",
+        "description": "Creative,robot,technology,art,electronics,software,fun and games.Enjoys the weird. I make things in the @weirdworkshop"
+    },
+    {
+        "name": "Joseph Langley",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1598,
+            "following_count": 2864,
+            "tweet_count": 4186,
+            "listed_count": 28
+        },
+        "location": "Sheffield - Steel City",
+        "username": "JoeLangley_",
+        "id": "2641488359",
+        "description": "Design Engineer & Knowledge Mobiliser. #Participatory & #Codesign for #Health & #Wellbeing. #Family #PeakDistrict #Bikes. https://t.co/hUNtDIokTt"
+    },
+    {
+        "name": "Håkan Lidbo",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1222,
+            "following_count": 2267,
+            "tweet_count": 499,
+            "listed_count": 37
+        },
+        "location": "Stockholm",
+        "username": "hakanlidbo",
+        "id": "32060424",
+        "description": "Music, art, interactive installations, apps, games, VR, architecture, film, radio, events and robots."
+    },
+    {
+        "name": "Organization Studies",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8855,
+            "following_count": 4322,
+            "tweet_count": 1166,
+            "listed_count": 140
+        },
+        "location": "Europe",
+        "username": "osofficer",
+        "id": "941534262",
+        "description": "Organization Studies publishes top quality theoretical and empirical research aiming to promote the understanding of organizations, organizing and the organized"
+    },
+    {
+        "name": "Åsa Lindgren",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 141,
+            "following_count": 164,
+            "tweet_count": 389,
+            "listed_count": 8
+        },
+        "username": "AsaGALindgren",
+        "id": "738337495",
+        "description": "Projektledare för MegaMind på\nTekniska museet / Project Manager of MegaMind new science center\nThe National Museum of Science and Technology, Stockholm"
+    },
+    {
+        "name": "meschcases",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 8,
+            "tweet_count": 61,
+            "listed_count": 0
+        },
+        "username": "meschcases",
+        "id": "2506844544",
+        "description": ""
+    },
+    {
+        "name": "Mark T. Marshall",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 148,
+            "following_count": 177,
+            "tweet_count": 279,
+            "listed_count": 8
+        },
+        "location": "Sheffield, UK",
+        "username": "marktmarshall",
+        "id": "108631278",
+        "description": "Postdoctoral researcher in human-computer interaction."
+    },
+    {
+        "name": "Robin Goldberg",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 193,
+            "tweet_count": 456,
+            "listed_count": 1
+        },
+        "username": "murmelnet",
+        "id": "1650246037",
+        "description": "Just curios. The universe is so amazing!"
+    },
+    {
+        "name": "nick dulake",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 89,
+            "tweet_count": 121,
+            "listed_count": 5
+        },
+        "location": "sheffield ",
+        "username": "n_dulake",
+        "id": "2545702121",
+        "description": "Industrial designer in Sheffield working on user centre health tech and tangible interaction design."
+    },
+    {
+        "name": "VPH Institute",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1526,
+            "following_count": 1875,
+            "tweet_count": 889,
+            "listed_count": 21
+        },
+        "location": "Belgium",
+        "username": "VPH_Institute",
+        "id": "718101349",
+        "description": "Non-profit whose mission is to ensure the Virtual Physiological Human is fully realised, universally adopted, and effectively used both in research and clinic."
+    },
+    {
+        "name": "Slender Curlew",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 7,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "username": "S_Billed_Curlew",
+        "id": "2443671300",
+        "description": ""
+    },
+    {
+        "name": "Laia Pujol",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 241,
+            "following_count": 302,
+            "tweet_count": 687,
+            "listed_count": 13
+        },
+        "username": "laiapujoltost",
+        "id": "381511542",
+        "description": "Initially an awarded researcher in #DigitalHeritage, now fighting against #EHS and #MCS generated by excessive #EMF #WiFi #5G"
+    },
+    {
+        "name": "roxanne leitão",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 264,
+            "following_count": 608,
+            "tweet_count": 239,
+            "listed_count": 17
+        },
+        "location": "London, United Kingdom",
+        "username": "roxanneleitao",
+        "id": "115942239",
+        "description": "Designer & PhD Researcher: Domestic Abuse, IoT, Privacy. https://t.co/FPTUsZy7M3"
+    },
+    {
+        "name": "iFutures 2015",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 200,
+            "following_count": 497,
+            "tweet_count": 899,
+            "listed_count": 9
+        },
+        "location": " Information School, Sheffield",
+        "username": "iFutures2015",
+        "id": "1376639125",
+        "description": "An opportunity for PhD researchers to share their work through presentations, discussions and published short papers. Tweets by @PaulaGoodale & @was3210."
+    },
+    {
+        "name": "Paula Goodale",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1046,
+            "following_count": 1513,
+            "tweet_count": 17172,
+            "listed_count": 116
+        },
+        "location": "Sheffield, UK",
+        "username": "PaulaGoodale",
+        "id": "264132382",
+        "description": "NHS #infopro, accessibility, digital, info behaviour, user studies... mad about museums, addicted to art, gig photographer, leftist politics... stuff"
+    },
+    {
+        "name": "NODEM",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 257,
+            "following_count": 290,
+            "tweet_count": 187,
+            "listed_count": 11
+        },
+        "location": "Nordic Countries / Worldwide",
+        "username": "NODEMNetwork",
+        "id": "1675798332",
+        "description": "Network of Design and Digital Heritage"
+    },
+    {
+        "name": "Areti Damala",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 600,
+            "following_count": 1140,
+            "tweet_count": 1645,
+            "listed_count": 33
+        },
+        "location": "Paris - Athens - the world! ",
+        "username": "Aretititi",
+        "id": "144220246",
+        "description": "Digital humanities, museum, visitor & gender studies\nExperience Design, Evaluation & Co-creation.\nResearch Fellow @CNRS & @ENS_ULM @ACTonGender @ActOnStrategies"
+    },
+    {
+        "name": "STARTS",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3188,
+            "following_count": 895,
+            "tweet_count": 2380,
+            "listed_count": 113
+        },
+        "location": "Europe",
+        "username": "STARTSEU",
+        "id": "1615042428",
+        "description": "STARTS - Innovation at the nexus of Science, Technology, and the ARTS. An initiative of @EU_Commission @HORIZON2020_ICT 🇪🇺"
+    },
+    {
+        "name": "FET_EU",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 7754,
+            "following_count": 1632,
+            "tweet_count": 12944,
+            "listed_count": 514
+        },
+        "location": "Brussels",
+        "username": "fet_eu",
+        "id": "122458732",
+        "description": "This account IS deactivated. Follow @EUeic and @FutureTechEU to remain up-to date with #FET_EU  and #EICPathfinder news. Thank you for following us!"
+    },
+    {
+        "name": "Tiemachine",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 954,
+            "following_count": 2276,
+            "tweet_count": 6950,
+            "listed_count": 49
+        },
+        "location": "Sheffield",
+        "username": "Tiemachine",
+        "id": "18194770",
+        "description": "Narratives for the web, broadcast & kicks. Social Media Manager for The University of Sheffield. Part of The City on Smoked Glass. he/him."
+    },
+    {
+        "name": "pardaillan",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 442,
+            "following_count": 5001,
+            "tweet_count": 15925,
+            "listed_count": 18
+        },
+        "username": "jeanpardaillan",
+        "id": "307061798",
+        "description": "http://t.co/4i8tKpaneJ"
+    },
+    {
+        "name": "Double No No",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 247,
+            "following_count": 1218,
+            "tweet_count": 138,
+            "listed_count": 5
+        },
+        "location": "Sheffield",
+        "username": "Double_NoNo",
+        "id": "714962815",
+        "description": "Dusty flamenco flavoured Americanoir desert rock and/or roll."
+    },
+    {
+        "name": "SheffieldGenCemetery",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1982,
+            "following_count": 472,
+            "tweet_count": 1589,
+            "listed_count": 39
+        },
+        "location": "Sheffield, UK",
+        "username": "SheffieldGenCem",
+        "id": "624582805",
+        "description": "SGCT manages Sheffield General Cemetery,  a tranquil green space in the heart of the city of unique historical importance."
+    },
+    {
+        "name": "Michelle Dillon",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 537,
+            "following_count": 1587,
+            "tweet_count": 850,
+            "listed_count": 8
+        },
+        "location": "Out-of-doors",
+        "username": "michellejdillon",
+        "id": "1684207854",
+        "description": "PE and Outdoor Adventure Educator | Academic | Researcher | Outdoor enthusiast! Tweets my own."
+    },
+    {
+        "name": "ECSCW conference",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 565,
+            "following_count": 112,
+            "tweet_count": 932,
+            "listed_count": 6
+        },
+        "location": "Coimbra, Portugal",
+        "username": "ECSCW",
+        "id": "1652947884",
+        "description": "European Conference on Computer-Supported Cooperative Work features research on practice-centered computing and collaboration. #ECSCW2022 at UC, Coimbra  #ECSCW"
+    },
+    {
+        "name": "The CHESS Experience",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 451,
+            "following_count": 125,
+            "tweet_count": 334,
+            "listed_count": 34
+        },
+        "location": "Europe",
+        "username": "chessexperience",
+        "id": "270260123",
+        "description": "Cultural Heritage Experiences through Socio-personal interactions & Storytelling: a research project funded by the European Commission's FP7/2007-2013."
+    },
+    {
+        "name": "Foundation Relations",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 184,
+            "following_count": 1038,
+            "tweet_count": 437,
+            "listed_count": 6
+        },
+        "location": "Warsaw",
+        "username": "FundacjaRelacje",
+        "id": "619752854",
+        "description": "Foundation Relations was founded as a result of passion, intercultural interests and fascinations of people that create it."
+    },
+    {
+        "name": "Tom Stafford",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 13085,
+            "following_count": 1563,
+            "tweet_count": 28572,
+            "listed_count": 521
+        },
+        "location": "Sheffield, United Kingdom",
+        "username": "tomstafford",
+        "id": "11939852",
+        "description": "Cognitive Scientist at the University of Sheffield, UK // Research: https://t.co/FtetWFHHN5 // Newsletter: https://t.co/lNmTg1rgtE // Also: https://t.co/1rDTRG6fqf"
+    },
+    {
+        "name": "Chris Dymond",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2405,
+            "following_count": 1023,
+            "tweet_count": 17034,
+            "listed_count": 141
+        },
+        "location": "Sheffield, UK",
+        "username": "chrisdymond",
+        "id": "17006370",
+        "description": "Academic Director for Smart Cities @Zigurat_Inst | Director: @UnfoldingUK, @SHFDigital, @UTCSheffield | Associate: @PerformGreen | Assoc. Lecturer: @SHU_MAC"
+    },
+    {
+        "name": "lovebytes",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4786,
+            "following_count": 5196,
+            "tweet_count": 1897,
+            "listed_count": 228
+        },
+        "location": "Sheffield",
+        "username": "lovebytes",
+        "id": "14625272",
+        "description": "exploring digital art and creativity"
+    },
+    {
+        "name": "Breandán Knowlton",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1308,
+            "following_count": 2316,
+            "tweet_count": 1281,
+            "listed_count": 67
+        },
+        "location": "London, UK",
+        "username": "bfk",
+        "id": "16240585",
+        "description": "Civil servant and @gdsteam alum, helping the UK government embrace design for humans. Flutist. He/him."
+    },
+    {
+        "name": "Geo Law",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 4561,
+            "following_count": 1952,
+            "tweet_count": 21116,
+            "listed_count": 159
+        },
+        "location": "London, England",
+        "username": "getaloadageo",
+        "id": "43337212",
+        "description": "London based illustrator / Wall Doodler represented in the 🇬🇧 & 🇺🇸 by @snydernewyork / NFTs @yokai_kingdom /"
+    },
+    {
+        "name": "sarah smith smizz ✏️✏️✏️ スミッツ",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3556,
+            "following_count": 4819,
+            "tweet_count": 58000,
+            "listed_count": 96
+        },
+        "location": "Practicing Kindness",
+        "username": "smizz",
+        "id": "15644615",
+        "description": "→ Artist → Cllr 4 Adwick+Carcroft🌹→ Re-evaluating life→ Rad Oncology grad+ ⚕️PH→ @lab4living PhD-er → Want 2 make a +ve difference → Rule-Breaker → LIVE DRAWZ!"
+    },
+    {
+        "name": "MADE NORTH",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 8399,
+            "following_count": 5760,
+            "tweet_count": 6484,
+            "listed_count": 157
+        },
+        "location": "Sheffield",
+        "username": "MADENORTH",
+        "id": "275450763",
+        "description": "MADE NORTH Showcases and promotes contemporary design and craft from the North of England. Also producing Sheffield Design Week"
+    },
+    {
+        "name": "TizianaTittipetrelli",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 97,
+            "following_count": 968,
+            "tweet_count": 124,
+            "listed_count": 1
+        },
+        "username": "Titti_petrelli",
+        "id": "385370675",
+        "description": ""
+    },
+    {
+        "name": "Rosie Dymond",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 191,
+            "following_count": 245,
+            "tweet_count": 556,
+            "listed_count": 6
+        },
+        "location": "sheffield",
+        "username": "RosieDymond",
+        "id": "102377981",
+        "description": "Mum & Play Therapist"
+    },
+    {
+        "name": "Suvodeep Mazumdar",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 577,
+            "following_count": 687,
+            "tweet_count": 789,
+            "listed_count": 31
+        },
+        "location": "Sheffield",
+        "username": "ovus00",
+        "id": "17736707",
+        "description": "Human Computer Interaction - Visual Analytics - Semantic Web - Big Data - Smart cities - Citizen Science"
+    },
+    {
+        "name": "Eve Barabas",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2042,
+            "following_count": 4994,
+            "tweet_count": 10065,
+            "listed_count": 137
+        },
+        "location": "Sheffield, UK",
+        "username": "b_seven_e",
+        "id": "369151566",
+        "description": "Principal Engineer (Ruby, Python, JS) @HODigital. Former @NHSUK & @epigenesys. @sheffieldruby co-organiser & vice-chair @bcs_south_yorks. Views - my own"
+    },
+    {
+        "name": "Sam Chapman",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1033,
+            "following_count": 2088,
+            "tweet_count": 3042,
+            "listed_count": 53
+        },
+        "location": "Sheffield, UK",
+        "username": "SamChapman",
+        "id": "6123962",
+        "description": "Making tech and directing stuff, transport, safety, sheffield, the floow, innovation. All views my own. https://t.co/ldEg5gIah5"
+    },
+    {
+        "name": "superjeans 🦉",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 674,
+            "following_count": 1123,
+            "tweet_count": 12008,
+            "listed_count": 53
+        },
+        "location": "Sheffield",
+        "username": "superjeans",
+        "id": "11226772",
+        "description": "Yorkshireman and SWFC fan. Bit unhappy about UK politics."
+    },
+    {
+        "name": "Chella Quint",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 5283,
+            "following_count": 4954,
+            "tweet_count": 17714,
+            "listed_count": 105
+        },
+        "location": "iPhone: 0.000000,0.000000",
+        "username": "chellaquint",
+        "id": "189873080",
+        "description": "Author+educator+artist #Periodpositive @periodpositive movement founder. New books! Age 9+ https://t.co/SW8XjitqwY and 18+ https://t.co/cj2CqfW2iA…"
+    },
+    {
+        "name": "Tamar Millen",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2117,
+            "following_count": 2035,
+            "tweet_count": 38441,
+            "listed_count": 61
+        },
+        "location": "Sheffield.",
+        "username": "tamarmillen",
+        "id": "46451921",
+        "description": "Warrior/Worrier Cultural Digital nosey parker. \natm writing & researching about loss of \"gathering\" & C19 and its psychological impact. Kinship Carer. She/Her."
+    },
+    {
+        "name": "Crossover Labs",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 2407,
+            "following_count": 1333,
+            "tweet_count": 2582,
+            "listed_count": 115
+        },
+        "location": "London",
+        "username": "xolabs",
+        "id": "98619534",
+        "description": "Crossover is a training, mentoring and events organisation dedicated to developing the next generation of cross platform media professionals."
+    },
+    {
+        "name": "Sheffield DocFest",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 50877,
+            "following_count": 4989,
+            "tweet_count": 35835,
+            "listed_count": 1243
+        },
+        "location": "Sheffield, UK",
+        "username": "sheffdocfest",
+        "id": "6644602",
+        "description": "We champion and present the breadth of documentary form – film, television, immersive and art – in the vibrant city of Sheffield each June. 📩 https://t.co/fnZOYMHgMy"
+    },
+    {
+        "name": "Massimo Zancanaro",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 211,
+            "following_count": 197,
+            "tweet_count": 267,
+            "listed_count": 9
+        },
+        "username": "MaxZancanaro",
+        "id": "1239642882",
+        "description": ""
+    },
+    {
+        "name": "Gabriela Avram",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3388,
+            "following_count": 4992,
+            "tweet_count": 5548,
+            "listed_count": 122
+        },
+        "location": "N 51°52' 0'' / W 9°34' 0''",
+        "username": "gabig58",
+        "id": "1599351",
+        "description": "Lecturer in Interaction Design at the Univ.of Limerick; research interests: collaborative economy, sustainability, communities, cultural heritage, e-textiles."
+    },
+    {
+        "name": "Suggesto",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 89,
+            "following_count": 322,
+            "tweet_count": 276,
+            "listed_count": 1
+        },
+        "username": "suggestotravel",
+        "id": "485607843",
+        "description": "Suggesto®: supports the tourist experience with innovative web and mobile technologies for tourism and culture."
+    },
+    {
+        "name": "Le Mon txt | text x translation",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1028,
+            "following_count": 1886,
+            "tweet_count": 7813,
+            "listed_count": 69
+        },
+        "location": "Helmond, Nederland",
+        "username": "le_mon_txt",
+        "id": "15942612",
+        "description": "SEO Copywriter. Localization & translations German - Dutch. Österreicherin. Lebt in Holland. 🍋"
+    },
+    {
+        "name": "Prof Luigina Ciolfi",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 3263,
+            "following_count": 3139,
+            "tweet_count": 49616,
+            "listed_count": 141
+        },
+        "location": "Cork, Ireland",
+        "username": "luiciolfi",
+        "id": "138885922",
+        "description": "Professor of Human Computer Interaction, @AppPsychUCC. Interested in lots of stuff. @ACM_CSCW 2021 General Co-Chair. All opinions are my own. She/Her. 😷"
+    },
+    {
+        "name": "MeSch Project",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 703,
+            "following_count": 574,
+            "tweet_count": 1185,
+            "listed_count": 64
+        },
+        "username": "meschproject",
+        "id": "1119153362",
+        "description": "Material EncounterS with digital cultural Heritage. EU FP7 project exploring tangible adaptive smart objects @ heritage sites. Official tag: #meschfp7"
+    },
+    {
+        "name": "Marco Viceconti",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1067,
+            "following_count": 127,
+            "tweet_count": 2781,
+            "listed_count": 12
+        },
+        "location": "44.509991,11.28754",
+        "username": "MarcoViceconti",
+        "id": "593940363",
+        "description": "The professional Twitter page of Prof Marco Viceconti"
+    },
+    {
+        "name": "Suffragette♀",
+        "protected": true,
+        "public_metrics": {
+            "followers_count": 1346,
+            "following_count": 1808,
+            "tweet_count": 46724,
+            "listed_count": 19
+        },
+        "location": "Suffragette City",
+        "username": "AlisonBoydell",
+        "id": "22504622",
+        "description": "Feminist (not the fun kind) who made feminist bunting controversial."
+    },
+    {
+        "name": "Richard Banks",
+        "protected": false,
+        "public_metrics": {
+            "followers_count": 1895,
+            "following_count": 586,
+            "tweet_count": 3390,
+            "listed_count": 108
+        },
+        "location": "UK",
+        "username": "rbanks",
+        "id": "788498",
+        "description": "Designing interactions since 1995.\nWorking for @MSFTResearchCam since 2005. Author of The Future of Looking Back & @rbtrends"
+    }
+]

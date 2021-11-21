@@ -1,0 +1,62 @@
+[
+    {
+        "text": "@simeneide @eggie5 yeah, that is an active research problem and does depend on the data set in question. Following tweet sums it up: https://t.co/kfrvY583AV",
+        "created_at": "2021-09-13T14:57:15.000Z",
+        "id": "1437430178297393162",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "@simeneide @eggie5 For negative sampling, you could either: \n- sample uniformly at random.\n- weighted sampling by keeping popularity of items into account.\n- session based sampling by taking the “items viewed but not interacted” with as negatives.",
+        "created_at": "2021-09-13T09:50:35.000Z",
+        "id": "1437353003116290049",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "@simeneide @eggie5 Rather than using all the items as negatives, sampling \"k\" negatives for each positive item might work better in practice. Using all items as negatives is also computationally very intensive because of the big catalogue of items.",
+        "created_at": "2021-09-13T09:50:05.000Z",
+        "id": "1437352879749206018",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "@karlhigley One can sample from interactions instead of sampling uniformly at random and still use BPR and that seems to have been shown to perform better for addressing popularity bias.(https://t.co/GJg1xwm6mX)",
+        "created_at": "2021-07-04T18:54:42.000Z",
+        "id": "1411760398529875971",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "text": "@karlhigley Isn’t it the kind of negative sampling (uniform negative sampling) and not BPR loss itself, which causes the popularity bias? Shouldn’t changing how we sample the negatives, but keeping BPR loss the same, mitigate the bias?",
+        "created_at": "2021-07-04T18:40:04.000Z",
+        "id": "1411756712151982082",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    }
+]
