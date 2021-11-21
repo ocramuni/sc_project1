@@ -601,183 +601,183 @@
     },
     {
         "name": "Nuno J. Nunes",
+        "id": "677013",
+        "username": "njn",
         "protected": false,
         "public_metrics": {
             "followers_count": 780,
             "following_count": 609,
             "tweet_count": 2098,
             "listed_count": 21
-        },
-        "username": "njn",
-        "id": "677013"
+        }
     },
     {
         "name": "Enrico Blanzieri",
+        "id": "31229962",
+        "username": "EnricoBlanzieri",
         "protected": false,
         "public_metrics": {
             "followers_count": 34,
             "following_count": 42,
             "tweet_count": 20,
             "listed_count": 0
-        },
-        "username": "EnricoBlanzieri",
-        "id": "31229962"
+        }
     },
     {
         "name": "Maria Teresa Stella",
+        "id": "760030872733151232",
+        "username": "MTStella",
         "protected": false,
         "public_metrics": {
             "followers_count": 221,
             "following_count": 768,
             "tweet_count": 784,
             "listed_count": 6
-        },
-        "username": "MTStella",
-        "id": "760030872733151232"
+        }
     },
     {
         "name": "U-Hopper",
+        "id": "223439979",
+        "username": "uhopper",
         "protected": false,
         "public_metrics": {
-            "followers_count": 501,
+            "followers_count": 498,
             "following_count": 668,
             "tweet_count": 1168,
             "listed_count": 55
-        },
-        "username": "uhopper",
-        "id": "223439979"
+        }
     },
     {
         "name": "Speck&Tech",
+        "id": "915514148787822592",
+        "username": "speckandtech",
         "protected": false,
         "public_metrics": {
-            "followers_count": 599,
+            "followers_count": 600,
             "following_count": 115,
-            "tweet_count": 821,
+            "tweet_count": 822,
             "listed_count": 9
-        },
-        "username": "speckandtech",
-        "id": "915514148787822592"
+        }
     },
     {
+        "username": "crc_gk",
         "protected": false,
+        "id": "1413679900028858368",
         "public_metrics": {
             "followers_count": 114,
             "following_count": 502,
             "tweet_count": 28,
             "listed_count": 0
         },
-        "username": "crc_gk",
-        "name": "George Knott",
-        "id": "1413679900028858368"
+        "name": "George Knott"
     },
     {
+        "username": "DimityMiller",
         "protected": false,
+        "id": "1263591645489950727",
         "public_metrics": {
             "followers_count": 122,
             "following_count": 102,
             "tweet_count": 45,
             "listed_count": 0
         },
-        "username": "DimityMiller",
-        "name": "Dimity Miller",
-        "id": "1263591645489950727"
+        "name": "Dimity Miller"
     },
     {
+        "username": "AlinaBeeTweets",
         "protected": false,
+        "id": "112890240",
         "public_metrics": {
             "followers_count": 60,
             "following_count": 346,
             "tweet_count": 113,
             "listed_count": 3
         },
-        "username": "AlinaBeeTweets",
-        "name": "Alina",
-        "id": "112890240"
+        "name": "Alina"
     },
     {
+        "username": "bevan_koopman",
         "protected": false,
+        "id": "82774113",
         "public_metrics": {
             "followers_count": 365,
             "following_count": 377,
             "tweet_count": 2758,
             "listed_count": 59
         },
-        "username": "bevan_koopman",
-        "name": "Bevan Koopman",
-        "id": "82774113"
+        "name": "Bevan Koopman"
     },
     {
+        "username": "STEM_Matters",
         "protected": false,
+        "id": "1059712815412342784",
         "public_metrics": {
             "followers_count": 485,
             "following_count": 253,
             "tweet_count": 89,
             "listed_count": 3
         },
-        "username": "STEM_Matters",
-        "name": "STEM Matters",
-        "id": "1059712815412342784"
+        "name": "STEM Matters"
     },
     {
+        "id": "1078963404356767745",
+        "name": "Prof. Jared Cole",
+        "username": "quantschmant",
+        "protected": false,
         "public_metrics": {
             "followers_count": 727,
             "following_count": 303,
             "tweet_count": 554,
             "listed_count": 6
-        },
-        "username": "quantschmant",
-        "protected": false,
-        "name": "Prof. Jared Cole",
-        "id": "1078963404356767745"
+        }
     },
     {
+        "id": "800160226670325760",
+        "name": "Kelsie Nabben",
+        "username": "kelsiemvn",
+        "protected": false,
         "public_metrics": {
             "followers_count": 777,
             "following_count": 299,
             "tweet_count": 250,
             "listed_count": 20
-        },
-        "username": "kelsiemvn",
-        "protected": false,
-        "name": "Kelsie Nabben",
-        "id": "800160226670325760"
+        }
     },
     {
+        "id": "4364522298",
+        "name": "JJ Richardson (Aviraban)",
+        "username": "DrJJRich",
+        "protected": false,
         "public_metrics": {
             "followers_count": 48,
             "following_count": 62,
             "tweet_count": 69,
             "listed_count": 0
-        },
-        "username": "DrJJRich",
-        "protected": false,
-        "name": "JJ Richardson (Aviraban)",
-        "id": "4364522298"
+        }
     },
     {
+        "id": "1315526823929876480",
+        "name": "Mint & Burn",
+        "username": "mintandburnRMIT",
+        "protected": false,
         "public_metrics": {
             "followers_count": 200,
             "following_count": 397,
             "tweet_count": 187,
             "listed_count": 6
-        },
-        "username": "mintandburnRMIT",
-        "protected": false,
-        "name": "Mint & Burn",
-        "id": "1315526823929876480"
+        }
     },
     {
+        "id": "243190391",
+        "name": "Piumie Rajapaksha 👩🏻‍🔬",
+        "username": "piumie99",
+        "protected": false,
         "public_metrics": {
             "followers_count": 454,
             "following_count": 604,
             "tweet_count": 476,
             "listed_count": 4
-        },
-        "username": "piumie99",
-        "protected": false,
-        "name": "Piumie Rajapaksha 👩🏻‍🔬",
-        "id": "243190391"
+        }
     },
     {
         "protected": false,
@@ -840,64 +840,64 @@
         "username": "damiano10"
     },
     {
+        "name": "Danula Hettiachchi",
+        "protected": false,
+        "id": "248721193",
+        "username": "danulaera",
         "public_metrics": {
             "followers_count": 338,
             "following_count": 409,
             "tweet_count": 272,
             "listed_count": 5
-        },
-        "username": "danulaera",
-        "protected": false,
-        "name": "Danula Hettiachchi",
-        "id": "248721193"
+        }
     },
     {
+        "name": "Rosie Jones",
+        "protected": false,
+        "id": "1314222969984516096",
+        "username": "RosieJonesNLP",
         "public_metrics": {
             "followers_count": 265,
             "following_count": 73,
             "tweet_count": 23,
             "listed_count": 4
-        },
-        "username": "RosieJonesNLP",
-        "protected": false,
-        "name": "Rosie Jones",
-        "id": "1314222969984516096"
+        }
     },
     {
+        "name": "Jeffrey Chan",
+        "protected": false,
+        "id": "735447938214678529",
+        "username": "DrJeffreyC",
         "public_metrics": {
             "followers_count": 58,
             "following_count": 73,
             "tweet_count": 33,
             "listed_count": 6
-        },
-        "username": "DrJeffreyC",
-        "protected": false,
-        "name": "Jeffrey Chan",
-        "id": "735447938214678529"
+        }
     },
     {
+        "name": "IEEEPerCom",
+        "protected": false,
+        "id": "2408311538",
+        "username": "IEEEPerCom",
         "public_metrics": {
             "followers_count": 472,
             "following_count": 53,
             "tweet_count": 686,
             "listed_count": 16
-        },
-        "username": "IEEEPerCom",
-        "protected": false,
-        "name": "IEEEPerCom",
-        "id": "2408311538"
+        }
     },
     {
+        "name": "Elisa",
+        "protected": false,
+        "id": "64547887",
+        "username": "elikary86",
         "public_metrics": {
             "followers_count": 112,
             "following_count": 549,
             "tweet_count": 239,
             "listed_count": 0
-        },
-        "username": "elikary86",
-        "protected": false,
-        "name": "Elisa",
-        "id": "64547887"
+        }
     },
     {
         "public_metrics": {
@@ -960,64 +960,64 @@
         "id": "1229336836453040131"
     },
     {
-        "protected": false,
-        "id": "1423719166889152514",
-        "name": "Felice Pagurotti 🐚",
         "public_metrics": {
-            "followers_count": 592,
-            "following_count": 338,
-            "tweet_count": 2888,
+            "followers_count": 593,
+            "following_count": 340,
+            "tweet_count": 2893,
             "listed_count": 0
         },
-        "username": "ibblastoise"
+        "username": "ibblastoise",
+        "id": "1423719166889152514",
+        "name": "Felice Pagurotti 🐚",
+        "protected": false
     },
     {
-        "protected": false,
-        "id": "737333978462572544",
-        "name": "Marco Liati",
         "public_metrics": {
             "followers_count": 866,
             "following_count": 496,
             "tweet_count": 607,
             "listed_count": 52
         },
-        "username": "marcoliati"
+        "username": "marcoliati",
+        "id": "737333978462572544",
+        "name": "Marco Liati",
+        "protected": false
     },
     {
-        "protected": false,
-        "id": "262236415",
-        "name": "David",
         "public_metrics": {
             "followers_count": 236,
             "following_count": 204,
             "tweet_count": 3262,
             "listed_count": 0
         },
-        "username": "Barbe_z"
+        "username": "Barbe_z",
+        "id": "262236415",
+        "name": "David",
+        "protected": false
     },
     {
-        "protected": false,
-        "id": "1333547632128626690",
-        "name": "smarTalks",
         "public_metrics": {
             "followers_count": 390,
             "following_count": 762,
             "tweet_count": 228,
             "listed_count": 2
         },
-        "username": "smrtalks"
+        "username": "smrtalks",
+        "id": "1333547632128626690",
+        "name": "smarTalks",
+        "protected": false
     },
     {
-        "protected": false,
-        "id": "1372510804277407746",
-        "name": "Tiziana",
         "public_metrics": {
             "followers_count": 25,
             "following_count": 117,
             "tweet_count": 29,
             "listed_count": 0
         },
-        "username": "TemporalTiziana"
+        "username": "TemporalTiziana",
+        "id": "1372510804277407746",
+        "name": "Tiziana",
+        "protected": false
     },
     {
         "public_metrics": {
@@ -1081,15 +1081,15 @@
     },
     {
         "public_metrics": {
-            "followers_count": 240,
+            "followers_count": 239,
             "following_count": 35,
             "tweet_count": 92,
             "listed_count": 5
         },
         "username": "TolokaAI",
-        "protected": false,
+        "id": "1328626427420422144",
         "name": "Toloka",
-        "id": "1328626427420422144"
+        "protected": false
     },
     {
         "public_metrics": {
@@ -1099,9 +1099,9 @@
             "listed_count": 0
         },
         "username": "AiLeibniz",
-        "protected": false,
+        "id": "1400071702625857540",
         "name": "Leibniz AI Lab",
-        "id": "1400071702625857540"
+        "protected": false
     },
     {
         "public_metrics": {
@@ -1111,9 +1111,9 @@
             "listed_count": 2
         },
         "username": "HardyShakerman",
-        "protected": false,
+        "id": "524234866",
         "name": "Mike Schaekermann",
-        "id": "524234866"
+        "protected": false
     },
     {
         "public_metrics": {
@@ -1123,9 +1123,9 @@
             "listed_count": 7
         },
         "username": "acwio",
-        "protected": false,
+        "id": "3223120420",
         "name": "Alex Williams",
-        "id": "3223120420"
+        "protected": false
     },
     {
         "public_metrics": {
@@ -1135,68 +1135,68 @@
             "listed_count": 0
         },
         "username": "hcc_uq",
-        "protected": false,
+        "id": "1430793928521904129",
         "name": "uq-hcc",
-        "id": "1430793928521904129"
+        "protected": false
     },
     {
-        "protected": false,
         "public_metrics": {
             "followers_count": 89,
             "following_count": 16,
             "tweet_count": 53,
             "listed_count": 1
         },
-        "id": "924822883800453120",
+        "name": "Associate Professor Sylvia Urban",
         "username": "Dr_S_Urban_RMIT",
-        "name": "Associate Professor Sylvia Urban"
+        "id": "924822883800453120",
+        "protected": false
     },
     {
-        "protected": false,
         "public_metrics": {
             "followers_count": 179,
             "following_count": 267,
             "tweet_count": 435,
             "listed_count": 1
         },
-        "id": "1039070536184213506",
+        "name": "Will Sullivan FHEA",
         "username": "DrWillSullivan",
-        "name": "Will Sullivan FHEA"
+        "id": "1039070536184213506",
+        "protected": false
     },
     {
-        "protected": false,
         "public_metrics": {
             "followers_count": 145,
             "following_count": 359,
             "tweet_count": 136,
             "listed_count": 0
         },
-        "id": "249984650",
+        "name": "Marwah Alaofi",
         "username": "Marwah_k",
-        "name": "Marwah Alaofi"
+        "id": "249984650",
+        "protected": false
     },
     {
-        "protected": false,
         "public_metrics": {
-            "followers_count": 945,
+            "followers_count": 946,
             "following_count": 658,
             "tweet_count": 1503,
             "listed_count": 51
         },
-        "id": "789107706397196288",
+        "name": "David Benigson",
         "username": "DavidSignal",
-        "name": "David Benigson"
+        "id": "789107706397196288",
+        "protected": false
     },
     {
-        "protected": false,
         "public_metrics": {
             "followers_count": 459,
             "following_count": 790,
             "tweet_count": 5101,
             "listed_count": 21
         },
-        "id": "48587184",
+        "name": "Ashwin Nag",
         "username": "ashwinnag",
-        "name": "Ashwin Nag"
+        "id": "48587184",
+        "protected": false
     }
 ]
