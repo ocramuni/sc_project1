@@ -1,0 +1,5051 @@
+[
+    {
+        "location": "Toronto, Ontario",
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 91,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "PedramAbbasi",
+        "id": "4761394778",
+        "description": "",
+        "username": "PedramAbbasi0"
+    },
+    {
+        "location": "Montréal, Québec",
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 737,
+            "tweet_count": 303,
+            "listed_count": 10
+        },
+        "protected": false,
+        "name": "Farshid Faal",
+        "id": "222625547",
+        "description": "Senior Data & Applied ML Scientist #NLProc",
+        "username": "FarshidFaal"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 237,
+            "following_count": 852,
+            "tweet_count": 511,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Antonio Faonio",
+        "id": "86134141",
+        "description": "Cryptographer. Implicit notation supporter.",
+        "username": "0x00AF"
+    },
+    {
+        "location": "Mosul, Iraq.",
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 721,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Racheal Young",
+        "id": "1450971023252369415",
+        "description": "I'm a computer System Analyst working with the US Army in Mosul, Iraq. I've served with the US army for 18 years. I also have combat experience, I'm simple.",
+        "username": "Racheal87679908"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 255,
+            "tweet_count": 42,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Dr Han Duy Phan",
+        "id": "751200103",
+        "description": "Teacher | Researcher | Software Engineer | Tech Entrepreneur",
+        "username": "phanduyhan"
+    },
+    {
+        "location": "New York, NY",
+        "public_metrics": {
+            "followers_count": 8289,
+            "following_count": 6297,
+            "tweet_count": 2738,
+            "listed_count": 105
+        },
+        "protected": false,
+        "name": "TheSequence",
+        "id": "1271482878958940160",
+        "description": "Top AI newsletter with over 105k readers from the main AI Labs and enterprises. \n\nFounded by @JRdothoughts & @Kseniase_",
+        "username": "TheSequenceAI"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 5,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "ali hadiannasab",
+        "id": "1449588765387735042",
+        "description": "",
+        "username": "hadiannasab"
+    },
+    {
+        "location": "Auckland, New Zealand",
+        "public_metrics": {
+            "followers_count": 15,
+            "following_count": 15,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "trey",
+        "id": "1053375015041687552",
+        "description": "maths ⋂ crypto",
+        "username": "treymaths"
+    },
+    {
+        "location": "United Arab Emirates",
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 98,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "John",
+        "id": "1446037599295057926",
+        "description": "Passionate about making people the best version of themselves to make the world a better place",
+        "username": "John_techtalent"
+    },
+    {
+        "location": "Leuven, Belgium",
+        "public_metrics": {
+            "followers_count": 126,
+            "following_count": 125,
+            "tweet_count": 74,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Karim Baghery",
+        "id": "1019793212",
+        "description": "Postdoctoral researcher at COSIC, KU Leuven",
+        "username": "Karim_Baghery"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 458,
+            "tweet_count": 8,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "肖新东",
+        "id": "1445239338405531653",
+        "description": "",
+        "username": "uElS50XlmnU9t7P"
+    },
+    {
+        "location": "Lyon, France",
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 68,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mahshid Riahinia",
+        "id": "1328632818415579137",
+        "description": "PhD student in cryptography at ENS de Lyon.",
+        "username": "r_mahshid97"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 71,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "zhenfei zhang",
+        "id": "265319480",
+        "description": "cryptographer @ethereum. working on ZKP and PQC.",
+        "username": "zhenfei_zhang"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 94,
+            "tweet_count": 27,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "OVIS Lab",
+        "id": "1316757564030242817",
+        "description": "OVIS lab at Monash University works on exploring human values and operationalizing values in software with the aim to make the software more human.",
+        "username": "OvisLab"
+    },
+    {
+        "location": "تهران ",
+        "public_metrics": {
+            "followers_count": 1036,
+            "following_count": 3564,
+            "tweet_count": 1998,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "شفقنا ورزشی",
+        "id": "1424852294986878978",
+        "description": "اخبار ورزشی شفقنا رو ببینید و لذت ببرید .",
+        "username": "KShafaghna"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 9,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "DreamerCB",
+        "id": "1328646170147573761",
+        "description": "",
+        "username": "DreamerCB1"
+    },
+    {
+        "location": "USA",
+        "public_metrics": {
+            "followers_count": 8870,
+            "following_count": 5173,
+            "tweet_count": 5947,
+            "listed_count": 163
+        },
+        "protected": false,
+        "name": "wolfSSL Embedded SSL",
+        "id": "150646351",
+        "description": "The most popular open source, embedded TLS. Active in #IoTSecurity, #Avionics, #Automotive & more. Over 2B connections secured! #TLS13 #SecureYourConnectivity",
+        "username": "wolfSSL"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 116,
+            "following_count": 62,
+            "tweet_count": 152,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Thomas Haines",
+        "id": "1169606419806601217",
+        "description": "Lecturer in Applied Cryptography at ANU.  My opinions are my own",
+        "username": "thomas_e_haines"
+    },
+    {
+        "location": "Kardinia Park",
+        "public_metrics": {
+            "followers_count": 281,
+            "following_count": 904,
+            "tweet_count": 2066,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Laura",
+        "id": "1423563763299520513",
+        "description": "19. Cats tragic. 99% of my tweets are about footy. #GeelongStrong 🌈🏴",
+        "username": "LauraCatters"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 281,
+            "following_count": 1048,
+            "tweet_count": 1195,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Charith Madusanka",
+        "id": "145984972",
+        "description": "i'm a undergraduate in computer science.",
+        "username": "charithccmc"
+    },
+    {
+        "location": "Vienna, Austria",
+        "public_metrics": {
+            "followers_count": 160,
+            "following_count": 324,
+            "tweet_count": 6809,
+            "listed_count": 29
+        },
+        "protected": false,
+        "name": "Erkan Tairi",
+        "id": "167021861",
+        "description": "PhD student in cryptography at TU Wien @tuvienna",
+        "username": "erkantairi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 139,
+            "following_count": 1108,
+            "tweet_count": 208,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Cattas",
+        "id": "1419820401488760836",
+        "description": "18yo girl. One-eyed Cats tragic. #GeelongStrong",
+        "username": "carncatters"
+    },
+    {
+        "location": "Zurich, Switzerland",
+        "public_metrics": {
+            "followers_count": 81,
+            "following_count": 52,
+            "tweet_count": 38,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Ngoc Khanh Nguyen",
+        "id": "1034111664034131969",
+        "description": "PhD Student @IBMResearch Zurich and @ETH , interested in Post-Quantum Cryptography.",
+        "username": "KhanhCrypto"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 9,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Ehsan Zamani",
+        "id": "1413574789613117447",
+        "description": "gsm",
+        "username": "EhsanZa34240601"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 127,
+            "following_count": 63,
+            "tweet_count": 27,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Jotasapiens",
+        "id": "3668844256",
+        "description": "Research in cryptography and applied mathematics. Interested in hash-based signatures, bitcoin/blockchains, and decentralised algorithms. By @jotaink",
+        "username": "jotasapiens"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 162,
+            "following_count": 945,
+            "tweet_count": 26,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Cattery Gal",
+        "id": "1392554379752914952",
+        "description": "One-eyed, rabid Cats supporter #GeelongStrong",
+        "username": "FromWherever"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 75,
+            "tweet_count": 20,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Russell W. F. Lai",
+        "id": "1323205721719214086",
+        "description": "Cryptographer @ Friedrich-Alexander University Erlangen-Nuremberg",
+        "username": "russell_wf_lai"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 133,
+            "following_count": 1153,
+            "tweet_count": 20,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "suvasree",
+        "id": "812803100",
+        "description": "appliedCryptography",
+        "username": "spurveam1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1457,
+            "following_count": 4992,
+            "tweet_count": 368,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "M.niranjan Reddy",
+        "id": "1290009471889022976",
+        "description": "",
+        "username": "MniranjanRedd20"
+    },
+    {
+        "location": "Australia",
+        "public_metrics": {
+            "followers_count": 181,
+            "following_count": 118,
+            "tweet_count": 68,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Chunyang Chen",
+        "id": "2829817590",
+        "description": "Dr, Lecturer/Assistant Prof in Faculty of IT, Monash University. Opinions are my own.",
+        "username": "chun_yang_chen"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 43,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Zahra Mirzamomen",
+        "id": "1320859163459612672",
+        "description": "",
+        "username": "ZMirzamomen"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 11,
+            "following_count": 52,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Amirreza Sarencheh",
+        "id": "1408097990540247044",
+        "description": "Cryptography & Blockchain Ph.D. Student at @EdinburghUni \n (@BTL_Edinburgh) & @InputOutputHK",
+        "username": "AmirrezaSaren"
+    },
+    {
+        "location": "Storrs, CT",
+        "public_metrics": {
+            "followers_count": 500,
+            "following_count": 327,
+            "tweet_count": 387,
+            "listed_count": 13
+        },
+        "protected": false,
+        "name": "Ben Fuller",
+        "id": "890322109112692737",
+        "description": "Security Researcher, Cryptographer, Assistant Professor @UConn, person figuring out life, he/him, former weightlifter",
+        "username": "fuzzycrypto"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 293,
+            "following_count": 2188,
+            "tweet_count": 528,
+            "listed_count": 16
+        },
+        "protected": false,
+        "name": "Peter Ince",
+        "id": "636051515",
+        "description": "Software Engineer @type_human ; currently obsessed with the potential of blockchain and distributed computing",
+        "username": "satoriweb"
+    },
+    {
+        "location": "Barcelona, Spain",
+        "public_metrics": {
+            "followers_count": 246,
+            "following_count": 318,
+            "tweet_count": 149,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Arantxa Zapico 🧉",
+        "id": "1130080297163382784",
+        "description": "🇦🇷 Mathematician @famaf_unc | PhD student on cryptography @UPFBarcelona | Marie Curie-La Caixa fellow.",
+        "username": "arantxazapico"
+    },
+    {
+        "location": "Sydney",
+        "public_metrics": {
+            "followers_count": 5065,
+            "following_count": 3757,
+            "tweet_count": 3087,
+            "listed_count": 205
+        },
+        "protected": false,
+        "name": "Jeremy Kirk",
+        "id": "18629282",
+        "description": "Covering Aussie and global IT security. Editor @ISMGCorp. Story tips welcome: DM for Signal. Creator of The Ransomware Files podcast: https://t.co/DCxOXUSwo9",
+        "username": "Jeremy_Kirk"
+    },
+    {
+        "location": "Quantum Qubits Question",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 1397,
+            "tweet_count": 1164,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Nakamoto Ninja",
+        "id": "1117112231534239745",
+        "description": "Bitcoin/Ethereum/Cryptography/Qubits/Mathematics “Qcomputer can NOT mine Bitcoin but crack its signature, ECDSA or Schnorr whatever” opinions are my own.",
+        "username": "NakamotoNinja"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 58,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Shujie Cui",
+        "id": "1362162898659807233",
+        "description": "Lecturer@Monash University, Australia",
+        "username": "shujie_cui"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 527,
+            "following_count": 1161,
+            "tweet_count": 2049,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Zerina Tomkins",
+        "id": "1069542794920845313",
+        "description": "A/Prof, @MonashNM, mum, #scientist, #nurse #researcher #digitalhealth, #childhealth #cardiovascular #climatechange ...opinions are mine. She/Her",
+        "username": "TomkinsZerina"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 10,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "MOD1870",
+        "id": "998872350606020609",
+        "description": "",
+        "username": "mod1870"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 48,
+            "following_count": 76,
+            "tweet_count": 34,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Muhammed Esgin",
+        "id": "1407118739565268992",
+        "description": "Post-doc researcher @MonashUni and @CSIRO's Data61. Interested in various aspects of crypto(graphy): post-quantum, lattice, zero-knowledge, blockchain, …",
+        "username": "mfesgin"
+    },
+    {
+        "location": "Kerala, India",
+        "public_metrics": {
+            "followers_count": 182,
+            "following_count": 586,
+            "tweet_count": 249,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Quantum Quixote",
+        "id": "972497728927277056",
+        "description": "An Entangled Ensemble of #QuantumLogic #QuantumRandomness #QuantumCryptography #QuantumMachineLearning #QuantumComputing Education & Engineering Ecosystem!",
+        "username": "QuantumQuixxote"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 92,
+            "following_count": 105,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Xiaoning_Du",
+        "id": "2716527211",
+        "description": "Lecturer @ Faculty of Information Technology, Monash University",
+        "username": "xiaoning_du"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 89,
+            "following_count": 414,
+            "tweet_count": 61,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Aiden Varan",
+        "id": "1065807931373846528",
+        "description": "Paediatric resident | epidemiologist | tech nerd | banjo enthusiast. Views are my own.",
+        "username": "AidenVaran"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 1231,
+            "following_count": 1593,
+            "tweet_count": 4377,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "Vera Ignjatović",
+        "id": "1036519275417092096",
+        "description": "Children Matter! Medical researcher improving the lives of children 💉▪︎ Olympian🤾‍♀️ ▪︎ Executive MBA 📚▪︎ #proteomics #thrombosis #MYVIEWS 🏳️‍🌈",
+        "username": "IgnitingScience"
+    },
+    {
+        "location": "Birmingham, England",
+        "public_metrics": {
+            "followers_count": 150,
+            "following_count": 934,
+            "tweet_count": 189,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Andrea Basso",
+        "id": "1075194406569943040",
+        "description": "PhD student in post-quantum cryptography at @UoB_SecPriv",
+        "username": "andreavbasso"
+    },
+    {
+        "location": "Dubai, United Arab Emirates",
+        "public_metrics": {
+            "followers_count": 69,
+            "following_count": 1031,
+            "tweet_count": 101,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Gilbert Isaac",
+        "id": "1000678529858760705",
+        "description": "I don’t fight GRAVITY!",
+        "username": "IshacGilbert"
+    },
+    {
+        "location": "Durham, England",
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 127,
+            "tweet_count": 278,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Max Gadouleau",
+        "id": "771402884223266820",
+        "description": "Husband and father of three. Computer scientist at Durham University. Not too serious.",
+        "username": "MaxGadouleau"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 781,
+            "tweet_count": 2,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "khurst739",
+        "id": "2295872017",
+        "description": "#Bitcoin #Ethereum ⟠",
+        "username": "khurst739"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 59,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Alireza Kafaei",
+        "id": "1393745910547435522",
+        "description": "Undergrad student of Econometrics and Computer Science at @Monash_Uni.",
+        "username": "KafaeiAli"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 117,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Habib Yajam",
+        "id": "1933931491",
+        "description": "",
+        "username": "HabibYajam"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 1097,
+            "following_count": 1474,
+            "tweet_count": 3965,
+            "listed_count": 43
+        },
+        "protected": false,
+        "name": "Centre for Digital Transformation of Health",
+        "id": "355336307",
+        "description": "Working together towards connected health\n@UnimelbMDHS & @CIS_UNimelb\nThe University of Melbourne\nNews https://t.co/RBUI1gaX0n\nYouTube https://t.co/PZnnlqIZqt",
+        "username": "DT4Health"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 225,
+            "following_count": 1768,
+            "tweet_count": 403,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Nazanin Rahmati",
+        "id": "1202277296524144640",
+        "description": "IT Manager | Data Scientist | NFT 🚀 | Blockchain | Finance | https://t.co/KHQEHvQxLD…\nhttps://t.co/JdeqstqFtd |#NFTs are available on",
+        "username": "nazaninrahmaty"
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "public_metrics": {
+            "followers_count": 696,
+            "following_count": 1000,
+            "tweet_count": 165,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Katie Buchhorn",
+        "id": "957829382264954885",
+        "description": "Mathematician. Author of Wondrous Worlds. Aspiring bread-maker with other creative endeavours. Undertaking PhD in #bayesian stats at @QUT and just love doing it",
+        "username": "katiebuchhorn"
+    },
+    {
+        "location": "Free World citizen",
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 108,
+            "tweet_count": 53,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Shahnawaz Ali Shah",
+        "id": "712355446686932992",
+        "description": "My name is shahnawaz, a Business Graduate,  a free spirit. Favourite topics are international Politics and world Economical Issues",
+        "username": "SHAH_SHAWZI"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 231,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mike Raeini",
+        "id": "1310735266294964226",
+        "description": "WizWorld (A Wise World by Wizwords)\nhttps://t.co/qArHeV4plE",
+        "username": "MikeRaeini"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 112,
+            "following_count": 201,
+            "tweet_count": 62,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Essam Ghadafi",
+        "id": "1245423748234317825",
+        "description": "Senior Lecturer@UWEBristol, Cryptographer, Alumnus @BristolUni. Views are mine, retweets and likes are not endorsements.",
+        "username": "essamghadafi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 31,
+            "tweet_count": 47,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "دریک راموروی",
+        "id": "1398708328306458629",
+        "description": "سنگین تر از ورسایه بهرام",
+        "username": "oytiivgufGmLpIb"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 859,
+            "following_count": 570,
+            "tweet_count": 644,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Monash Energy Institute",
+        "id": "884966006883401729",
+        "description": "Bringing people together to solve global energy problems. ​",
+        "username": "MonashEnergy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 287,
+            "following_count": 359,
+            "tweet_count": 106,
+            "listed_count": 6
+        },
+        "protected": false,
+        "name": "Ana Costache",
+        "id": "870543870022627328",
+        "description": "Cryptographer at NTNU. Opinions expressed are my own. She/ her.",
+        "username": "anacostache_"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 85,
+            "tweet_count": 213,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Velen Chan",
+        "id": "996794594158260224",
+        "description": "",
+        "username": "jchen_cs"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 159,
+            "tweet_count": 180,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Nasser Allheeib",
+        "id": "720567848280547328",
+        "description": "Assistant Professor @KSU/ Alumni @MonashUni and @RITtigers USA. Interested in Data Science, AI advisor",
+        "username": "allheeib"
+    },
+    {
+        "location": "Sydney, New South Wales",
+        "public_metrics": {
+            "followers_count": 496,
+            "following_count": 1883,
+            "tweet_count": 24368,
+            "listed_count": 36
+        },
+        "protected": false,
+        "name": "Jashank Jeremy",
+        "id": "260689241",
+        "description": "programmer/sysadmin/student/educator, @UNSW+@UNSWComputing. occasional typesetter/musician/photographer. puns. my own opinions. he/him.",
+        "username": "jashankj"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 238,
+            "tweet_count": 145,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "maybe-sybr",
+        "id": "1382493897981501440",
+        "description": "cyber, ctf, shit takes on infosec, memes // of @infosectcbr, @CybearsCTF, 🛹🐻 // he/him // ˈmeɪbiː ˈsaɪbə",
+        "username": "maybe_sybr"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 901,
+            "following_count": 2229,
+            "tweet_count": 258,
+            "listed_count": 10
+        },
+        "protected": false,
+        "name": "Shaanan Cohney",
+        "id": "6357872",
+        "description": "Applied Cryptography, Public Policy, Tech Law, Choral music, Lecturer (Asst. Prof) @unimelb — tweets used to delete after two weeks?",
+        "username": "shaananc"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 77,
+            "tweet_count": 27,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Ehsan Shareghi",
+        "id": "1365097706704703488",
+        "description": "Assistant Professor @MonashInfotech / Affiliated with @cambridge_uni, working on #NLP.",
+        "username": "EhsanShareghi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 445,
+            "following_count": 4947,
+            "tweet_count": 831,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "delatee.eth (tres,tres)",
+        "id": "1387638419694792715",
+        "description": "Fan of DeFi & Ethereum tech ● Fullstack Developer ● Mexicano hasta la madre ● Goal is to make enough to buy a BAYC Ape",
+        "username": "0xdelatee"
+    },
+    {
+        "location": "Nuova Delhi, India",
+        "public_metrics": {
+            "followers_count": 22738,
+            "following_count": 10906,
+            "tweet_count": 1763,
+            "listed_count": 81
+        },
+        "protected": false,
+        "name": "Sourabh Singh Katoch",
+        "id": "774550615204790272",
+        "description": "Data Scientist | Machine Learning Engineer\n\nWrites about AI Research, Data Science, Python Programming & Development. Educator, Open Source advocate & memer.",
+        "username": "SourabhSKatoch"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1076,
+            "following_count": 1010,
+            "tweet_count": 372,
+            "listed_count": 25
+        },
+        "protected": false,
+        "name": "Alan Szepieniec",
+        "id": "636562977",
+        "description": "cryptographer - founder AS Discrete Mathematics - researcher with Nervos Foundation",
+        "username": "aszepieniec"
+    },
+    {
+        "location": "College Park, MD",
+        "public_metrics": {
+            "followers_count": 439,
+            "following_count": 302,
+            "tweet_count": 442,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Julian Loss",
+        "id": "824352044496678912",
+        "description": "Tenure-Track Faculty at @CISPA. I study distributed consensus, digital signatures, and more.",
+        "username": "julian_loss"
+    },
+    {
+        "location": "VIC, AU",
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 132,
+            "tweet_count": 23,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Xiaojun Chang",
+        "id": "948972439",
+        "description": "Associate Professor and DECRA Fellow in Artificial Intelligence at School of Computing Technologies, RMIT University",
+        "username": "cxj273"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 1667,
+            "tweet_count": 222,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "sad fan",
+        "id": "1109546128587087874",
+        "description": "é tudo culpa minha",
+        "username": "esquizoculpado"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 141,
+            "following_count": 316,
+            "tweet_count": 238,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Malika Ratnayake",
+        "id": "1104197080933838849",
+        "description": "PhD student @MonashUni | Developing and implementing Deep Learning and Computer Vision-based systems for pollinator behaviour studies 🐝.",
+        "username": "MalikaRatnayake"
+    },
+    {
+        "location": "Stuttgart, Germany",
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 153,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Nicolas Huber",
+        "id": "1260840575890309125",
+        "description": "PhD student • Mathematician • (Post-)Quantum crypto/infosec • Institute of Information Security, University of Stuttgart, Germany • @IQSTpress • DE/EN/ES",
+        "username": "NicolasHuber20"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 273,
+            "following_count": 507,
+            "tweet_count": 392,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Rifat Ara Shams",
+        "id": "1407357264",
+        "description": "PhD Researcher, Faculty of #IT, @MonashUni|#HumanValues in #SoftwareEngineering| Operationalizing Values in Apps #MonashInfoTech #OVIS #WomenInTech #WomenInSTEM",
+        "username": "swarna601"
+    },
+    {
+        "location": "Zürich, Switzerland",
+        "public_metrics": {
+            "followers_count": 2181,
+            "following_count": 1513,
+            "tweet_count": 47564,
+            "listed_count": 40
+        },
+        "protected": false,
+        "name": "eleanor",
+        "id": "721987063113867264",
+        "description": "PhD candidate in theoretical cryptography @ETH Zurich • I like maths, games, programming languages, and cats • they/sie • en/de (aspirational)",
+        "username": "zornsllama"
+    },
+    {
+        "location": "Australia",
+        "public_metrics": {
+            "followers_count": 1106,
+            "following_count": 626,
+            "tweet_count": 699,
+            "listed_count": 12
+        },
+        "protected": false,
+        "name": "Thuan Pham",
+        "id": "3953633953",
+        "description": "Lecturer (US equiv. Asst. Prof) at The University of Melbourne. Program analysis and fuzzing enthusiast. Tweets are my own.",
+        "username": "thuanpv_"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 368,
+            "following_count": 1176,
+            "tweet_count": 40,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Aneta Neumann",
+        "id": "712086027427520512",
+        "description": "AI Researcher, Mining Consortium (CS @UniofAdelaide), #AI #optimization #ML #diversity #creativity #collaboration",
+        "username": "AnetaNeumann"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 456,
+            "following_count": 764,
+            "tweet_count": 171,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Markus Wagner",
+        "id": "888260060",
+        "description": "Passionate Problem Solver: trouble is only opportunity in work clothes.",
+        "username": "MWagnerRedChair"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 184,
+            "following_count": 636,
+            "tweet_count": 2560,
+            "listed_count": 17
+        },
+        "protected": false,
+        "name": "AbidA",
+        "id": "49809251",
+        "description": "AbidA tells mathematicians she's a computer scientist and CS people she's a mathematician so she never has to answer any questions.",
+        "username": "kittenometry"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 405,
+            "tweet_count": 55,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "MNH",
+        "id": "1212502888259276800",
+        "description": "",
+        "username": "mnow123456"
+    },
+    {
+        "location": "Abu Dhabi, Leuven, Quito",
+        "public_metrics": {
+            "followers_count": 375,
+            "following_count": 1028,
+            "tweet_count": 2297,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "abdelrahaman aly",
+        "id": "1407740311",
+        "description": "#Privacy & #Cryptography Researcher, #Dev, @Starcraft aficionado & #polling enthusiast. #latam, working @Tiiuae & @CosicBE on applied #MPC. -Op. are my own.",
+        "username": "abdito_8"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 312,
+            "following_count": 367,
+            "tweet_count": 388,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Farhad Farokhi",
+        "id": "598117717",
+        "description": "Data privacy | Cyber-security | Control and info theory | PhD networked control & estimation | BSc/MSc electrical eng | Lecturer (=Assistant Prof) @unimelb",
+        "username": "TheFarokhi"
+    },
+    {
+        "location": "Arhus, Denmark",
+        "public_metrics": {
+            "followers_count": 13758,
+            "following_count": 935,
+            "tweet_count": 21326,
+            "listed_count": 145
+        },
+        "protected": false,
+        "name": "Diego F. Aranha 🕷️",
+        "id": "40390075",
+        "description": "Associate Professor at @csaudk in 🇩🇰. Security researcher and scientist forged by medical quackery and insecure e-voting. #TeamAdditive for ECC notation.",
+        "username": "dfaranha"
+    },
+    {
+        "location": "Paris, France",
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 1290,
+            "tweet_count": 155,
+            "listed_count": 1
+        },
+        "protected": true,
+        "name": "Yulliwas AMEUR",
+        "id": "897853161121206273",
+        "description": "Phd student in cryptography and machine learning #FHE #HomomorphicEncryption #Privacy #IA",
+        "username": "EneeleTacticien"
+    },
+    {
+        "location": "Maryland, USA",
+        "public_metrics": {
+            "followers_count": 115,
+            "following_count": 403,
+            "tweet_count": 176,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "aria",
+        "id": "48777721",
+        "description": "Ph.D. candidate at @eceumd and @CollegeParkMC2 working on Cryptography and Computer Security. Interested in Post-Quantum Cryptography. #OpenToWork",
+        "username": "AriaShahverdi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 100,
+            "following_count": 1428,
+            "tweet_count": 1036,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "valyakuttan",
+        "id": "252417726",
+        "description": "",
+        "username": "valyakuttan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 253,
+            "tweet_count": 89,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "hans meyer",
+        "id": "1547510724",
+        "description": "",
+        "username": "derbaenger999"
+    },
+    {
+        "location": "Delft, Nederland",
+        "public_metrics": {
+            "followers_count": 73,
+            "following_count": 151,
+            "tweet_count": 10,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Oguzhan Ersoy",
+        "id": "427762941",
+        "description": "Postdoc in Blockchain Technology @ TU Delft",
+        "username": "oguzer90"
+    },
+    {
+        "location": "Delft, the Netherlands",
+        "public_metrics": {
+            "followers_count": 227,
+            "following_count": 618,
+            "tweet_count": 849,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Luca Mariot",
+        "id": "359879856",
+        "description": "Postdoctoral Researcher at TU Delft. Research interests: cryptography, security for machine learning, evolutionary computation",
+        "username": "Rymoah"
+    },
+    {
+        "location": "somewhere on secp256k1",
+        "public_metrics": {
+            "followers_count": 5606,
+            "following_count": 1921,
+            "tweet_count": 5202,
+            "listed_count": 169
+        },
+        "protected": false,
+        "name": "Tim Ruffing",
+        "id": "2342800196",
+        "description": "serious cryptography\n\nhttps://t.co/5JgMaLzpsf",
+        "username": "real_or_random"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 782,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Kurt Pan",
+        "id": "3103362415",
+        "description": "",
+        "username": "KurtPan94"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 1030,
+            "tweet_count": 130,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "The-Anh Ta",
+        "id": "142135701",
+        "description": "Math Phd, Orsay, France, 09-2017 -- 09-2020.\nFPT FSOFT Ho Chi Minh city, 2021-05 -- ...\nInterested in Math, Crypto, Computer vision",
+        "username": "The_Anh_Ta"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4827,
+            "following_count": 709,
+            "tweet_count": 3704,
+            "listed_count": 147
+        },
+        "protected": false,
+        "name": "Chelsea Komlo",
+        "id": "42920448",
+        "description": "Cryptography and privacy researcher.",
+        "username": "chelseakomlo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 294,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Duc Le",
+        "id": "3412475687",
+        "description": "",
+        "username": "levduc"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 292,
+            "following_count": 197,
+            "tweet_count": 180,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Hamid Rezatofighi",
+        "id": "1959599407",
+        "description": "Lecturer (aka Asst Prof) at the Monash Data Science & AI (DSAI), Monash University. Interested in Computer Vision, Vision Robotics & Perception for Navigation",
+        "username": "HamidRezatofigh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 140,
+            "tweet_count": 30,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Muhammad Hussain",
+        "id": "1350543625122422784",
+        "description": "Ph.D. Mathematics scholar. Working in application of Algebra and Number Theory: Elliptic Curve Cryptography, Steganography at QAU, Islamabad, Pakistan.",
+        "username": "Muhamma43488096"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 54,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Parastoo Sadeghi",
+        "id": "835465726534115334",
+        "description": "Information theorist",
+        "username": "P2Sadeghi"
+    },
+    {
+        "location": "online",
+        "public_metrics": {
+            "followers_count": 154,
+            "following_count": 2410,
+            "tweet_count": 46,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "cryptohackathon",
+        "id": "1339161911586402305",
+        "description": "1st #hackathon in conjunction with #IACR @RealWorldCrypto Conference 2021. #functionalencryption #crypto\n\n👉 👉 PLEASE REGISTER AT https://t.co/zogVcYP5aQ 👈 👈",
+        "username": "crypthckthn"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 306,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Aftab Akram",
+        "id": "928729381777870848",
+        "description": "",
+        "username": "AftabAkram18"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 96,
+            "following_count": 552,
+            "tweet_count": 90,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Victor Gan",
+        "id": "1173550410394521601",
+        "description": "Ancora Imparo | Monash BorrowCup | Environmental & Civil Engineering | #CaptureMonash #ClassicalMusic",
+        "username": "VictorGan3"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 71,
+            "following_count": 144,
+            "tweet_count": 73,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Hadi Soleimany",
+        "id": "1312628854129930240",
+        "description": "Cryptography Researcher at SBU",
+        "username": "h_soleimany"
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 621,
+            "tweet_count": 152,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Fahimeh Saleh",
+        "id": "1210552175543250944",
+        "description": "Postdoctoral Fellow in Australian e-Health Research Centre (@AEHRC,@CSIRO)",
+        "username": "saleh_fahimeh"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 248,
+            "tweet_count": 93,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Hourieh Khalajzadeh",
+        "id": "1153844058411847681",
+        "description": "Research fellow in #SoftwareEngineering and #DataAnalytics @MonashUni.",
+        "username": "DrHouriehKh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 319,
+            "following_count": 322,
+            "tweet_count": 559,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Burak Turhan",
+        "id": "47605203",
+        "description": "",
+        "username": "turhanb"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 698,
+            "following_count": 109,
+            "tweet_count": 1073,
+            "listed_count": 14
+        },
+        "protected": false,
+        "name": "Kevin McCurley",
+        "id": "9814572",
+        "description": "I no longer work at Google. This retirement stuff is fun.",
+        "username": "mccurley"
+    },
+    {
+        "location": "कुशीनगर उ.प्र.",
+        "public_metrics": {
+            "followers_count": 572,
+            "following_count": 971,
+            "tweet_count": 974,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "सभ्या कुमारी",
+        "id": "1273543886242230274",
+        "description": "इंसान बनिए",
+        "username": "TbijgtB0FkvOe96"
+    },
+    {
+        "location": "Leuven, Belgium.",
+        "public_metrics": {
+            "followers_count": 112,
+            "following_count": 286,
+            "tweet_count": 20,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Mahdi Sedaghat",
+        "id": "4176488297",
+        "description": "Cryptography PhD student at COSIC, @KU_Leuven.",
+        "username": "Mahdi_seda"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 196,
+            "following_count": 1003,
+            "tweet_count": 250,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Rakshit Naidu",
+        "id": "1019655692418940928",
+        "description": "MSIT-PE student @isrcmu | Research Engineer @OpenMinedorg | Interested in Federated Learning and Differential Privacy",
+        "username": "RakshitNaidu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 1113,
+            "tweet_count": 106,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "João L Ribeiro",
+        "id": "1219653242742886400",
+        "description": "Crypto/CS Theory postdoc @CSDatCMU",
+        "username": "joaomlribeiro"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 275,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Praveen Prabhu",
+        "id": "1209724718716080129",
+        "description": "",
+        "username": "praveenprabhu03"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 222,
+            "following_count": 483,
+            "tweet_count": 15,
+            "listed_count": 7
+        },
+        "protected": false,
+        "name": "Akira Takahashi",
+        "id": "793848383320403968",
+        "description": "PhD candidate at @AarhusCrypto. Broadly interested in crypto.",
+        "username": "akiratk0355"
+    },
+    {
+        "location": "Darmstadt, Germany",
+        "public_metrics": {
+            "followers_count": 475,
+            "following_count": 296,
+            "tweet_count": 73,
+            "listed_count": 12
+        },
+        "protected": false,
+        "name": "ENCRYPTO",
+        "id": "1141297172782206976",
+        "description": "Cryptography and Privacy Engineering Group @ TU Darmstadt",
+        "username": "ENCRYPTO_Group"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 77,
+            "following_count": 159,
+            "tweet_count": 30,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Navid Ghaedi Bardeh",
+        "id": "1118102723327614981",
+        "description": "Postdoc @ #NTNU, Norway.\nSymmetric cryptography",
+        "username": "NBardeh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 270,
+            "following_count": 1200,
+            "tweet_count": 642,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Somitra Sanadhya",
+        "id": "1346039034",
+        "description": "AssocProf, CSE@IIT-Jodhpur. Dabbling in Cryptography and Security. Chess lover. Views on social media are strictly personal.",
+        "username": "SomitraSanadhya"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 282,
+            "following_count": 1002,
+            "tweet_count": 233,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Nesrine Kaaniche",
+        "id": "3801615797",
+        "description": "Associate professor in Cybersecurity, interested in #privacy, #appliedcryptography, #proofs, #cloudsecurity, #IoTsecurity #emergingnetworks",
+        "username": "NKaaniche"
+    },
+    {
+        "location": "Boston",
+        "public_metrics": {
+            "followers_count": 824,
+            "following_count": 372,
+            "tweet_count": 968,
+            "listed_count": 21
+        },
+        "protected": false,
+        "name": "Shumo 🐳 🧬 🚀",
+        "id": "19451785",
+        "description": "cofounder @mantanetwork/ playing with bits @ucsbcs / @uwcse alumnus",
+        "username": "shumochu"
+    },
+    {
+        "location": "Trondheim, Norway",
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 306,
+            "tweet_count": 26,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Shuang Wu",
+        "id": "906841955149205504",
+        "description": "PhD student @NTNU \n\nBlockchain, Cryptography",
+        "username": "shineWu5"
+    },
+    {
+        "location": "Trondheim, Norway",
+        "public_metrics": {
+            "followers_count": 461,
+            "following_count": 589,
+            "tweet_count": 164,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "NTNU Applied Cryptology Lab",
+        "id": "1305473946960244737",
+        "description": "@NTNU Applied Cryptology Lab",
+        "username": "ntnucrypto"
+    },
+    {
+        "location": "Wurundjeri Country, Melbourne",
+        "public_metrics": {
+            "followers_count": 352,
+            "following_count": 1496,
+            "tweet_count": 6285,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "TacHead",
+        "id": "171736618",
+        "description": "Scouse Kidney Transplant recipient YNWA, kicking the river, no pasaran! if you follow me, I will follow you - Peter Gabriels a lying sod. Ha Ha charade you are.",
+        "username": "adi_dazzlers"
+    },
+    {
+        "location": "Aotearoa | New Zealand",
+        "public_metrics": {
+            "followers_count": 3421,
+            "following_count": 229,
+            "tweet_count": 415,
+            "listed_count": 95
+        },
+        "protected": false,
+        "name": "Samuel Dobson",
+        "id": "2819198815",
+        "description": "Bitcoin Core wallet maintainer @bitcoincoreorg — Cryptography PhD student @AucklandUni — Generously supported by @jlppfeffer — D300 116E 1C87 5A3D",
+        "username": "meshcollider"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 33,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Tran Thu Trang",
+        "id": "1069170556883238917",
+        "description": "",
+        "username": "TranThu21595348"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 410,
+            "tweet_count": 25,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "coderatwork7",
+        "id": "1300785621569622017",
+        "description": "GUITAR ❤️,\n\nNLP ENGINEER,\n\nPRIVACY PRESEVERVING ENTHUSIAST",
+        "username": "coderatwork7"
+    },
+    {
+        "location": "Trondheim, Norway",
+        "public_metrics": {
+            "followers_count": 300,
+            "following_count": 191,
+            "tweet_count": 150,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Jiaxin Pan",
+        "id": "862099459",
+        "description": "Cryptographer @NTNUnorway",
+        "username": "csplator"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 14,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "FARZIN TARINGOO",
+        "id": "1300715118599090176",
+        "description": "",
+        "username": "FTaringoo"
+    },
+    {
+        "location": "Oxford, England",
+        "public_metrics": {
+            "followers_count": 411,
+            "following_count": 475,
+            "tweet_count": 439,
+            "listed_count": 9
+        },
+        "protected": false,
+        "name": "Sam Jaques",
+        "id": "2911357718",
+        "description": "Quantum computing PhD student at the University of Oxford. Loves maths, maps, algorithms, and flashcards. Aspiring full-stack cryptographer. He/him.",
+        "username": "sejaques"
+    },
+    {
+        "location": "Beijing China",
+        "public_metrics": {
+            "followers_count": 147,
+            "following_count": 761,
+            "tweet_count": 67,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "陈隆 (Long Chen)",
+        "id": "861084515858489344",
+        "description": "Associate Professor at Institute of Software Chinese Academy of Sciences. Researcher of cryptography and blockchain.",
+        "username": "Jason_Chen_Long"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 106,
+            "following_count": 209,
+            "tweet_count": 351,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mohadeseh",
+        "id": "1299627494933491713",
+        "description": "",
+        "username": "Mohade3e_M"
+    },
+    {
+        "location": "Isfahan",
+        "public_metrics": {
+            "followers_count": 56,
+            "following_count": 66,
+            "tweet_count": 668,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Seyedhesamaldin Abtahi",
+        "id": "1292006628817088513",
+        "description": "Mechanical Eng.\nLive in Isfahan, Iran.",
+        "username": "hesamabtahi4"
+    },
+    {
+        "location": "Australia ",
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 60,
+            "tweet_count": 128,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Ali Nazarizadeh",
+        "id": "3343974917",
+        "description": "Doctor of veterinary medicine- PhD candidate",
+        "username": "ANazarizadeh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 109,
+            "tweet_count": 427,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Dr. Rashin Andayesh",
+        "id": "1293905804379086848",
+        "description": "Chemist🧪 PhD Student 📚 Researcher 📑 Reviewer 🧾",
+        "username": "RashinAndayesh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 258,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Thanh Do",
+        "id": "968890093174968321",
+        "description": "",
+        "username": "thanhmiti"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 72,
+            "following_count": 969,
+            "tweet_count": 1,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Valerio Cini",
+        "id": "3039875021",
+        "description": "PhD student in Cryptography at AIT @AITtomorrow2day and TU Wien @tuvienna",
+        "username": "cini_valerio"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 143,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Pouria Fallahpour",
+        "id": "1293975517155266560",
+        "description": "ENS Lyon TCS Graduate Student",
+        "username": "f_pouria"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 1195,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "t paiva",
+        "id": "459603096",
+        "description": "",
+        "username": "tabpaiva"
+    },
+    {
+        "location": "Pakistan",
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 208,
+            "tweet_count": 70,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Dr. Dawood Shah 🇵🇰",
+        "id": "2605286018",
+        "description": "",
+        "username": "dawoodshah254"
+    },
+    {
+        "location": "West Lafayette, IN",
+        "public_metrics": {
+            "followers_count": 121,
+            "following_count": 442,
+            "tweet_count": 110,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mohammad Hassan Ameri",
+        "id": "825455687769661440",
+        "description": "Computer Science Ph.D. student @PurdueCS,",
+        "username": "mhassanameri"
+    },
+    {
+        "location": "Oxford, England",
+        "public_metrics": {
+            "followers_count": 2994,
+            "following_count": 4989,
+            "tweet_count": 4167,
+            "listed_count": 90
+        },
+        "protected": false,
+        "name": "Matjaž Leonardis",
+        "id": "387631641",
+        "description": "Interested in learning and creativity. In both humans and machines.\n\n(Tweets about education, relationships, institutions, math and computation).",
+        "username": "MatjazLeonardis"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9438,
+            "following_count": 8317,
+            "tweet_count": 5924,
+            "listed_count": 126
+        },
+        "protected": false,
+        "name": "Behdad Esfahbod",
+        "id": "15402347",
+        "description": "I say what I see, and sometimes be stupid. In that order. On mission to eradicate suffering.\n\n@HarfBuzz. Fonts/text rendering eng. Ex @FB/Google/RedHat\n\n🌈🍄",
+        "username": "behdadesfahbod"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 28,
+            "following_count": 105,
+            "tweet_count": 59,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Atigallage",
+        "id": "1068683343720407041",
+        "description": "Human-Centred Computing | Blockchain | Digital Health | Usable Privacy & Security @monashinfotech",
+        "username": "atigallage"
+    },
+    {
+        "location": "Australia",
+        "public_metrics": {
+            "followers_count": 35626,
+            "following_count": 30650,
+            "tweet_count": 77039,
+            "listed_count": 751
+        },
+        "protected": false,
+        "name": "Women in STEMM Aust",
+        "id": "2154461958",
+        "description": "Volunteer-run, connecting all women in science, technology, engineering, math & medicine (STEMM) #girlsinSTEMM #womeninSTEMM Cofounders @startupshelley @MVEG001",
+        "username": "WomenSciAUST"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 504,
+            "following_count": 461,
+            "tweet_count": 488,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Abhinav Dhall",
+        "id": "38226810",
+        "description": "Senior Lecturer Monash University | Assistant Professor IIT Ropar",
+        "username": "abhinavdhall"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 1314,
+            "following_count": 527,
+            "tweet_count": 2371,
+            "listed_count": 31
+        },
+        "protected": false,
+        "name": "Dr Rashina Hoda",
+        "id": "42840584",
+        "description": "Voice of #Agile research | PhD | Associate Professor @MonashInfoTech | @Tedx Speaker | #SuperstarsofSTEM @ScienceAU | Grounded Theorist | Sketch Artist",
+        "username": "agileRashina"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 225,
+            "following_count": 288,
+            "tweet_count": 95,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "Amin Hassanzadeh",
+        "id": "53020713",
+        "description": "PhD in Computer Engineering,\nR&D Manager @AccentureLabs, \nUSSF C License Soccer Coach\n@ArlingtonSoccer and @VillarrealUSAVA",
+        "username": "AminHz"
+    },
+    {
+        "location": "Sydney, New South Wales",
+        "public_metrics": {
+            "followers_count": 10736,
+            "following_count": 8469,
+            "tweet_count": 11695,
+            "listed_count": 40
+        },
+        "protected": false,
+        "name": "Prof. Anna Paradowska",
+        "id": "934842466175401984",
+        "description": "👩‍🔬&👩🏻‍🏭building bridges between research & industry @ANSTO & @Sydney_Uni 🇦🇺. Mum & wife. 😍diving⛷🏄‍♀️ & life in general! Comments are my own. She/her",
+        "username": "AnnaParadowska1"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 1165,
+            "following_count": 883,
+            "tweet_count": 247,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Prof Xinhua Wu",
+        "id": "1278193306082480128",
+        "description": "Innovator | Researcher | Leader |Director | PVC Precinct Partnership @MonashUni🇦🇺Engineer with lifelong passion for materials & #AdditiveManufacturing She/her",
+        "username": "WuProf"
+    },
+    {
+        "location": "Toulouse, France",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 243,
+            "tweet_count": 32,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "JC Deneuville",
+        "id": "898161923514150913",
+        "description": "Associate Professor in Cryptography, Security, Computer Science",
+        "username": "Deneuville_JC"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 276,
+            "following_count": 139,
+            "tweet_count": 92,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Shirui Pan",
+        "id": "372056477",
+        "description": "ARC Future Fellow and Senior Lecturer @MonashUni, Australia. Researcher in Graph Machine Learning",
+        "username": "ShiruiPan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 300,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Laguill",
+        "id": "954284625349742593",
+        "description": "",
+        "username": "FabLaguill"
+    },
+    {
+        "location": "Australia",
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 154,
+            "tweet_count": 94,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Abraham Alvandi",
+        "id": "4143375013",
+        "description": "Dad&Husband|Researcher@Digital Health, Consumer Health Informatics, Cognitive Systems, Bayesian Networks| Interested in Philosophy of AI, History and Language",
+        "username": "AbrahamAlvandi"
+    },
+    {
+        "location": "London, England",
+        "public_metrics": {
+            "followers_count": 288,
+            "following_count": 158,
+            "tweet_count": 843,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Sheehan Olver",
+        "id": "16300867",
+        "description": "Mathematician at Imperial College. These are my personal views and not those of Imperial College London.",
+        "username": "dlfivefifty"
+    },
+    {
+        "location": "London",
+        "public_metrics": {
+            "followers_count": 40719,
+            "following_count": 38017,
+            "tweet_count": 28164,
+            "listed_count": 1268
+        },
+        "protected": false,
+        "name": "figshare",
+        "id": "224631899",
+        "description": "Get a DOI, citation counts and altmetrics for your data, code, preprints and more!  \n\n#OpenScience #OpenResearch #OpenAccess #OpenData #RDM #DataLibs #FAIRdata",
+        "username": "figshare"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 98,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Huy Quoc Le",
+        "id": "1271933052244029441",
+        "description": "Just a curious man",
+        "username": "huyquooclee"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 1476,
+            "following_count": 1016,
+            "tweet_count": 957,
+            "listed_count": 25
+        },
+        "protected": false,
+        "name": "Patrick Olivier",
+        "id": "96409243",
+        "description": "Director, Action Lab, Monash University. Research+Impact (trying). Design, digital, communities & social innovation. Essex man. West Ham & Melbourne Stars fan.",
+        "username": "patricklolivier"
+    },
+    {
+        "location": "Trondheim, Norway",
+        "public_metrics": {
+            "followers_count": 393,
+            "following_count": 1065,
+            "tweet_count": 649,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Tjerand Silde",
+        "id": "1005498619171147783",
+        "description": "PhD Student in Cryptography at @ntnucrypto. Main foci: PQ Cryptography, Zero-Knowledge Proofs, Multiparty Computation, Anonymous Tokens, E-Voting, Passwords.",
+        "username": "TjerandSilde"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 92,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mike Smith",
+        "id": "1265122620242001920",
+        "description": "Hard Work... Easy Win",
+        "username": "MikeSmi52014499"
+    },
+    {
+        "location": "Woi Wurrung Country",
+        "public_metrics": {
+            "followers_count": 180,
+            "following_count": 92,
+            "tweet_count": 233,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "joannelhall",
+        "id": "843737026033664002",
+        "description": "Mathematician. Cybersecurity Lecturer @RMIT.  Editor of @wimsigAU newsletter.  Digital citizen living on Woi Wurung Country. She/her.",
+        "username": "DrJoanneHall"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 30,
+            "following_count": 547,
+            "tweet_count": 49,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "ruffus",
+        "id": "1250732228658814976",
+        "description": "",
+        "username": "ruffus75701667"
+    },
+    {
+        "location": "Sydney, Australia ",
+        "public_metrics": {
+            "followers_count": 9963,
+            "following_count": 8518,
+            "tweet_count": 4923,
+            "listed_count": 13
+        },
+        "protected": false,
+        "name": "Kourosh Kalantar-Zadeh",
+        "id": "1200870094231879681",
+        "description": "Prof at @UNSW\nAustralian Research Council @arc_gov_au Laureate Fellow\nLiquid metals, electronics, sensors, smart pills, gastroenterology. \nOpinions are my own",
+        "username": "K_KalantarZadeh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 28,
+            "following_count": 863,
+            "tweet_count": 715,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "jaredsconter",
+        "id": "1250729745442103296",
+        "description": "",
+        "username": "jaredsconter"
+    },
+    {
+        "location": "Door 34, Goods Shed, Docklands",
+        "public_metrics": {
+            "followers_count": 1101,
+            "following_count": 1871,
+            "tweet_count": 467,
+            "listed_count": 20
+        },
+        "protected": false,
+        "name": "Oceania Cyber Security Centre (OCSC)",
+        "id": "930215444492959744",
+        "description": "Advancing #cybersecurity capacity & #research. #tech #technology #dataprotection #projects #security & global partners with @capacityCentre @C3SA_UCT",
+        "username": "oceania_cyber"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 61,
+            "following_count": 898,
+            "tweet_count": 746,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "jason.lu",
+        "id": "1250685329314664448",
+        "description": "Fan of technology",
+        "username": "jasonlu59452857"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 583,
+            "tweet_count": 52,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Harry Bourreau",
+        "id": "1250315704403767302",
+        "description": "All this maple syrup made me round, but that's a price I'm willing to pay.",
+        "username": "BourreauHarry"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 531,
+            "following_count": 665,
+            "tweet_count": 303,
+            "listed_count": 7
+        },
+        "protected": false,
+        "name": "Li Li",
+        "id": "864851817154449408",
+        "description": "ARC DECRA Fellow and Senior Lecturer, Monash University\n#SoftwareEngineering #AndroidSecurity #MalwareAnalysis #AI4SE #SE4AI",
+        "username": "lilicoding"
+    },
+    {
+        "location": "Fukuoka",
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 78,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Dung Hoang Duong",
+        "id": "770078126642692100",
+        "description": "",
+        "username": "dhdung1309"
+    },
+    {
+        "location": "Naarm | Wurundjeri | Melbourne",
+        "public_metrics": {
+            "followers_count": 18115,
+            "following_count": 19493,
+            "tweet_count": 75576,
+            "listed_count": 517
+        },
+        "protected": false,
+        "name": "Dr Marguerite Evans-Galea AM",
+        "id": "427330274",
+        "description": "Scientist, Executive, NED | @_IMNIS Executive Director, @atse_au | Cofounder, @WomenSciAUST | Australasian Editor, @GeneTherapy_SN | Chair, @AuSickle | She/Her",
+        "username": "MVEG001"
+    },
+    {
+        "location": "Charlotte, NC",
+        "public_metrics": {
+            "followers_count": 186,
+            "following_count": 27,
+            "tweet_count": 71,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "yongge wang",
+        "id": "28994054",
+        "description": "Professor",
+        "username": "yonggewang"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 260,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "jinhui liu",
+        "id": "1242364458120491009",
+        "description": "",
+        "username": "jinhuiliu5"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 321,
+            "following_count": 1469,
+            "tweet_count": 51,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Amir Hossein Kargaran",
+        "id": "1162281708248395781",
+        "description": "{Student, Researcher, and Developer} @SharifSocial",
+        "username": "amircra"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 366,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Narpat suthar",
+        "id": "546738714",
+        "description": "",
+        "username": "narpatsuthar01"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 25,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Sajjad Shafiei",
+        "id": "1238073359201488900",
+        "description": "",
+        "username": "Sajjad46991893"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 1164,
+            "tweet_count": 12,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Runchao Han",
+        "id": "2176027206",
+        "description": "I do blockchain and crypto stuff. This account is read-only.",
+        "username": "runchao_han"
+    },
+    {
+        "location": "Nuova Delhi, India",
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 356,
+            "tweet_count": 23,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "AUQIB HAMID LONE",
+        "id": "3120206762",
+        "description": "Senior Research Fellow at NIT Srinagar Jammu and Kashmir. As part of my Research work I m exploring Blockchain Technology Applications  beyond Cryptocurrencies",
+        "username": "Auqib92"
+    },
+    {
+        "location": "London, England",
+        "public_metrics": {
+            "followers_count": 239,
+            "following_count": 195,
+            "tweet_count": 1140,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Kris K",
+        "id": "86788021",
+        "description": "Cryptography Developer",
+        "username": "_henrycase"
+    },
+    {
+        "location": "Auckland, New Zealand",
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 643,
+            "tweet_count": 466,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Zengpeng Li",
+        "id": "4199435772",
+        "description": "Tsingtao",
+        "username": "lizengpeng"
+    },
+    {
+        "location": "Adelaide, South Australia",
+        "public_metrics": {
+            "followers_count": 284,
+            "following_count": 794,
+            "tweet_count": 432,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Jason Xue",
+        "id": "2838141805",
+        "description": "Lecturer (a.k.a. Assistant Professor) at the University of Adelaide; Honorary Lecturer at Macquarie University",
+        "username": "jasonmhxue"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 454,
+            "tweet_count": 3344,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "AB",
+        "id": "813885765994369026",
+        "description": "Trying to do Cryptography/Math since ages!\n\n                                    \nBackend Engineer @graphicweave",
+        "username": "aaqibb13"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 118,
+            "following_count": 129,
+            "tweet_count": 32,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Madalina Bolboceanu",
+        "id": "3320785582",
+        "description": "Cryptography Researcher at https://t.co/GSjoRnUqKB",
+        "username": "molbozaur"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 94,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Mojtaba",
+        "id": "1194179633555673088",
+        "description": "Cryptography researcher.",
+        "username": "Mojtaba34962683"
+    },
+    {
+        "location": "Connecticut, USA",
+        "public_metrics": {
+            "followers_count": 223,
+            "following_count": 216,
+            "tweet_count": 4023,
+            "listed_count": 6
+        },
+        "protected": false,
+        "name": "Maryam",
+        "id": "169636063",
+        "description": "Permanent CS Student, Crypto(graphy of course!) focused. Tweets in English, Persian, and any other language that I am able to communicate by.",
+        "username": "_Marytyl_"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 415,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "100PointCyberCheck",
+        "id": "1218698550785110017",
+        "description": "Founded by Dr Paul Watters, the 100 Point Cyber Check helps businesses identify their most important cyber risks. See https://t.co/VnxSY7VhlW for info.",
+        "username": "100_cyber"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 187,
+            "following_count": 868,
+            "tweet_count": 813,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "A. M ||🐂||",
+        "id": "208188858",
+        "description": "Crypto.",
+        "username": "albeeert26"
+    },
+    {
+        "location": "Basel, Switzerland",
+        "public_metrics": {
+            "followers_count": 4948,
+            "following_count": 1285,
+            "tweet_count": 12964,
+            "listed_count": 140
+        },
+        "protected": false,
+        "name": "asanso.eth 🦇🔊",
+        "id": "23515941",
+        "description": "Father, Researcher @ethereum, ex-Security @Adobe, Phd student @ruhrunibochum, #cryptography addicted,, in elliptic we trust. opinions are my own",
+        "username": "asanso"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 76,
+            "following_count": 164,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Erfan",
+        "id": "938466365568176130",
+        "description": "asadi._e",
+        "username": "maruoasadi_ma9"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 4146,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Blank",
+        "id": "786990644237635584",
+        "description": "A guy just  to learn how the world works.",
+        "username": "Spectrelovesyou"
+    },
+    {
+        "location": "首都圏内",
+        "public_metrics": {
+            "followers_count": 485,
+            "following_count": 191,
+            "tweet_count": 371,
+            "listed_count": 9
+        },
+        "protected": false,
+        "name": "M. Tibouchi",
+        "id": "441657570",
+        "description": "French cryptographer in Japan.",
+        "username": "mtibouchi"
+    },
+    {
+        "location": "Islamic Republic of Iran",
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 339,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Kiarash Bakhtiar",
+        "id": "49050182",
+        "description": "",
+        "username": "KiarashBakhtiar"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 1535,
+            "following_count": 183,
+            "tweet_count": 1825,
+            "listed_count": 28
+        },
+        "protected": false,
+        "name": "jon whittle",
+        "id": "49655082",
+        "description": "Director @CSIRO's Data61. Global expert, #SoftwareEngineering #HCI #DataScience #AI #AIforGood Science with Impact",
+        "username": "Jon_Whittle_"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 936,
+            "following_count": 1027,
+            "tweet_count": 2138,
+            "listed_count": 35
+        },
+        "protected": false,
+        "name": "Dr. \"Kla\" Chakkrit Tantithamthavorn",
+        "id": "17085813",
+        "description": "Voice/Lead of #MonashSE group | #ARC #DECRA Awardee | Senior Lecturer @MonashInfoTech | #AIBugHunter | #DefectPrediction | #XAI4SE Book (https://t.co/vf51u5o1ZT)",
+        "username": "klainfo"
+    },
+    {
+        "location": "Rennes, France",
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 69,
+            "tweet_count": 83,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Katharina Boudgoust",
+        "id": "816222121",
+        "description": "PhD student in cryptography within @EMSEC35\nFeminist",
+        "username": "KBoudgoust"
+    },
+    {
+        "location": "Australia",
+        "public_metrics": {
+            "followers_count": 100,
+            "following_count": 206,
+            "tweet_count": 14,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Muhammad Aamir Cheema",
+        "id": "52962941",
+        "description": "Associate Professor, Director of Research at the Department of Software Systems and Cybersecurity Faculty of #IT @MonashInfotech @MonashUni",
+        "username": "cheema154"
+    },
+    {
+        "location": "Norfolk, VA",
+        "public_metrics": {
+            "followers_count": 43,
+            "following_count": 145,
+            "tweet_count": 64,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Tran VietXuan Phuong",
+        "id": "2510011338",
+        "description": "Cryptographer/ Research Assistant Professor at Old Dominion University",
+        "username": "tran111phuong"
+    },
+    {
+        "location": "Doha, Qatar",
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 110,
+            "tweet_count": 25,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Behnam Hashemi",
+        "id": "3187846659",
+        "description": "",
+        "username": "HashemiBehnam"
+    },
+    {
+        "location": "Bochum, Germany",
+        "public_metrics": {
+            "followers_count": 117,
+            "following_count": 130,
+            "tweet_count": 33,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Behzad Abdolmaleki",
+        "id": "1126811953106771968",
+        "description": "Cryptography Researcher at Max Planck Institute for Security and Privacy.",
+        "username": "BehzadAbdolmal1"
+    },
+    {
+        "location": "Bochum, Germany",
+        "public_metrics": {
+            "followers_count": 2678,
+            "following_count": 583,
+            "tweet_count": 2411,
+            "listed_count": 24
+        },
+        "protected": false,
+        "name": "Marcel Böhme",
+        "id": "1092204964632383488",
+        "description": "Foundations of Software Security @maxplanckpress (MPI-SP), PhD @NUSComputing, Dipl.-Inf. @TUDresden_de",
+        "username": "mboehme_"
+    },
+    {
+        "location": "Zurigo, Svizzera",
+        "public_metrics": {
+            "followers_count": 699,
+            "following_count": 181,
+            "tweet_count": 381,
+            "listed_count": 20
+        },
+        "protected": false,
+        "name": "Jonathan Bootle",
+        "id": "1052174362315509760",
+        "description": "Researcher at IBM Research, Zurich. Interested in zero-knowledge proofs and post-quantum cryptography. Any opinions given are entirely my own!",
+        "username": "BootleJonathan"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 132,
+            "following_count": 261,
+            "tweet_count": 139,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "LeiminTian",
+        "id": "932581555826057223",
+        "description": "a Robopsychologist under training",
+        "username": "LeiminTian"
+    },
+    {
+        "location": "Melbourne, VIC",
+        "public_metrics": {
+            "followers_count": 9112,
+            "following_count": 220,
+            "tweet_count": 3555,
+            "listed_count": 30
+        },
+        "protected": true,
+        "name": "好餓啊",
+        "id": "249688106",
+        "description": "打不过就跑",
+        "username": "zCMtK9LLCx9"
+    },
+    {
+        "location": "San Jose, CA",
+        "public_metrics": {
+            "followers_count": 94,
+            "following_count": 198,
+            "tweet_count": 50,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "IEEE HOST Symposium",
+        "id": "1137832911883759616",
+        "description": "IEEE International Symposium on Hardware-Oriented Security and Trust",
+        "username": "HostIeee"
+    },
+    {
+        "location": "Washington DC",
+        "public_metrics": {
+            "followers_count": 708,
+            "following_count": 2271,
+            "tweet_count": 1124,
+            "listed_count": 28
+        },
+        "protected": false,
+        "name": "ICMC",
+        "id": "1553856169",
+        "description": "The 9th International Cryptographic Module Conference. ICMC21, Sep 1-3, Bethesda, MD. The leading annual event for global expertise in commercial cryptography.",
+        "username": "CryptoModConf"
+    },
+    {
+        "location": "Brussels, Belgium",
+        "public_metrics": {
+            "followers_count": 236,
+            "following_count": 490,
+            "tweet_count": 205,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "EU Cybersecurity Act Conference",
+        "id": "1104465057407291392",
+        "description": "Leading conference for the global standards community. Prepare for a new, independent European body of cybersecurity regulation. 8-9 March 2022",
+        "username": "EUCyberAct"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3189,
+            "following_count": 1897,
+            "tweet_count": 8669,
+            "listed_count": 103
+        },
+        "protected": false,
+        "name": "Noah Stephens-Davidowitz",
+        "id": "22216766",
+        "description": "Nerd, computer scientist (CV, papers: https://t.co/2BLYpi8bTR), Cornell CS prof. I spend a lot of time thinking about lattices and sometimes other things.",
+        "username": "NoahSD"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 66,
+            "tweet_count": 51,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "shabnam K",
+        "id": "992354247659307008",
+        "description": "Interested in Cryptography, Cyber security, and  Searchable encryption",
+        "username": "ShabKasra"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 467,
+            "following_count": 620,
+            "tweet_count": 281,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "Reza Haffari",
+        "id": "133971296",
+        "description": "NLP/ML. Assoc/Prof. Dad. Husband.",
+        "username": "haffari"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 32,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "yfff0810",
+        "id": "1141385718645719041",
+        "description": "",
+        "username": "yfff0810"
+    },
+    {
+        "location": "Jodhpur, Rajasthan, India🇮🇳",
+        "public_metrics": {
+            "followers_count": 25,
+            "following_count": 420,
+            "tweet_count": 294,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Simran Malaram",
+        "id": "1146345640596688896",
+        "description": "Assistant Professor | Cryptography & Network Security Researcher | Nature lover |Views personal, RT not endorsement.",
+        "username": "GwalaSimran"
+    },
+    {
+        "location": "Promissão/Bauru/São Paulo, SP",
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 1796,
+            "tweet_count": 1470,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Cleber Okida",
+        "id": "27256216",
+        "description": "Sometimes a computer scientist, sometimes mathematician. But most often finder of books, new bands and new music. 🐷",
+        "username": "cleberok"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 66,
+            "following_count": 542,
+            "tweet_count": 264,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Go with the gradient flow",
+        "id": "796803144642535424",
+        "description": "",
+        "username": "MaliciousNoise"
+    },
+    {
+        "location": "Basel, Switzerland",
+        "public_metrics": {
+            "followers_count": 2002,
+            "following_count": 1715,
+            "tweet_count": 3511,
+            "listed_count": 42
+        },
+        "protected": false,
+        "name": "Entropy MDPI",
+        "id": "3583182615",
+        "description": "Entropy (ISSN 1099-4300; IF=2.524) is an international and interdisciplinary open access journal of entropy and information studies.",
+        "username": "Entropy_MDPI"
+    },
+    {
+        "location": "London, UK",
+        "public_metrics": {
+            "followers_count": 527,
+            "following_count": 703,
+            "tweet_count": 235,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Deniz Gunduz",
+        "id": "761109404",
+        "description": "Professor of Information Processing at Imperial College London. Wireless communications, information theory, machine learning.",
+        "username": "DenizGunduz1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 226,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "ابو حويل العزازي",
+        "id": "1139130288863350784",
+        "description": "ابو حويل العزازي",
+        "username": "gvbtHK0sae8ZOgz"
+    },
+    {
+        "location": "Providence, RI",
+        "public_metrics": {
+            "followers_count": 5128,
+            "following_count": 3832,
+            "tweet_count": 1986,
+            "listed_count": 118
+        },
+        "protected": false,
+        "name": "ICERM",
+        "id": "262210345",
+        "description": "The Institute for Computational and Experimental Research in Mathematics (ICERM) supports and broadens the relationship between mathematics and computation.",
+        "username": "ICERM"
+    },
+    {
+        "location": "melbourne",
+        "public_metrics": {
+            "followers_count": 339,
+            "following_count": 387,
+            "tweet_count": 10195,
+            "listed_count": 6
+        },
+        "protected": false,
+        "name": "matt butler",
+        "id": "22453123",
+        "description": "inclusive technologies researcher, deputy dean (education), raucous music lover, japanese kit kat aficionado",
+        "username": "muttler"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 47,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mojtaba",
+        "id": "1074027698153029632",
+        "description": "",
+        "username": "Mojtaba26395792"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 10,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "sherry saeidi",
+        "id": "1069241569281138688",
+        "description": "",
+        "username": "SaeidiSherry"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2921,
+            "following_count": 1507,
+            "tweet_count": 864,
+            "listed_count": 23
+        },
+        "protected": false,
+        "name": "Amin Karbasi",
+        "id": "1878909680",
+        "description": "Associate Professor of Electrical Engineering, of Computer Science, and of Statistics & Data Science at Yale University",
+        "username": "aminkarbasi"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 164,
+            "following_count": 174,
+            "tweet_count": 53,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Reza Razzaghi",
+        "id": "1009295763375992833",
+        "description": "Smart Energy Systems, Renewable Energy, Lecturer @MonashUni",
+        "username": "R_Razzaghi"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 142,
+            "following_count": 141,
+            "tweet_count": 128,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Jiangshan Yu",
+        "id": "211675042",
+        "description": "Senior Lecturer, DECRA Fellow, and Research Director@Monash Blockchain Technology Centre, Monash University, Australia.",
+        "username": "JiangshanYu"
+    },
+    {
+        "location": "München, Bayern",
+        "public_metrics": {
+            "followers_count": 7408,
+            "following_count": 4900,
+            "tweet_count": 64,
+            "listed_count": 114
+        },
+        "protected": false,
+        "name": "Christian Essling",
+        "id": "705018829513084928",
+        "description": "Vice President Analytics & Data Science @ E.ON, President @ Munich Datageeks, and Data Evangelist with a passion for #digitalization and #artificialintelligence",
+        "username": "chrisessling"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 4592,
+            "following_count": 3839,
+            "tweet_count": 760,
+            "listed_count": 6
+        },
+        "protected": false,
+        "name": "Andrew",
+        "id": "1221461094",
+        "description": "COO of HyperCash. Fascinated about all things blockchain and how new and emerging technologies can interact with the real world. A love for learning.",
+        "username": "Hypercashtech"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 203,
+            "following_count": 1032,
+            "tweet_count": 373,
+            "listed_count": 7
+        },
+        "protected": true,
+        "name": "Ben",
+        "id": "4268836967",
+        "description": "Research at @zama_fhe. Interested in #crypto(graphy) and #privacy.",
+        "username": "bencrts"
+    },
+    {
+        "location": "Melbourne VIC Australia ",
+        "public_metrics": {
+            "followers_count": 3569,
+            "following_count": 4203,
+            "tweet_count": 1201,
+            "listed_count": 6
+        },
+        "protected": false,
+        "name": "Adam Geri CEO Hcash",
+        "id": "1097682883320279040",
+        "description": "CEO of Hcash, passionate about cryptocurrency, the development of Blockchain technology and the use of it to solve real word issues",
+        "username": "AHcash"
+    },
+    {
+        "location": "Grenoble 🏔🐬",
+        "public_metrics": {
+            "followers_count": 328,
+            "following_count": 151,
+            "tweet_count": 9187,
+            "listed_count": 9
+        },
+        "protected": false,
+        "name": "Pierre K.",
+        "id": "168586437",
+        "description": "Sangle bleue, très solide au milieu du couloir de neige, idéale pour un relais ∙ MCF en informathématique dans un établissement expérimental",
+        "username": "shab0y"
+    },
+    {
+        "location": "#Melbourne, Wurundjeri Country",
+        "public_metrics": {
+            "followers_count": 825,
+            "following_count": 1037,
+            "tweet_count": 9,
+            "listed_count": 27
+        },
+        "protected": false,
+        "name": "François Petitjean",
+        "id": "1735163995",
+        "description": "Data Science for Environmental and Social Good - Pro-feminist - he/him",
+        "username": "LeDataMiner"
+    },
+    {
+        "location": "Cork, Ireland",
+        "public_metrics": {
+            "followers_count": 84,
+            "following_count": 441,
+            "tweet_count": 124,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Apurva K Vangujar",
+        "id": "2449685661",
+        "description": "PhD ADVANCE student @UCC @advancecrt ,Master by research @mmumalaysia, Cryptography",
+        "username": "vapurva11"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 2924,
+            "following_count": 935,
+            "tweet_count": 8610,
+            "listed_count": 128
+        },
+        "protected": false,
+        "name": "Monash University Library",
+        "id": "234958320",
+        "description": "Monash University Library is one of Australia's leading academic libraries.",
+        "username": "monashunilib"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 90,
+            "tweet_count": 1,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Hamidreza Khoshakhlagh",
+        "id": "1096214067679760384",
+        "description": "Cryptography and privacy researcher, PhD student at @AarhusCrypto",
+        "username": "hamidreza_89"
+    },
+    {
+        "location": "Switzerland",
+        "public_metrics": {
+            "followers_count": 3019,
+            "following_count": 2039,
+            "tweet_count": 7834,
+            "listed_count": 144
+        },
+        "protected": false,
+        "name": "Pascal Junod",
+        "id": "163513930",
+        "description": "cryptographer - certified nerd god - ex-@snap - has-been professor & startup co-founder - trail runner - kayaker - aidjolat - import twitter from disclaimer",
+        "username": "cryptopathe"
+    },
+    {
+        "location": "Australia, Singapore, India",
+        "public_metrics": {
+            "followers_count": 1191,
+            "following_count": 2123,
+            "tweet_count": 149,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Phenix Telehealth",
+        "id": "3489136993",
+        "description": "Phenix Health a #telemedicine #MedTech company offering #agedcare #homecare #NDIS #Software & #IOT 24/7/365 GP & Allied Health Video Consults. World Wide",
+        "username": "phenixhealth"
+    },
+    {
+        "location": "Providence, RI",
+        "public_metrics": {
+            "followers_count": 3993,
+            "following_count": 1043,
+            "tweet_count": 2586,
+            "listed_count": 136
+        },
+        "protected": false,
+        "name": "Seny Kamara",
+        "id": "49456242",
+        "description": "Associate Professor @BrownUniversity | Chief Scientist @ Aroki Systems | Ex @MSFTResearch | Cryptography & Algorithms for the People @ https://t.co/x33b8fTaEa",
+        "username": "senykam"
+    },
+    {
+        "location": "Amsterdam, The Netherlands",
+        "public_metrics": {
+            "followers_count": 1510,
+            "following_count": 513,
+            "tweet_count": 1430,
+            "listed_count": 26
+        },
+        "protected": false,
+        "name": "Léo Ducas",
+        "id": "1325571660",
+        "description": "Cryptographer & Cryptanalyst. Tenured researcher at Centrum Wiskunde & Informatica.",
+        "username": "DucasLeo"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 1312,
+            "following_count": 500,
+            "tweet_count": 852,
+            "listed_count": 15
+        },
+        "protected": false,
+        "name": "MUARC",
+        "id": "696829734953492484",
+        "description": "The Monash University Accident Research Centre (MUARC) is a research institute in the injury prevention field.",
+        "username": "MUARCresearch"
+    },
+    {
+        "location": "Tehran",
+        "public_metrics": {
+            "followers_count": 44,
+            "following_count": 119,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mehdi Ghatee",
+        "id": "1083005871922315267",
+        "description": "I am an associate professor with the Department of Computer Science of the Amirkabir University of Technology.",
+        "username": "GhateeMehdi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 1353,
+            "tweet_count": 38,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Dinh_Ton",
+        "id": "4847554389",
+        "description": "",
+        "username": "Dinh_Ton_That"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 103,
+            "following_count": 437,
+            "tweet_count": 115,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Jonas Schneider-Bensch",
+        "id": "1674565730",
+        "description": "💥 Cryptography ⁉️\nPhD Candidate @CISPA (he/him)",
+        "username": "jonschben"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 298,
+            "following_count": 229,
+            "tweet_count": 3980,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Vahid",
+        "id": "211830583",
+        "description": "من از آن روز که در بند توام جیش دارم",
+        "username": "Gerduo"
+    },
+    {
+        "location": "Vienna, Austria",
+        "public_metrics": {
+            "followers_count": 268,
+            "following_count": 680,
+            "tweet_count": 250,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Christoph Striecks",
+        "id": "37893815",
+        "description": "Researcher in cryptography; particularly, secure communication, access control, & computation | AIT Austrian Institute of Technology, PhD @KITKarlsruhe",
+        "username": "CStriecks"
+    },
+    {
+        "location": "Republic of the Philippines",
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 297,
+            "tweet_count": 174,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Welyelf Hisula",
+        "id": "533957036",
+        "description": "Be careful when you are fixing a bug, maybe you are creating another 10. 🐞",
+        "username": "WHisula"
+    },
+    {
+        "location": "Ucraina",
+        "public_metrics": {
+            "followers_count": 162,
+            "following_count": 768,
+            "tweet_count": 1129,
+            "listed_count": 6
+        },
+        "protected": false,
+        "name": "Denys Kravchenko",
+        "id": "368803377",
+        "description": "",
+        "username": "DenysKravchenko"
+    },
+    {
+        "location": "Saarbrücken, Germany",
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 130,
+            "tweet_count": 90,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Dipayan Das",
+        "id": "979810703660871680",
+        "description": "Cryptographer\nPostDoc @cispa",
+        "username": "Dipayan90381"
+    },
+    {
+        "location": "ECU/NL/PT",
+        "public_metrics": {
+            "followers_count": 3912,
+            "following_count": 4158,
+            "tweet_count": 14711,
+            "listed_count": 127
+        },
+        "protected": false,
+        "name": "sofía celi",
+        "id": "197319044",
+        "description": "Proud LatinAmerican. Likes quantum stuff. Cryptographer @cloudflare Opinions are my own and not the views of my employer @otr_im @LondonU",
+        "username": "claucece"
+    },
+    {
+        "location": "Canberra, Australian Capital Territory",
+        "public_metrics": {
+            "followers_count": 1180,
+            "following_count": 2104,
+            "tweet_count": 3336,
+            "listed_count": 24
+        },
+        "protected": false,
+        "name": "Robert Wellington",
+        "id": "3576506054",
+        "description": "Art historian, faculty, @ourANU. Fellow of @SocAntiquaries. Louis XIV, ancien régime, digital art history, material culture, medals, prints. 🏳️‍🌈",
+        "username": "drrwellington"
+    },
+    {
+        "location": "Islamic Republic of Iran",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 15,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "SepehrHsn",
+        "id": "994609157440499712",
+        "description": "",
+        "username": "Sepehr71010477"
+    },
+    {
+        "location": "London, Melbourne & Zaragoza",
+        "public_metrics": {
+            "followers_count": 1882,
+            "following_count": 1719,
+            "tweet_count": 3397,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Simon Colton",
+        "id": "880890073352458241",
+        "description": "Prof of AI & Computational Creativity, QMUL & Monash Unis. Known for The Painting Fool #GenerativeArt #NFTs #CreativeAI #AI #HicEtNunc: https://t.co/l3Xt1YYmnZ",
+        "username": "SimonGColton"
+    },
+    {
+        "location": "San Francisco, CA",
+        "public_metrics": {
+            "followers_count": 5798,
+            "following_count": 1725,
+            "tweet_count": 18484,
+            "listed_count": 196
+        },
+        "protected": false,
+        "name": "David Wong",
+        "id": "320135470",
+        "description": "#creator #gamer #pastafarian / #crypto eng Mina @o1_labs / #author Real-World Cryptography / ex #security lead Diem≋ @Facebook / ex Cryptoservices @NCCGroup",
+        "username": "cryptodavidw"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1141,
+            "following_count": 3117,
+            "tweet_count": 413,
+            "listed_count": 7
+        },
+        "protected": false,
+        "name": "myCryptoWallet",
+        "id": "878435742225059840",
+        "description": "Instantly Trade, Spend & Track Bitcoin, Ethereum, Litecoin, Ripple & Power Ledger.",
+        "username": "mycryptowallet"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 34,
+            "following_count": 30,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Chitchanok",
+        "id": "114090796",
+        "description": "",
+        "username": "BeingJade"
+    },
+    {
+        "location": "karnal, India",
+        "public_metrics": {
+            "followers_count": 34,
+            "following_count": 248,
+            "tweet_count": 22,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "VIVEK",
+        "id": "3813988945",
+        "description": "Working in Post Quantum Cryptography",
+        "username": "vivekdabra091"
+    },
+    {
+        "location": "Seattle, WA",
+        "public_metrics": {
+            "followers_count": 687,
+            "following_count": 4931,
+            "tweet_count": 1134,
+            "listed_count": 5
+        },
+        "protected": false,
+        "name": "Alex Weibel",
+        "id": "279028976",
+        "description": "Sr. Software Engineer @AWS Cryptography, s2n Maintainer. Working on TLS, (Post Quantum) Crypto, Open Source, Security, Fuzzing, and FIPS. Views are my own. #BLM",
+        "username": "alex_weibel"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 13675,
+            "following_count": 82,
+            "tweet_count": 903,
+            "listed_count": 329
+        },
+        "protected": false,
+        "name": "HyperCash",
+        "id": "877078771366453248",
+        "description": "HyperCash: A New Standard of Value! Telegram Channel: 💻https://t.co/tib7Li8KM7…🇬🇧 ⬅️",
+        "username": "HcashOfficial"
+    },
+    {
+        "location": "Brasil",
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 254,
+            "tweet_count": 397,
+            "listed_count": 1
+        },
+        "protected": true,
+        "name": "Bruno Trevizan",
+        "id": "19303995",
+        "description": "Mestre em Ciências, pesquisador interessado em redes de dispositivos móveis e segurança.",
+        "username": "trevizan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 177,
+            "tweet_count": 42,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Rouzbehnia",
+        "id": "1044052543460929536",
+        "description": "",
+        "username": "Rouzbehnia1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 93,
+            "following_count": 1182,
+            "tweet_count": 84,
+            "listed_count": 7
+        },
+        "protected": false,
+        "name": "AntoineR",
+        "id": "866263416306094080",
+        "description": "",
+        "username": "itranneo"
+    },
+    {
+        "location": "Perth",
+        "public_metrics": {
+            "followers_count": 6032,
+            "following_count": 3900,
+            "tweet_count": 8696,
+            "listed_count": 159
+        },
+        "protected": false,
+        "name": "Brett Winterford",
+        "id": "21064447",
+        "description": "InfoSec, mostly. Founding (former) editor of SRSLY RISKY BIZ newsletter.",
+        "username": "breditor"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 817,
+            "following_count": 1610,
+            "tweet_count": 90,
+            "listed_count": 10
+        },
+        "protected": false,
+        "name": "The Keccak Team",
+        "id": "3400576198",
+        "description": "",
+        "username": "KeccakTeam"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 14502,
+            "following_count": 15603,
+            "tweet_count": 19552,
+            "listed_count": 75
+        },
+        "protected": false,
+        "name": "Scott Hamilton",
+        "id": "806977457567846400",
+        "description": "Author, researcher & policy advisor: Renewable Energy | Water | Green H₂ | Green Ammonia & Metals | Climate Change | Politics #bipartisanship #SoldDownTheRiver",
+        "username": "SDHamiltonVIC"
+    },
+    {
+        "location": "Birmingham, England",
+        "public_metrics": {
+            "followers_count": 45,
+            "following_count": 182,
+            "tweet_count": 22,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Zahraa Abdallah",
+        "id": "3315092868",
+        "description": "Lecturer in #data_analytics and #machine_learning, Birmingham City University",
+        "username": "ZsAbdallah"
+    },
+    {
+        "location": "London, UK",
+        "public_metrics": {
+            "followers_count": 508,
+            "following_count": 460,
+            "tweet_count": 2802,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "Dr Rachel Player",
+        "id": "51494129",
+        "description": "Lecturer @ISGnews. Alumna of @RoyalHolloway, @warwickuni and @EatonBank she/her",
+        "username": "yayworthy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 730,
+            "tweet_count": 26,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Paul Reilly",
+        "id": "1020947996",
+        "description": "Amateur mathematician",
+        "username": "PaulRei74142759"
+    },
+    {
+        "location": "Facebook, Menlo Park",
+        "public_metrics": {
+            "followers_count": 950,
+            "following_count": 771,
+            "tweet_count": 536,
+            "listed_count": 22
+        },
+        "protected": false,
+        "name": "Payman",
+        "id": "502257610",
+        "description": "Interested in cryptography, privacy and security; support a team of engineers/researchers build privacy preserving tech (Hiring!)",
+        "username": "PMohassel"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 137,
+            "following_count": 427,
+            "tweet_count": 1209,
+            "listed_count": 7
+        },
+        "protected": false,
+        "name": "Ludovic Perret",
+        "id": "580137823",
+        "description": "",
+        "username": "ludovic_perret"
+    },
+    {
+        "location": "Aarhus, Denmark",
+        "public_metrics": {
+            "followers_count": 302,
+            "following_count": 1333,
+            "tweet_count": 1871,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "Bernardo Magri",
+        "id": "190478731",
+        "description": "Researcher in Cryptography at Aarhus University 🇩🇰. \n\nIncoming faculty at @officialUoM 🇬🇧.\n\nViews expressed here are my own!",
+        "username": "bemagri"
+    },
+    {
+        "location": "Bay Area, CA & Research Triangle, NC",
+        "public_metrics": {
+            "followers_count": 104193,
+            "following_count": 81833,
+            "tweet_count": 3624,
+            "listed_count": 1136
+        },
+        "protected": false,
+        "name": "Mike Rucker, PhD",
+        "id": "47865477",
+        "description": "#Author & #PhD working on book about the #science of #fun. #DigitalHealth #entrepreneur, Dir of #Product @ Active #HealthTech Lab. Join 200K 😂 having #morefun.",
+        "username": "performbetter"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1280,
+            "following_count": 1331,
+            "tweet_count": 3559,
+            "listed_count": 13
+        },
+        "protected": false,
+        "name": "Alliance for Digital health At Monash (ADAM)",
+        "id": "930963915667734529",
+        "description": "Official Twitter feed for ADAM - a multi-organizational alliance leading the role of Monash Uni and it’s partners in DH. Retweets / likes are NOT endorsement.",
+        "username": "monashdigital"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 244,
+            "following_count": 195,
+            "tweet_count": 274,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Aldeida Aleti",
+        "id": "2468369610",
+        "description": "she/her, earthian, lover of trees, cats and SBSE.",
+        "username": "AldeidaAleti"
+    },
+    {
+        "location": "Sunnyvale, CA",
+        "public_metrics": {
+            "followers_count": 320,
+            "following_count": 917,
+            "tweet_count": 1063,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Pratyay Mukherjee",
+        "id": "183940998",
+        "description": "Interested in society, environment, music, films, religion, phiosophy, politics, economics, history, physics and cryptography - not necessarily in that order.",
+        "username": "pratyay_algo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 84,
+            "following_count": 95,
+            "tweet_count": 16,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "pqczoo",
+        "id": "1020305482614009856",
+        "description": "The Twitter page for updates to https://t.co/l9txtMEqVY; the website for SCA, hardware, and microcontroller design results relevant to the NIST PQC standardisation process.",
+        "username": "pqczoo"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 732,
+            "following_count": 2545,
+            "tweet_count": 300,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Campfires & Science",
+        "id": "839364093580468224",
+        "description": "We run free 'Campfires and Science' events to support #CitizenScience. A project by the charity Science For All (@Scifall) Learn more at: https://t.co/eOx763DG24",
+        "username": "campfirescience"
+    },
+    {
+        "location": "Cagliari, Sardegna",
+        "public_metrics": {
+            "followers_count": 1704,
+            "following_count": 1664,
+            "tweet_count": 2151,
+            "listed_count": 60
+        },
+        "protected": false,
+        "name": "Battista Biggio",
+        "id": "4827995060",
+        "description": "Assistant Professor at University of Cagliari (Italy), Co-Founder of Pluribus One. #Security of #MachineLearning, #CyberSecurity & #ComputerVision",
+        "username": "biggiobattista"
+    },
+    {
+        "location": "Bordeaux, France",
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 335,
+            "tweet_count": 86,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Adel HAMDI",
+        "id": "181378176",
+        "description": "PhD. Cryptography.",
+        "username": "Adilouche"
+    },
+    {
+        "location": "London, UK",
+        "public_metrics": {
+            "followers_count": 628,
+            "following_count": 1196,
+            "tweet_count": 1330,
+            "listed_count": 26
+        },
+        "protected": false,
+        "name": "Fabio Pierazzi",
+        "id": "594638877",
+        "description": "Lecturer (Assistant Professor) in Cybersecurity at King’s College London, UK. Collaborating with @S2Lab. Interested in ML and Sys Security. Opinions are my own.",
+        "username": "fbpierazzi"
+    },
+    {
+        "location": "Bangalore, India",
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 501,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Durga Prasad Sahoo",
+        "id": "939901819244785664",
+        "description": "Hardware Security Researcher at Bosch India, with PhD in Physically Unclonable Functions from IIT Kharagpur, India.",
+        "username": "dpsahooDr"
+    },
+    {
+        "location": "San Francisco, CA",
+        "public_metrics": {
+            "followers_count": 388,
+            "following_count": 1249,
+            "tweet_count": 143,
+            "listed_count": 3
+        },
+        "protected": true,
+        "name": "Armando Faz 🌵",
+        "id": "38819183",
+        "description": "Cryptography Engineer at Cloudflare Inc. &\nPhD Candidate at Unicamp",
+        "username": "armfazh"
+    },
+    {
+        "location": "Seoul, Korea",
+        "public_metrics": {
+            "followers_count": 2984,
+            "following_count": 2109,
+            "tweet_count": 17452,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Seungjoo Kim (김승주)",
+        "id": "48924547",
+        "description": "Professor of @CysecSchool at Korea Univ. / Adviser of CyKor (DEFCON CTF 2015 & 2018 Winner) / Black Hat Asia Review Board / (Former) Team Leader of KISA",
+        "username": "skim71"
+    },
+    {
+        "location": "Iran",
+        "public_metrics": {
+            "followers_count": 54,
+            "following_count": 260,
+            "tweet_count": 366,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Esmaeel Nemati",
+        "id": "3259596305",
+        "description": "",
+        "username": "Esmaeel_Nemati"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 1148,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Mahdi Zolfaghari",
+        "id": "886241831058636800",
+        "description": "",
+        "username": "m_zolfaghari_ir"
+    },
+    {
+        "location": "The Netherlands",
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 34,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Rahul Gupta",
+        "id": "246940003",
+        "description": "Business Development and Communications Trainee @PayatuBV",
+        "username": "rahulgupta056"
+    },
+    {
+        "location": "nyc",
+        "public_metrics": {
+            "followers_count": 3700,
+            "following_count": 999,
+            "tweet_count": 7685,
+            "listed_count": 71
+        },
+        "protected": false,
+        "name": "tux (they/them) 🏴🧨",
+        "id": "2847908558",
+        "description": "a queer insurrectionist building @entropydotxyz - post-left anarchist - former cryptographer @nucypher - they/them | cryptography w/ @femboy_capital",
+        "username": "__tux"
+    },
+    {
+        "location": "Eindhoven",
+        "public_metrics": {
+            "followers_count": 232,
+            "following_count": 333,
+            "tweet_count": 300,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Christine Cloostermans",
+        "id": "152952073",
+        "description": "cryptographer, movie buff, boardgame enthusiast. \n\nFka/publishing as: Christine van Vredendaal\nWebsite (not often updated): https://t.co/90ByDfMzle",
+        "username": "cvvrede"
+    },
+    {
+        "location": "Hamburg, Germany",
+        "public_metrics": {
+            "followers_count": 165,
+            "following_count": 465,
+            "tweet_count": 812,
+            "listed_count": 23
+        },
+        "protected": false,
+        "name": "Roya",
+        "id": "700298975639953408",
+        "description": "Empathic moderator, passionate about #Agile #Culture #DevOps #OrganizationHealth.",
+        "username": "fr_roya"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 6,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "ghaderi.meysam63@gmail.com",
+        "id": "1003221411815677952",
+        "description": "",
+        "username": "GhaderiMeysam63"
+    },
+    {
+        "location": "Terre Haute, IN",
+        "public_metrics": {
+            "followers_count": 220,
+            "following_count": 297,
+            "tweet_count": 282,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "The Mathematics of Secrets",
+        "id": "3364109920",
+        "description": "In his book The Mathematics of Secrets, Joshua Holden takes readers on a tour of the mathematics behind cryptography—the science of sending secret messages.",
+        "username": "MathOfSecrets"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 212,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "shahab kalantari",
+        "id": "1930271384",
+        "description": "",
+        "username": "shahabkalantari"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 77,
+            "following_count": 490,
+            "tweet_count": 365,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "dhir",
+        "id": "35234224",
+        "description": "Pobody's Nerfext",
+        "username": "dhirnc"
+    },
+    {
+        "location": "Waterloo, Ontario",
+        "public_metrics": {
+            "followers_count": 281,
+            "following_count": 291,
+            "tweet_count": 175,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "Sarah McCarthy",
+        "id": "988380845789601793",
+        "description": "Postdoctoral Researcher at @UWaterloo specialising in post-quantum lattice-based cryptography.",
+        "username": "crypto_mccarthy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 846,
+            "following_count": 4633,
+            "tweet_count": 10502,
+            "listed_count": 43
+        },
+        "protected": false,
+        "name": "Carlos",
+        "id": "16020552",
+        "description": "",
+        "username": "__CarlosLopez__"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 729,
+            "following_count": 559,
+            "tweet_count": 496,
+            "listed_count": 29
+        },
+        "protected": false,
+        "name": "Gareth T. Davies",
+        "id": "2318888070",
+        "description": "postdoc, cryptography | university of wuppertal | formerly paderborn, ntnu trondheim and bristol",
+        "username": "gareth_t_davies"
+    },
+    {
+        "location": "Rennes, France",
+        "public_metrics": {
+            "followers_count": 166,
+            "following_count": 127,
+            "tweet_count": 268,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "EMSEC",
+        "id": "3842557696",
+        "description": "",
+        "username": "EMSEC35"
+    },
+    {
+        "location": "四川, 中华人民共和国",
+        "public_metrics": {
+            "followers_count": 30,
+            "following_count": 345,
+            "tweet_count": 72,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Max",
+        "id": "928536606239211520",
+        "description": "黑哥本人",
+        "username": "MaxXiao168"
+    },
+    {
+        "location": "Melbourne and Brisbane",
+        "public_metrics": {
+            "followers_count": 260,
+            "following_count": 190,
+            "tweet_count": 209,
+            "listed_count": 10
+        },
+        "protected": false,
+        "name": "Internet Freedom Hack",
+        "id": "974478772589051904",
+        "description": "A community event that brings technologists with a passion for digital rights together for a weekend to build things that advance the cause of internet freedom.",
+        "username": "inetfreedomhack"
+    },
+    {
+        "location": "Canberra",
+        "public_metrics": {
+            "followers_count": 398,
+            "following_count": 1090,
+            "tweet_count": 935,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "Omid Fakhri",
+        "id": "267825443",
+        "description": "",
+        "username": "omid__fakhri"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 73,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Artmath",
+        "id": "946115583099195392",
+        "description": "",
+        "username": "Artmath1123"
+    },
+    {
+        "location": "Florida, USA",
+        "public_metrics": {
+            "followers_count": 26,
+            "following_count": 128,
+            "tweet_count": 128,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Tran Ngo",
+        "id": "871286022700621826",
+        "description": "PhD student, FAU",
+        "username": "tranNG0"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 81,
+            "following_count": 1186,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Jonessantamaria",
+        "id": "980170231707586560",
+        "description": "",
+        "username": "Jonessantamari4"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 386,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Chris Liu",
+        "id": "940316257240469506",
+        "description": "Math~Crypto",
+        "username": "mrliuxy7_liu"
+    },
+    {
+        "location": "Bengaluru, India",
+        "public_metrics": {
+            "followers_count": 160,
+            "following_count": 193,
+            "tweet_count": 1523,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Akash Suresh",
+        "id": "26183263",
+        "description": "Living the rat race | 93:20",
+        "username": "akash8"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 181,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Adi",
+        "id": "938939063582703616",
+        "description": "",
+        "username": "adithya056"
+    },
+    {
+        "location": "New York, NY",
+        "public_metrics": {
+            "followers_count": 1955,
+            "following_count": 642,
+            "tweet_count": 1072,
+            "listed_count": 43
+        },
+        "protected": false,
+        "name": "Tancrède Lepoint",
+        "id": "541114477",
+        "description": "Cryptographer @ Apple | ex-Googler | My opinions are my own | he/him",
+        "username": "Leptan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 683,
+            "following_count": 619,
+            "tweet_count": 3603,
+            "listed_count": 35
+        },
+        "protected": false,
+        "name": "xagawa",
+        "id": "25957500",
+        "description": "a cryptographer/暗号屋: 当然、呟いたことは所属を反映しません。",
+        "username": "xagawa"
+    },
+    {
+        "location": "Novosibirsk, Russia",
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 495,
+            "tweet_count": 19,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Master in Cryptography",
+        "id": "965237707474653185",
+        "description": "We welcome you to the first Master's degree programme «Master in Cryptography» in Russia from organizers of NSUCRYPTO competition!",
+        "username": "NSUcryptomaster"
+    },
+    {
+        "location": "Kingston, Rhode Island",
+        "public_metrics": {
+            "followers_count": 2807,
+            "following_count": 2238,
+            "tweet_count": 2734,
+            "listed_count": 30
+        },
+        "protected": false,
+        "name": "Marc Parlange",
+        "id": "2707873645",
+        "description": "President @UniversityofRI | Leading university transformation | Global expert, water resources | #Runner",
+        "username": "MarcParlange"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1187,
+            "following_count": 1302,
+            "tweet_count": 938,
+            "listed_count": 9
+        },
+        "protected": false,
+        "name": "Post Quantum Innovation Challenge",
+        "id": "948547982605025281",
+        "description": "In a world where realistic quantum computers are on the horizon, post-quantum messaging applications will be vital to keep private communications secure.",
+        "username": "PQIC2018"
+    },
+    {
+        "location": "England",
+        "public_metrics": {
+            "followers_count": 2989,
+            "following_count": 3460,
+            "tweet_count": 29446,
+            "listed_count": 72
+        },
+        "protected": false,
+        "name": "Dr. Sanjee Perera",
+        "id": "2343747193",
+        "description": "#CognitiveEcclesiologist, #AcademicfForager & Interdisciplinary pilgrim. Archbishops’ Adviser on MEAC @churchofengland. Appropriate disclaimers/views my own.",
+        "username": "SanjeePerera1"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 69,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Amin Heidari",
+        "id": "807109938770300928",
+        "description": "",
+        "username": "AminHeidar19"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 55,
+            "tweet_count": 4,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Navid Kafi",
+        "id": "1849497270",
+        "description": "",
+        "username": "navkafi"
+    },
+    {
+        "location": "Vienna, Austria",
+        "public_metrics": {
+            "followers_count": 499,
+            "following_count": 393,
+            "tweet_count": 807,
+            "listed_count": 12
+        },
+        "protected": false,
+        "name": "Daniel Slamanig",
+        "id": "818498870887976961",
+        "description": "Researcher in Cryptography at AIT Austrian Institute of Technology @AITtomorrow2day 👾 Sometimes a Lecturer at TU Wien @tuvienna 👾 prev TU Graz @tugraz",
+        "username": "drl3c7er"
+    },
+    {
+        "location": "Boca Raton, FL",
+        "public_metrics": {
+            "followers_count": 116,
+            "following_count": 127,
+            "tweet_count": 166,
+            "listed_count": 3
+        },
+        "protected": false,
+        "name": "PQSecure Tech",
+        "id": "858834403551830017",
+        "description": "We design and develop quantum-safe cryptographic solutions for embedded devices and IoTs",
+        "username": "pqsecure"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 135,
+            "following_count": 2532,
+            "tweet_count": 664,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "ijcisjournal",
+        "id": "771586768441188352",
+        "description": "International Journal on Cryptography and Information Security ( IJCIS)\nhttps://t.co/aF9IusXcVn\nhttps://t.co/jMAFkJZjYc…",
+        "username": "ijcisjournal1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 133,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mojtaba Barzehkar",
+        "id": "951021943834202114",
+        "description": "",
+        "username": "MBarzehkar"
+    },
+    {
+        "location": "Eindhoven, Nederland",
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 108,
+            "tweet_count": 247,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Sauvik Bhattacharya",
+        "id": "946412418804125696",
+        "description": "Researcher @PhilipsResearch. Views/thoughts/posts are my own.",
+        "username": "sauvik_b"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 36,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "John Marin",
+        "id": "890946525722853378",
+        "description": "",
+        "username": "jam_z1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 10,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "Roozbeh Kabiri",
+        "id": "171392846",
+        "description": "",
+        "username": "RoozKab"
+    },
+    {
+        "location": "Zurich, Switzerland",
+        "public_metrics": {
+            "followers_count": 5390,
+            "following_count": 1718,
+            "tweet_count": 4390,
+            "listed_count": 149
+        },
+        "protected": false,
+        "name": "kennyog",
+        "id": "14907468",
+        "description": "Professor of Computer Science at ETH Zurich. Views my own. Apparently in a semi-religious crypto/privacy cult. Join us! He/him.",
+        "username": "kennyog"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 175,
+            "following_count": 328,
+            "tweet_count": 101,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Khoa Nguyen",
+        "id": "269273443",
+        "description": "Cryptographer, Senior Lecturer at University of Wollongong, Australia",
+        "username": "khoantt"
+    },
+    {
+        "location": "Auckland, New Zealand",
+        "public_metrics": {
+            "followers_count": 3181,
+            "following_count": 109,
+            "tweet_count": 3870,
+            "listed_count": 52
+        },
+        "protected": false,
+        "name": "Steven Galbraith",
+        "id": "3312319747",
+        "description": "Mathematics of public key cryptography and some other things.",
+        "username": "EllipticKiwi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 136,
+            "following_count": 287,
+            "tweet_count": 24,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Miruna Rosca",
+        "id": "936891677289062401",
+        "description": "Cryptography researcher at @Bitdefender",
+        "username": "Miruna_Rosca"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 83,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "ramin",
+        "id": "933457481497497600",
+        "description": "",
+        "username": "ramin66310491"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 85,
+            "following_count": 249,
+            "tweet_count": 20,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Sara Alaei",
+        "id": "751413379315621888",
+        "description": "Epigenetics and developmental biology",
+        "username": "alaei_sara"
+    },
+    {
+        "location": "Wurundjeri land (Melbourne). ",
+        "public_metrics": {
+            "followers_count": 4712,
+            "following_count": 1080,
+            "tweet_count": 2182,
+            "listed_count": 89
+        },
+        "protected": false,
+        "name": "Vanessa Teague",
+        "id": "1223549755",
+        "description": "Cryptographer with a focus on privacy and election security\nCEO, Thinking Cybersecurity\nAssociate Prof (Adj.) @anucecs   \nSupporter of #MilkTeaAlliance\nShe/her",
+        "username": "VTeagueAus"
+    },
+    {
+        "location": "Zurich, Switzerland",
+        "public_metrics": {
+            "followers_count": 550,
+            "following_count": 374,
+            "tweet_count": 252,
+            "listed_count": 28
+        },
+        "protected": false,
+        "name": "David Derler ∞",
+        "id": "44969822",
+        "description": "Senior Researcher | @dfinity",
+        "username": "dderler"
+    },
+    {
+        "location": "Santa Cruz, CA",
+        "public_metrics": {
+            "followers_count": 2354,
+            "following_count": 959,
+            "tweet_count": 28264,
+            "listed_count": 67
+        },
+        "protected": false,
+        "name": "Pedro MoralesAlmazan",
+        "id": "32737038",
+        "description": "Full stack teacher. Day dreamer and night sleeper. Math in between. Math professor at UC Santa Cruz.  \n\nMi libro de poesía: https://t.co/n2JCERAOWH",
+        "username": "p3d40"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 15,
+            "following_count": 244,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Nima Alexander",
+        "id": "315855735",
+        "description": "",
+        "username": "xanda9"
+    },
+    {
+        "location": "Boca Raton, FL",
+        "public_metrics": {
+            "followers_count": 406,
+            "following_count": 638,
+            "tweet_count": 576,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Reza",
+        "id": "235764216",
+        "description": "Associate Professor @FAU, Founder of @PQSecurity, Applied Cryptographic Engineer",
+        "username": "Azarderakhsh"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 1213,
+            "following_count": 208,
+            "tweet_count": 243,
+            "listed_count": 21
+        },
+        "protected": false,
+        "name": "CollinStar Capital",
+        "id": "816845649018634240",
+        "description": "Collinstar Capital is an investment firm specialising in private equity, investment banking and corporate advisory.",
+        "username": "CollinStar_"
+    },
+    {
+        "location": "Australia",
+        "public_metrics": {
+            "followers_count": 18302,
+            "following_count": 20394,
+            "tweet_count": 15492,
+            "listed_count": 138
+        },
+        "protected": false,
+        "name": "CivilSocietyOz",
+        "id": "308925854",
+        "description": "Civil Society Australia is the peak body for civil society in Oz (associations, groups and social relationships outside government and the market). Join us.",
+        "username": "CivilSocietyOz"
+    },
+    {
+        "location": "Perth, Western Australia",
+        "public_metrics": {
+            "followers_count": 131,
+            "following_count": 959,
+            "tweet_count": 22,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Trick or Treat Me",
+        "id": "829617182925393920",
+        "description": "We bring Trick or Treaters and willing households together with the TrickorTreatme Map. \nCheck out the website or follow on https://t.co/VqRwDcoJdH",
+        "username": "TrickorTreat_Me"
+    },
+    {
+        "location": "Champaign, IL",
+        "public_metrics": {
+            "followers_count": 17351,
+            "following_count": 1705,
+            "tweet_count": 19247,
+            "listed_count": 681
+        },
+        "protected": false,
+        "name": "Andrew Miller 🦓🎈⬡",
+        "id": "22847791",
+        "description": "my personal account\nAssistant Prof @ UIUC -\n https://t.co/rgQGWUeR0Q -\nZcash Foundation\nthey/them\ncover traffic",
+        "username": "socrates1024"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 202,
+            "following_count": 4952,
+            "tweet_count": 500,
+            "listed_count": 2
+        },
+        "protected": false,
+        "name": "Max ⬋⬋⬋",
+        "id": "800715355974877184",
+        "description": "Dabbled in math/crypto, now haunting the smart grid | Weak spot: The West Wing references | he/him",
+        "username": "mx_rth"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 15,
+            "following_count": 40,
+            "tweet_count": 677,
+            "listed_count": 0
+        },
+        "protected": true,
+        "name": "hamid nejatollahi",
+        "id": "765654996",
+        "description": "",
+        "username": "HNejatollahi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 13,
+            "following_count": 77,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Dileep Vodapelli",
+        "id": "900307464536457216",
+        "description": "",
+        "username": "VodapelliDileep"
+    },
+    {
+        "location": "Singapore, Seoul, Tashkent",
+        "public_metrics": {
+            "followers_count": 1297,
+            "following_count": 3148,
+            "tweet_count": 2141,
+            "listed_count": 94
+        },
+        "protected": false,
+        "name": "Phantom Seokgu Yun",
+        "id": "117602921",
+        "description": "Founder and Chief Scientist of SovereignWallet Network and SWN Global. MetaMUI is an identity-based meta blockchain for CBDC, Tokenized Securities, and NFTs.",
+        "username": "seokgu"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 1658,
+            "following_count": 4304,
+            "tweet_count": 737,
+            "listed_count": 27
+        },
+        "protected": false,
+        "name": "MarchforScienceMelb",
+        "id": "824886467721703425",
+        "description": "A global movement for evidence-based policy, scientific literacy for all, stable investment in STEM and open communication of science. @sciencemarchau",
+        "username": "ScienceMarchMel"
+    },
+    {
+        "location": "Deep under Mount Carmel",
+        "public_metrics": {
+            "followers_count": 1300,
+            "following_count": 980,
+            "tweet_count": 99907,
+            "listed_count": 67
+        },
+        "protected": false,
+        "name": "I M Doge Mocenigo",
+        "id": "22015813",
+        "description": "Father, Composer, Mathematician, Cryptologist. Architect at ARM. Designed QARMA. Craic killer. Tweets & opinions mine only. #antifa 🖤💙",
+        "username": "DogeMocenigo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 55,
+            "following_count": 367,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Richard Brown",
+        "id": "889622222293393410",
+        "description": "I am an interesting Man,to be with,i am down to earth,and i like natural things..My way of life is simple and ideal.I am an outgoing person",
+        "username": "Richard01w"
+    },
+    {
+        "location": "Brisbane",
+        "public_metrics": {
+            "followers_count": 5845,
+            "following_count": 2263,
+            "tweet_count": 22127,
+            "listed_count": 200
+        },
+        "protected": false,
+        "name": "Simon Elvery",
+        "id": "1462681",
+        "description": "Telling stories for @abcnews | \nOrganising @HacksHackersBNE | \nParticipating in https://t.co/US6Rf93DRw | \nhttps://t.co/DyFiIQiMIL",
+        "username": "drzax"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 1806,
+            "following_count": 2688,
+            "tweet_count": 5049,
+            "listed_count": 28
+        },
+        "protected": false,
+        "name": "Ariel Liebman",
+        "id": "18865270",
+        "description": "Professor Sustainable Energy Systems, how to plan the energy transition to Net Zero 2040. Director Monash Energy Institute. Opinions usually unsolicited.",
+        "username": "aliebman"
+    },
+    {
+        "location": "Pangerang land",
+        "public_metrics": {
+            "followers_count": 75406,
+            "following_count": 55276,
+            "tweet_count": 774218,
+            "listed_count": 2514
+        },
+        "protected": false,
+        "name": "Asher Wolf",
+        "id": "15486485",
+        "description": "Cryptoparty. Chaos magnet devouring entropy. Non-binary, they/them. Mutant network node herder https://t.co/qFPX1O6JSi",
+        "username": "Asher_Wolf"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 207,
+            "following_count": 1029,
+            "tweet_count": 782,
+            "listed_count": 1
+        },
+        "protected": false,
+        "name": "Maheswara Rao Valluri",
+        "id": "725934974742884352",
+        "description": "“Living on the crypto land, thinking about quantum and cyber spaces.”",
+        "username": "Crypticprimes"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 1723,
+            "following_count": 653,
+            "tweet_count": 7681,
+            "listed_count": 43
+        },
+        "protected": false,
+        "name": "Ben Rubinstein",
+        "id": "21859920",
+        "description": "Machine Learning and Data Privacy 🇦🇺 @UniMelb Professor and Associate Dean (Research) @engunimelb. He/him.",
+        "username": "bipr"
+    },
+    {
+        "location": "London, England",
+        "public_metrics": {
+            "followers_count": 1026,
+            "following_count": 4582,
+            "tweet_count": 331,
+            "listed_count": 18
+        },
+        "protected": false,
+        "name": "Darren Olney-Fraser",
+        "id": "869443395332132864",
+        "description": "Company Director, corporate lawyer, blockchain entrepeneur, community builder",
+        "username": "darrenof"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 605,
+            "following_count": 866,
+            "tweet_count": 983,
+            "listed_count": 11
+        },
+        "protected": false,
+        "name": "Mahsa Mirmomeni",
+        "id": "2765217978",
+        "description": "Lecturer at Melbourne Polytechnic. Structural engineer, main focus: extreme loading resilience. Views are my own.",
+        "username": "MahsaMirmomeni"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 370,
+            "following_count": 631,
+            "tweet_count": 422,
+            "listed_count": 9
+        },
+        "protected": false,
+        "name": "Campbell Wilson",
+        "id": "36314968",
+        "description": "Co-director of the Monash/Australian Federal Police AiLECS Research Lab. Associate Dean (International) at Faculty of Information Technology, Monash University",
+        "username": "campbellwilson"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1024,
+            "following_count": 429,
+            "tweet_count": 979,
+            "listed_count": 17
+        },
+        "protected": false,
+        "name": "Xiao Wang",
+        "id": "835466417755602947",
+        "description": "Cryptographer at Northwestern University",
+        "username": "wangxiao1254"
+    },
+    {
+        "location": "Philadelphia, PA",
+        "public_metrics": {
+            "followers_count": 3604,
+            "following_count": 1852,
+            "tweet_count": 2314,
+            "listed_count": 195
+        },
+        "protected": false,
+        "name": "Toby Heap",
+        "id": "2593721",
+        "description": "Partner: @h2_ventures Love: #startups #data #AI",
+        "username": "tob"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 110,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "жакин Мерейхан",
+        "id": "866698407582334976",
+        "description": "merehan",
+        "username": "ybPjqv2le6UJ2jK"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 126,
+            "following_count": 134,
+            "tweet_count": 41,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Mahsa Salehi",
+        "id": "570705855",
+        "description": "Lecturer/ ML Researcher @MonashUni",
+        "username": "mahsa84s"
+    },
+    {
+        "location": "Hamburg, Germany",
+        "public_metrics": {
+            "followers_count": 384,
+            "following_count": 1006,
+            "tweet_count": 404,
+            "listed_count": 14
+        },
+        "protected": false,
+        "name": "Omid Mogharian",
+        "id": "123673122",
+        "description": "Co-Founder @natix_io. Software enthusiast, Passionate about life. I tweet about #SoftwareArchitectur, #BigData, #EdgeComputing, #DLT #AI, #Agile, #teamwork",
+        "username": "omidmogharian"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3205,
+            "following_count": 1750,
+            "tweet_count": 6436,
+            "listed_count": 155
+        },
+        "protected": false,
+        "name": "veski",
+        "id": "2917585904",
+        "description": "veski delivers a dynamic program of fellowships, awards and international networks to inspire innovation across Victoria.",
+        "username": "veskiorg"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 949,
+            "following_count": 372,
+            "tweet_count": 1265,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "SensiLab",
+        "id": "3181066356",
+        "description": "We are story tellers, publishers, makers, hackers, designers, developers, gamers, coders, scientists, theorists, luthiers and builders.",
+        "username": "sensilab_monash"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 926,
+            "following_count": 2065,
+            "tweet_count": 26081,
+            "listed_count": 35
+        },
+        "protected": false,
+        "name": "Robert Merkel",
+        "id": "177420212",
+        "description": "Cycling and politics tragic. Used to teach, now does software.",
+        "username": "rgmerk"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 612,
+            "following_count": 1077,
+            "tweet_count": 5923,
+            "listed_count": 31
+        },
+        "protected": false,
+        "name": "Julian García",
+        "id": "738518047",
+        "description": "",
+        "username": "garcia_juliang"
+    },
+    {
+        "location": "Melbourne Australia",
+        "public_metrics": {
+            "followers_count": 1976,
+            "following_count": 553,
+            "tweet_count": 2439,
+            "listed_count": 62
+        },
+        "protected": false,
+        "name": "Monash Information Technology",
+        "id": "418314480",
+        "description": "Information Technology and Computer Science at Monash University. Leading experts in #Datascience #AI #Cybersecurity #Softwaresystems and #HCI",
+        "username": "MonashInfotech"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 27,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Morteza",
+        "id": "837136048345927680",
+        "description": "",
+        "username": "MoriMian"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "public_metrics": {
+            "followers_count": 321,
+            "following_count": 103,
+            "tweet_count": 143,
+            "listed_count": 14
+        },
+        "protected": false,
+        "name": "Guido Tack",
+        "id": "147529920",
+        "description": "Optimisation, Constraint Programming, MiniZinc.",
+        "username": "g_tack"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 142,
+            "tweet_count": 27,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "farnaz shapouri",
+        "id": "3269999004",
+        "description": "",
+        "username": "farnaz_sapouri"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 226,
+            "tweet_count": 118,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "HosainFa",
+        "id": "1733411538",
+        "description": "",
+        "username": "Hossein_Faa"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 9,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Meysam Ghaderi",
+        "id": "816543807869255684",
+        "description": "العاقل یکفی به العباره",
+        "username": "MeysamGhaderi63"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 128,
+            "tweet_count": 105,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Sinan Kahraman",
+        "id": "1476478808",
+        "description": "Futurist-Scientist-Engineer",
+        "username": "kahramansi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 35,
+            "tweet_count": 32,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Arash",
+        "id": "813006823552909312",
+        "description": "آزمود را آزمودن خطاست",
+        "username": "HbBehzad"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 724,
+            "tweet_count": 207,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Academic tweets",
+        "id": "780290710566162432",
+        "description": "A lecturer at & a phd from Monash. Originally from India. On twitter mainly for following eminent people in academia.",
+        "username": "1729_for_acads"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 44,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Javad Jafari",
+        "id": "811704500545200128",
+        "description": "PhD of Biomedical Engineering from @unimelb | Curious about Biomaterials and Tissue Engineering | Passionate about Scientific Illustration and Photography!",
+        "username": "JJafariii"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 5,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Javad Jafari",
+        "id": "811552454265356288",
+        "description": "",
+        "username": "jj_fotoz"
+    },
+    {
+        "location": "Israel",
+        "public_metrics": {
+            "followers_count": 1406,
+            "following_count": 4922,
+            "tweet_count": 747,
+            "listed_count": 14
+        },
+        "protected": false,
+        "name": "Yuval Dimnik",
+        "id": "102069611",
+        "description": "Co-founder of @NooBaaStorage, now VC@TLV for @FosunRZ\nGeek. Gamer. Surfer. MTBer. All in a very lame way.",
+        "username": "yuvaldim"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 353,
+            "following_count": 634,
+            "tweet_count": 340,
+            "listed_count": 10
+        },
+        "protected": false,
+        "name": "Geovandro Pereira",
+        "id": "33087358",
+        "description": "Researcher @QuantumIQC / @UWaterloo & @evolutionQinc. Enjoy cryptography, computer/network security, embedded systems and math.",
+        "username": "geovandro"
+    },
+    {
+        "location": "Melbourne",
+        "public_metrics": {
+            "followers_count": 1602,
+            "following_count": 3934,
+            "tweet_count": 2037,
+            "listed_count": 4
+        },
+        "protected": false,
+        "name": "ℍ𝕒𝕞𝕚𝕕 𝕊⌬𝕝𝕖𝕚𝕞𝕒𝕟𝕚𝕟𝕖𝕛𝕒𝕕 🔬🐨",
+        "id": "740119684008153088",
+        "description": "Microscopy Specialist @BOMPUoM U of Melbourne\n#FLIM #FRET #FAIM #SuperRes #dSTORM #RICS #Scicomm🦉\nArt🎨,Nature🍄,Literature📚Hiking🚶🏾\nTweets are my own🌏",
+        "username": "HamidUnimelb"
+    },
+    {
+        "location": "Tehran",
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 20,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "ali",
+        "id": "721747650618327040",
+        "description": "",
+        "username": "ali_r2296"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 64,
+            "following_count": 218,
+            "tweet_count": 27,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Neda Taghavi",
+        "id": "2328246229",
+        "description": "DVM, PhD of Life Science, Pharmacologist",
+        "username": "Nedatgv"
+    },
+    {
+        "location": "Dhaka, Bangladesh",
+        "public_metrics": {
+            "followers_count": 225,
+            "following_count": 808,
+            "tweet_count": 71,
+            "listed_count": 8
+        },
+        "protected": false,
+        "name": "Liton Mahonto",
+        "id": "4783802778",
+        "description": "I'm a Freelance Front-end and back-end web developer.",
+        "username": "iamadhikary"
+    },
+    {
+        "location": "Melbourne,Victoria ",
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 102,
+            "tweet_count": 28,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Shaghayegh saeidi",
+        "id": "3267864180",
+        "description": "PhD candidate @unimelb",
+        "username": "Shaghayeghsaei3"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 357,
+            "following_count": 4033,
+            "tweet_count": 32,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Fidan Restoran",
+        "id": "706777507190710272",
+        "description": "",
+        "username": "RestoranFidan"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "public_metrics": {
+            "followers_count": 386,
+            "following_count": 396,
+            "tweet_count": 1596,
+            "listed_count": 0
+        },
+        "protected": false,
+        "name": "Akram Zamani",
+        "id": "2978033358",
+        "description": "Postdoctoral Research Fellow @ The Wright Lab",
+        "username": "AkiZamani"
+    }
+]

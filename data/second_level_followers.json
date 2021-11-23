@@ -685,207 +685,207 @@
         "protected": false
     },
     {
-        "protected": false,
-        "description": "Driving #open #innovation and #digital #transformation",
-        "id": "1016198329",
-        "name": "gian-mario.maggio",
-        "location": "Trento, Italy",
         "public_metrics": {
-            "followers_count": 117,
+            "followers_count": 119,
             "following_count": 235,
             "tweet_count": 55,
             "listed_count": 4
         },
-        "username": "gianmariomaggio"
+        "username": "gianmariomaggio",
+        "id": "1016198329",
+        "description": "Driving #open #innovation and #digital #transformation",
+        "name": "gian-mario.maggio",
+        "location": "Trento, Italy",
+        "protected": false
     },
     {
-        "protected": false,
-        "description": "",
-        "id": "18932422",
-        "name": "mizzaro",
         "public_metrics": {
             "followers_count": 162,
             "following_count": 358,
             "tweet_count": 154,
             "listed_count": 8
         },
-        "username": "mizzaro"
+        "username": "mizzaro",
+        "id": "18932422",
+        "description": "",
+        "name": "mizzaro",
+        "protected": false
     },
     {
-        "protected": false,
-        "description": "Interaction designer, I mix art and science and make hybrid digital-material objects, main interest now is personal digital memories and cultural heritage",
-        "id": "393386006",
-        "name": "Daniela Petrelli",
-        "location": "Sheffield, UK",
         "public_metrics": {
             "followers_count": 309,
-            "following_count": 172,
+            "following_count": 175,
             "tweet_count": 208,
             "listed_count": 12
         },
-        "username": "DanielaPetrell1"
+        "username": "DanielaPetrell1",
+        "id": "393386006",
+        "description": "Interaction designer, I mix art and science and make hybrid digital-material objects, main interest now is personal digital memories and cultural heritage",
+        "name": "Daniela Petrelli",
+        "location": "Sheffield, UK",
+        "protected": false
     },
     {
-        "protected": false,
-        "description": "3D Optical Metrology unit @FBKcom Trento, involved in #photogrammetry #3D #metrology #AI #underwater #geomatics #heritage #geoinformatics #Innovation #Research",
-        "id": "984803546741837824",
-        "name": "3DOMFBK",
-        "location": "Italy",
         "public_metrics": {
-            "followers_count": 428,
+            "followers_count": 430,
             "following_count": 583,
             "tweet_count": 746,
             "listed_count": 10
         },
-        "username": "3DOMFBK"
+        "username": "3DOMFBK",
+        "id": "984803546741837824",
+        "description": "3D Optical Metrology unit @FBKcom Trento, involved in #photogrammetry #3D #metrology #AI #underwater #geomatics #heritage #geoinformatics #Innovation #Research",
+        "name": "3DOMFBK",
+        "location": "Italy",
+        "protected": false
     },
     {
-        "protected": false,
-        "description": "Il Dipartimento di Informatica coordina le attività di ricerca che riguardano l’Informatica, in generale il settore ICT,  all’interno dell’Università di Torino.",
-        "id": "185605873",
-        "name": "DiUniTo",
-        "location": "Torino - Italia",
         "public_metrics": {
             "followers_count": 827,
             "following_count": 479,
             "tweet_count": 2565,
             "listed_count": 15
         },
-        "username": "diunito"
+        "username": "diunito",
+        "id": "185605873",
+        "description": "Il Dipartimento di Informatica coordina le attività di ricerca che riguardano l’Informatica, in generale il settore ICT,  all’interno dell’Università di Torino.",
+        "name": "DiUniTo",
+        "location": "Torino - Italia",
+        "protected": false
     },
     {
-        "name": "George Knott",
-        "description": "📚 Editor @CRCPress in Australia and New Zealand.  #ComputerScience #statistics  🌏💉💉\nCommissioning books https://t.co/OY3w8td5Gj\ngeorge.knott@tandf.com.au",
+        "username": "crc_gk",
+        "protected": false,
+        "id": "1413679900028858368",
         "public_metrics": {
-            "followers_count": 114,
-            "following_count": 502,
+            "followers_count": 115,
+            "following_count": 507,
             "tweet_count": 28,
             "listed_count": 0
         },
-        "protected": false,
-        "username": "crc_gk",
-        "id": "1413679900028858368",
+        "name": "George Knott",
+        "description": "📚 Editor @CRCPress in Australia and New Zealand.  #ComputerScience #statistics  🌏💉💉\nCommissioning books https://t.co/OY3w8td5Gj\ngeorge.knott@tandf.com.au",
         "location": "Sydney"
     },
     {
-        "name": "mizzaro",
-        "description": "",
+        "username": "mizzaro",
+        "protected": false,
+        "id": "18932422",
         "public_metrics": {
             "followers_count": 162,
             "following_count": 358,
             "tweet_count": 154,
             "listed_count": 8
         },
-        "protected": false,
-        "username": "mizzaro",
-        "id": "18932422"
+        "name": "mizzaro",
+        "description": ""
     },
     {
-        "name": "Hassan Khosravi",
-        "description": "Computer scientist interested in AI in Education, learning analytics and human-centred AI. Senior Lecturer at @uqITaLI and @UQ_EAIT",
+        "username": "haskhosravi",
+        "protected": false,
+        "id": "769507902897856512",
         "public_metrics": {
-            "followers_count": 479,
+            "followers_count": 480,
             "following_count": 590,
             "tweet_count": 412,
             "listed_count": 6
         },
-        "protected": false,
-        "username": "haskhosravi",
-        "id": "769507902897856512",
+        "name": "Hassan Khosravi",
+        "description": "Computer scientist interested in AI in Education, learning analytics and human-centred AI. Senior Lecturer at @uqITaLI and @UQ_EAIT",
         "location": "Brisbane, Vancouver"
     },
     {
-        "name": "Commsgrad",
-        "description": "Tackling diversity of voice in communications through free unbiased access to equitable work experience for students. ⚡️#EdTech",
+        "username": "Commsgrad",
+        "protected": false,
+        "id": "1153091309474684929",
         "public_metrics": {
-            "followers_count": 60,
-            "following_count": 773,
-            "tweet_count": 15,
+            "followers_count": 61,
+            "following_count": 775,
+            "tweet_count": 16,
             "listed_count": 1
         },
-        "protected": false,
-        "username": "Commsgrad",
-        "id": "1153091309474684929",
+        "name": "Commsgrad",
+        "description": "Tackling diversity of voice in communications through free unbiased access to equitable work experience for students. ⚡️#EdTech",
         "location": "Sydney, New South Wales"
     },
     {
-        "name": "Bevan Koopman",
-        "description": "🔬 Snr Research Scientist @CSIRO: Information Retrieval, Semantic Search, Health Informatics. \n🏡 Run, ride, repeat. Happier going uphill.\n💉(2xAZ)",
+        "username": "bevan_koopman",
+        "protected": false,
+        "id": "82774113",
         "public_metrics": {
             "followers_count": 365,
-            "following_count": 377,
-            "tweet_count": 2758,
+            "following_count": 379,
+            "tweet_count": 2759,
             "listed_count": 59
         },
-        "protected": false,
-        "username": "bevan_koopman",
-        "id": "82774113",
+        "name": "Bevan Koopman",
+        "description": "🔬 Snr Research Scientist @CSIRO: Information Retrieval, Semantic Search, Health Informatics. \n🏡 Run, ride, repeat. Happier going uphill.\n💉(2xAZ)",
         "location": "Brisbane, Australia."
     },
     {
-        "username": "johnedwardLEIG1",
-        "description": "I'm 85 and still kicking",
         "public_metrics": {
-            "followers_count": 75,
-            "following_count": 198,
-            "tweet_count": 435,
+            "followers_count": 77,
+            "following_count": 211,
+            "tweet_count": 475,
             "listed_count": 0
         },
-        "name": "john edward LEIGH",
+        "username": "johnedwardLEIG1",
         "id": "1448144596639252486",
+        "description": "I'm 85 and still kicking",
+        "name": "john edward LEIGH",
         "protected": false
     },
     {
-        "username": "shelley_marshal",
-        "description": "Associate Professor Shelley Marshall is the Director of the RMIT University Business and Human Rights Centre.",
         "public_metrics": {
-            "followers_count": 315,
+            "followers_count": 317,
             "following_count": 310,
             "tweet_count": 223,
             "listed_count": 4
         },
-        "location": "Melbourne, Victoria",
-        "name": "Shelley Marshall",
+        "username": "shelley_marshal",
         "id": "608563905",
+        "description": "Associate Professor Shelley Marshall is the Director of the RMIT University Business and Human Rights Centre.",
+        "name": "Shelley Marshall",
+        "location": "Melbourne, Victoria",
         "protected": false
     },
     {
-        "username": "Scotty25953295",
-        "description": "",
         "public_metrics": {
-            "followers_count": 263,
-            "following_count": 443,
-            "tweet_count": 14746,
-            "listed_count": 1
+            "followers_count": 266,
+            "following_count": 448,
+            "tweet_count": 14938,
+            "listed_count": 0
         },
-        "name": "Scotty",
+        "username": "Scotty25953295",
         "id": "1097014327289073664",
+        "description": "",
+        "name": "Scotty",
         "protected": false
     },
     {
-        "username": "mizzaro",
-        "description": "",
         "public_metrics": {
             "followers_count": 162,
             "following_count": 358,
             "tweet_count": 154,
             "listed_count": 8
         },
-        "name": "mizzaro",
+        "username": "mizzaro",
         "id": "18932422",
+        "description": "",
+        "name": "mizzaro",
         "protected": false
     },
     {
-        "username": "DrJJRich",
-        "description": "PhD scientist improving transparency in science and commercializing  antimicrobial spray coating. When not sciencing, I'm breakdancing, boardgaming or climbing.",
         "public_metrics": {
-            "followers_count": 48,
-            "following_count": 62,
-            "tweet_count": 69,
+            "followers_count": 49,
+            "following_count": 63,
+            "tweet_count": 70,
             "listed_count": 0
         },
-        "name": "JJ Richardson (Aviraban)",
+        "username": "DrJJRich",
         "id": "4364522298",
+        "description": "PhD scientist improving transparency in science and commercializing  antimicrobial spray coating. When not sciencing, I'm breakdancing, boardgaming or climbing.",
+        "name": "JJ Richardson (Aviraban)",
         "protected": false
     },
     {
@@ -958,69 +958,69 @@
         "username": "ramonplopes",
         "protected": false,
         "id": "1455690848",
-        "description": "PhD in Computer Science from UFMG, Brazil. Interested in Recommender Systems, Information Retrieval and Machine Learning.",
         "public_metrics": {
             "followers_count": 21,
             "following_count": 233,
-            "tweet_count": 12,
+            "tweet_count": 13,
             "listed_count": 0
         },
-        "name": "Ramon Lopes"
+        "name": "Ramon Lopes",
+        "description": "PhD in Computer Science from UFMG, Brazil. Interested in Recommender Systems, Information Retrieval and Machine Learning."
     },
     {
-        "location": "Berlin, Germany",
         "username": "sumitsidana17",
         "protected": false,
         "id": "2838403462",
-        "description": "",
         "public_metrics": {
             "followers_count": 47,
             "following_count": 425,
             "tweet_count": 15,
             "listed_count": 1
         },
-        "name": "Sumit Sidana"
+        "name": "Sumit Sidana",
+        "description": "",
+        "location": "Berlino, Germania"
     },
     {
-        "location": "Melbourne, Victoria",
         "username": "Dr_Hai_Dong",
         "protected": false,
         "id": "632917747",
-        "description": "Faculty Member of RMIT School of Computing Technologies @RMIT @RMITComputing, Member of RMIT University Centre for Cyber Security Research and Innova @RMITCCSRI",
         "public_metrics": {
-            "followers_count": 10,
+            "followers_count": 12,
             "following_count": 10,
-            "tweet_count": 19,
+            "tweet_count": 21,
             "listed_count": 0
         },
-        "name": "Hai Dong"
+        "name": "Hai Dong",
+        "description": "Faculty Member of RMIT School of Computing Technologies @RMIT @RMITComputing, Member of RMIT University Centre for Cyber Security Research and Innova @RMITCCSRI",
+        "location": "Melbourne, Victoria"
     },
     {
-        "location": "Vaud, Suisse",
         "username": "bitcoinub",
         "protected": false,
         "id": "396403565",
-        "description": "Stéphane - passionate about new technologies, cryptolover for several years - #BTC #ETH #ALGO #XRP #ANJ #MANA #SHIB #NEXO #ALU #WSG",
         "public_metrics": {
             "followers_count": 75,
-            "following_count": 519,
-            "tweet_count": 466,
+            "following_count": 521,
+            "tweet_count": 458,
             "listed_count": 2
         },
-        "name": "MSG"
+        "name": "MSG",
+        "description": "Stéphane - passionate about new technologies, cryptolover for several years - #BTC #ETH #ALGO #XRP #ANJ #MANA #SHIB #NEXO #ALU #WSG",
+        "location": "Vaud, Suisse"
     },
     {
         "username": "vuongthuavu6",
         "protected": false,
         "id": "1432884959639838722",
-        "description": "NBM",
         "public_metrics": {
             "followers_count": 75,
-            "following_count": 219,
+            "following_count": 218,
             "tweet_count": 59,
             "listed_count": 0
         },
-        "name": "vuongthuavu"
+        "name": "vuongthuavu",
+        "description": "NBM"
     },
     {
         "id": "15750573",
@@ -1089,229 +1089,258 @@
         "protected": false
     },
     {
-        "location": "Firenze || Milano || Roma",
-        "username": "ibblastoise",
-        "name": "Felice Pagurotti 🐚",
-        "id": "1423719166889152514",
-        "protected": false,
         "public_metrics": {
             "followers_count": 593,
-            "following_count": 340,
-            "tweet_count": 2893,
+            "following_count": 339,
+            "tweet_count": 2944,
             "listed_count": 0
         },
-        "description": "Lunatico adoratore di trigliceridi in lotta con la coerenza e una personalità da pastasciuttaro. Nerd incallito e gamer • promotore del #dagnenesecche • 🥩"
+        "name": "Felice Pagurotti 🐚",
+        "location": "Firenze || Milano || Roma",
+        "description": "Lunatico adoratore di trigliceridi in lotta con la coerenza e una personalità da pastasciuttaro. Nerd incallito e gamer • promotore del #dagnenesecche • 🥩",
+        "username": "ibblastoise",
+        "id": "1423719166889152514",
+        "protected": false
     },
     {
-        "location": "Cassano Magnago, Lombardia",
-        "username": "marcoliati",
-        "name": "Marco Liati",
-        "id": "737333978462572544",
-        "protected": false,
         "public_metrics": {
             "followers_count": 866,
             "following_count": 496,
             "tweet_count": 607,
             "listed_count": 52
         },
-        "description": "@Uni_insubria, Finanza, Mercati e Intermediari Finanziari.\nA RAI 2 mi hanno detto che somiglio a Mentana."
+        "name": "Marco Liati",
+        "location": "Cassano Magnago, Lombardia",
+        "description": "@Uni_insubria, Finanza, Mercati e Intermediari Finanziari.\nA RAI 2 mi hanno detto che somiglio a Mentana.",
+        "username": "marcoliati",
+        "id": "737333978462572544",
+        "protected": false
     },
     {
-        "username": "Barbe_z",
-        "name": "David",
-        "id": "262236415",
-        "protected": false,
         "public_metrics": {
             "followers_count": 236,
-            "following_count": 204,
-            "tweet_count": 3262,
+            "following_count": 203,
+            "tweet_count": 3265,
             "listed_count": 0
         },
-        "description": "Already Broken"
+        "name": "David",
+        "description": "Already Broken",
+        "username": "Barbe_z",
+        "id": "262236415",
+        "protected": false
     },
     {
-        "location": "Milano, Lombardia",
-        "username": "smrtalks",
-        "name": "smarTalks",
-        "id": "1333547632128626690",
-        "protected": false,
         "public_metrics": {
             "followers_count": 390,
             "following_count": 762,
             "tweet_count": 228,
             "listed_count": 2
         },
-        "description": "Twittiamo contenuti di #marketing.⚡️Dai un occhio al nostro blog! 👀"
+        "name": "smarTalks",
+        "location": "Milano, Lombardia",
+        "description": "Twittiamo contenuti di #marketing.⚡️Dai un occhio al nostro blog! 👀",
+        "username": "smrtalks",
+        "id": "1333547632128626690",
+        "protected": false
     },
     {
-        "location": "Milano, Lombardia",
-        "username": "IvanLocalzo",
-        "name": "Ivan Localzo",
-        "id": "1000319443",
-        "protected": false,
         "public_metrics": {
             "followers_count": 260,
             "following_count": 237,
             "tweet_count": 3591,
-            "listed_count": 10
+            "listed_count": 0
         },
-        "description": "Since 1990.Born in Apulia.I live and work in Milan.🇮🇹 “Don’t look back in anger…” ☘️"
+        "name": "Ivan Localzo",
+        "location": "Milano, Lombardia",
+        "description": "Since 1990.Born in Apulia.I live and work in Milan.🇮🇹 “Don’t look back in anger…” ☘️",
+        "username": "IvanLocalzo",
+        "id": "1000319443",
+        "protected": false
     },
     {
-        "location": "West Haven CT",
-        "username": "Zeeconn11",
-        "protected": false,
         "description": "Graduate visiting student @UCONN. My research interests are natural language processing, information retrieval and controversy detection.",
-        "id": "1443389966978007048",
+        "username": "Zeeconn11",
         "public_metrics": {
             "followers_count": 13,
-            "following_count": 66,
+            "following_count": 67,
             "tweet_count": 7,
             "listed_count": 1
         },
+        "location": "West Haven CT",
+        "id": "1443389966978007048",
+        "protected": false,
         "name": "Zeeshan Ahmed"
     },
     {
-        "location": "(CE) Italy",
-        "username": "antoniolieto",
-        "protected": false,
         "description": "AI Researcher @diunito, Dist. Speaker @TheOfficialACM, Vice-Pres @aisc_assoc. Author of \"Cognitive Design for Artificial Minds\" https://t.co/LQrj68XIpi",
-        "id": "11409082",
+        "username": "antoniolieto",
         "public_metrics": {
-            "followers_count": 962,
-            "following_count": 862,
+            "followers_count": 963,
+            "following_count": 863,
             "tweet_count": 1728,
             "listed_count": 22
         },
+        "location": "(CE) Italy",
+        "id": "11409082",
+        "protected": false,
         "name": "Antonio Lieto"
     },
     {
-        "username": "XMarketRec",
-        "protected": false,
         "description": "XMRec  WSDM2022 Cup and Workshop at RecSys2021",
-        "id": "1443222435571113993",
+        "username": "XMarketRec",
         "public_metrics": {
             "followers_count": 27,
             "following_count": 63,
             "tweet_count": 25,
             "listed_count": 0
         },
+        "id": "1443222435571113993",
+        "protected": false,
         "name": "XMRec @ #WSDM2022"
     },
     {
-        "location": "Nice (06000)",
-        "username": "elzein_research",
-        "protected": false,
         "description": "PhD candidate at @Uca_research @Laboratoire_I3S\nTeaching assistant  @Uca_education\nWorking on #InformationRetreival and #Multiagents",
-        "id": "1299808581433384960",
+        "username": "elzein_research",
         "public_metrics": {
             "followers_count": 96,
             "following_count": 313,
             "tweet_count": 42,
             "listed_count": 0
         },
+        "location": "Nice (06000)",
+        "id": "1299808581433384960",
+        "protected": false,
         "name": "Dima El Zein"
     },
     {
-        "location": "Geneva, Switzerland",
-        "username": "aleksbobic",
-        "protected": false,
         "description": "Doctoral Student @CoDiSLabGraz @tugraz and @CERN researching #InformationRetrieval & #NetworkScience *views are my own* #informationretrieval #nlp #graphs",
-        "id": "748176824",
+        "username": "aleksbobic",
         "public_metrics": {
             "followers_count": 88,
-            "following_count": 643,
+            "following_count": 644,
             "tweet_count": 121,
             "listed_count": 1
         },
+        "location": "Geneva, Switzerland",
+        "id": "748176824",
+        "protected": false,
         "name": "Aleks"
     },
     {
-        "id": "961998481673129984",
+        "description": "",
+        "username": "canberra_anna",
         "public_metrics": {
             "followers_count": 89,
             "following_count": 232,
             "tweet_count": 607,
             "listed_count": 0
         },
-        "description": "",
         "location": "Deakin, Canberra",
+        "id": "961998481673129984",
         "protected": false,
-        "name": "anna maria fioretti",
-        "username": "canberra_anna"
+        "name": "anna maria fioretti"
     },
     {
-        "id": "967359360",
+        "description": "Keep calm and code on",
+        "username": "Chriskuei_",
         "public_metrics": {
             "followers_count": 14,
             "following_count": 113,
             "tweet_count": 33,
             "listed_count": 0
         },
-        "description": "Keep calm and code on",
         "location": "Beijing",
+        "id": "967359360",
         "protected": false,
-        "name": "Chris",
-        "username": "Chriskuei_"
+        "name": "Chris"
     },
     {
-        "id": "968932226342801409",
+        "description": "UQ PhD student",
+        "username": "Wangshu79517824",
         "public_metrics": {
             "followers_count": 16,
             "following_count": 39,
             "tweet_count": 11,
             "listed_count": 0
         },
-        "description": "UQ PhD student",
         "location": "Brisbane, Queensland",
+        "id": "968932226342801409",
         "protected": false,
-        "name": "Wang shuai (Dylan)",
-        "username": "Wangshu79517824"
+        "name": "Wang shuai (Dylan)"
     },
     {
-        "id": "1236622778175909888",
+        "description": "PhD student at @thuir_lab. \n#WebSearch | #NeuralRanking | #NLP.",
+        "username": "Jingtao_Zhan",
         "public_metrics": {
-            "followers_count": 95,
-            "following_count": 164,
-            "tweet_count": 48,
+            "followers_count": 97,
+            "following_count": 165,
+            "tweet_count": 49,
             "listed_count": 0
         },
-        "description": "PhD student at @thuir_lab. \n#WebSearch | #NeuralRanking | #NLP.",
         "location": "Beijing",
+        "id": "1236622778175909888",
         "protected": false,
-        "name": "Jingtao Zhan",
-        "username": "Jingtao_Zhan"
+        "name": "Jingtao Zhan"
     },
     {
-        "id": "1159013283862589440",
+        "description": "Ph.D. Student @PolibaOfficial - Research: Graph Representation Learning, Multimedia Recommendation, Adversarial Machine Learning, Deep Learning.",
+        "username": "dmalitesta",
         "public_metrics": {
             "followers_count": 278,
-            "following_count": 582,
-            "tweet_count": 115,
+            "following_count": 583,
+            "tweet_count": 118,
             "listed_count": 5
         },
-        "description": "Ph.D. Student @PolibaOfficial - Research: Graph Representation Learning, Multimedia Recommendation, Adversarial Machine Learning, Deep Learning.",
         "location": "Bari, Apulia, Italy",
+        "id": "1159013283862589440",
         "protected": false,
-        "name": "Daniele Malitesta",
-        "username": "dmalitesta"
+        "name": "Daniele Malitesta"
+    },
+    {
+        "location": "Melbourne, Victoria",
+        "protected": false,
+        "username": "shruti_nirantar",
+        "public_metrics": {
+            "followers_count": 259,
+            "following_count": 377,
+            "tweet_count": 203,
+            "listed_count": 0
+        },
+        "id": "2438581501",
+        "name": "Shruti Nirantar",
+        "description": "Research Fellow @fun_materials & @RMIT"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "protected": false,
+        "username": "AminSakzad",
+        "public_metrics": {
+            "followers_count": 371,
+            "following_count": 820,
+            "tweet_count": 1379,
+            "listed_count": 2
+        },
+        "id": "711075897592274944",
+        "name": "Amin Sakzad",
+        "description": "Mathematician @MonashUni, interested in lattices for cryptography and coding. Liverpool FC, استقلال, Geelong FC. Tweets are my own opinion."
     },
     {
         "protected": false,
+        "username": "ville_paananen_",
         "public_metrics": {
             "followers_count": 40,
-            "following_count": 75,
+            "following_count": 74,
             "tweet_count": 13,
             "listed_count": 0
         },
         "id": "1276258325664010244",
-        "description": "Doctoral student researching tools to foster empathy on spatial experiences. Mix of #hci and #architecture\n\nCrowd Computing // UBICOMP // University of Oulu",
-        "username": "ville_paananen_",
-        "name": "Ville Paananen"
+        "name": "Ville Paananen",
+        "description": "Doctoral student researching tools to foster empathy on spatial experiences. Mix of #hci and #architecture\n\nCrowd Computing // UBICOMP // University of Oulu"
     },
     {
         "location": "Holden, MA",
         "protected": false,
+        "username": "ermaltoto",
         "public_metrics": {
             "followers_count": 8,
             "following_count": 44,
@@ -1319,50 +1348,21 @@
             "listed_count": 0
         },
         "id": "163082282",
-        "description": "PhD in Computer Science. Research Computing @WPI.",
-        "username": "ermaltoto",
-        "name": "Ermal Toto"
+        "name": "Ermal Toto",
+        "description": "PhD in Computer Science. Research Computing @WPI."
     },
     {
         "location": "Irlanda",
         "protected": false,
+        "username": "chstoneliu",
         "public_metrics": {
-            "followers_count": 229,
-            "following_count": 871,
-            "tweet_count": 2393,
+            "followers_count": 231,
+            "following_count": 873,
+            "tweet_count": 2398,
             "listed_count": 6
         },
         "id": "743290438749040640",
-        "description": "Jin-Ruei's Father",
-        "username": "chstoneliu",
-        "name": "Chao-Hong Liu"
-    },
-    {
-        "location": "Fairfax, VA",
-        "protected": false,
-        "public_metrics": {
-            "followers_count": 170,
-            "following_count": 949,
-            "tweet_count": 300,
-            "listed_count": 2
-        },
-        "id": "1800850879",
-        "description": "PhD @GeorgeMasonU | Incoming A-Scientist Intern @Alexa99 ‘22 |  Human-AI collaboration | Previously @Alexa99 @comcast @PhilipsResearch @inria_sophia |🇮🇳|📷|♛",
-        "username": "RahulPandeyGMU",
-        "name": "Rahul Pandey"
-    },
-    {
-        "location": "Toronto, Ontario",
-        "protected": false,
-        "public_metrics": {
-            "followers_count": 305,
-            "following_count": 623,
-            "tweet_count": 552,
-            "listed_count": 0
-        },
-        "id": "608355044",
-        "description": "Mahmoud G. Salem. \nMSc in Artificial Intelligence at @uofg and Vector Institute @vectorinst. research intern @borealisai , ex research intern @samsung_ra",
-        "username": "mrgemy95",
-        "name": "Jimmy"
+        "name": "Chao-Hong Liu",
+        "description": "Jin-Ruei's Father"
     }
 ]
