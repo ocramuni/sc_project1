@@ -1,0 +1,29 @@
+[
+    {
+        "protected": false,
+        "name": "mizzaro",
+        "username": "mizzaro",
+        "public_metrics": {
+            "followers_count": 162,
+            "following_count": 358,
+            "tweet_count": 154,
+            "listed_count": 8
+        },
+        "id": "18932422",
+        "description": ""
+    },
+    {
+        "location": "Chiusaforte",
+        "protected": false,
+        "name": "Michael Soprano",
+        "username": "Miccighel_",
+        "public_metrics": {
+            "followers_count": 330,
+            "following_count": 213,
+            "tweet_count": 10904,
+            "listed_count": 19
+        },
+        "id": "15750573",
+        "description": "University Life, Computer Science, Photography, Reading, Gaming, Comics. PhD Student at the University of Udine. That's me."
+    }
+]

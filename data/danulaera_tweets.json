@@ -1,0 +1,62 @@
+[
+    {
+        "created_at": "2021-11-08T01:10:01.000Z",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @ville_paananen_: What do spatial experience, HCI, and safety have in common?\n\nMy first published article! 🎆\n\nRead here👉https://t.co/5IS…",
+        "lang": "en",
+        "id": "1457515720078598144"
+    },
+    {
+        "created_at": "2021-10-28T08:35:07.000Z",
+        "public_metrics": {
+            "retweet_count": 51,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @nielsvberkel: We’re recruiting two PhD candidates on HCI + Human-AI! 🙌 Join a supportive group of kind and talented researchers @CompSc…",
+        "lang": "en",
+        "id": "1453641466652213254"
+    },
+    {
+        "created_at": "2021-10-28T03:36:11.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "@IR_oldie @pchandarr @BrianStathomas @AdmsCentre Thank you all! It was a fascinating discussion. https://t.co/WcMxLHNKlP",
+        "lang": "en",
+        "id": "1453566236235735047"
+    },
+    {
+        "created_at": "2021-10-27T10:19:11.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @ACM_CSCW: Check out this collage of all the groundbreaking research presented earlier today at the paper session on Crowds and Collabor…",
+        "lang": "en",
+        "id": "1453305269191065611"
+    },
+    {
+        "created_at": "2021-10-27T03:29:54.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "More details: \nhttps://t.co/QLRyX91UTH",
+        "lang": "en",
+        "id": "1453202268602257417"
+    }
+]

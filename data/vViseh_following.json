@@ -1,0 +1,458 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 816,
+            "following_count": 236,
+            "tweet_count": 5128,
+            "listed_count": 7
+        },
+        "username": "Oracolo_Fanta",
+        "id": "1163850826735132675",
+        "name": "Oracolo del Fantacalcio",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5371,
+            "following_count": 160,
+            "tweet_count": 71550,
+            "listed_count": 76
+        },
+        "username": "GruppoEsperti",
+        "id": "364961513",
+        "name": "Gruppo Esperti",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 112289,
+            "following_count": 372,
+            "tweet_count": 168259,
+            "listed_count": 885
+        },
+        "username": "Eurosport_IT",
+        "id": "275078542",
+        "name": "Eurosport IT",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 612984,
+            "following_count": 300,
+            "tweet_count": 453828,
+            "listed_count": 11629
+        },
+        "username": "ValaAfshar",
+        "id": "259725229",
+        "name": "Vala Afshar",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 704243,
+            "following_count": 0,
+            "tweet_count": 65326,
+            "listed_count": 4014
+        },
+        "username": "idillionaire",
+        "id": "157601911",
+        "name": "Idil Ahmed",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 315339,
+            "following_count": 11977,
+            "tweet_count": 49151,
+            "listed_count": 1885
+        },
+        "username": "JayShettyIW",
+        "id": "2354465522",
+        "name": "Jay Shetty",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1480024,
+            "following_count": 1674,
+            "tweet_count": 246173,
+            "listed_count": 6802
+        },
+        "username": "DiMarzio",
+        "id": "251690031",
+        "name": "Gianluca Di Marzio",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5936672,
+            "following_count": 1609,
+            "tweet_count": 11743,
+            "listed_count": 10581
+        },
+        "username": "FabrizioRomano",
+        "id": "330262748",
+        "name": "Fabrizio Romano",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 11047,
+            "following_count": 159,
+            "tweet_count": 351,
+            "listed_count": 38
+        },
+        "username": "WZRanked",
+        "id": "1338848701494779911",
+        "name": "WZ Ranked",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 65006044,
+            "following_count": 104,
+            "tweet_count": 16151,
+            "listed_count": 81821
+        },
+        "username": "elonmusk",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 124510,
+            "following_count": 192,
+            "tweet_count": 212144,
+            "listed_count": 679
+        },
+        "username": "MilanNewsit",
+        "id": "444812884",
+        "name": "MilanNews.it",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 69223,
+            "following_count": 614,
+            "tweet_count": 11300,
+            "listed_count": 435
+        },
+        "username": "AntoVitiello",
+        "id": "445092879",
+        "name": "Antonio Vitiello",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 693335,
+            "following_count": 674,
+            "tweet_count": 12836,
+            "listed_count": 360
+        },
+        "username": "aydan",
+        "id": "275652453",
+        "name": "NYSL Aydan",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 12068,
+            "following_count": 327,
+            "tweet_count": 15589,
+            "listed_count": 245
+        },
+        "username": "Gianludale27",
+        "id": "3433994398",
+        "name": "Gianluca D'Alessandro",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9290,
+            "following_count": 226,
+            "tweet_count": 71496,
+            "listed_count": 131
+        },
+        "username": "deadlinex",
+        "id": "24893006",
+        "name": "Alex Brunetti",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 432942,
+            "following_count": 10804,
+            "tweet_count": 46338,
+            "listed_count": 1622
+        },
+        "username": "Slasher",
+        "id": "19040580",
+        "name": "Rod Breslau",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 17,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "username": "VisentinCamilla",
+        "id": "1298592522118344704",
+        "name": "Camilla Visentin",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2241740,
+            "following_count": 2063,
+            "tweet_count": 54573,
+            "listed_count": 1724
+        },
+        "username": "scump",
+        "id": "272570677",
+        "name": "OpTic Scump",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2045276,
+            "following_count": 788,
+            "tweet_count": 84883,
+            "listed_count": 1047
+        },
+        "username": "NICKMERCS",
+        "id": "98821255",
+        "name": "FaZe Nickmercs",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3058489,
+            "following_count": 1242,
+            "tweet_count": 80187,
+            "listed_count": 1559
+        },
+        "username": "Vikkstar123",
+        "id": "268270621",
+        "name": "Vikkstar123 ★",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 64144,
+            "following_count": 75,
+            "tweet_count": 1462,
+            "listed_count": 5
+        },
+        "username": "ZanoMind",
+        "id": "1017064857349316609",
+        "name": "Zano",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1856742,
+            "following_count": 2096,
+            "tweet_count": 58656,
+            "listed_count": 1256
+        },
+        "username": "CouRageJD",
+        "id": "246596682",
+        "name": "Jack “CouRage” Dunlop",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 59164,
+            "following_count": 144,
+            "tweet_count": 9572,
+            "listed_count": 68
+        },
+        "username": "gabbodsquared",
+        "id": "455313554",
+        "name": "Gabriele Gaiba",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 830,
+            "following_count": 81,
+            "tweet_count": 951,
+            "listed_count": 1
+        },
+        "username": "piazzaesport",
+        "id": "1230822099830349825",
+        "name": "Piazza Esport",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4136,
+            "following_count": 924,
+            "tweet_count": 32337,
+            "listed_count": 45
+        },
+        "username": "DeugemoTwo",
+        "id": "1310862200",
+        "name": "Francesco Lombardo #VCTChampions",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1604752,
+            "following_count": 365,
+            "tweet_count": 51521,
+            "listed_count": 3099
+        },
+        "username": "FNATIC",
+        "id": "19976791",
+        "name": "FNATIC",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5934,
+            "following_count": 48,
+            "tweet_count": 827,
+            "listed_count": 15
+        },
+        "username": "itVALORANT",
+        "id": "1230560168959561729",
+        "name": "VALORANT - Italia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2495536,
+            "following_count": 599,
+            "tweet_count": 60478,
+            "listed_count": 1989
+        },
+        "username": "charlieINTEL",
+        "id": "15411797",
+        "name": "CharlieIntel",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1763180,
+            "following_count": 42,
+            "tweet_count": 2335,
+            "listed_count": 1451
+        },
+        "username": "PlayVALORANT",
+        "id": "1230550898616586242",
+        "name": "VALORANT",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 48,
+            "following_count": 238,
+            "tweet_count": 211,
+            "listed_count": 0
+        },
+        "username": "ChriShot90",
+        "id": "1972411447",
+        "name": "Christian Abbondo",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8130,
+            "following_count": 119,
+            "tweet_count": 12981,
+            "listed_count": 26
+        },
+        "username": "PGEsportsIT",
+        "id": "130864654",
+        "name": "PG Esports",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 363,
+            "following_count": 47,
+            "tweet_count": 255,
+            "listed_count": 3
+        },
+        "username": "UniEsportsIT",
+        "id": "831864348121366529",
+        "name": "Amazon University Esports | UES_it",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1160,
+            "following_count": 248,
+            "tweet_count": 56659,
+            "listed_count": 42
+        },
+        "username": "ProfidiAndrea",
+        "id": "2980521123",
+        "name": "Andrea Profidia",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 14445,
+            "following_count": 102,
+            "tweet_count": 62342,
+            "listed_count": 123
+        },
+        "username": "SOSFanta",
+        "id": "2274655171",
+        "name": "SOS Fanta",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8079726,
+            "following_count": 84,
+            "tweet_count": 62971,
+            "listed_count": 11493
+        },
+        "username": "acmilan",
+        "id": "186386857",
+        "name": "AC Milan",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 95841413,
+            "following_count": 60,
+            "tweet_count": 3736,
+            "listed_count": 84399
+        },
+        "username": "Cristiano",
+        "id": "155659213",
+        "name": "Cristiano Ronaldo",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8899974,
+            "following_count": 764,
+            "tweet_count": 21580,
+            "listed_count": 8755
+        },
+        "username": "Twitch",
+        "id": "309366491",
+        "name": "Twitch",
+        "protected": false
+    },
+    {
+        "public_metrics": {
+            "followers_count": 82830,
+            "following_count": 1086,
+            "tweet_count": 23949,
+            "listed_count": 38
+        },
+        "username": "POW3R_GC",
+        "id": "133022292",
+        "name": "Fnatic POW3R パワー",
+        "protected": false
+    }
+]

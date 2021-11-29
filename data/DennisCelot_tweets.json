@@ -1,0 +1,50 @@
+[
+    {
+        "created_at": "2021-11-25T12:52:50.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it",
+        "id": "1463853184670121991",
+        "text": "RT @AliceCasagrand0: Io mi meritavo un armadillo che mi aspetta a gambe incrociate davanti alla porta, invece ho un folletto che mi lascia…"
+    },
+    {
+        "created_at": "2021-11-20T18:42:29.000Z",
+        "public_metrics": {
+            "retweet_count": 7,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it",
+        "id": "1462129236404322306",
+        "text": "RT @raulooooooooo: perché dovrei preferire correre sotto la pioggia ad una bella foto di due tettozze giganti"
+    },
+    {
+        "created_at": "2021-11-12T18:53:06.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "it",
+        "id": "1459232806396121090",
+        "text": "RT @AliceCasagrand0: @acasagrande_ Quella volta che Dennis gli ha risposto \"no grazie ho un orto a casa\"? -.-"
+    },
+    {
+        "created_at": "2021-11-12T08:44:35.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "lang": "und",
+        "id": "1459079664861954080",
+        "text": "@dao_santa @marta_bortoluss @AliceCasagrand0 @DvdTrs"
+    }
+]

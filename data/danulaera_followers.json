@@ -1,0 +1,4631 @@
+[
+    {
+        "public_metrics": {
+            "followers_count": 479,
+            "following_count": 450,
+            "tweet_count": 284,
+            "listed_count": 5
+        },
+        "description": "Assistent Professor at @LMU_Muenchen, Alumni: @CarnegieMellon @cmuhcii, @Uni_Stuttgart.",
+        "name": "Sven Mayer",
+        "id": "2188573804",
+        "protected": false,
+        "username": "mayersn1802"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 40,
+            "following_count": 74,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "description": "Doctoral student researching tools to foster empathy on spatial experiences. Mix of #hci and #architecture\n\nCrowd Computing // UBICOMP // University of Oulu",
+        "name": "Ville Paananen",
+        "id": "1276258325664010244",
+        "protected": false,
+        "username": "ville_paananen_"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 771,
+            "following_count": 744,
+            "tweet_count": 794,
+            "listed_count": 42
+        },
+        "description": "Researcher at Spotify  -\ninterested in  user modeling, IR, NLP & ML",
+        "name": "Praveen Chandar",
+        "location": "New York, NY",
+        "id": "18874262",
+        "protected": false,
+        "username": "pchandarr"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 319,
+            "following_count": 561,
+            "tweet_count": 260,
+            "listed_count": 3
+        },
+        "description": "PhD @wisdelft. Trying to understand how people search on the web. Football/fitness extremist. Love hiking and nerd jokes. former @amazonscience, @pwc",
+        "name": "Nirmal Roy",
+        "location": "Delft",
+        "id": "75525450",
+        "protected": false,
+        "username": "_nirmalroy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 14056,
+            "following_count": 4781,
+            "tweet_count": 80747,
+            "listed_count": 0
+        },
+        "description": ".@cmuhcii, @ltiatcmu, . #hci, #a11y. AI/ML. #influencer of 4 children. 4 time @scsatcmu pretty good race champion.",
+        "name": "Jeff Bigham",
+        "location": "Pittsbiebergh, PA",
+        "id": "16136933",
+        "protected": false,
+        "username": "jeffbigham"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 461,
+            "following_count": 792,
+            "tweet_count": 5106,
+            "listed_count": 21
+        },
+        "description": "PhD Student @qutdmrc @AdmsCentre",
+        "name": "Ashwin Nag",
+        "location": "Brisbane, Queensland",
+        "id": "48587184",
+        "protected": false,
+        "username": "ashwinnag"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 986,
+            "following_count": 560,
+            "tweet_count": 1247,
+            "listed_count": 38
+        },
+        "description": "Media and internet researcher, Director of the ARC Centre of Excellence for Automated Decision-Making and Society",
+        "name": "Julian Thomas",
+        "location": "Melbourne",
+        "id": "33861957",
+        "protected": false,
+        "username": "juliant09"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 171,
+            "following_count": 951,
+            "tweet_count": 301,
+            "listed_count": 2
+        },
+        "description": "PhD @GeorgeMasonU | Incoming A-Scientist Intern @Alexa99 ‘22 |  Human-AI collaboration | Previously @Alexa99 @comcast @PhilipsResearch @inria_sophia |🇮🇳|📷|♛",
+        "name": "Rahul Pandey",
+        "location": "Fairfax, VA",
+        "id": "1800850879",
+        "protected": false,
+        "username": "RahulPandeyGMU"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 181,
+            "following_count": 88,
+            "tweet_count": 110,
+            "listed_count": 4
+        },
+        "description": "PhD Candidate at @wisdelft & @IBM working on understanding algorithmic and cognitive biases in web search || Behavioural Data Scientist || Dog dad",
+        "name": "Tim Draws",
+        "location": "Amsterdam, The Netherlands",
+        "id": "1222505104080809985",
+        "protected": false,
+        "username": "tmdrws"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 123,
+            "following_count": 1609,
+            "tweet_count": 152,
+            "listed_count": 1
+        },
+        "description": "Research is my romance, and romance is not built in a day. Juggling mechanisms and solutions as always. Scholarship becoming institutionalized @UT Austin.",
+        "name": "Fan Du",
+        "id": "249665093",
+        "protected": false,
+        "username": "caifandu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 121,
+            "following_count": 289,
+            "tweet_count": 22,
+            "listed_count": 5
+        },
+        "description": "",
+        "name": "Kevin Roitero",
+        "id": "3036907250",
+        "protected": false,
+        "username": "KevinRoitero"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 207,
+            "following_count": 225,
+            "tweet_count": 114,
+            "listed_count": 3
+        },
+        "description": "Lecturer at Research Group in Computational Linguistics (RGCL). Interested in Deep Learning in NLP.",
+        "name": "Tharindu Ranasinghe",
+        "location": "Wolverhampton, UK",
+        "id": "254541057",
+        "protected": false,
+        "username": "TharinduDR"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 774,
+            "following_count": 1101,
+            "tweet_count": 56,
+            "listed_count": 10
+        },
+        "description": "Research Fellow @ TCP Lab @DigitalEthno | @AdmsCentre |\ntech policy + journalism | 👏 @manutd | 👏 @melbournefc | 🎹 | he/him",
+        "name": "James Meese",
+        "location": "Melbourne",
+        "id": "1320513201071484928",
+        "protected": false,
+        "username": "meese_james"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 143,
+            "following_count": 215,
+            "tweet_count": 66,
+            "listed_count": 0
+        },
+        "description": "Grad Student at @NUSComputing,\nLecturer at @cse_uom,\nResearch interests - Interpretable Deep Learning,\nFrom @LK",
+        "name": "Sandareka Wickramanayake",
+        "location": "Singapore",
+        "id": "486471674",
+        "protected": false,
+        "username": "wsanda89"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10528,
+            "following_count": 1778,
+            "tweet_count": 30803,
+            "listed_count": 462
+        },
+        "description": "Professor @qutdmrc, Assoc. Dir. @admscentre. Author Twitter - A Biography w @nancybaym. Co-Editor @ijcs_journal Own thoughts, feelings.",
+        "name": "Prof Jean Burgess 🏳️‍🌈",
+        "location": "Jinibara country/Meanjin",
+        "id": "18202677",
+        "protected": false,
+        "username": "jeanburgess"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 462,
+            "following_count": 218,
+            "tweet_count": 1266,
+            "listed_count": 11
+        },
+        "description": "Mathematician.  Conducts inter-disciplinary research in data science/mathematics.",
+        "name": "Sevvandi K.",
+        "location": "Melbourne, Australia",
+        "id": "926336346578227201",
+        "protected": false,
+        "username": "Sevvandik"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 578,
+            "following_count": 344,
+            "tweet_count": 476,
+            "listed_count": 15
+        },
+        "description": "Research Scientist @Spotifyresearch | Information Science Ph.D. from @CUBoulder| Previously postdoc @NorthwesternU , interned at @Spotify and @pandoramusic",
+        "name": "Himan Abdollahpouri",
+        "location": "New York City, NY",
+        "id": "3223517814",
+        "protected": false,
+        "username": "himan_abd"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 49,
+            "following_count": 162,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "description": "HCI, Crowdsourcing and Machine Learning , PhD Student @ PAIRS lab, UTK\n\"We must design for the way people behave, not for how we would wish them to behave\".",
+        "name": "Senjuti Dutta",
+        "id": "1338903214427664385",
+        "protected": false,
+        "username": "senjutidutta2"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 933,
+            "following_count": 730,
+            "tweet_count": 892,
+            "listed_count": 7
+        },
+        "description": "@EECS_UTK Assistant Prof. | Expert on #HCI, #AI, & #Attention | Co-director of the PAIRS Laboratory | Prev: @UCIrvine @UWaterloo @MSFTResearch @UniofOxford",
+        "name": "Alex Williams",
+        "location": "Knoxville, Tennessee",
+        "id": "3223120420",
+        "protected": false,
+        "username": "acwio"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 57,
+            "following_count": 267,
+            "tweet_count": 147,
+            "listed_count": 0
+        },
+        "description": "video wall",
+        "name": "GoldTiger",
+        "id": "1352532851330330624",
+        "protected": false,
+        "username": "GoldTig46959605"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 126,
+            "following_count": 361,
+            "tweet_count": 13,
+            "listed_count": 3
+        },
+        "description": "TWeb is an ACM journal publishing refereed articles reporting the results of research on Web content, applications, use, and related enabling technologies.",
+        "name": "ACM Transactions on the Web",
+        "id": "1362516618023084032",
+        "protected": false,
+        "username": "TWebACM"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 433,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "Experiencing innovations",
+        "name": "Lakshan Wickramarachchi",
+        "id": "1429071666609418241",
+        "protected": false,
+        "username": "LakshanWickra11"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 328,
+            "following_count": 934,
+            "tweet_count": 199,
+            "listed_count": 3
+        },
+        "description": "Visiting Researcher at WI (@ucl_wi_group). Data Scientist at SanayCo. Interested in RecSyS, IR, and ML",
+        "name": "Hossein A. (Saeed) Rahmani",
+        "location": "Iran",
+        "id": "975115762712096768",
+        "protected": false,
+        "username": "srahmanidashti"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 162,
+            "following_count": 358,
+            "tweet_count": 154,
+            "listed_count": 8
+        },
+        "description": "",
+        "name": "mizzaro",
+        "id": "18932422",
+        "protected": false,
+        "username": "mizzaro"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 112,
+            "following_count": 549,
+            "tweet_count": 239,
+            "listed_count": 0
+        },
+        "description": "Computer scientist. In love with AJ. Prefer mountains. Both dogs and cats. Progressivism. Green handkerchief.",
+        "name": "Elisa",
+        "location": "Melbourne, Victoria",
+        "id": "64547887",
+        "protected": false,
+        "username": "elikary86"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2905,
+            "following_count": 2214,
+            "tweet_count": 5621,
+            "listed_count": 81
+        },
+        "description": "Digital media researcher. Data publics. Social Inclusion. Health. Digital Citizenship. Book: Automating Vision. ADM+S Centre, Social Innovation @Swinburne",
+        "name": "Anthony McCosker",
+        "location": "Melbourne",
+        "id": "124434709",
+        "protected": false,
+        "username": "ACMcCosker"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 587,
+            "following_count": 1416,
+            "tweet_count": 1023,
+            "listed_count": 3
+        },
+        "description": "Postdoctoral Research Fellow at the Monash University node of @admscentre. Working on media historical and media theoretical studies of automation and society",
+        "name": "Christopher O'Neill",
+        "id": "400648038",
+        "protected": false,
+        "username": "internet_chris"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 561,
+            "following_count": 991,
+            "tweet_count": 796,
+            "listed_count": 6
+        },
+        "description": "Postdoctoral Fellow @AdmsCentre @MelbLawSchool; Managing Editor @austfem; Researching vilification/hate speech against women; law, democracy, free speech & tech",
+        "name": "Dr Anjalee de Silva",
+        "location": "Melbourne, Australia",
+        "id": "737142087989108736",
+        "protected": false,
+        "username": "deSilva_Anjalee"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7658,
+            "following_count": 1488,
+            "tweet_count": 4049,
+            "listed_count": 103
+        },
+        "description": "Sexualities scholar studying sextech, sexual surveillance, sexual rights & the law. PostDoc @ADMSCentre @QUTDMRC Affiliate @BKCHarvard",
+        "name": "Dr Zahra Stardust",
+        "location": "Turrbal and Yuggera Country ",
+        "id": "389810409",
+        "protected": false,
+        "username": "ZahraStardust"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 28,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "chameera sandaruwan",
+        "id": "1357098614",
+        "protected": false,
+        "username": "chameerajasin"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2984,
+            "following_count": 208,
+            "tweet_count": 2165,
+            "listed_count": 76
+        },
+        "description": "I'm a search engine researcher. I tweet about information retrieval (IR) papers, events, and people.",
+        "name": "Mark Sanderson",
+        "location": "Melbourne",
+        "id": "127894322",
+        "protected": false,
+        "username": "IR_oldie"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 335,
+            "following_count": 402,
+            "tweet_count": 322,
+            "listed_count": 5
+        },
+        "description": "PhD candidate@TerrierTeam, University of Glasgow. Research interests: Text Mining, Information Retrieval, Recommendation.",
+        "name": "Xi Wang",
+        "location": "Glasgow, Scotland",
+        "id": "3061660476",
+        "protected": false,
+        "username": "wangxieric"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1607,
+            "following_count": 340,
+            "tweet_count": 515,
+            "listed_count": 31
+        },
+        "description": "The ARC Centre of Excellence for Automated Decision-Making and Society",
+        "name": "ARC Centre for Automated Decision-Making & Society",
+        "location": "Melbourne, Victoria",
+        "id": "1245923843119575041",
+        "protected": false,
+        "username": "AdmsCentre"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 58,
+            "following_count": 134,
+            "tweet_count": 63,
+            "listed_count": 0
+        },
+        "description": "Entrepreneur",
+        "name": "Thilina Fonseka",
+        "location": "Colombo",
+        "id": "2275959998",
+        "protected": false,
+        "username": "thilina_fonseka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 74,
+            "following_count": 1932,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Neneh Sillah",
+        "location": "Gambia",
+        "id": "1387830611440771079",
+        "protected": true,
+        "username": "NenehSi87267521"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 59,
+            "following_count": 249,
+            "tweet_count": 2,
+            "listed_count": 1
+        },
+        "description": "Love, Engagement, Anniversary එකට, Wedding එකට තෑගි දෙන්න",
+        "name": "Quickprint Kuruwita",
+        "location": "Kuruwita",
+        "id": "1408511254407307266",
+        "protected": false,
+        "username": "QKuruwita"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 890,
+            "following_count": 1777,
+            "tweet_count": 4422,
+            "listed_count": 26
+        },
+        "description": "Academic @CompScienceCU",
+        "name": "Sandy Gould",
+        "id": "56097623",
+        "protected": false,
+        "username": "sjjgo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 240,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "University of Moratuwa_E-Fac",
+        "name": "Ravi Fonseka",
+        "location": "Panadura, Sri Lanka",
+        "id": "1393731913341304833",
+        "protected": false,
+        "username": "FonsekaRavi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 300,
+            "following_count": 338,
+            "tweet_count": 270,
+            "listed_count": 1
+        },
+        "description": "Postdoc @Swinburne @AdmsCentre, PhD Applied Linguistics @unimelb, research on linguistic landscapes, Chinese diaspora, language in society, digital humanities",
+        "name": "rookielinguist",
+        "location": "Melbourne, Victoria",
+        "id": "1839159950",
+        "protected": false,
+        "username": "rookielinguist"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 585,
+            "following_count": 395,
+            "tweet_count": 5481,
+            "listed_count": 9
+        },
+        "description": "Digital Accessibility Advisor @RMIT. PhD from @cis_unimelb. Interested in accessibility in games, web and mobile. Opinions are my own. He/him/él",
+        "name": "Dr. Ronny Andrade",
+        "location": "Melbourne, Victoria",
+        "id": "18256350",
+        "protected": false,
+        "username": "ronandradep"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 123,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "description": "Academic |  Computer Scientist | Engineer | Culinary Enthusiast \nWorks at University of Moratuwa 🇱🇰",
+        "name": "Sunimal Rathnayake",
+        "location": "Sri Lanka",
+        "id": "1388482932440895490",
+        "protected": false,
+        "username": "sunimalrat"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 50,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Ashan Srilal",
+        "id": "1388553301889732612",
+        "protected": false,
+        "username": "SrilalAshan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 169,
+            "following_count": 120,
+            "tweet_count": 173,
+            "listed_count": 4
+        },
+        "description": "@RMIT Research Centre for Information Discovery and Data Analytics (CIDDA)",
+        "name": "Centre for Information Discovery & Data Analytics",
+        "location": "Melbourne, Australia",
+        "id": "1187585868493537280",
+        "protected": false,
+        "username": "rmit_cidda"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 833,
+            "following_count": 3127,
+            "tweet_count": 124,
+            "listed_count": 9
+        },
+        "description": "ACM CIKM 2021 Conference\n1-5 Nov 2021, Online",
+        "name": "CIKM 2021",
+        "location": "Gold Coast, QLD, Australia",
+        "id": "1190461842922995712",
+        "protected": false,
+        "username": "CIKM2021"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 442,
+            "following_count": 322,
+            "tweet_count": 444,
+            "listed_count": 9
+        },
+        "description": "ARC #DECRA & Lecturer at @Eng_IT_Sydney.  Member:@SydneyNano @CPC_usyd. Work in personalised wearables for enabling tech. Teach #HCI. Founding Chair @sydsigchi.",
+        "name": "Anusha Withana",
+        "location": "Sydney, Australia",
+        "id": "35681348",
+        "protected": false,
+        "username": "wdanusha"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 682,
+            "following_count": 2849,
+            "tweet_count": 4612,
+            "listed_count": 0
+        },
+        "description": "Research fellow in computational law @ADMSCentre. Other half of @CSnoswell. Tweets about robotics, machine learning and game development.",
+        "name": "Aaron Snoswell (薛嘉伦)",
+        "location": "Brisbane, Australia",
+        "id": "48354997",
+        "protected": false,
+        "username": "aaronsnoswell"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 239,
+            "following_count": 157,
+            "tweet_count": 36,
+            "listed_count": 2
+        },
+        "description": "Human-Computer Interaction Researcher\nSenior Lecturer @ The University of Melbourne",
+        "name": "Eduardo Velloso",
+        "location": "Melbourne, Victoria",
+        "id": "3901240271",
+        "protected": false,
+        "username": "ed_velloso"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1101,
+            "following_count": 2354,
+            "tweet_count": 8662,
+            "listed_count": 186
+        },
+        "description": "Postdoc @tokyotech_en w/@soramame0518|UX @credcoalition |RisingStar @Berkeley_EECS 20|RschSprint @BKCHarvard\n@Google WTM 17| @AnitaB_org scholar 18 |YR @HLForum",
+        "name": "Dilrukshi Gamage",
+        "location": "Colombo SriLanka mostly ;) ",
+        "id": "2240601558",
+        "protected": false,
+        "username": "Dilrukshi_LK"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 649,
+            "following_count": 2293,
+            "tweet_count": 4916,
+            "listed_count": 10
+        },
+        "description": "#blacklivesmatter - tech & justice - misinfo/disinfo/social media researcher @uwcip - undergrad @uwcse  - he/him - views my own",
+        "name": "Joey Schafer",
+        "id": "1085258452052525056",
+        "protected": false,
+        "username": "Joey__Schafer"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 957,
+            "following_count": 710,
+            "tweet_count": 24,
+            "listed_count": 4
+        },
+        "description": "Fair and Participatory AI, Algorithmic Management & Work, Human-Computer/Robot Interaction @UTAustin @UTiSchool asst prof @cmuhcii @kaistpr alum",
+        "name": "Min Kyung Lee",
+        "location": "Austin, U.S.",
+        "id": "1253734997334405120",
+        "protected": false,
+        "username": "minlee_hci"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 158,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Wang John",
+        "id": "742191733992083457",
+        "protected": false,
+        "username": "WangJohn1990"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 75,
+            "tweet_count": 18,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Dilini Sewwandi Rajapaksha",
+        "id": "1160092412313665536",
+        "protected": false,
+        "username": "DiliniSewwand11"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1048,
+            "following_count": 1047,
+            "tweet_count": 681,
+            "listed_count": 4
+        },
+        "description": "Creative Director, Science Gallery Melbourne @scigallerymel Grainger Museum @GraingerMuseum #science #art #music & the blurriness in between 🔬🤖🧜‍♂️ (he/they)",
+        "name": "Ryan Jefferies",
+        "location": "Wurundjeri land ",
+        "id": "837795763224633345",
+        "protected": false,
+        "username": "_ryanjefferies"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2340,
+            "following_count": 1671,
+            "tweet_count": 4457,
+            "listed_count": 97
+        },
+        "description": "Executive Dean @RMITComputing; AI in medicine; text mining, bioinformatics, #DigitalHealth #NLProc #techdiversity #TeamHB3 pronouns: she/her",
+        "name": "professor karin verspoor",
+        "location": "Melbourne, Australia",
+        "id": "16549460",
+        "protected": false,
+        "username": "karinv"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 430,
+            "following_count": 1128,
+            "tweet_count": 332,
+            "listed_count": 5
+        },
+        "description": "Ph.D. Student @UTiSchool |Previously Software Engineer @Microsoft| I think about Human-Centered NLP | #NLP #HCI",
+        "name": "Anubrata Das",
+        "location": "Austin, TX",
+        "id": "320568816",
+        "protected": false,
+        "username": "d_anubrata"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 967,
+            "following_count": 824,
+            "tweet_count": 2863,
+            "listed_count": 55
+        },
+        "description": "PhD in Computer Science. Lecturer & DECRA at @RMIT, @RMITComputing, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira @ACDP_Australia. Percussionist at @Wombatuque.",
+        "name": "Damiano Spina",
+        "location": "Melbourne, Australia",
+        "id": "132646210",
+        "protected": false,
+        "username": "damiano10"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3516,
+            "following_count": 1590,
+            "tweet_count": 6908,
+            "listed_count": 25
+        },
+        "description": "Biomedical engineer developing new medical implants | Associate Dean HDR | Associate Professor at RMIT | Former Superstar of STEM | Thoughts are my own",
+        "name": "Kate Fox 💎🦴",
+        "location": "Melbourne, Victoria",
+        "id": "803501656075694080",
+        "protected": false,
+        "username": "Engineeringkate"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 287,
+            "following_count": 2877,
+            "tweet_count": 3945,
+            "listed_count": 26
+        },
+        "description": "## penuntut ilmu ##",
+        "name": "Aditya L. Ramadona",
+        "location": "Yogyakarta, Indonesia",
+        "id": "192086031",
+        "protected": false,
+        "username": "alramadona"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1567,
+            "following_count": 3791,
+            "tweet_count": 7493,
+            "listed_count": 47
+        },
+        "description": "Understanding and supporting people in their spatial interactions through computational #spatial #data #science #giscience @unimelb, own views, he/him/his",
+        "name": "Martin Tomko",
+        "location": "Kulin nation land / Melbourne ",
+        "id": "108989193",
+        "protected": false,
+        "username": "dinomirMT"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 988,
+            "following_count": 997,
+            "tweet_count": 5418,
+            "listed_count": 10
+        },
+        "description": "Postdoctoral Research Fellow @rmit @AdmsCentre. Digital inclusion and participation, creative and cultural industries and institutions.",
+        "name": "Indigo Holcombe-James",
+        "location": "Melbourne, Victoria",
+        "id": "2604894992",
+        "protected": false,
+        "username": "Indigo_H_J"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 261,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "PhD Candidate in Computing and Information Systems at the University of Melbourne, Australia",
+        "name": "Gabriele Marini",
+        "location": "Melbourne, Australia",
+        "id": "2485662151",
+        "protected": false,
+        "username": "Gabryxx7"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 121,
+            "following_count": 125,
+            "tweet_count": 101,
+            "listed_count": 3
+        },
+        "description": "Researcher in Machine Learning and Databases, Data Engineer, Programmer.",
+        "name": "R. Malinga Perera",
+        "location": "Melbourne, Australia ",
+        "id": "372753908",
+        "protected": false,
+        "username": "malingaperera"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 935,
+            "following_count": 296,
+            "tweet_count": 592,
+            "listed_count": 10
+        },
+        "description": "The account for the University of Melbourne School of Computing and Information Systems.\n#BRAID affiliate 2019\nhttps://t.co/DK8cHEpS6f",
+        "name": "Computing & Information Systems UniMelb",
+        "location": "Melbourne, Victoria",
+        "id": "940445534556364800",
+        "protected": false,
+        "username": "cis_unimelb"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80984,
+            "following_count": 55678,
+            "tweet_count": 13118,
+            "listed_count": 338
+        },
+        "description": "Procrastination, Perfectionism, Overcommitment and the Imposter Syndrome. Flinders University, Adelaide, iThinkWell. Lecturer, researcher and author.",
+        "name": "Hugh Kearns",
+        "location": "Adelaide, South Australia",
+        "id": "3312317120",
+        "protected": false,
+        "username": "ithinkwellHugh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7952,
+            "following_count": 6106,
+            "tweet_count": 70164,
+            "listed_count": 1924
+        },
+        "description": "Tech news and ICT updates brought to you by specialists at the RMIT University's School of Computing Technologies, based in Melbourne, Australia.",
+        "name": "RMIT School of Computing Technologies",
+        "location": "Melbourne, Australia",
+        "id": "93781753",
+        "protected": false,
+        "username": "RMITComputing"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 997,
+            "following_count": 790,
+            "tweet_count": 1321,
+            "listed_count": 28
+        },
+        "description": "Assistant Professor @wisdelft @tudelft. ACM Distinguished Speaker.\nHCI | Crowd Computing | Human-centered AI |  Information Retrieval | #TAFF",
+        "name": "Ujwal Gadiraju",
+        "id": "59217922",
+        "protected": false,
+        "username": "UjLaw"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 264,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Dennis",
+        "id": "290978483",
+        "protected": false,
+        "username": "stvreumi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 970,
+            "following_count": 1009,
+            "tweet_count": 2167,
+            "listed_count": 55
+        },
+        "description": "Prof @RMITComputing @rmit_cidda @AdmsCentre in #ML #AI #UbiComp, @AvHStiftung @BayerFoundation Humboldt-Bayer Fellow, @veskiorg VIC fellow ‘18, academic mum",
+        "name": "Flora Salim",
+        "location": "Melbourne, Victoria",
+        "id": "39697728",
+        "protected": false,
+        "username": "flosalim"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 293,
+            "following_count": 254,
+            "tweet_count": 136,
+            "listed_count": 4
+        },
+        "description": "Amazon AWS AI. Fairness/Explainability/Privacy. Past: LinkedIn AI, Microsoft Research. Computational Education, Web Search, Graph Algorithms. Opinions my own.",
+        "name": "Krishnaram Kenthapadi",
+        "location": "Sunnyvale, CA",
+        "id": "18033313",
+        "protected": false,
+        "username": "kkenthapadi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9793,
+            "following_count": 7196,
+            "tweet_count": 12434,
+            "listed_count": 205
+        },
+        "description": "💼 Prof @Northeastern\n🏛️ Director Civic A.I. Lab + @CivicUnam \n🤓Expert: Gig Work+Disinfo+ Public Interest Tech\n💡Innovator Under 35 @MIT\n👷 Former Tech Worker",
+        "name": "Dr. Saiph Savage 🏛🧪",
+        "location": "Cambridge, MA—Ciudad de México",
+        "id": "16507835",
+        "protected": false,
+        "username": "saiphcita"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 274,
+            "tweet_count": 191,
+            "listed_count": 2
+        },
+        "description": "CERC fellow in health intelligence @ehealthresearch @CSIRO. Previously @anucecs, @ourANU, AFHEA, dancer, travel enthusiast.  She/her.",
+        "name": "Jessica Sharmin Rahman",
+        "location": "Canberra, Australia",
+        "id": "1306451236997144576",
+        "protected": false,
+        "username": "JessicaSRahman"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 144,
+            "following_count": 535,
+            "tweet_count": 1971,
+            "listed_count": 14
+        },
+        "description": "Meghalayan at heart, Philospher deep inside.",
+        "name": "Priyankar",
+        "location": "Melbourne, Victoria",
+        "id": "1172949955",
+        "protected": false,
+        "username": "techimonki"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 211,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "Lecturer | Researcher | Designer | Writer",
+        "name": "Samangi Wadinambi Arachchi",
+        "id": "805434067068063745",
+        "protected": false,
+        "username": "SamWadara"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 69,
+            "following_count": 118,
+            "tweet_count": 536,
+            "listed_count": 0
+        },
+        "description": "At least Before your death, you will figure out the truth. But then You may be too late.. Keep Faith.. :)\nSoftware Engineer | Mathematics",
+        "name": "Jawadh Salih Rifath",
+        "location": "Sri Lanka",
+        "id": "2273243690",
+        "protected": false,
+        "username": "JawadhSalih"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 47,
+            "following_count": 354,
+            "tweet_count": 67,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Akila Sandakelum",
+        "id": "918769736",
+        "protected": false,
+        "username": "SandakelumAkila"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1472,
+            "following_count": 917,
+            "tweet_count": 155,
+            "listed_count": 2
+        },
+        "description": "🎮 phd student (engineering) • computing and information systems • human-computer interaction @ unimelb • digital careers + cosplay research",
+        "name": "madeleine antonellos.",
+        "location": "Melbourne, Victoria",
+        "id": "887557514916577281",
+        "protected": false,
+        "username": "mkantonellos"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 192,
+            "following_count": 421,
+            "tweet_count": 3041,
+            "listed_count": 3
+        },
+        "description": "HCI Researcher",
+        "name": "BT",
+        "id": "548254621",
+        "protected": false,
+        "username": "TagBenjamin"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 169,
+            "following_count": 290,
+            "tweet_count": 65,
+            "listed_count": 0
+        },
+        "description": "PhD Student at University of Melbourne",
+        "name": "Senuri Wijenayake",
+        "location": "Melbourne, Victoria",
+        "id": "2197339015",
+        "protected": false,
+        "username": "SenuriW"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 273,
+            "following_count": 543,
+            "tweet_count": 902,
+            "listed_count": 0
+        },
+        "description": "Ph.D. Student in KIXLAB, KAIST. Interested in HAI, conversational interaction, and creativity support. Let's make something special🥂",
+        "name": "Yoonseo Choi / 윤서",
+        "location": "대한민국 대전",
+        "id": "1004641004849262593",
+        "protected": false,
+        "username": "yoon0u0"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 115,
+            "tweet_count": 47,
+            "listed_count": 2
+        },
+        "description": "HCI+ML Scientist at Amazon AI",
+        "name": "Mike Schaekermann",
+        "location": "Waterloo, Ontario",
+        "id": "524234866",
+        "protected": false,
+        "username": "HardyShakerman"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 352,
+            "following_count": 1513,
+            "tweet_count": 9497,
+            "listed_count": 1
+        },
+        "description": "(ðɒmɪθ ɑsɑŋkə) අඹ ඔයන්න පොල් බයන්න\nPostdoc at @unimelb \nData Science, Singe Cell stuff, Topology, Computational Geometry,",
+        "name": "දමිත් අසංක සේනානායක Damith Senanayake",
+        "id": "103880829",
+        "protected": false,
+        "username": "Dracusds123"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 49,
+            "tweet_count": 83,
+            "listed_count": 0
+        },
+        "description": "Either silence or questions",
+        "name": "Nitesh",
+        "id": "1303318409338216450",
+        "protected": false,
+        "username": "Nitesh_Jyo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 122,
+            "following_count": 767,
+            "tweet_count": 4233,
+            "listed_count": 0
+        },
+        "description": "🩸🦷.",
+        "name": "scardt",
+        "id": "883313161884925953",
+        "protected": false,
+        "username": "thesecretholme"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 233,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Lahiru Herath",
+        "location": "Siegen, Germany",
+        "id": "31073930",
+        "protected": false,
+        "username": "lahiruherath"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 243,
+            "tweet_count": 675,
+            "listed_count": 0
+        },
+        "description": "News, entertainment and lifestyle - Sinhalese weekend TV",
+        "name": "AusLanka TV",
+        "id": "1298868028164018177",
+        "protected": false,
+        "username": "AuslankaT"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 560,
+            "following_count": 1051,
+            "tweet_count": 210,
+            "listed_count": 0
+        },
+        "description": "Assistant professor @dgist_korea interested in the intersections of crowdsourcing, machine learning, and cognitive psychology.",
+        "name": "Jean Y. Song",
+        "location": "대한민국 대전",
+        "id": "880244207939497984",
+        "protected": false,
+        "username": "jeanysong"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 319,
+            "following_count": 202,
+            "tweet_count": 2230,
+            "listed_count": 1
+        },
+        "description": "CS PhD student @Yale | \nAlum @RiceUniversity @royalcollegelk @ENTC_UoM | \nhttps://t.co/QEWqhts3Hm |\nResearch : QEC, Multi-FPGA",
+        "name": "Namitha Liyanage",
+        "location": "New Haven, CT",
+        "id": "429646309",
+        "protected": false,
+        "username": "NamithaLiyanage"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 161,
+            "following_count": 362,
+            "tweet_count": 230,
+            "listed_count": 2
+        },
+        "description": "Which doesn't kill you makes you stronger",
+        "name": "KRV",
+        "location": "Sri Lanka",
+        "id": "360357112",
+        "protected": false,
+        "username": "KRVPerera"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 88,
+            "following_count": 470,
+            "tweet_count": 224,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Pubudu Dodangoda",
+        "id": "4747243286",
+        "protected": false,
+        "username": "dodangod"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 445,
+            "following_count": 747,
+            "tweet_count": 2652,
+            "listed_count": 11
+        },
+        "description": "TASDCRC @ UQ & armchair political commentator.\nI research how to design technology with and for disempowered people.",
+        "name": "Dr Jessica Korte (She/her) | Working from home",
+        "location": "Australia",
+        "id": "242117740",
+        "protected": false,
+        "username": "jesskorte"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 75,
+            "following_count": 235,
+            "tweet_count": 88,
+            "listed_count": 0
+        },
+        "description": "Engineer, designer.\n\nCurrently working at @AirthingsGlobal. \nPrevious worked at @oDochealth",
+        "name": "Yasiru Kassapa",
+        "location": "Oslo, NO",
+        "id": "17089791",
+        "protected": false,
+        "username": "yasiruk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 401,
+            "following_count": 1741,
+            "tweet_count": 113,
+            "listed_count": 0
+        },
+        "description": "Optimistic Contrarian | @iitdelhi",
+        "name": "Anchit Tandon",
+        "location": "Noida, Uttar Pradesh, India",
+        "id": "914238336503390208",
+        "protected": false,
+        "username": "anchit_tandon"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 206,
+            "following_count": 352,
+            "tweet_count": 1577,
+            "listed_count": 7
+        },
+        "description": "Senior Scientist (AI) at VTT Technical Research Center of Finland &\nAssistant Professor at University of Oulu",
+        "name": "Miguel Bordallo",
+        "location": "Oulu, Suomi",
+        "id": "4506131",
+        "protected": false,
+        "username": "gatafunho"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 703,
+            "following_count": 618,
+            "tweet_count": 823,
+            "listed_count": 17
+        },
+        "description": "Speaker, Cloud and Container technology advocate and Open Source enthusiast. Technology evangelist. Work @WSO2. 🇱🇰 in 🇺🇸",
+        "name": "Lakmal Warusawithana",
+        "location": "California",
+        "id": "105070986",
+        "protected": false,
+        "username": "lakwarus"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 129,
+            "following_count": 409,
+            "tweet_count": 269,
+            "listed_count": 1
+        },
+        "description": "Doctoral candidate @  #TUe, working on Real-time Crowdsourcing & Conversational User Interfaces, father of a beautiful son 💓",
+        "name": "Tahir",
+        "location": "North Brabant, The Netherlands",
+        "id": "465693357",
+        "protected": false,
+        "username": "tahir_80"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 338,
+            "following_count": 315,
+            "tweet_count": 196,
+            "listed_count": 3
+        },
+        "description": "OzCHI 2021\nThe 33rd Australian Conference on Human-Computer Interaction, 30 November - 3 December 2021",
+        "name": "OzCHI 2021",
+        "location": "Online",
+        "id": "1226303348929728514",
+        "protected": false,
+        "username": "ozchiconf"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 170,
+            "following_count": 188,
+            "tweet_count": 374,
+            "listed_count": 5
+        },
+        "description": "Data Scientist @WSO2 |\nPhD candidate @OUGradSch, @OU_SEAD |\nFounder & Chairperson @goasksef | \nPrevious: @Google SA, @sutdsg, @idcMIT, @openmrs | \nhttps://t.co/HlZRLD3CMU",
+        "name": "Akshika Wijesundara",
+        "id": "1264742571454144513",
+        "protected": false,
+        "username": "AkshikaW"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 126,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Gayan Hewage",
+        "location": "Colombo",
+        "id": "386449991",
+        "protected": false,
+        "username": "GayanHewage"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1449,
+            "following_count": 9937,
+            "tweet_count": 171,
+            "listed_count": 8
+        },
+        "description": "@ChiXAustralia is the securities & derivatives exchange transforming the Australian investment market through a focus on customers & innovation.",
+        "name": "Chi-X | A Cboe Global Markets Company 📈🔔",
+        "location": "Sydney Australia",
+        "id": "549692454",
+        "protected": false,
+        "username": "ChiXAustralia"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 151,
+            "following_count": 278,
+            "tweet_count": 348,
+            "listed_count": 0
+        },
+        "description": "Crowd Computing research group at the University of Oulu, Finland\nhttps://t.co/FoTDYhkIyb",
+        "name": "Crowd Computing @Oulu",
+        "location": "Oulu, Finland",
+        "id": "1268481811925082113",
+        "protected": false,
+        "username": "ComputingCrowd"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 111,
+            "following_count": 180,
+            "tweet_count": 59,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "shehan lema",
+        "location": "Sri Lanka",
+        "id": "116999720",
+        "protected": false,
+        "username": "shehanlema"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 40,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "HCI researcher, digital ethics, care robot, robot ethics and care robot for aged care.",
+        "name": "Stella Yuan",
+        "id": "1270643044249767937",
+        "protected": false,
+        "username": "Stella06353375"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 701,
+            "following_count": 1037,
+            "tweet_count": 1631,
+            "listed_count": 0
+        },
+        "description": "Design-oriented research into tech for better connections with the natural world.",
+        "name": "Dr Sarah",
+        "location": "Melbourne",
+        "id": "141768762",
+        "protected": false,
+        "username": "sarahwebber01"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 532,
+            "following_count": 193,
+            "tweet_count": 1937,
+            "listed_count": 0
+        },
+        "description": "PhD Student @EPFL, RA @idiap_ch 🔴 ubicomp, mobile sensing, digital health & human-centered AI 🔴 traveling & hiking",
+        "name": "Lakmal Meegahapola",
+        "location": "Switzerland",
+        "id": "124755471",
+        "protected": false,
+        "username": "lakmalbuddika"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 444,
+            "following_count": 703,
+            "tweet_count": 673,
+            "listed_count": 20
+        },
+        "description": "Lecturer (Assistant Professor) in Immersive Analytics at iaLab, Monash University.\nResearches #AR #VR #MR #dataviz #HCI #ComputerGraphics. @monashimmersive",
+        "name": "Maxime Cordeil",
+        "location": "Monash University Melbourne",
+        "id": "568947767",
+        "protected": false,
+        "username": "MaximeCordeil"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 168,
+            "following_count": 232,
+            "tweet_count": 263,
+            "listed_count": 0
+        },
+        "description": "Computer Scientist. Researcher. Educator.",
+        "name": "Tilman",
+        "location": "Melbourne",
+        "id": "16263810",
+        "protected": false,
+        "username": "scrankskunk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 77,
+            "following_count": 147,
+            "tweet_count": 175,
+            "listed_count": 1
+        },
+        "description": "👷🏾‍♂️⚡|🇱🇰|🤸🏾‍♂️🏉|Alumni UoM",
+        "name": "Sachit Tissera",
+        "id": "3311697090",
+        "protected": false,
+        "username": "SachitTis"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 580,
+            "following_count": 612,
+            "tweet_count": 375,
+            "listed_count": 7
+        },
+        "description": "Human-computer interaction researcher - studying design and use of emerging tech for enrichment in later life.",
+        "name": "Dr Jenny Waycott",
+        "location": "Melbourne",
+        "id": "1395394352",
+        "protected": false,
+        "username": "jlwaycott"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1199,
+            "following_count": 1472,
+            "tweet_count": 1784,
+            "listed_count": 25
+        },
+        "description": "Snr Design Researcher @hellopapergiant / Good friend of @unimelb @scigallerymel / Digital Ethics / Immersion / Interaction / Museums / #BiometricMirror",
+        "name": "Niels Wouters 🤖",
+        "location": "Melbourne, Australia",
+        "id": "376109302",
+        "protected": false,
+        "username": "mediatecture"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 296,
+            "following_count": 577,
+            "tweet_count": 2026,
+            "listed_count": 9
+        },
+        "description": "Consultant, .NET developer, tech speaker with unhealthy focus on distributed systems, overly keen problem solver and improving cricketer. Currently @Microsoft.",
+        "name": "Dasith Wijes",
+        "location": "Melbourne, Australia",
+        "id": "36103323",
+        "protected": false,
+        "username": "dasiths"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 128,
+            "following_count": 325,
+            "tweet_count": 84,
+            "listed_count": 1
+        },
+        "description": "Software Engineer",
+        "name": "Pubudu Fernando",
+        "location": "Sri Lanka",
+        "id": "2869868986",
+        "protected": false,
+        "username": "pubuduaf"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 28293,
+            "following_count": 8263,
+            "tweet_count": 7074,
+            "listed_count": 125
+        },
+        "description": "I help academics to promote their work online.\nShowcasing your talent and side-projects online will push and pivot your career\nClick here for Youtube channel 👇",
+        "name": "Career Conversations",
+        "id": "1015890234939269120",
+        "protected": false,
+        "username": "careerconversa1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 19,
+            "tweet_count": 38,
+            "listed_count": 0
+        },
+        "description": "CHI DOWNUNDER is a local virtual event for Australia and New Zealand, in lieu of CHI 2020. This informal event will be held on 21-22 May 2020.",
+        "name": "CHI Down Under 2020",
+        "id": "1254573626784800768",
+        "protected": false,
+        "username": "CHI_DownUnder"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 518,
+            "following_count": 536,
+            "tweet_count": 6949,
+            "listed_count": 4
+        },
+        "description": "researcher/learner. #datavisualisation #immersiveanalytics  #geovisualisation. Highly appreciate the time spent on ginger beer and gaming nights. 🇮🇩🇦🇺",
+        "name": "Kadek A. Satriadi",
+        "location": "Adelaide, South Australia",
+        "id": "306224932",
+        "protected": false,
+        "username": "KadekASatriadi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 96,
+            "following_count": 215,
+            "tweet_count": 30,
+            "listed_count": 0
+        },
+        "description": "PhD student in Human-Centered Computing @ICatGT @GeorgiaTech | Prev. @NYCU_official @unimelb National Taiwan University",
+        "name": "Hao-Ping (Hank) Lee",
+        "location": "Atlanta, GA",
+        "id": "726593895593730049",
+        "protected": false,
+        "username": "hankhplee"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 434,
+            "following_count": 1601,
+            "tweet_count": 11900,
+            "listed_count": 15
+        },
+        "description": "Ordinary Guy With Extraordinary Aspirations ;)\n\r\nRetweets do not equal endorsements.\n\r\n#BloodONlka",
+        "name": "Nish 💙",
+        "location": "Sri Lanka",
+        "id": "50251148",
+        "protected": false,
+        "username": "2snish"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 505,
+            "following_count": 827,
+            "tweet_count": 5438,
+            "listed_count": 8
+        },
+        "description": "Robotics Engineer + Researcher | Software Developer | Signal Processing Engineer at @Minelab | Previously @uts_ri @VirginiaTech_ME @SyscoLABSSL @cse_uom",
+        "name": "Janindu Arukgoda",
+        "location": "Adelaide, South Australia",
+        "id": "137581222",
+        "protected": false,
+        "username": "JaninduAruk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10754,
+            "following_count": 3423,
+            "tweet_count": 33597,
+            "listed_count": 0
+        },
+        "description": "I write for a living. \nInterests: #lka #SriLanka #gamification #Education #learning #ICT #schoolreform #pedagogy #Reading #Philately I donate blood #BloodOPlka",
+        "name": "W.G.T. Fernando #lka #SriLanka",
+        "location": "Sri Lanka",
+        "id": "21703489",
+        "protected": false,
+        "username": "gihangamos"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 755,
+            "following_count": 580,
+            "tweet_count": 444,
+            "listed_count": 17
+        },
+        "description": "Sr. Research Scientist @autodesk.\nPast: Researcher @UCLIC and intern at @MSFTResearch in Redmond, WA. PhD in computer science, HCI from @UCL.\nHe/him.",
+        "name": "Frederik Brudy",
+        "location": "London",
+        "id": "18808546",
+        "protected": false,
+        "username": "kopfnuss"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 319,
+            "following_count": 415,
+            "tweet_count": 2702,
+            "listed_count": 0
+        },
+        "description": "HCI-AI Researcher at @CIS_UniMelb @UniMelb. I like to build things.",
+        "name": "Joshua Newn",
+        "location": "Melbourne, Australia",
+        "id": "436487381",
+        "protected": false,
+        "username": "JoshuaNewn"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4877,
+            "following_count": 5108,
+            "tweet_count": 1010,
+            "listed_count": 8
+        },
+        "description": "On the Job Market | CS PhD from @ComputingCrowd @ubicomp_oulu @UniOulu. Also @kettlebellz. Lived in 🇫🇮🇨🇭🇫🇷🇬🇧🇸🇪🇲🇰🇺🇸🇩🇪.",
+        "name": "☀ Jonas Oppenlaender | on the job market",
+        "location": "🇲🇰 Skopje, Macedonia",
+        "id": "14616323",
+        "protected": false,
+        "username": "Duesynapse"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 864,
+            "following_count": 855,
+            "tweet_count": 4194,
+            "listed_count": 28
+        },
+        "description": "Research fellow at @UniMelb with @DeathTechTeam. Digital cemetery tech, voice-controlled games, death in games. Standing athwart climate change, yelling Stop.",
+        "name": "Fraser Allison",
+        "location": "Melbourne, Australia",
+        "id": "22252973",
+        "protected": false,
+        "username": "heresathought"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 355,
+            "tweet_count": 88,
+            "listed_count": 0
+        },
+        "description": "PhD student at the School of Computing and Information Systems @cis_unimelb at Melbourne School of Engineering @engunimelb @unimelb",
+        "name": "Elsy Garcia",
+        "location": "Melbourne, Victoria",
+        "id": "981146714282209281",
+        "protected": false,
+        "username": "epgarciar_elsy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 136,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Charith Udugama",
+        "id": "1215820395972038657",
+        "protected": false,
+        "username": "CharithUdugama"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1906,
+            "following_count": 1537,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "description": "Finnish Twitter is a dark place. On a break. \n\nAssociate Professor, University of Oulu || Digital Entrepreneur, Kaizen Hour",
+        "name": "Simo Hosio",
+        "location": "Personal growth newsletter  ➡️",
+        "id": "82301968",
+        "protected": false,
+        "username": "SimoHosio"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 214,
+            "tweet_count": 188,
+            "listed_count": 4
+        },
+        "description": "AI specialist | data lover | inventor | researcher | mum | Australia most innovative engineer 2018 | Veski Fellow 2020 | art lover. My tweets are my own",
+        "name": "Fatemeh Ja",
+        "id": "2475934669",
+        "protected": false,
+        "username": "Fa_Jalali62"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 201,
+            "following_count": 467,
+            "tweet_count": 100,
+            "listed_count": 4
+        },
+        "description": "",
+        "name": "Thanura W",
+        "location": "Melbourne, Australia",
+        "id": "190836305",
+        "protected": false,
+        "username": "ThanuraBW"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 294,
+            "following_count": 476,
+            "tweet_count": 1739,
+            "listed_count": 11
+        },
+        "description": "Senior Research Fellow in Human-Computer Interaction, School of Computing and Information Systems, The University of Melbourne",
+        "name": "Ryan Kelly",
+        "location": "Victoria, Australia",
+        "id": "100883450",
+        "protected": false,
+        "username": "ryanmkel"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 140,
+            "following_count": 2420,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Cabrera Nicola",
+        "id": "1169523665115000832",
+        "protected": false,
+        "username": "CabreraNicola2"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 93,
+            "following_count": 131,
+            "tweet_count": 39,
+            "listed_count": 3
+        },
+        "description": "Software Developer / Web Designer",
+        "name": "Ruwan Egodawatte",
+        "location": "Colombo, Sri Lanka",
+        "id": "998721",
+        "protected": false,
+        "username": "ruwanego"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 148,
+            "following_count": 381,
+            "tweet_count": 150,
+            "listed_count": 2
+        },
+        "description": "Media Technology, Visualisation, Human-Computer-Interaction, Innovations",
+        "name": "Artur Lugmayr",
+        "location": "Perth, Western Australia",
+        "id": "17017572",
+        "protected": false,
+        "username": "lartur"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 215,
+            "following_count": 467,
+            "tweet_count": 62,
+            "listed_count": 0
+        },
+        "description": "Traveler | 31 countries | PhD, Cambridge | BSc Hons., Moratuwa | Royalist",
+        "name": "Sumudu Herath",
+        "location": "Cambridge, England",
+        "id": "459445982",
+        "protected": false,
+        "username": "sumuduherath"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 95,
+            "tweet_count": 57,
+            "listed_count": 0
+        },
+        "description": "PhD Candidate @engunimelb | Former Research Intern @IBMAustralia | Former Software Engineer| See my research in 1 min: https://t.co/MQTMntAShP",
+        "name": "Maneesha Perera",
+        "location": "Australia",
+        "id": "1440225882",
+        "protected": false,
+        "username": "maneesha_gsp"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 66,
+            "following_count": 345,
+            "tweet_count": 929,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Geethanga Wijesinghe",
+        "location": "Sri Lanka",
+        "id": "1038357391811563520",
+        "protected": false,
+        "username": "GeethangaWijes1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 65,
+            "following_count": 156,
+            "tweet_count": 438,
+            "listed_count": 0
+        },
+        "description": "Researcher",
+        "name": "mackeprm",
+        "location": "Berlin, Deutschland",
+        "id": "936182463801561088",
+        "protected": false,
+        "username": "mackeprm"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 89,
+            "following_count": 1231,
+            "tweet_count": 20,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Shalitha",
+        "location": "Melbourne, Victoria",
+        "id": "46133605",
+        "protected": false,
+        "username": "shalitha"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1189,
+            "following_count": 1619,
+            "tweet_count": 1754,
+            "listed_count": 0
+        },
+        "description": "Associate Professor in Human-Computer Interaction at @CompSciAAU 🇩🇰\nresearch: experience sampling #ESM/#EMA, human-AI, knowledge of the crowd.",
+        "name": "Niels van Berkel",
+        "location": "Aalborg, Denmark",
+        "id": "244060651",
+        "protected": false,
+        "username": "nielsvberkel"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 833,
+            "following_count": 3180,
+            "tweet_count": 221,
+            "listed_count": 3
+        },
+        "description": "#Living_and_breathing_Digital  #Advertising  #Marketer #MovieLover",
+        "name": "Madura Uhangoda",
+        "location": "Sri Lanka",
+        "id": "600178214",
+        "protected": false,
+        "username": "MaduraUhangoda"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 268,
+            "following_count": 2829,
+            "tweet_count": 2,
+            "listed_count": 1
+        },
+        "description": "Only death can erase everything .. There is no greater end than death ..",
+        "name": "MD  faruk",
+        "location": "Bangladesh.feni",
+        "id": "995603155156008961",
+        "protected": false,
+        "username": "MDumarf61692598"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 934,
+            "following_count": 1790,
+            "tweet_count": 27458,
+            "listed_count": 0
+        },
+        "description": "Web Developer, Web Editor, Translator, Nature Lover, Cricket Fan. Views are personal. RTs & Likes are not endorsements.",
+        "name": "Udendra Geeganage",
+        "location": "Sri Lanka",
+        "id": "50232571",
+        "protected": false,
+        "username": "udendra"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 102,
+            "following_count": 357,
+            "tweet_count": 8,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "ruchira madhusankha",
+        "location": "Bentota",
+        "id": "1238473620",
+        "protected": false,
+        "username": "ruchiramadhusan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 22,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "AT Digital",
+        "id": "899225360969207808",
+        "protected": false,
+        "username": "atdigitalsl"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 397,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "w c dabarera",
+        "id": "890514343300747265",
+        "protected": false,
+        "username": "dabarewc"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1909,
+            "following_count": 4388,
+            "tweet_count": 5969,
+            "listed_count": 6
+        },
+        "description": "everything sizzles...even your appetite!",
+        "name": "The Sizzle",
+        "location": "Colombo",
+        "id": "769203872",
+        "protected": false,
+        "username": "TheSizzle1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 34,
+            "following_count": 332,
+            "tweet_count": 1238,
+            "listed_count": 0
+        },
+        "description": "Be patient with yourself. Self-growth is tender; it’s holy ground. There’s no greater investment. - Stephen Covey -",
+        "name": "Dasun Sapuarachchi",
+        "location": "Sri Lanka",
+        "id": "583493214",
+        "protected": true,
+        "username": "dino_hirako"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 415,
+            "following_count": 2591,
+            "tweet_count": 90,
+            "listed_count": 0
+        },
+        "description": "I love my life.",
+        "name": "Prasad Buddika",
+        "location": "Sri Lanka",
+        "id": "853955170337787905",
+        "protected": false,
+        "username": "PrasadBuddika8"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 179,
+            "tweet_count": 46,
+            "listed_count": 0
+        },
+        "description": "Mechanical Engineer",
+        "name": "Lakshan Wickramasinghe",
+        "location": "Sri Lanka",
+        "id": "878269045052755968",
+        "protected": false,
+        "username": "lakshan_dlw"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 97,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "Dad's son",
+        "name": "Nadeen_Fernando",
+        "location": "Sri Lanka",
+        "id": "824898712493101056",
+        "protected": false,
+        "username": "nadeen_fernando"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 85,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Sampath Rathnayake",
+        "id": "823439960560652289",
+        "protected": false,
+        "username": "mahedaRath75"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 86,
+            "tweet_count": 154,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Thilina Madumal",
+        "location": "Sri Lanka",
+        "id": "813323252013494272",
+        "protected": false,
+        "username": "thilinamt"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1414,
+            "following_count": 1066,
+            "tweet_count": 9739,
+            "listed_count": 29
+        },
+        "description": "Technology freak. Internet nut.Interested in the psyche. seek éclat. Wants to make a difference. Sun hater ; Snow lover. Life Liver. | SCIENTIA POTENTIA EST║║║©",
+        "name": "Akila Vidushan",
+        "location": "Sri Lanka",
+        "id": "217114036",
+        "protected": false,
+        "username": "AkilaVidushan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 76,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Lakshi Malika",
+        "id": "807266981481021441",
+        "protected": false,
+        "username": "LakshiMalika"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 216,
+            "following_count": 1090,
+            "tweet_count": 366,
+            "listed_count": 2
+        },
+        "description": "I'll respect your opinion as long as your opinion doesn't disrespect anybody's existence. #respect✌🏻️ #love #kindness",
+        "name": "Chanaka Gunathilake",
+        "location": "Colombo, Sri lanka",
+        "id": "1431217298",
+        "protected": false,
+        "username": "iam_chana"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 549,
+            "following_count": 2901,
+            "tweet_count": 1065,
+            "listed_count": 1
+        },
+        "description": "Twitterholic,movieholic                         https://t.co/wBDVb7r1RG\nhttps://t.co/ZgDrCfnDi4",
+        "name": "Tharindra Dilip",
+        "location": "ඇල්පිටිය",
+        "id": "99397355",
+        "protected": false,
+        "username": "TharindraDILIP"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 71,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "We are a Landscaping services providing company.\nWith our experience we deliver your dream garden plus a little bit of magic !!!\n🌼🌿🌼\n0777 71 91 81",
+        "name": "The Clora",
+        "location": "Sri Lanka",
+        "id": "800161159403814912",
+        "protected": false,
+        "username": "The_Clora"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 45,
+            "tweet_count": 37,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Nuwan T. Wajirasena",
+        "location": "Sri Lanka",
+        "id": "795255292124680192",
+        "protected": false,
+        "username": "wajji91"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4258,
+            "following_count": 4901,
+            "tweet_count": 21822,
+            "listed_count": 144
+        },
+        "description": "#HAPPYSRILANKANS Inc. Sri  Lanka’s largest digital community platform. SL : +94 7715 72367 | UK : +44 7804 608994 | NZ : +64220820731",
+        "name": "#HAPPYSRILANKANS",
+        "location": "Colombo,Sri Lanka",
+        "id": "2524012470",
+        "protected": false,
+        "username": "HappySriLankans"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 967,
+            "following_count": 1374,
+            "tweet_count": 25927,
+            "listed_count": 8
+        },
+        "description": "Good friend, great husband, awesome father. Mahanamian, Toastmaster, Loves hiking.. (Personal Opinions only. If you have an issue with anything , reach out)",
+        "name": "Buddika Kaushalya De",
+        "location": "Sri Lanka",
+        "id": "2866514408",
+        "protected": false,
+        "username": "kaushalyaBDe"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2242,
+            "following_count": 1975,
+            "tweet_count": 908,
+            "listed_count": 16
+        },
+        "description": "Get all your educational needs under one roof. Covering all subjects from Montessori to AL students. #MyTutor #Maths #ICT #Sinhala #SriLanka #Education #lka",
+        "name": "Gihan Book Shop #lka",
+        "location": "Dehiwala, Sri Lanka",
+        "id": "190631644",
+        "protected": false,
+        "username": "gbslk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 61,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "sajaan peiris",
+        "location": "colombo",
+        "id": "293540851",
+        "protected": false,
+        "username": "SajaanPeiris"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 265,
+            "following_count": 408,
+            "tweet_count": 200,
+            "listed_count": 2
+        },
+        "description": "A project by IMCD (@imcd_official) to provide underprivileged schools with much needed facilities based on the drawings of a dream school by the students.",
+        "name": "My Dream School",
+        "id": "1685627352",
+        "protected": false,
+        "username": "MDSlk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 953,
+            "following_count": 1795,
+            "tweet_count": 2970,
+            "listed_count": 14
+        },
+        "description": "Computer Engineer | Startup Enthusiast | Event Organizer | Tech & Social Volunteer | IEEEian | AIESECer | UoP Alumni | Sri Lankan",
+        "name": "Dhammika Marasinghe",
+        "location": "Sri Lanka",
+        "id": "947597862",
+        "protected": false,
+        "username": "DhammikaMare"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 19,
+            "following_count": 199,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "010-801-18303",
+        "id": "4271114172",
+        "protected": false,
+        "username": "ynpushpakumara"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 250,
+            "following_count": 324,
+            "tweet_count": 5874,
+            "listed_count": 14
+        },
+        "description": "Workout, Eat, Travel, Basketball, Scotch, Vodka, Aircrafts, Movies\nPretty much sums it up.\n\n\nHave no regrets, Do what you want, Discover the world.🛫🌏🗺🌐",
+        "name": "Many Faced God",
+        "location": "Sri Lanka",
+        "id": "252459976",
+        "protected": false,
+        "username": "Wrath__Of__God"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 688,
+            "following_count": 1037,
+            "tweet_count": 1458,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Dasun Thenuka",
+        "location": "Sri Lanka",
+        "id": "3665306892",
+        "protected": false,
+        "username": "DasunThenuka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2714,
+            "following_count": 951,
+            "tweet_count": 231,
+            "listed_count": 2
+        },
+        "description": "I don't know..",
+        "name": "Udeshi Kariyawasam",
+        "location": "Sri Lanka ,Gampaha",
+        "id": "3011848956",
+        "protected": false,
+        "username": "udeshiindumini"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 432,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Ajitha",
+        "id": "3744166772",
+        "protected": false,
+        "username": "Ajithasg"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 62,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Madhushika",
+        "id": "3711006674",
+        "protected": false,
+        "username": "madhushikaWana"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 58,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Cong Shuang",
+        "id": "3709228036",
+        "protected": false,
+        "username": "cong_shuang"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 291,
+            "following_count": 386,
+            "tweet_count": 717,
+            "listed_count": 14
+        },
+        "description": "Senior Software Engineer @YaalaLabs • Passionate about building things and learning how things work • https://t.co/Zo5qJsOgEx • All opinions are my own.",
+        "name": "👨🏻‍💻 Thilina Ashen Gamage 🇱🇰",
+        "location": "Sri Lanka",
+        "id": "235921073",
+        "protected": false,
+        "username": "ashen_wgt"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 202,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Sahan Sudasinghe",
+        "location": "Sri Lanka",
+        "id": "3667054583",
+        "protected": false,
+        "username": "sahansudasingh1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 516,
+            "following_count": 839,
+            "tweet_count": 1254,
+            "listed_count": 25
+        },
+        "description": "Associate Technical Lead @WSO2 | https://t.co/1NcCnKCAS7. Computer Science Engineering (First Class Hons.) @MoratuwaUni | Tech Enthusiast | Researcher | Love IAM & Security Space",
+        "name": "Chanaka Lakmal",
+        "location": "Colombo, Sri Lanka",
+        "id": "888428292",
+        "protected": false,
+        "username": "ldclakmal92"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 310,
+            "following_count": 239,
+            "tweet_count": 242,
+            "listed_count": 2
+        },
+        "description": "",
+        "name": "Buddhishan Manamperi",
+        "location": "Battaramulla",
+        "id": "828438998",
+        "protected": false,
+        "username": "Buddhishan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 58,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "ivon fernando",
+        "id": "3449744894",
+        "protected": false,
+        "username": "ivonfernando00"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 282,
+            "following_count": 685,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Pathum Sandeepa",
+        "location": "Bahrain",
+        "id": "3433451778",
+        "protected": false,
+        "username": "SandeepaPathum"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3278,
+            "following_count": 2456,
+            "tweet_count": 35034,
+            "listed_count": 11
+        },
+        "description": "Live for your dreams ☯️",
+        "name": "ජනා 🤸 🎋✨️",
+        "location": "Singapore",
+        "id": "234282670",
+        "protected": false,
+        "username": "janakact"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 199,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Kasun Adhikari",
+        "id": "3320926994",
+        "protected": false,
+        "username": "DeadKlauz"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 262,
+            "following_count": 597,
+            "tweet_count": 691,
+            "listed_count": 30
+        },
+        "description": "Digital Marketer",
+        "name": "Madhawa Chandrasiri",
+        "location": "Moratuwa",
+        "id": "399239726",
+        "protected": false,
+        "username": "Madllhawa"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 41,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "Oh.. I'm a Happy person 😊",
+        "name": "upashama wanigasoori",
+        "location": "Sri Lanka",
+        "id": "148641176",
+        "protected": false,
+        "username": "upashamaw"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 102,
+            "tweet_count": 14,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "mariah jhean docog",
+        "id": "3289393062",
+        "protected": false,
+        "username": "docog_ella"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 43,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Sujeewa Niranjani",
+        "id": "3270911839",
+        "protected": false,
+        "username": "SujeewaNiranja2"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 127,
+            "following_count": 262,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "description": "Marketer, Volunteer, Youth Activist, Social Worker, Scouter & Royalist!",
+        "name": "Supun Jayalath",
+        "location": "Colombo, Sri Lanka",
+        "id": "331396880",
+        "protected": false,
+        "username": "Supun_Jay"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 164,
+            "following_count": 1006,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "HitProfiles.lk",
+        "id": "3254324594",
+        "protected": false,
+        "username": "Hitprofiles_lk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 25,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Roshan Jayasekara",
+        "id": "370502703",
+        "protected": false,
+        "username": "Roshan_Thivanka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 54,
+            "following_count": 288,
+            "tweet_count": 76,
+            "listed_count": 0
+        },
+        "description": "Sri Lankan",
+        "name": "Chamod Alahakoon",
+        "location": "Colombo, Sri Lanka",
+        "id": "323768494",
+        "protected": true,
+        "username": "ChamodKaushan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 533,
+            "following_count": 1849,
+            "tweet_count": 2242,
+            "listed_count": 4
+        },
+        "description": "Ultracrepidarian, Movie Freak, Reader, Blogger",
+        "name": "Dimantha Chethana",
+        "location": "Gampaha,Sri Lanka",
+        "id": "203103687",
+        "protected": false,
+        "username": "Dpolwatte"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 364,
+            "tweet_count": 82,
+            "listed_count": 1
+        },
+        "description": "Senior Software Engineer / Linux Enthusiast / Open Source Contributor / Man of Focus / Catalyst / Health & Fitness Lover",
+        "name": "Lahiru Sandaruwan",
+        "location": "Colombo, Sri Lanka",
+        "id": "1412858850",
+        "protected": false,
+        "username": "lpsandaruwan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 82,
+            "tweet_count": 68,
+            "listed_count": 0
+        },
+        "description": "Fashion designer",
+        "name": "Ishara Jayathilake",
+        "location": "Norway",
+        "id": "3193193508",
+        "protected": false,
+        "username": "ifeelodd"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2771,
+            "following_count": 2122,
+            "tweet_count": 7657,
+            "listed_count": 19
+        },
+        "description": "Randomness in Sri Lanka 🇱🇰 and Vietnam 🇻🇳 #food #drink #srilanka #vietnam",
+        "name": "Colombo Favourites",
+        "location": "Colombo",
+        "id": "67572063",
+        "protected": false,
+        "username": "cmbfav"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 27,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Kasun Fernando",
+        "id": "3233761171",
+        "protected": false,
+        "username": "kasunsf"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 78,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "chamli kasun lakvija",
+        "id": "3233175781",
+        "protected": false,
+        "username": "kasun_chamli"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 63,
+            "following_count": 110,
+            "tweet_count": 296,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Hiru Piumwardena",
+        "location": "Sri Lanka",
+        "id": "2283740220",
+        "protected": false,
+        "username": "hiru_90"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 49,
+            "following_count": 1598,
+            "tweet_count": 1,
+            "listed_count": 3
+        },
+        "description": "",
+        "name": "j",
+        "location": "Colombo",
+        "id": "3006949556",
+        "protected": false,
+        "username": "lrsperera"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 30,
+            "following_count": 161,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Girdharilal Purohit",
+        "id": "3191864119",
+        "protected": false,
+        "username": "Gppurohitdabhal"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 43,
+            "following_count": 394,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "tharindu lakmal",
+        "id": "3213652372",
+        "protected": false,
+        "username": "LakkmalLakmal"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 14,
+            "following_count": 116,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Roshen Goonatilake",
+        "id": "1374267642",
+        "protected": false,
+        "username": "RoshenGoonatila"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 18,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "#RoyalCollege #42nd scout Group #14 #iPhone 5",
+        "name": "Sahan Dissanayake",
+        "location": "Colombo ",
+        "id": "3175676112",
+        "protected": false,
+        "username": "SahanDissanaya6"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 30,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "nishantha bandara",
+        "id": "3129094626",
+        "protected": false,
+        "username": "nis_bandara"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 55,
+            "tweet_count": 19,
+            "listed_count": 0
+        },
+        "description": "Car nut.",
+        "name": "Nirmala L",
+        "location": "Sri Lanka",
+        "id": "2446078568",
+        "protected": false,
+        "username": "NNL91"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 118,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "FMST 2010",
+        "id": "3102645013",
+        "protected": false,
+        "username": "FMST2010"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 303,
+            "following_count": 820,
+            "tweet_count": 15057,
+            "listed_count": 69
+        },
+        "description": "Digital Marketer",
+        "name": "Sohan Wijegunawardana",
+        "location": "Colombo, Sri Lanka",
+        "id": "1402771075",
+        "protected": false,
+        "username": "SohanMW"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3475,
+            "following_count": 3763,
+            "tweet_count": 1766,
+            "listed_count": 16
+        },
+        "description": "From basic web design to complete multimedia showcase and CMS, our web designers are ready! All our web designs are light-weight, fast to download and friendly",
+        "name": "Sha web design",
+        "location": "Sri Lanka, UK, Australia",
+        "id": "333832467",
+        "protected": false,
+        "username": "Shawebdesign"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 49,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "niranga",
+        "location": "Gampaha ,srilanaka.",
+        "id": "868372472",
+        "protected": false,
+        "username": "nirangapathiran"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 909,
+            "following_count": 1860,
+            "tweet_count": 177,
+            "listed_count": 5
+        },
+        "description": "IT Professional | Community Management Professional | Blockchain Enthusiast | Start-up Mentor | Crypto lover - #bitcoin #eth #dot",
+        "name": "Rajitha Peiris",
+        "location": "Sri Lanka",
+        "id": "284413816",
+        "protected": false,
+        "username": "rajithapeiris"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 308,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Rajith Edirisuriya",
+        "id": "3041529360",
+        "protected": false,
+        "username": "rajith_tutu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 202,
+            "following_count": 1019,
+            "tweet_count": 293,
+            "listed_count": 0
+        },
+        "description": "Coooooooooool boy",
+        "name": "Supun Sri",
+        "location": "Sri lanka",
+        "id": "257053260",
+        "protected": false,
+        "username": "WSSK_DeSilva"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 22,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "thiwanka herath",
+        "id": "2165390058",
+        "protected": false,
+        "username": "thiwankaherath"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 102,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Tharindu Kalubowila",
+        "id": "2674093190",
+        "protected": false,
+        "username": "TLKalubowila"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 124,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "description": "The Recruitment Services Provider. Send your CVs to info@careerpals.net",
+        "name": "Career Pals",
+        "location": "Call us on  0777579330",
+        "id": "2586902515",
+        "protected": false,
+        "username": "CareerPals"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 349,
+            "following_count": 1634,
+            "tweet_count": 3,
+            "listed_count": 1
+        },
+        "description": "man crush monday",
+        "name": "mancrushmonday",
+        "id": "3018281051",
+        "protected": false,
+        "username": "mancrushmonday5"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 225,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Thilakshan",
+        "id": "3003571819",
+        "protected": false,
+        "username": "hazytufguy"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 252,
+            "following_count": 1964,
+            "tweet_count": 1257,
+            "listed_count": 3
+        },
+        "description": "Deputy Director(  EIA Unit,CEA )     \nhttps://t.co/05ObmaIK4t(Biology university of Kelaniya), https://t.co/TRFPL9BCfZ(Environmental Management)  PhD in Environmental Economics",
+        "name": "G.N.Chandrasiri",
+        "location": "Sri Lanka",
+        "id": "2979198944",
+        "protected": false,
+        "username": "gnchandrasiri"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 245,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "rasika rulz",
+        "id": "2996656148",
+        "protected": false,
+        "username": "RasikaRulz"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 82,
+            "tweet_count": 173,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Global Village SL",
+        "id": "2199111222",
+        "protected": false,
+        "username": "GlobalVillageSL"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 73,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Upeksha Amali",
+        "id": "2991244623",
+        "protected": false,
+        "username": "buddy_ama"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 109,
+            "following_count": 1543,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "description": "Wel come to official page of Mohamed Silmi\nPhotographer / Video Editor /\n/ I Like Rap Musics & Tamil Lyrics\n   *Proud to be a Sri Lankan*",
+        "name": "Mohamed Silmi",
+        "location": "Srilanka,Kandy",
+        "id": "2867153826",
+        "protected": false,
+        "username": "shilmy1234"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 999,
+            "tweet_count": 30,
+            "listed_count": 0
+        },
+        "description": "hello! am rukshan i am from srilanka i like to have a good friends of all country",
+        "name": "mohamed rukshan",
+        "location": "srilanka",
+        "id": "411427188",
+        "protected": true,
+        "username": "mmrukshan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 189,
+            "following_count": 444,
+            "tweet_count": 15,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Omalka Menuwan",
+        "location": "Sri Lanka",
+        "id": "552049519",
+        "protected": false,
+        "username": "Omalka226"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 296,
+            "tweet_count": 147,
+            "listed_count": 2
+        },
+        "description": "Senior Data Engineer",
+        "name": "Lahiru Jayamanna",
+        "location": "Singapore",
+        "id": "2232795950",
+        "protected": false,
+        "username": "lahiruzz"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 7,
+            "following_count": 55,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "vihanga nikeshana",
+        "id": "2934646124",
+        "protected": false,
+        "username": "vnikeshana"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 21,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "dewmal anisitus",
+        "id": "370037882",
+        "protected": false,
+        "username": "dewmal_anicitus"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 42,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "vimukthi deshapriya",
+        "id": "2914997858",
+        "protected": false,
+        "username": "vimukthi2000"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 277,
+            "following_count": 1670,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "description": "|Professional Educational Service Provider| Helps foreign students enrol into private universities in Malaysia | Representing over 25 Malaysian Universities |",
+        "name": "StartCampus Malaysia",
+        "id": "2893056990",
+        "protected": false,
+        "username": "StartCampusMsia"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 67,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "tharuuz",
+        "id": "2807731818",
+        "protected": false,
+        "username": "dtharindu75"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 75,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Restheru Kalutara",
+        "id": "2827376860",
+        "protected": false,
+        "username": "KALUTARA12"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 33,
+            "following_count": 119,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Asela",
+        "location": "Kelaniya",
+        "id": "250990287",
+        "protected": false,
+        "username": "aselapiya"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 345,
+            "tweet_count": 11,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "udara",
+        "location": "Sri Lanka",
+        "id": "540743615",
+        "protected": false,
+        "username": "udara1264"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 42,
+            "following_count": 78,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Kaneru Godagama ",
+        "id": "2839599014",
+        "protected": false,
+        "username": "kaneru_godagama"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 240,
+            "tweet_count": 2,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Chinthaka",
+        "location": "Colombo",
+        "id": "387159390",
+        "protected": false,
+        "username": "Chinthaka14"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 43,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "description": "nose",
+        "name": "Tagu F.lopez",
+        "id": "2762898448",
+        "protected": false,
+        "username": "f_tagu"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 8,
+            "following_count": 33,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Thulani Dayarathna",
+        "id": "2792078714",
+        "protected": false,
+        "username": "tadayarathna"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 161,
+            "following_count": 121,
+            "tweet_count": 207,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Madawa Soysa",
+        "location": "Sydney, New South Wales",
+        "id": "949992764",
+        "protected": false,
+        "username": "__cms__"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 126,
+            "following_count": 634,
+            "tweet_count": 621,
+            "listed_count": 0
+        },
+        "description": "Doctor | basketball | music | travel |looking into the passion in life | enjoy the nature |",
+        "name": "methmal",
+        "id": "1969470132",
+        "protected": false,
+        "username": "methmal1234567"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 61,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "description": "Love Jesus\nLiveJammer\nLove football \nLove food\nLove travelling\n#I_am_titanium",
+        "name": "jonathanharrison",
+        "location": "Lucknow, India",
+        "id": "2778769057",
+        "protected": false,
+        "username": "johnnyza7"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 122,
+            "following_count": 184,
+            "tweet_count": 52,
+            "listed_count": 0
+        },
+        "description": "Love for travel - endless! 🌊🌎👙👓🌞 Meh. Back to being *grumpy* pfft!",
+        "name": "Shimazie Adjumain",
+        "location": "Sri Lanka",
+        "id": "805044949",
+        "protected": false,
+        "username": "ShimmyAdjumain"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 29,
+            "following_count": 106,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "description": "I am a graduate at University of Moratuwa - Department of Computer Science & Engineering",
+        "name": "Vidura Mudalige",
+        "location": "Horana, Sri Lanka",
+        "id": "960585456",
+        "protected": false,
+        "username": "ViduraMudalige"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 4,
+            "following_count": 11,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Ayesha malkanthi ",
+        "id": "2686824700",
+        "protected": false,
+        "username": "ayeshayapa"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 318,
+            "following_count": 725,
+            "tweet_count": 9735,
+            "listed_count": 11
+        },
+        "description": "👨🏽‍💻",
+        "name": "Chirath",
+        "location": "Colombo, Sri Lanka",
+        "id": "93003892",
+        "protected": false,
+        "username": "chirathk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 153,
+            "following_count": 121,
+            "tweet_count": 54,
+            "listed_count": 1
+        },
+        "description": "UoM CSE Grad | Tech Geek | Adventure Seeker | Travel Lover | Ball Player",
+        "name": "Shenal Senarath",
+        "location": "Wennappuwa | Moratuwa | SL",
+        "id": "182748726",
+        "protected": false,
+        "username": "ShenalSenarath"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 133,
+            "following_count": 404,
+            "tweet_count": 157,
+            "listed_count": 0
+        },
+        "description": "🇱🇰 | 🌱 | Coventry U",
+        "name": "Nalin Jayaratne",
+        "location": "Sri Lanka",
+        "id": "2558818603",
+        "protected": false,
+        "username": "NalinJayD"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 333,
+            "following_count": 660,
+            "tweet_count": 1571,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Vajira",
+        "location": "Riddermark",
+        "id": "2543362932",
+        "protected": false,
+        "username": "VajiraL"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 210,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "I love music, dancing, singing a lot. and I am an engineer :). Live life. Suit up always ;)",
+        "name": "samitha elvitigala",
+        "id": "2524901413",
+        "protected": false,
+        "username": "samithadon"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 125,
+            "following_count": 1013,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "description": "Soon on web ! \r\nStay connected\r\nhttps://t.co/Nr3pfXpwm0 http://t.co/6AleyFv7s0",
+        "name": "watchtower.lk",
+        "id": "2306649180",
+        "protected": false,
+        "username": "watchtowerlk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 117,
+            "following_count": 915,
+            "tweet_count": 22,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Haritha Ranawaka",
+        "location": "Colombo, Sri Lanka",
+        "id": "1260143581",
+        "protected": false,
+        "username": "HarithaRanawak1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 94,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "description": "I like to see a man proud of the place in which he lives. I like to see a man live so that his place will be proud of him.",
+        "name": "Dr. Udara De Alwis",
+        "location": "colombo ",
+        "id": "2487478914",
+        "protected": false,
+        "username": "UDAlwis91"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 39,
+            "following_count": 115,
+            "tweet_count": 12,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Aboney Banerjee",
+        "id": "2477845686",
+        "protected": false,
+        "username": "aboney07"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 125,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Udara Pathirage",
+        "location": "Sri Lanka",
+        "id": "558331234",
+        "protected": false,
+        "username": "udpathirage"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 3,
+            "following_count": 25,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "PhD Student at Monash University",
+        "name": "Rakshitha Godahewa",
+        "location": "Melbourne, Victoria",
+        "id": "436574719",
+        "protected": true,
+        "username": "rakshithawg"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 141,
+            "following_count": 1711,
+            "tweet_count": 43,
+            "listed_count": 3
+        },
+        "description": "",
+        "name": "neculaita gabriel ",
+        "id": "2445299034",
+        "protected": false,
+        "username": "neculaitagabrie"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 414,
+            "following_count": 341,
+            "tweet_count": 797,
+            "listed_count": 4
+        },
+        "description": "From SriLanka ~ PhD Student at ANU ~ Loves learning languages, travelling, art",
+        "name": "Rajith Vidanaarachch",
+        "location": "Canberra",
+        "id": "14367572",
+        "protected": false,
+        "username": "rajithv"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 329,
+            "following_count": 268,
+            "tweet_count": 248,
+            "listed_count": 3
+        },
+        "description": "Research Fellow @MonashDFI | PhD @Swinburne",
+        "name": "Harindu C Korala",
+        "location": "Melbourne",
+        "id": "609800364",
+        "protected": false,
+        "username": "HarinduC"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 85,
+            "following_count": 58,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "description": "programmer | developer | designer | geek | writer | photogrpher| student http://t.co/VETENXaBgj",
+        "name": "Ayantha Randika",
+        "location": "Colombo",
+        "id": "159813031",
+        "protected": false,
+        "username": "randika_ayantha"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 557,
+            "tweet_count": 357,
+            "listed_count": 0
+        },
+        "description": "A gentleman never breaks a promise.",
+        "name": "Nerita Alcorn",
+        "location": "Bonaparte, Iowa",
+        "id": "2433236377",
+        "protected": false,
+        "username": "NeritaAlcorn"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 300,
+            "following_count": 1214,
+            "tweet_count": 1245,
+            "listed_count": 0
+        },
+        "description": "Observer",
+        "name": "Nishan Weerasinghe",
+        "location": "Colombo",
+        "id": "191725445",
+        "protected": false,
+        "username": "Nishan152"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1608,
+            "following_count": 307,
+            "tweet_count": 2444,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "♥ PandaEyes ♥",
+        "id": "292868329",
+        "protected": false,
+        "username": "PandaEyess"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 190,
+            "following_count": 81,
+            "tweet_count": 406,
+            "listed_count": 0
+        },
+        "description": "Chief Innovation Officer of the group of @teamarimac. An Engineer passionate about Immersive technology and Games. A proud Sri Lankan!",
+        "name": "Indika Wijesooriya",
+        "location": "Sri Lanka",
+        "id": "82663487",
+        "protected": false,
+        "username": "indikman"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 269,
+            "following_count": 1002,
+            "tweet_count": 13,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Krupa Kapadia",
+        "id": "55504887",
+        "protected": false,
+        "username": "krupa_kapadia"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 60,
+            "following_count": 103,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "description": "CEO - Sekara Productions (PVT) Ltd.\nFounder - MakaBaas Productions",
+        "name": "Hashan Gunasekera",
+        "location": "Colombo",
+        "id": "241944290",
+        "protected": false,
+        "username": "Hashanmarchelo"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 143786,
+            "following_count": 26945,
+            "tweet_count": 43915,
+            "listed_count": 305
+        },
+        "description": "Island Cricket is a Sri Lankan #cricket site that is partly-powered by fan-submitted content.  #LKA #SriLanka #SLvWI",
+        "name": "Island Cricket",
+        "location": "Sri Lanka",
+        "id": "16077698",
+        "protected": false,
+        "username": "IslandCricket"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 24,
+            "following_count": 305,
+            "tweet_count": 11,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Ashen Thenuwara",
+        "location": "Colombo",
+        "id": "193216838",
+        "protected": false,
+        "username": "AshT39"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 120,
+            "following_count": 207,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Pulasthi Harasgama",
+        "id": "1288690207",
+        "protected": false,
+        "username": "PulaHarasgama"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 101,
+            "tweet_count": 34,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Pabasari Udakandage",
+        "location": "Sri Lanka",
+        "id": "805207644",
+        "protected": false,
+        "username": "PabzUD"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 350,
+            "following_count": 796,
+            "tweet_count": 36,
+            "listed_count": 2
+        },
+        "description": "If you don't have the amount of money you want & deserve; you have a problem of perception about it.\nthe same goes to other examples.",
+        "name": "mounaim LAMOUNI",
+        "location": "Dubai, United Arab Emirates",
+        "id": "55279598",
+        "protected": false,
+        "username": "mounaim_LAMOUNI"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 22,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "description": "simple",
+        "name": "Harsha Rohan",
+        "id": "2386850696",
+        "protected": false,
+        "username": "Harsha_Ro"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 89,
+            "tweet_count": 36,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Vishma",
+        "id": "1478763950",
+        "protected": false,
+        "username": "vishmadias"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 122,
+            "following_count": 309,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Theertha Handunge",
+        "location": "Colombo-Srilanka",
+        "id": "1731024024",
+        "protected": false,
+        "username": "TheerthaH"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 108,
+            "following_count": 93,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "description": "University of Moratuwa, Faculty of Information Technology",
+        "name": "Lasindu",
+        "location": "colombo",
+        "id": "604331768",
+        "protected": false,
+        "username": "LasinduLakmali"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 14,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Sachini Tharaka",
+        "id": "1516844732",
+        "protected": false,
+        "username": "SachiniTharaka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 102,
+            "following_count": 104,
+            "tweet_count": 119,
+            "listed_count": 0
+        },
+        "description": "The dude at the other end of telescope, sipping coffee ;)",
+        "name": "Arjuna Ahangama",
+        "location": "some place in Milky way",
+        "id": "2322706272",
+        "protected": false,
+        "username": "arjAhanSL"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 730,
+            "following_count": 1061,
+            "tweet_count": 1969,
+            "listed_count": 15
+        },
+        "description": "🐕🚀🌜",
+        "name": "Radun De Silva",
+        "location": "Sri Lanka",
+        "id": "387105684",
+        "protected": false,
+        "username": "radun1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 152,
+            "following_count": 149,
+            "tweet_count": 452,
+            "listed_count": 1
+        },
+        "description": "Grad student at NUS stumbling through life",
+        "name": "Sanka Rasnayaka",
+        "location": "Singapore",
+        "id": "328071982",
+        "protected": false,
+        "username": "SankaRasnayaka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2020,
+            "following_count": 1857,
+            "tweet_count": 10326,
+            "listed_count": 15
+        },
+        "description": "Proud Sri Lankan | Karting🏎 | Cricket lover since the birth | | Proud Anandian | Music lover | Assistant Engineer  @ Jetwing Hotels | Travelgram",
+        "name": "Dunila Ranatunge",
+        "location": "Kelaniya,Sri Lanka",
+        "id": "342101994",
+        "protected": false,
+        "username": "Dunila95"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 7,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "asiri hasun",
+        "id": "2245112582",
+        "protected": false,
+        "username": "asirihasun"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 181,
+            "tweet_count": 21,
+            "listed_count": 0
+        },
+        "description": "IT Management Student @ University of Moratuwa",
+        "name": "Nadarajah Niroshan",
+        "location": "Colombo, SriLanka",
+        "id": "921298796",
+        "protected": false,
+        "username": "nniroshan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 6,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Vidura Edirisooriya",
+        "location": "Moratuwa",
+        "id": "2200007832",
+        "protected": false,
+        "username": "Vidurakanrc"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6,
+            "following_count": 41,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "dasith tharuka",
+        "id": "2176243262",
+        "protected": false,
+        "username": "DasithTharuka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 106,
+            "following_count": 111,
+            "tweet_count": 467,
+            "listed_count": 0
+        },
+        "description": "An angelic  , extra cheesed , over baked  notorious  colourful  cyclone  .",
+        "name": "Wolf_lady ",
+        "location": "Kandy",
+        "id": "2190010843",
+        "protected": false,
+        "username": "hazSk8r"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 46,
+            "following_count": 319,
+            "tweet_count": 16,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Jayan Pradeep",
+        "location": "Ampara",
+        "id": "924582026",
+        "protected": false,
+        "username": "JayanPradeep"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 87,
+            "following_count": 71,
+            "tweet_count": 234,
+            "listed_count": 0
+        },
+        "description": "Buddhist, Devan, Computer Science and Engineering graduate, Software Engineer, Sports Lover",
+        "name": "Isuru Herath",
+        "location": "Ibbagamuwa",
+        "id": "1159146716",
+        "protected": false,
+        "username": "IBHerath"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 444,
+            "following_count": 775,
+            "tweet_count": 2533,
+            "listed_count": 0
+        },
+        "description": "Sri Lankan. Tech enthusiast. Politics. @OfficialSLC fan. @ChelseaFC fan. To build a better society. eCommerce Consultant at @sanacommerce. Burger is love 🍔.",
+        "name": "Ovina Peiris",
+        "location": "Sri Lanka",
+        "id": "212906225",
+        "protected": false,
+        "username": "ovinapeiris"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 663,
+            "following_count": 2484,
+            "tweet_count": 235,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Akila S Perera",
+        "location": "Victoria, Australia",
+        "id": "371674725",
+        "protected": false,
+        "username": "Akilapererat"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 60,
+            "following_count": 331,
+            "tweet_count": 38,
+            "listed_count": 0
+        },
+        "description": "I love SPN, 24 hours, Heroes, Jensen Ackles, PadAckles, Backstreet Boys, Brad Pitt, Bruce Willis and Milo Ventimiglia. Team Ackles.",
+        "name": "CumaliAlgurdağ",
+        "id": "123641810",
+        "protected": false,
+        "username": "kasun89"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 164,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Yasara Dharmadasa",
+        "location": "dehiwala, srilanka",
+        "id": "297520635",
+        "protected": true,
+        "username": "yasara_dh"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 90,
+            "tweet_count": 17,
+            "listed_count": 0
+        },
+        "description": "BSc (Hons) Electrical and Electronic Engineering",
+        "name": "samudipabasara",
+        "location": "Sri Lanka",
+        "id": "1893611023",
+        "protected": false,
+        "username": "SamudiPabasara"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 27,
+            "following_count": 51,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Hasitha Eranga",
+        "id": "1190241139",
+        "protected": false,
+        "username": "hasitha8602"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 115,
+            "following_count": 210,
+            "tweet_count": 152,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Kanishka Rajawansha",
+        "id": "504575453",
+        "protected": false,
+        "username": "Kanipedia"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 726,
+            "following_count": 3865,
+            "tweet_count": 10108,
+            "listed_count": 0
+        },
+        "description": "Lecturer in Civil Engineering | PhD candidate",
+        "name": "CJ",
+        "location": "Sri Lanka",
+        "id": "361865839",
+        "protected": false,
+        "username": "CJChathura"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 10,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Bhathiya Supun",
+        "id": "379647225",
+        "protected": false,
+        "username": "BhathiyaSupun"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 31,
+            "following_count": 69,
+            "tweet_count": 41,
+            "listed_count": 0
+        },
+        "description": "A very simple person who loves freedom....",
+        "name": "Amith Mudugamuwa",
+        "id": "585361817",
+        "protected": false,
+        "username": "SquallyAPM"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 316,
+            "following_count": 673,
+            "tweet_count": 650,
+            "listed_count": 4
+        },
+        "description": "@AIESECSriLanka MCVPOGX  | #ic2011kenya | BOMA!\r\nSlightly confused from having lived in 4 different countries in the past 1 year.",
+        "name": "Zoë Lawson",
+        "location": "Colombo, Sri Lanka",
+        "id": "45797032",
+        "protected": false,
+        "username": "ZoeLawsonNZ"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 142,
+            "following_count": 385,
+            "tweet_count": 2802,
+            "listed_count": 5
+        },
+        "description": "University of Moratuwa - Faculty of Engineering\r\n(Class of 2016 - BSc Engineering)\r\nRoyal College - Colombo 07",
+        "name": "Dehan Vithana",
+        "location": "Boralesgamuwa",
+        "id": "1625640794",
+        "protected": false,
+        "username": "dehanvithana"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 130,
+            "following_count": 200,
+            "tweet_count": 168,
+            "listed_count": 0
+        },
+        "description": "Royalist | Software Developer | Traveller",
+        "name": "Rajith Gun Hewage",
+        "location": "Nittambuwa, Sri Lanka",
+        "id": "153794987",
+        "protected": false,
+        "username": "rajeerc"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 82,
+            "following_count": 84,
+            "tweet_count": 17,
+            "listed_count": 1
+        },
+        "description": "🤔",
+        "name": "Nuwan Prabhath",
+        "location": "Sri Lanka",
+        "id": "222457226",
+        "protected": false,
+        "username": "Nuwan_91"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 110,
+            "following_count": 249,
+            "tweet_count": 206,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "yumna ahmed",
+        "location": "pakistan ",
+        "id": "273923239",
+        "protected": false,
+        "username": "yumnaahmed1"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 36,
+            "following_count": 107,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Isura Bandara",
+        "location": "Singapore",
+        "id": "436542240",
+        "protected": false,
+        "username": "hmisura"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1873,
+            "following_count": 1779,
+            "tweet_count": 457808,
+            "listed_count": 291
+        },
+        "description": "💡Daily creative & lifestyle inspirations 👨🏽‍💻 Living the entrepreneurial dream 💰 Brainstorming ideas with doers & influencing them to do more in life!",
+        "name": "𝐋 𝐈 𝐕 𝐈® ( ලි.වී. ) 📲 www.lividul.com",
+        "location": "Sri Lanka",
+        "id": "41282191",
+        "protected": false,
+        "username": "Lividul"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 237,
+            "following_count": 1868,
+            "tweet_count": 1259,
+            "listed_count": 3
+        },
+        "description": "Photographer,\nLaw student of UOJ,\n Mem;Scouts,Leo club,Impeesa Rover crew,St.John ambulance, Raavnaa,Rotract club TCO ; & needy readers.",
+        "name": "Kruze León",
+        "location": "Trincomalee,Srilanka",
+        "id": "182731992",
+        "protected": false,
+        "username": "Kruzeb"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 378,
+            "following_count": 562,
+            "tweet_count": 107,
+            "listed_count": 2
+        },
+        "description": "Graduate Research Assistant at University Of Queensland. Transport Engineer Development Economist",
+        "name": "Sakitha Kumarage",
+        "location": "Brisbane, Queensland",
+        "id": "1307878656",
+        "protected": false,
+        "username": "Sakikumarage"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 117,
+            "following_count": 363,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "description": "An educational program conducted by the Information and Communication Agency of Sri Lanka (ICTA)",
+        "name": "Nenapiyasa by ICTA",
+        "location": "Sri Lanka",
+        "id": "955538707",
+        "protected": false,
+        "username": "nenapiyasa"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 65,
+            "following_count": 95,
+            "tweet_count": 86,
+            "listed_count": 2
+        },
+        "description": "Software Engineer at WSO2",
+        "name": "Chanaka Cooray",
+        "location": "Sri Lanka",
+        "id": "256526402",
+        "protected": false,
+        "username": "BCChanaka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 452,
+            "following_count": 355,
+            "tweet_count": 3260,
+            "listed_count": 3
+        },
+        "description": "Co-founder and Director Operations at AT Digital.",
+        "name": "Tharidha Muhandiramg",
+        "location": "Maharagama",
+        "id": "147463945",
+        "protected": false,
+        "username": "tharidha"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 6332,
+            "following_count": 625,
+            "tweet_count": 41341,
+            "listed_count": 19
+        },
+        "description": "𝐀 𝐒𝐫𝐢 𝐋𝐚𝐧𝐤𝐚𝐧 𝐥𝐢𝐯𝐢𝐧𝐠 𝐢𝐧 𝐂𝐚𝐧𝐚𝐝𝐚 🇱🇰🇨🇦 Marketer ~𝘛𝘩𝘦 𝘸𝘩𝘰𝘭𝘦 𝘸𝘰𝘳𝘭𝘥 𝘪𝘴 𝘮𝘺 𝘯𝘢𝘵𝘪𝘷𝘦 𝘭𝘢𝘯𝘥 🌏~IG: dul_u",
+        "name": "D U L A N J A L E E 🌻",
+        "location": "St. John's",
+        "id": "227205605",
+        "protected": false,
+        "username": "dul_U"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 162,
+            "following_count": 281,
+            "tweet_count": 91,
+            "listed_count": 0
+        },
+        "description": "Business Intelligence Engineer and IT Consultant",
+        "name": "Susith Dharmawardhana",
+        "location": "Sri Lanka",
+        "id": "189227398",
+        "protected": false,
+        "username": "Susithdharma"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 76,
+            "following_count": 748,
+            "tweet_count": 29,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "prasanna madhushanka",
+        "location": "colombo",
+        "id": "480184985",
+        "protected": false,
+        "username": "PMadhushanka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 390,
+            "following_count": 430,
+            "tweet_count": 1883,
+            "listed_count": 0
+        },
+        "description": "Engineering Student, AIESEC CS Member, Sri Lanka.",
+        "name": "Amila Kodituwakku",
+        "location": "AIESEC Colombo South!!!",
+        "id": "220245945",
+        "protected": false,
+        "username": "AppleMalli"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5302,
+            "following_count": 1408,
+            "tweet_count": 3940,
+            "listed_count": 73
+        },
+        "description": "Sri Lanka Association for Software and Service Companies | National #Knowledge and #Innovation Chamber of #LKA | #IT #BPM #Outsourcing #Offshore #SriLanka",
+        "name": "SLASSCOM",
+        "location": "Colombo, Sri Lanka",
+        "id": "111205658",
+        "protected": false,
+        "username": "SLASSCOM"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 18,
+            "following_count": 110,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "Royalist",
+        "name": "Sanitha Niroshan ",
+        "location": "Sri Lanka",
+        "id": "1263892374",
+        "protected": false,
+        "username": "sanrosh1991"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 364,
+            "following_count": 362,
+            "tweet_count": 146,
+            "listed_count": 0
+        },
+        "description": "Let's talk about \nTraveling, Taking Photos, \nEconomy and farming!!\n\n#TravelAndCapture",
+        "name": "Thilina Brown",
+        "location": "Colombo - Sri Lanka",
+        "id": "942948894",
+        "protected": false,
+        "username": "ThilinaBrown"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 177,
+            "following_count": 435,
+            "tweet_count": 42,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Thushan Dharmawardan",
+        "id": "273833103",
+        "protected": false,
+        "username": "thushannn"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 585,
+            "following_count": 541,
+            "tweet_count": 2031,
+            "listed_count": 3
+        },
+        "description": "AIESEC | University of Moratuwa",
+        "name": "Pavithra Kuruwita",
+        "location": "Colombo",
+        "id": "1205636515",
+        "protected": false,
+        "username": "baba_queen"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 242,
+            "following_count": 929,
+            "tweet_count": 204,
+            "listed_count": 1
+        },
+        "description": "Rotaractor| Devian| CivilEngineer| fun loving girl :)",
+        "name": "💉ShaaNika💉",
+        "location": "Sri Lanka",
+        "id": "197862872",
+        "protected": false,
+        "username": "sharox_uom"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 374,
+            "following_count": 305,
+            "tweet_count": 6798,
+            "listed_count": 23
+        },
+        "description": "IAM Engineer @wso2",
+        "name": "Farasath Ahamed",
+        "location": "Dehiwala | Sri Lanka",
+        "id": "711930980",
+        "protected": false,
+        "username": "farazath619"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 102,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Prasad somarathna",
+        "id": "912447410",
+        "protected": false,
+        "username": "PrasadSome"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 0,
+            "following_count": 18,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Janith Vishvakeerthi",
+        "id": "1105570729",
+        "protected": true,
+        "username": "JVishvakeerthi"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 23,
+            "following_count": 20,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Savindu Samararatne",
+        "location": "Katubeddha Srilanka",
+        "id": "983911921",
+        "protected": false,
+        "username": "saviss91"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 78,
+            "tweet_count": 152,
+            "listed_count": 0
+        },
+        "description": "Royalist,Civil Engineering Undergraduate,Sportsman,Rotaractor.",
+        "name": "dulan nakandala",
+        "location": "Maharagama",
+        "id": "460527257",
+        "protected": true,
+        "username": "dulannakandala"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 86,
+            "following_count": 136,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "description": "PhD Candidate  @RPI  🇺🇸\n| Srilankan 🇱🇰 | Electrical Engineer |",
+        "name": "Akila Udage",
+        "location": "New York, USA",
+        "id": "943772888",
+        "protected": false,
+        "username": "AkilaUdage"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 159,
+            "following_count": 127,
+            "tweet_count": 178,
+            "listed_count": 0
+        },
+        "description": "Electrical Engineering Undergraduate of University of Moratuwa,Sri Lanka.\r\nThe Editor of Nalanda Journal,Nalanda College,Colombo 10,Sri Lanka",
+        "name": "Punsara Colambage",
+        "id": "973839565",
+        "protected": false,
+        "username": "PunsaraC"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 415,
+            "following_count": 510,
+            "tweet_count": 824,
+            "listed_count": 0
+        },
+        "description": "PhD Candiate at National University of Singapore",
+        "name": "Ridwan Shariffdeen",
+        "location": "Singapore",
+        "id": "780802795",
+        "protected": false,
+        "username": "rshariffdeen"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 802,
+            "following_count": 1817,
+            "tweet_count": 5008,
+            "listed_count": 3
+        },
+        "description": "",
+        "name": "Naleen Dhanushka",
+        "id": "28030624",
+        "protected": false,
+        "username": "naleendhanushka"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 2430,
+            "tweet_count": 71,
+            "listed_count": 0
+        },
+        "description": "I am a Software Engineer from University of Moratuwa, Sri Lanka.",
+        "name": "Vishnuvathsan",
+        "location": "Colombo, Sri Lanka",
+        "id": "186399398",
+        "protected": true,
+        "username": "Vishnuvathsan24"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 454,
+            "following_count": 473,
+            "tweet_count": 1935,
+            "listed_count": 2
+        },
+        "description": "Computer Science Engineer & Doctoral Student, The University of Auckland.",
+        "name": "Vipula Dissanayake",
+        "location": "Auckland, New Zealand",
+        "id": "20019852",
+        "protected": false,
+        "username": "Shaggy70"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 477,
+            "following_count": 411,
+            "tweet_count": 303,
+            "listed_count": 5
+        },
+        "description": "A development professional who believes in empowering youth to achieve the sustainable development",
+        "name": "Savinda Ranathunga",
+        "location": "Sri lanka",
+        "id": "318325603",
+        "protected": false,
+        "username": "savinda333"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 132,
+            "following_count": 281,
+            "tweet_count": 79,
+            "listed_count": 5
+        },
+        "description": "Marketer | Entrepreneur | Graphic Designer | Trainer | Facilitator | Astro Lover | AIESECer",
+        "name": "S A Thishan Pavithra",
+        "location": "Sri Lanka",
+        "id": "941175427",
+        "protected": false,
+        "username": "sa_thishan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 50,
+            "following_count": 80,
+            "tweet_count": 18,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Ravindu Thalagala",
+        "id": "932241409",
+        "protected": false,
+        "username": "Blade_Thale"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 671,
+            "following_count": 1325,
+            "tweet_count": 35,
+            "listed_count": 3
+        },
+        "description": "We are developing a platform for Sri Lankans to find great job opportunities.",
+        "name": "hirewire.lk",
+        "location": "Colombo, Sri Lanka.",
+        "id": "806064330",
+        "protected": false,
+        "username": "hirewirelk"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 299,
+            "following_count": 1286,
+            "tweet_count": 1457,
+            "listed_count": 3
+        },
+        "description": "Computer Science + Law + Data Analysis | Tech Product Management | 📎There is no correlation between my tweets and my employer's opinions",
+        "name": "Darshana",
+        "id": "124474390",
+        "protected": false,
+        "username": "darshanase"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 255,
+            "following_count": 118,
+            "tweet_count": 229,
+            "listed_count": 1
+        },
+        "description": "",
+        "name": "Viduranga Wijesooriya",
+        "id": "156975027",
+        "protected": false,
+        "username": "vidurangaw91"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 1,
+            "tweet_count": 6,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Project 55",
+        "id": "817475497",
+        "protected": false,
+        "username": "csproject55"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 1664,
+            "following_count": 1760,
+            "tweet_count": 370,
+            "listed_count": 7
+        },
+        "description": "We're only a small community. We deserve some recognition. Follow all Sri Lankan's who follow @Lankantweeps. #SriLanka",
+        "name": "Sri Lankan Tweeps",
+        "location": "Sri Lankan's Everywhere",
+        "id": "735816662",
+        "protected": false,
+        "username": "LankanTweeps"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 58,
+            "following_count": 21,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "Royalist, Rotratctor, Electronic Engineering Undergraduate, Gamer",
+        "name": "Kasun Gunathilaka",
+        "location": "Colombo, Sri Lanka",
+        "id": "793410194",
+        "protected": false,
+        "username": "hiddenkeg"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 20,
+            "following_count": 31,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "Simple boy...",
+        "name": "Danula Jayasinghe",
+        "location": "Galle",
+        "id": "775424126",
+        "protected": false,
+        "username": "DanulaJ"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 38,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Asitha Lakshan",
+        "location": "Ragama",
+        "id": "572584661",
+        "protected": true,
+        "username": "Asitha_Lakshan"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 175,
+            "following_count": 210,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Minura Jinadasa",
+        "location": "Colombo",
+        "id": "187465728",
+        "protected": false,
+        "username": "minura_j"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 613,
+            "following_count": 785,
+            "tweet_count": 8126,
+            "listed_count": 0
+        },
+        "description": "opinions are of my own, don't try to be an asshole and link it to my church or work place \n\ncheers",
+        "name": "Isuru Suharshana",
+        "location": "Sri Lanka",
+        "id": "156155260",
+        "protected": false,
+        "username": "suharshana"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 9,
+            "following_count": 21,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Shehan Kalansoorya",
+        "id": "537041863",
+        "protected": false,
+        "username": "ShehanKalansoor"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 5,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "description": "",
+        "name": "Kasun Karunaratne",
+        "id": "464420362",
+        "protected": false,
+        "username": "kasun730"
+    },
+    {
+        "public_metrics": {
+            "followers_count": 187,
+            "following_count": 269,
+            "tweet_count": 478,
+            "listed_count": 0
+        },
+        "description": "Type design, typography, art direction and text technologies. Occasional tweets. Recent: @akurufoundry @pathumego @kosalaya_",
+        "name": "mooniak",
+        "location": "Colombo, Sri Lanka",
+        "id": "137040523",
+        "protected": false,
+        "username": "mooniakHQ"
+    }
+]

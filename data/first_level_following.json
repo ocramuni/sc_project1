@@ -37,18 +37,6 @@
     },
     {
         "public_metrics": {
-            "followers_count": 330,
-            "following_count": 213,
-            "tweet_count": 10886,
-            "listed_count": 19
-        },
-        "username": "Miccighel_",
-        "protected": false,
-        "name": "Michael Soprano",
-        "id": "15750573"
-    },
-    {
-        "public_metrics": {
             "followers_count": 171,
             "following_count": 120,
             "tweet_count": 168,
@@ -60,16 +48,16 @@
         "id": "1187585868493537280"
     },
     {
-        "protected": false,
-        "id": "822006673267159040",
-        "name": "Outsider 🐝",
         "public_metrics": {
-            "followers_count": 125,
-            "following_count": 117,
-            "tweet_count": 1368,
+            "followers_count": 112,
+            "following_count": 549,
+            "tweet_count": 239,
             "listed_count": 0
         },
-        "username": "Outsider289"
+        "username": "elikary86",
+        "protected": false,
+        "name": "Elisa",
+        "id": "64547887"
     },
     {
         "protected": false,
@@ -118,5 +106,17 @@
             "listed_count": 55
         },
         "username": "damiano10"
+    },
+    {
+        "protected": false,
+        "id": "1556357336",
+        "name": "Martina Santarossa",
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 802,
+            "tweet_count": 310,
+            "listed_count": 0
+        },
+        "username": "martysantarossa"
     }
 ]

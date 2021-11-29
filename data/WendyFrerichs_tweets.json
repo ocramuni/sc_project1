@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1440464811079262218",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "Seriously what next? #earthquake in #melbourne",
+        "lang": "en",
+        "created_at": "2021-09-21T23:55:48.000Z"
+    },
+    {
+        "id": "1423821691470303237",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@sallyturbitt Wow great shot of the sky too.",
+        "lang": "en",
+        "created_at": "2021-08-07T01:41:59.000Z"
+    },
+    {
+        "id": "1380088601950658562",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@aliangac Yep NTEU",
+        "lang": "en",
+        "created_at": "2021-04-08T09:22:18.000Z"
+    },
+    {
+        "id": "1333348300120985600",
+        "public_metrics": {
+            "retweet_count": 12,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @ALIANational: Today, ALIA will release the consultation draft of the four-year plan for the transformation of LIS education and the lib…",
+        "lang": "en",
+        "created_at": "2020-11-30T09:53:01.000Z"
+    },
+    {
+        "id": "1329927572285603840",
+        "public_metrics": {
+            "retweet_count": 295,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @iamemilymayo: It takes an absolute truckload of unrecognised privilege to hate on a pizza shop worker. Hate on the insecure work and in…",
+        "lang": "en",
+        "created_at": "2020-11-20T23:20:16.000Z"
+    }
+]

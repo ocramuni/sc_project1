@@ -1,0 +1,50 @@
+[
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-04T22:59:56.000Z",
+        "lang": "en",
+        "text": "@lahistoriaec #ElEfectoLasso le dicen",
+        "id": "1400950474141020163"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 373,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-04T22:54:47.000Z",
+        "lang": "es",
+        "text": "RT @RUlcuangoF: Gobierno de Lenín Moreno apoyó el Golpe de Añez dando gases y balines para reprimir https://t.co/SGo9hfzWEj vía @plurinacio…",
+        "id": "1400949180617613320"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-04T22:09:48.000Z",
+        "lang": "es",
+        "text": "RT @ElVibanco: @pabelml @CompromisoRC @VuelveRafael @GuerrerosDig_RC @hijodeabel @BancadaUNES @UNESECUADOR \n\nEsta señora debería ser la pri…",
+        "id": "1400937859339718658"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-04T22:07:34.000Z",
+        "lang": "es",
+        "text": "@pabelml @CompromisoRC @VuelveRafael @GuerrerosDig_RC @hijodeabel @BancadaUNES @UNESECUADOR \n\nEsta señora debería ser la principal sospechosa del peculado que fue en el gobierno de @Lenin \n\n#LassoEsMorenoRecargado https://t.co/MY8bAIHFYD",
+        "id": "1400937295935676418"
+    }
+]

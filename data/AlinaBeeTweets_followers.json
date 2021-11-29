@@ -1,0 +1,827 @@
+[
+    {
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "username": "DrCaitlinCurtis",
+        "public_metrics": {
+            "followers_count": 628,
+            "following_count": 628,
+            "tweet_count": 457,
+            "listed_count": 5
+        },
+        "id": "902346648654721024",
+        "name": "Caitlin Curtis",
+        "description": "#ABCTop5 Scientist 2018. Interested in science & technology - and their impacts on society and culture. University of Queensland. Views my own."
+    },
+    {
+        "location": "Roorkee",
+        "protected": false,
+        "username": "ArtiTiwari26",
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 40,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "id": "1260283968051654657",
+        "name": "Arti Tiwari",
+        "description": "PhD Scholar, Department of Applied Science & Engineering, Indian Institute of Technology Roorkee, India"
+    },
+    {
+        "protected": false,
+        "username": "CIRES_AU",
+        "public_metrics": {
+            "followers_count": 37,
+            "following_count": 100,
+            "tweet_count": 21,
+            "listed_count": 1
+        },
+        "id": "1425660262653120517",
+        "name": "ARC Training Centre for Information Resilience",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "username": "aningineer",
+        "public_metrics": {
+            "followers_count": 21,
+            "following_count": 137,
+            "tweet_count": 32,
+            "listed_count": 1
+        },
+        "id": "1089169061898969089",
+        "name": "Aninda Saha",
+        "description": ""
+    },
+    {
+        "location": "Queensland, Australia",
+        "protected": false,
+        "username": "LovellProf",
+        "public_metrics": {
+            "followers_count": 32,
+            "following_count": 66,
+            "tweet_count": 32,
+            "listed_count": 0
+        },
+        "id": "966891301403688960",
+        "name": "Brian Lovell",
+        "description": ""
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "username": "midget_mg",
+        "public_metrics": {
+            "followers_count": 223,
+            "following_count": 601,
+            "tweet_count": 710,
+            "listed_count": 0
+        },
+        "id": "1208521676570251264",
+        "name": "Dr. Mashhuda Glencross",
+        "description": "Senior Lecturer, University of Queensland."
+    },
+    {
+        "location": "Queensland, Australia",
+        "protected": false,
+        "username": "qcifltd",
+        "public_metrics": {
+            "followers_count": 1953,
+            "following_count": 3730,
+            "tweet_count": 8201,
+            "listed_count": 107
+        },
+        "id": "1684318686",
+        "name": "QCIF",
+        "description": "Helping to improve the quality and efficiency of data-centric research in Queensland. Operator of @qriscloud."
+    },
+    {
+        "location": "USA",
+        "protected": false,
+        "username": "Bear119512947",
+        "public_metrics": {
+            "followers_count": 41,
+            "following_count": 243,
+            "tweet_count": 70,
+            "listed_count": 0
+        },
+        "id": "1414155680252973057",
+        "name": "Alison Parker",
+        "description": "IT Consultant | Passion for #AI, #Cloud, #WFH | DM open"
+    },
+    {
+        "protected": false,
+        "username": "Carolin98277984",
+        "public_metrics": {
+            "followers_count": 365,
+            "following_count": 1872,
+            "tweet_count": 298,
+            "listed_count": 0
+        },
+        "id": "1409069249784475648",
+        "name": "Caroline Jacobs",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "username": "SportsTucano",
+        "public_metrics": {
+            "followers_count": 12,
+            "following_count": 73,
+            "tweet_count": 4,
+            "listed_count": 0
+        },
+        "id": "1407072666440327179",
+        "name": "tucano_sports",
+        "description": "We are sports analytics startup"
+    },
+    {
+        "location": "Melbourne, Australia",
+        "protected": false,
+        "username": "ashwhall",
+        "public_metrics": {
+            "followers_count": 28,
+            "following_count": 235,
+            "tweet_count": 10,
+            "listed_count": 0
+        },
+        "id": "389855642",
+        "name": "Ash Hall",
+        "description": "ML research engineer focused on computer vision for sports"
+    },
+    {
+        "location": "Australia",
+        "protected": false,
+        "username": "shakes76",
+        "public_metrics": {
+            "followers_count": 70,
+            "following_count": 203,
+            "tweet_count": 181,
+            "listed_count": 2
+        },
+        "id": "105442268",
+        "name": "Shakes Chandra",
+        "description": "A researcher in imaging, AI and computer science at the University of Queensland. I am a counter-strike tragic and love gaming, maths, science and programming."
+    },
+    {
+        "location": "Milpitas, California",
+        "protected": false,
+        "username": "runnelai",
+        "public_metrics": {
+            "followers_count": 936,
+            "following_count": 4723,
+            "tweet_count": 263,
+            "listed_count": 0
+        },
+        "id": "1199747004340961282",
+        "name": "Runnel.ai",
+        "description": "Our vision is to be the SRE arm of your organization."
+    },
+    {
+        "location": "Burrill Lake, Ulladulla",
+        "protected": false,
+        "username": "MsAliAnderson",
+        "public_metrics": {
+            "followers_count": 550,
+            "following_count": 379,
+            "tweet_count": 922,
+            "listed_count": 4
+        },
+        "id": "1022365324404899841",
+        "name": "Ali Anderson",
+        "description": "Education and D&I professional, tech enthusiast.  Religion: Coffee. Humour: Dry. Views my own. She/Her"
+    },
+    {
+        "location": "Australia",
+        "protected": false,
+        "username": "Robomum",
+        "public_metrics": {
+            "followers_count": 419,
+            "following_count": 716,
+            "tweet_count": 3944,
+            "listed_count": 8
+        },
+        "id": "28245224",
+        "name": "Marie Boden",
+        "description": "Interaction Design researcher at UQ, love playing with robots and working with children"
+    },
+    {
+        "protected": false,
+        "username": "AllouKirabe",
+        "public_metrics": {
+            "followers_count": 335,
+            "following_count": 4990,
+            "tweet_count": 528,
+            "listed_count": 1
+        },
+        "id": "1139150461599195137",
+        "name": "KIRABE ALLOU",
+        "description": "I am a student at Parakou University (Benin)"
+    },
+    {
+        "location": "Ottawa, Ontario",
+        "protected": false,
+        "username": "RLEGNAIN",
+        "public_metrics": {
+            "followers_count": 68,
+            "following_count": 168,
+            "tweet_count": 116,
+            "listed_count": 0
+        },
+        "id": "271497548",
+        "name": "Rajab Legnain",
+        "description": "Software Developer | Ph.D. degree in communication Eng."
+    },
+    {
+        "location": "Kutoarjo",
+        "protected": false,
+        "username": "tttorrr",
+        "public_metrics": {
+            "followers_count": 112,
+            "following_count": 1111,
+            "tweet_count": 355,
+            "listed_count": 3
+        },
+        "id": "940441783",
+        "name": "Vektor Dewanto",
+        "description": "study control and reinforcement-learning to make robots progressively more autonomous; love teaching. \"Likes\" is for bookmarks."
+    },
+    {
+        "location": "London",
+        "protected": false,
+        "username": "GlenKirstie",
+        "public_metrics": {
+            "followers_count": 22,
+            "following_count": 74,
+            "tweet_count": 9,
+            "listed_count": 0
+        },
+        "id": "2179602063",
+        "name": "Kirstie",
+        "description": ""
+    },
+    {
+        "location": "London, United Kingdom",
+        "protected": false,
+        "username": "VisionImagingTN",
+        "public_metrics": {
+            "followers_count": 492,
+            "following_count": 2733,
+            "tweet_count": 242,
+            "listed_count": 0
+        },
+        "id": "1284465296380694528",
+        "name": "IET Vision & Imaging Technical Network",
+        "description": "The IET Vision & Imaging Technical Network brings together engineers working in the fields of computer vision and image processing."
+    },
+    {
+        "location": "Brisbane, Australia",
+        "protected": false,
+        "username": "aaronsnoswell",
+        "public_metrics": {
+            "followers_count": 682,
+            "following_count": 2849,
+            "tweet_count": 4612,
+            "listed_count": 0
+        },
+        "id": "48354997",
+        "name": "Aaron Snoswell (薛嘉伦)",
+        "description": "Research fellow in computational law @ADMSCentre. Other half of @CSnoswell. Tweets about robotics, machine learning and game development."
+    },
+    {
+        "protected": false,
+        "username": "Clean_Cloth",
+        "public_metrics": {
+            "followers_count": 196,
+            "following_count": 284,
+            "tweet_count": 515,
+            "listed_count": 1
+        },
+        "id": "1271771069561499649",
+        "name": "Clean Cloth Nappies",
+        "description": "Our mission is to help families successfully use cloth nappies using science-based laundry advice. We acknowledge the traditional owners of Australia & Aotearoa"
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "username": "KerrieMengersen",
+        "public_metrics": {
+            "followers_count": 4010,
+            "following_count": 3671,
+            "tweet_count": 3507,
+            "listed_count": 75
+        },
+        "id": "4552714514",
+        "name": "Kerrie Mengersen",
+        "description": "IDoStats. Professor Statistics @QUT, @ARC Laureate Fellow, D/Director @ACEMathStats - data-based analysis and modelling to help make better decisions."
+    },
+    {
+        "location": "LDN",
+        "protected": false,
+        "username": "jakefairnie",
+        "public_metrics": {
+            "followers_count": 535,
+            "following_count": 375,
+            "tweet_count": 639,
+            "listed_count": 7
+        },
+        "id": "140067473",
+        "name": "Jake Fairnie",
+        "description": "🗣Head of Comms @EatrisEric & @UCLPALS\n🧠Brain scientist/artist\n🎥📸Content creator"
+    },
+    {
+        "location": "Brisbane, Australia ",
+        "protected": false,
+        "username": "SalomoneRob",
+        "public_metrics": {
+            "followers_count": 625,
+            "following_count": 215,
+            "tweet_count": 37,
+            "listed_count": 6
+        },
+        "id": "925942345379352577",
+        "name": "Rob Salomone",
+        "description": "Postdoc @ QUT Centre for Data Science. Monte Carlo methods, Variational Inference, and methodology in Statistics / Machine Learning."
+    },
+    {
+        "protected": false,
+        "username": "RussellTsuchida",
+        "public_metrics": {
+            "followers_count": 17,
+            "following_count": 25,
+            "tweet_count": 7,
+            "listed_count": 0
+        },
+        "id": "1211825303388995584",
+        "name": "Russell Tsuchida",
+        "description": "Machine Learning related stuff."
+    },
+    {
+        "location": "México",
+        "protected": false,
+        "username": "HotelesCom",
+        "public_metrics": {
+            "followers_count": 335305,
+            "following_count": 1537,
+            "tweet_count": 10943,
+            "listed_count": 669
+        },
+        "id": "93030823",
+        "name": "Hotelespuntocom",
+        "description": "Somos líderes en reservaciones de hospedaje en línea. Buena idea es reservar ahora y ganar noches gratis después en miles de hoteles en todo el mundo."
+    },
+    {
+        "location": "Adelaide, South Australia",
+        "protected": false,
+        "username": "TheAIML",
+        "public_metrics": {
+            "followers_count": 3313,
+            "following_count": 4125,
+            "tweet_count": 1303,
+            "listed_count": 31
+        },
+        "id": "1021584554430095361",
+        "name": "Australian Institute for Machine Learning",
+        "description": "Global leaders of machine learning research, and high-impact research translation at the University of Adelaide @UniofAdelaide"
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "username": "marcus_marcusg",
+        "public_metrics": {
+            "followers_count": 262,
+            "following_count": 407,
+            "tweet_count": 768,
+            "listed_count": 1
+        },
+        "id": "605027292",
+        "name": "Marcus Gallagher",
+        "description": "Optimisation and Machine Learning researcher, A/Prof. at UQ, old school gamer and metalhead"
+    },
+    {
+        "location": "Chicago, USA",
+        "protected": false,
+        "username": "AI_Robotics2022",
+        "public_metrics": {
+            "followers_count": 639,
+            "following_count": 2448,
+            "tweet_count": 259,
+            "listed_count": 5
+        },
+        "id": "1144636902684778498",
+        "name": "Nancy Leo",
+        "description": "Advancements in #AI #Robotics #MachineLearning #Automation #IoT #Data #ANN| Official Twitter account for @AI_Robotics2022 | Dec 07-08, 2022 | Chicago, USA"
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "username": "sbollmann_MRI",
+        "public_metrics": {
+            "followers_count": 1468,
+            "following_count": 2011,
+            "tweet_count": 1348,
+            "listed_count": 19
+        },
+        "id": "19090293",
+        "name": "Saskia & Steffen Bollmann",
+        "description": "https://t.co/BQa2sAkV2d - #medicalimaging #MRI #fMRI #QSM #imageprocessing #reproducibility at @UQ_cai @UQSchoolITEE @UQ_EAIT @CibitIttc @neuro_desk"
+    },
+    {
+        "location": "Brisbane",
+        "protected": false,
+        "username": "RCCUQ",
+        "public_metrics": {
+            "followers_count": 1635,
+            "following_count": 2128,
+            "tweet_count": 6406,
+            "listed_count": 109
+        },
+        "id": "2903173148",
+        "name": "UQ Research Computing Centre",
+        "description": "Research Computing Centre at The University of Queensland: supporting UQ researchers in advanced computation, data analysis and other digital research tools"
+    },
+    {
+        "protected": false,
+        "username": "UQAIGroup",
+        "public_metrics": {
+            "followers_count": 99,
+            "following_count": 91,
+            "tweet_count": 18,
+            "listed_count": 0
+        },
+        "id": "1145584490594443264",
+        "name": "UQ Artificial Intelligence",
+        "description": "A cross-disciplinary group of researchers and academics at UQ working on Artificial Intelligence (AI) and its applications"
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "protected": false,
+        "username": "ashlebug",
+        "public_metrics": {
+            "followers_count": 849,
+            "following_count": 743,
+            "tweet_count": 2814,
+            "listed_count": 12
+        },
+        "id": "900516554684612608",
+        "name": "Ashleigh Wilson ☕️❤️👩‍💻",
+        "description": "Educator | Community | @BrisTechNewbies Organiser | #WomeninTech | Proud to be Neurodivergent | Full-Time Doctor Who Nerd 🤓"
+    },
+    {
+        "location": "Cardiff, UK",
+        "protected": false,
+        "username": "bmvc2019",
+        "public_metrics": {
+            "followers_count": 620,
+            "following_count": 1137,
+            "tweet_count": 90,
+            "listed_count": 6
+        },
+        "id": "1032203585449283584",
+        "name": "BMVC 2019",
+        "description": "The 30th British Machine Vision Conference"
+    },
+    {
+        "location": "Melbourne",
+        "protected": false,
+        "username": "in2sport",
+        "public_metrics": {
+            "followers_count": 937,
+            "following_count": 535,
+            "tweet_count": 1005,
+            "listed_count": 18
+        },
+        "id": "27593649",
+        "name": "Ⓢⓣⓤⓐⓡⓣ Ⓜⓞⓡⓖⓐⓝ💉💉",
+        "description": "Working in CV + AI @ Australian Institute of Sport.  I'm a parent, and a lover of coffee, muffins and bicycles. Views are usually half-baked or stolen."
+    },
+    {
+        "location": "Paris, Ile-de-France",
+        "protected": false,
+        "username": "Deep_In_Depth",
+        "public_metrics": {
+            "followers_count": 12047,
+            "following_count": 10388,
+            "tweet_count": 36369,
+            "listed_count": 168
+        },
+        "id": "861861525883158528",
+        "name": "Deep_In_Depth",
+        "description": "#DeepLearning  #MachineLearning #AI #Reinforcement #Learning #NLP  #NPU #NeuroMorphic #ComputerVision #NeuralNetwork curated News feed. So dip into the Detphs !"
+    },
+    {
+        "protected": false,
+        "username": "JoshuaEayrs",
+        "public_metrics": {
+            "followers_count": 80,
+            "following_count": 225,
+            "tweet_count": 95,
+            "listed_count": 0
+        },
+        "id": "1198269318",
+        "name": "Josh Eayrs",
+        "description": "Postdoc cognitive (neuro)scientist @UGent. I like to run, cycle, and read (not simultaneously). He/Him."
+    },
+    {
+        "location": "Iowa City, IA",
+        "protected": false,
+        "username": "SudoNeuroSci",
+        "public_metrics": {
+            "followers_count": 654,
+            "following_count": 3494,
+            "tweet_count": 667,
+            "listed_count": 2
+        },
+        "id": "927722235674136577",
+        "name": "James Kent",
+        "description": "Neuroscience PhD. buzzwords: #python #OpenScience #Neuroscience |||\npronouns: he/him/his"
+    },
+    {
+        "location": "Los Angeles, CA",
+        "protected": false,
+        "username": "RoboticsAI2018",
+        "public_metrics": {
+            "followers_count": 335,
+            "following_count": 1844,
+            "tweet_count": 127,
+            "listed_count": 6
+        },
+        "id": "870262288514560003",
+        "name": "Jessica",
+        "description": ""
+    },
+    {
+        "location": "Brisbane, Australia",
+        "protected": false,
+        "username": "viller",
+        "public_metrics": {
+            "followers_count": 1801,
+            "following_count": 4071,
+            "tweet_count": 16243,
+            "listed_count": 92
+        },
+        "id": "778607",
+        "name": "Stephen Viller",
+        "description": "Interaction Design academic interested in social technology, live music, cycling and photography. Human-Centred Computing @hcc_uq leader at @UQSchoolITEE"
+    },
+    {
+        "location": "Chicago",
+        "protected": false,
+        "username": "patricklucey",
+        "public_metrics": {
+            "followers_count": 730,
+            "following_count": 401,
+            "tweet_count": 151,
+            "listed_count": 24
+        },
+        "id": "157849997",
+        "name": "Patrick Lucey",
+        "description": "Chief Scientist at Stats Perform: I do machine learning on lots of sports data"
+    },
+    {
+        "protected": false,
+        "username": "mikehobbiss",
+        "public_metrics": {
+            "followers_count": 1673,
+            "following_count": 580,
+            "tweet_count": 2999,
+            "listed_count": 17
+        },
+        "id": "348485606",
+        "name": "Mike Hobbiss",
+        "description": "Psychology teacher and cognitive neuroscience researcher. Neuroscience, education and all the layers in between."
+    },
+    {
+        "location": "London, England",
+        "protected": false,
+        "username": "tbotix",
+        "public_metrics": {
+            "followers_count": 1168,
+            "following_count": 5000,
+            "tweet_count": 329,
+            "listed_count": 31
+        },
+        "id": "1969649942",
+        "name": "Terrabotics",
+        "description": "Making sense of satellite data at scale for more responsible Natural Resources. #ESG 4 #Energy #Metals with #EarthObservation #RemoteSensing #AI 🛰🌍🤖"
+    },
+    {
+        "location": "London, UK",
+        "protected": false,
+        "username": "thektokolwiek",
+        "public_metrics": {
+            "followers_count": 235,
+            "following_count": 686,
+            "tweet_count": 511,
+            "listed_count": 6
+        },
+        "id": "547168371",
+        "name": "Łukasz Kopeć",
+        "description": "Data scientist, ex-PhD student. he/his. Views are my precious.\n💻(🐍📈)📸🍰🏳️‍🌈"
+    },
+    {
+        "location": "London, UK",
+        "protected": false,
+        "username": "ProfData",
+        "public_metrics": {
+            "followers_count": 4833,
+            "following_count": 1483,
+            "tweet_count": 1174,
+            "listed_count": 89
+        },
+        "id": "2776505567",
+        "name": "Bradley Love",
+        "description": "Fellow at Alan Turing Institute for data science and https://t.co/bA0Osp7KmB; Professor of Cognitive and Decision Sciences, University College London"
+    },
+    {
+        "location": "Nijmegen, Nederland",
+        "protected": false,
+        "username": "o_guest",
+        "public_metrics": {
+            "followers_count": 10822,
+            "following_count": 5385,
+            "tweet_count": 149297,
+            "listed_count": 331
+        },
+        "id": "3865005196",
+        "name": "Olivia Guest · Ολίβια Γκεστ",
+        "description": "assistant professor of computational cognitive science at @DondersInst and @AI_Radboud · she/they · cypriot/kıbrıslı/κυπραία · σὺν Ἀθηνᾷ καὶ χεῖρα κίνει"
+    },
+    {
+        "protected": false,
+        "username": "meritbru",
+        "public_metrics": {
+            "followers_count": 140,
+            "following_count": 533,
+            "tweet_count": 314,
+            "listed_count": 1
+        },
+        "id": "4288953176",
+        "name": "Merit Bruckmaier",
+        "description": "I like brains. - Neuroscientist @LMU_Muenchen, previously @UCL_ICN"
+    },
+    {
+        "location": "Brisbane, Australia",
+        "protected": true,
+        "username": "Epicurus_Wu",
+        "public_metrics": {
+            "followers_count": 5,
+            "following_count": 104,
+            "tweet_count": 20,
+            "listed_count": 0
+        },
+        "id": "461846596",
+        "name": "Epicurus Wu",
+        "description": ""
+    },
+    {
+        "location": "Brisbane, Australia ",
+        "protected": false,
+        "username": "becgeorge",
+        "public_metrics": {
+            "followers_count": 187,
+            "following_count": 595,
+            "tweet_count": 115,
+            "listed_count": 4
+        },
+        "id": "40877114",
+        "name": "Rebecca George",
+        "description": ""
+    },
+    {
+        "location": "Magyarország",
+        "protected": false,
+        "username": "nynorbert87",
+        "public_metrics": {
+            "followers_count": 66,
+            "following_count": 997,
+            "tweet_count": 70,
+            "listed_count": 2
+        },
+        "id": "752792906713468928",
+        "name": "Norbert Nyakó",
+        "description": "Software developer, interested in AI,  self-driving cars and science."
+    },
+    {
+        "protected": false,
+        "username": "LargeScaleSport",
+        "public_metrics": {
+            "followers_count": 290,
+            "following_count": 252,
+            "tweet_count": 65,
+            "listed_count": 11
+        },
+        "id": "2348445751",
+        "name": "KDD Sports Analytics",
+        "description": "KDD Workshops on Large-Scale Sports Analytics"
+    },
+    {
+        "location": "AUSTRALIA",
+        "protected": false,
+        "username": "RoboticVisionAU",
+        "public_metrics": {
+            "followers_count": 3518,
+            "following_count": 723,
+            "tweet_count": 2982,
+            "listed_count": 103
+        },
+        "id": "2691350340",
+        "name": "Robotic Vision",
+        "description": "Combining robotics and computer vision to give robots the ability to see."
+    },
+    {
+        "location": "Ottawa",
+        "protected": false,
+        "username": "626eq",
+        "public_metrics": {
+            "followers_count": 45,
+            "following_count": 768,
+            "tweet_count": 189,
+            "listed_count": 0
+        },
+        "id": "1137217634",
+        "name": "CJEQ",
+        "description": "Postdoctoral fellow, Deep learning, weakly-supervised learning"
+    },
+    {
+        "protected": false,
+        "username": "MichaelKincel",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 32,
+            "tweet_count": 3,
+            "listed_count": 0
+        },
+        "id": "2273249232",
+        "name": "Michael",
+        "description": ""
+    },
+    {
+        "location": "Australia",
+        "protected": false,
+        "username": "CeliaFitzWalter",
+        "public_metrics": {
+            "followers_count": 16,
+            "following_count": 78,
+            "tweet_count": 13,
+            "listed_count": 1
+        },
+        "id": "1156165544",
+        "name": "Celia Fitz-Walter",
+        "description": "Studying a PhD in Musicology. Interested in music, art, politics, film, and a lot more!"
+    },
+    {
+        "location": "Australia",
+        "protected": false,
+        "username": "konstanty",
+        "public_metrics": {
+            "followers_count": 53,
+            "following_count": 78,
+            "tweet_count": 643,
+            "listed_count": 4
+        },
+        "id": "24660148",
+        "name": "Konstanty",
+        "description": ""
+    },
+    {
+        "protected": false,
+        "username": "arunawesten764",
+        "public_metrics": {
+            "followers_count": 46,
+            "following_count": 652,
+            "tweet_count": 0,
+            "listed_count": 0
+        },
+        "id": "709882489",
+        "name": "arunawesten764",
+        "description": "Hey, boys. I'm probably prettier than you, smarter than you, funnier than you, etc. Don't worry,  please follow me. http://t.co/DZ90kad4sx"
+    },
+    {
+        "protected": false,
+        "username": "tennispsycholog",
+        "public_metrics": {
+            "followers_count": 476,
+            "following_count": 1408,
+            "tweet_count": 29,
+            "listed_count": 9
+        },
+        "id": "374576184",
+        "name": "Psychology of Tennis",
+        "description": "Want to be grand slam champion? Find out how in a new book on psychology of tennis http://t.co/Evvs9juOyk"
+    },
+    {
+        "location": "Australia",
+        "protected": false,
+        "username": "MrKRudd",
+        "public_metrics": {
+            "followers_count": 1563727,
+            "following_count": 395136,
+            "tweet_count": 15074,
+            "listed_count": 7018
+        },
+        "id": "16832632",
+        "name": "Kevin Rudd",
+        "description": "Former PM of Australia. Pres. of @AsiaSociety @AsiaPolicy. Chair of @Murdoch_RC @NationalApology. Father of 3 great kids w/ my wife Thérèse. QLD born & raised."
+    }
+]

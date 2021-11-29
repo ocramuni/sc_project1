@@ -1,0 +1,62 @@
+[
+    {
+        "id": "866881348476317696",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @AlexGen87: Ieri #GDPN ad #AzzanoDecimo con i giovani del csx per @marcoputto sindaco! @PDAzzanoDecimo @AzzanoSI @annalisabo89 https://t…",
+        "lang": "it",
+        "created_at": "2017-05-23T04:59:54.000Z"
+    },
+    {
+        "id": "834453178292793344",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @AzzanoSI: Anche il Comune di Azzano Decimo aderisce a #milluminodimeno. Cena al buio al Progetto Giovani e Municipio spento la notte @c…",
+        "lang": "it",
+        "created_at": "2017-02-22T17:21:55.000Z"
+    },
+    {
+        "id": "834452757457272833",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Anche il Comune di Azzano Decimo aderisce a #milluminodimeno. Cena al buio al Progetto Giovani e Municipio spento la notte @caterpillarrai https://t.co/Yu5d24uCeq",
+        "lang": "it",
+        "created_at": "2017-02-22T17:20:15.000Z"
+    },
+    {
+        "id": "784681404227547136",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "text": "Oggi siamo a San Vito per il convegno delle civiche regionali sul capitale umano: riforma costituzionale, nuova specialita' #Fvg e Scuola. https://t.co/633MAidXHG",
+        "lang": "it",
+        "created_at": "2016-10-08T09:06:40.000Z"
+    },
+    {
+        "id": "782518586728382465",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Inaugurato oggi il braciere dedicato alla famiglia in Piazza San Michele a #Fagnigola,… https://t.co/evtILswUZN",
+        "lang": "it",
+        "created_at": "2016-10-02T09:52:24.000Z"
+    }
+]

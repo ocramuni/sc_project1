@@ -1,0 +1,950 @@
+[
+    {
+        "name": "Food Truck Chef™",
+        "id": "778500137316339713",
+        "public_metrics": {
+            "followers_count": 162782,
+            "following_count": 52,
+            "tweet_count": 828,
+            "listed_count": 63
+        },
+        "protected": false,
+        "username": "myfoodtruckchef"
+    },
+    {
+        "name": "Nicola Zingaretti",
+        "id": "403544693",
+        "public_metrics": {
+            "followers_count": 575863,
+            "following_count": 1800,
+            "tweet_count": 17385,
+            "listed_count": 1459
+        },
+        "protected": false,
+        "username": "nzingaretti"
+    },
+    {
+        "name": "Ambra Garavaglia",
+        "id": "434907065",
+        "public_metrics": {
+            "followers_count": 74995,
+            "following_count": 678,
+            "tweet_count": 33999,
+            "listed_count": 101
+        },
+        "protected": false,
+        "username": "ambragaravaglia"
+    },
+    {
+        "name": "Simone Achenza",
+        "id": "375320769",
+        "public_metrics": {
+            "followers_count": 81,
+            "following_count": 107,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "SimoneAchenza"
+    },
+    {
+        "name": "Federica Pellegrini",
+        "id": "1329047808",
+        "public_metrics": {
+            "followers_count": 735665,
+            "following_count": 372,
+            "tweet_count": 10324,
+            "listed_count": 639
+        },
+        "protected": false,
+        "username": "mafaldina88"
+    },
+    {
+        "name": "Dario Franceschini",
+        "id": "61154684",
+        "public_metrics": {
+            "followers_count": 462692,
+            "following_count": 1251,
+            "tweet_count": 4030,
+            "listed_count": 2079
+        },
+        "protected": false,
+        "username": "dariofrance"
+    },
+    {
+        "name": "Massimo Gramellini",
+        "id": "2160446971",
+        "public_metrics": {
+            "followers_count": 129965,
+            "following_count": 142,
+            "tweet_count": 2188,
+            "listed_count": 660
+        },
+        "protected": false,
+        "username": "MaxGramel"
+    },
+    {
+        "name": "WordPress",
+        "id": "685513",
+        "public_metrics": {
+            "followers_count": 634042,
+            "following_count": 132,
+            "tweet_count": 1747,
+            "listed_count": 13449
+        },
+        "protected": false,
+        "username": "WordPress"
+    },
+    {
+        "name": "Paola Stanig",
+        "id": "714812004255535104",
+        "public_metrics": {
+            "followers_count": 2,
+            "following_count": 25,
+            "tweet_count": 2,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "pollottinas"
+    },
+    {
+        "name": "Chi l'ha visto?",
+        "id": "408652604",
+        "public_metrics": {
+            "followers_count": 47143,
+            "following_count": 428,
+            "tweet_count": 21405,
+            "listed_count": 177
+        },
+        "protected": false,
+        "username": "chilhavistorai3"
+    },
+    {
+        "name": "Wired Italia",
+        "id": "119711344",
+        "public_metrics": {
+            "followers_count": 435856,
+            "following_count": 131,
+            "tweet_count": 121662,
+            "listed_count": 3834
+        },
+        "protected": false,
+        "username": "wireditalia"
+    },
+    {
+        "name": "Linkiesta",
+        "id": "215728045",
+        "public_metrics": {
+            "followers_count": 308237,
+            "following_count": 137,
+            "tweet_count": 240720,
+            "listed_count": 3242
+        },
+        "protected": false,
+        "username": "Linkiesta"
+    },
+    {
+        "name": "WordPress.com",
+        "id": "823905",
+        "public_metrics": {
+            "followers_count": 1658942,
+            "following_count": 11260,
+            "tweet_count": 57053,
+            "listed_count": 11276
+        },
+        "protected": false,
+        "username": "wordpressdotcom"
+    },
+    {
+        "name": "La Grammatica",
+        "id": "793448460",
+        "public_metrics": {
+            "followers_count": 8883,
+            "following_count": 9271,
+            "tweet_count": 55368,
+            "listed_count": 120
+        },
+        "protected": false,
+        "username": "grammaticae"
+    },
+    {
+        "name": "Spinoza",
+        "id": "41667342",
+        "public_metrics": {
+            "followers_count": 1754722,
+            "following_count": 62,
+            "tweet_count": 4926,
+            "listed_count": 3924
+        },
+        "protected": false,
+        "username": "spinozait"
+    },
+    {
+        "name": "La Feltrinelli",
+        "id": "22637050",
+        "public_metrics": {
+            "followers_count": 749071,
+            "following_count": 466,
+            "tweet_count": 14787,
+            "listed_count": 1942
+        },
+        "protected": false,
+        "username": "LaFeltrinelli"
+    },
+    {
+        "name": "Irene Regeni",
+        "id": "2524853851",
+        "public_metrics": {
+            "followers_count": 5780,
+            "following_count": 309,
+            "tweet_count": 339,
+            "listed_count": 8
+        },
+        "protected": false,
+        "username": "IreneBenzop"
+    },
+    {
+        "name": "ilcorriere",
+        "id": "709341535",
+        "public_metrics": {
+            "followers_count": 574,
+            "following_count": 21,
+            "tweet_count": 8458,
+            "listed_count": 14
+        },
+        "protected": false,
+        "username": "ilcorriereit"
+    },
+    {
+        "name": "Nicola Savino",
+        "id": "228264692",
+        "public_metrics": {
+            "followers_count": 1761679,
+            "following_count": 877,
+            "tweet_count": 17467,
+            "listed_count": 1918
+        },
+        "protected": false,
+        "username": "NicoSavi"
+    },
+    {
+        "name": "Partito Democratico 🇮🇹 🇪🇺",
+        "id": "13294452",
+        "public_metrics": {
+            "followers_count": 366889,
+            "following_count": 489,
+            "tweet_count": 83845,
+            "listed_count": 1850
+        },
+        "protected": false,
+        "username": "pdnetwork"
+    },
+    {
+        "name": "Debora Serracchiani",
+        "id": "35298549",
+        "public_metrics": {
+            "followers_count": 300290,
+            "following_count": 905,
+            "tweet_count": 9546,
+            "listed_count": 1764
+        },
+        "protected": false,
+        "username": "serracchiani"
+    },
+    {
+        "name": "Luigi Manconi",
+        "id": "402171616",
+        "public_metrics": {
+            "followers_count": 19574,
+            "following_count": 2203,
+            "tweet_count": 3618,
+            "listed_count": 174
+        },
+        "protected": false,
+        "username": "LuigiManconi1"
+    },
+    {
+        "name": "Latina24ore.it",
+        "id": "100307217",
+        "public_metrics": {
+            "followers_count": 3973,
+            "following_count": 234,
+            "tweet_count": 26872,
+            "listed_count": 28
+        },
+        "protected": false,
+        "username": "latina24ore"
+    },
+    {
+        "name": "LatinaPress.it",
+        "id": "138102051",
+        "public_metrics": {
+            "followers_count": 3158,
+            "following_count": 120,
+            "tweet_count": 13029,
+            "listed_count": 17
+        },
+        "protected": false,
+        "username": "Latina_Press"
+    },
+    {
+        "name": "Matteo Coluzzi",
+        "id": "2517877448",
+        "public_metrics": {
+            "followers_count": 102,
+            "following_count": 372,
+            "tweet_count": 84,
+            "listed_count": 1
+        },
+        "protected": false,
+        "username": "MatteoColuzzi_"
+    },
+    {
+        "name": "Lorenzo",
+        "id": "436943169",
+        "public_metrics": {
+            "followers_count": 145,
+            "following_count": 514,
+            "tweet_count": 7716,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "Lore_74f"
+    },
+    {
+        "name": "Focus",
+        "id": "24269420",
+        "public_metrics": {
+            "followers_count": 256560,
+            "following_count": 460,
+            "tweet_count": 33513,
+            "listed_count": 1002
+        },
+        "protected": false,
+        "username": "Focus_it"
+    },
+    {
+        "name": "Udinese Calcio",
+        "id": "298038413",
+        "public_metrics": {
+            "followers_count": 311081,
+            "following_count": 108,
+            "tweet_count": 51542,
+            "listed_count": 1537
+        },
+        "protected": false,
+        "username": "Udinese_1896"
+    },
+    {
+        "name": "J-Ax",
+        "id": "45363552",
+        "public_metrics": {
+            "followers_count": 2110743,
+            "following_count": 540,
+            "tweet_count": 12166,
+            "listed_count": 893
+        },
+        "protected": false,
+        "username": "jaxofficial"
+    },
+    {
+        "name": "ARISA",
+        "id": "295782462",
+        "public_metrics": {
+            "followers_count": 464300,
+            "following_count": 276,
+            "tweet_count": 6665,
+            "listed_count": 651
+        },
+        "protected": false,
+        "username": "ARISA_OFFICIAL"
+    },
+    {
+        "name": "L'HuffPost",
+        "id": "543774554",
+        "public_metrics": {
+            "followers_count": 602409,
+            "following_count": 1197,
+            "tweet_count": 157928,
+            "listed_count": 3266
+        },
+        "protected": false,
+        "username": "HuffPostItalia"
+    },
+    {
+        "name": "Internazionale",
+        "id": "15254807",
+        "public_metrics": {
+            "followers_count": 1292230,
+            "following_count": 406,
+            "tweet_count": 79644,
+            "listed_count": 6734
+        },
+        "protected": false,
+        "username": "Internazionale"
+    },
+    {
+        "name": "Luciano Ligabue",
+        "id": "19356964",
+        "public_metrics": {
+            "followers_count": 2116122,
+            "following_count": 5,
+            "tweet_count": 3824,
+            "listed_count": 2063
+        },
+        "protected": false,
+        "username": "ligabue"
+    },
+    {
+        "name": "Simona Ventura",
+        "id": "116311025",
+        "public_metrics": {
+            "followers_count": 1077912,
+            "following_count": 1272,
+            "tweet_count": 15746,
+            "listed_count": 1159
+        },
+        "protected": false,
+        "username": "Simo_Ventura"
+    },
+    {
+        "name": "Noemi",
+        "id": "193701516",
+        "public_metrics": {
+            "followers_count": 717089,
+            "following_count": 1181,
+            "tweet_count": 11832,
+            "listed_count": 520
+        },
+        "protected": false,
+        "username": "noemiofficial"
+    },
+    {
+        "name": "Francesco Facchinetti",
+        "id": "115436050",
+        "public_metrics": {
+            "followers_count": 1244756,
+            "following_count": 135333,
+            "tweet_count": 22001,
+            "listed_count": 1295
+        },
+        "protected": false,
+        "username": "frafacchinetti"
+    },
+    {
+        "name": "Costa d Gherardesca",
+        "id": "33205675",
+        "public_metrics": {
+            "followers_count": 297512,
+            "following_count": 599,
+            "tweet_count": 16586,
+            "listed_count": 315
+        },
+        "protected": false,
+        "username": "CdGherardesca"
+    },
+    {
+        "name": "Roberto Saviano",
+        "id": "14516324",
+        "public_metrics": {
+            "followers_count": 1803941,
+            "following_count": 1100,
+            "tweet_count": 11315,
+            "listed_count": 4015
+        },
+        "protected": false,
+        "username": "robertosaviano"
+    },
+    {
+        "name": "Fabio De Luigi",
+        "id": "326974183",
+        "public_metrics": {
+            "followers_count": 905020,
+            "following_count": 1509,
+            "tweet_count": 2128,
+            "listed_count": 730
+        },
+        "protected": false,
+        "username": "FabioDeLuigi"
+    },
+    {
+        "name": "Crozza Meraviglie",
+        "id": "123899370",
+        "public_metrics": {
+            "followers_count": 1232039,
+            "following_count": 68,
+            "tweet_count": 6490,
+            "listed_count": 1613
+        },
+        "protected": false,
+        "username": "CrozzaTweet"
+    },
+    {
+        "name": "Vogue Italia",
+        "id": "126614785",
+        "public_metrics": {
+            "followers_count": 1111624,
+            "following_count": 28,
+            "tweet_count": 75082,
+            "listed_count": 3502
+        },
+        "protected": false,
+        "username": "vogue_italia"
+    },
+    {
+        "name": "Vanity Fair Italia",
+        "id": "199194717",
+        "public_metrics": {
+            "followers_count": 337507,
+            "following_count": 846,
+            "tweet_count": 141413,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "VanityFairIt"
+    },
+    {
+        "name": "Pif",
+        "id": "445008112",
+        "public_metrics": {
+            "followers_count": 407310,
+            "following_count": 242,
+            "tweet_count": 3605,
+            "listed_count": 673
+        },
+        "protected": false,
+        "username": "pif_iltestimone"
+    },
+    {
+        "name": "Matteo Renzi",
+        "id": "18762875",
+        "public_metrics": {
+            "followers_count": 3334846,
+            "following_count": 972,
+            "tweet_count": 13480,
+            "listed_count": 7414
+        },
+        "protected": false,
+        "username": "matteorenzi"
+    },
+    {
+        "name": "alessandro cattelan",
+        "id": "54174268",
+        "public_metrics": {
+            "followers_count": 1145071,
+            "following_count": 14,
+            "tweet_count": 16093,
+            "listed_count": 1019
+        },
+        "protected": false,
+        "username": "alecattelan"
+    },
+    {
+        "name": "Fabio Volo",
+        "id": "409917074",
+        "public_metrics": {
+            "followers_count": 1495879,
+            "following_count": 184,
+            "tweet_count": 7854,
+            "listed_count": 1644
+        },
+        "protected": false,
+        "username": "Fabiovoloo"
+    },
+    {
+        "name": "messaggeroveneto",
+        "id": "98654009",
+        "public_metrics": {
+            "followers_count": 21843,
+            "following_count": 36,
+            "tweet_count": 87506,
+            "listed_count": 325
+        },
+        "protected": false,
+        "username": "messveneto"
+    },
+    {
+        "name": "Jacopo WiWa",
+        "id": "1005410586",
+        "public_metrics": {
+            "followers_count": 52,
+            "following_count": 61,
+            "tweet_count": 24,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "WiWa_the_Duke"
+    },
+    {
+        "name": "Lista NeoAteneo",
+        "id": "2869922003",
+        "public_metrics": {
+            "followers_count": 10,
+            "following_count": 37,
+            "tweet_count": 16,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "Lista_NeoAteneo"
+    },
+    {
+        "name": "Università di Udine",
+        "id": "190161488",
+        "public_metrics": {
+            "followers_count": 9646,
+            "following_count": 1366,
+            "tweet_count": 13237,
+            "listed_count": 184
+        },
+        "protected": false,
+        "username": "uniud"
+    },
+    {
+        "name": "Manuela Croatto",
+        "id": "342569184",
+        "public_metrics": {
+            "followers_count": 1669,
+            "following_count": 1127,
+            "tweet_count": 26760,
+            "listed_count": 25
+        },
+        "protected": false,
+        "username": "ManuelaCroatto"
+    },
+    {
+        "name": "Stefano Pontoni",
+        "id": "1646148152",
+        "public_metrics": {
+            "followers_count": 218,
+            "following_count": 491,
+            "tweet_count": 1932,
+            "listed_count": 2
+        },
+        "protected": false,
+        "username": "PontoniStefano"
+    },
+    {
+        "name": "Francesco Zani",
+        "id": "426379118",
+        "public_metrics": {
+            "followers_count": 30,
+            "following_count": 83,
+            "tweet_count": 37,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "FranzVonZani"
+    },
+    {
+        "name": "Martina Santarossa",
+        "id": "1556357336",
+        "public_metrics": {
+            "followers_count": 67,
+            "following_count": 802,
+            "tweet_count": 310,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "martysantarossa"
+    },
+    {
+        "name": "L. Genna",
+        "id": "550720292",
+        "public_metrics": {
+            "followers_count": 358,
+            "following_count": 180,
+            "tweet_count": 7896,
+            "listed_count": 1
+        },
+        "protected": false,
+        "username": "Lorenzo_Genna"
+    },
+    {
+        "name": "Instagram",
+        "id": "180505807",
+        "public_metrics": {
+            "followers_count": 34148638,
+            "following_count": 251,
+            "tweet_count": 14452,
+            "listed_count": 31879
+        },
+        "protected": false,
+        "username": "instagram"
+    },
+    {
+        "name": "Dejan Vrevezovski",
+        "id": "257409328",
+        "public_metrics": {
+            "followers_count": 91,
+            "following_count": 350,
+            "tweet_count": 168,
+            "listed_count": 8
+        },
+        "protected": false,
+        "username": "Vrevezovski"
+    },
+    {
+        "name": "Alessia Beatrice",
+        "id": "428092738",
+        "public_metrics": {
+            "followers_count": 113,
+            "following_count": 341,
+            "tweet_count": 961,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "AlessiaBeatrice"
+    },
+    {
+        "name": "alessandra capitani",
+        "id": "513312672",
+        "public_metrics": {
+            "followers_count": 56,
+            "following_count": 109,
+            "tweet_count": 159,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "alecapimia"
+    },
+    {
+        "name": "Giuseppe Molinari",
+        "id": "551325624",
+        "public_metrics": {
+            "followers_count": 62,
+            "following_count": 0,
+            "tweet_count": 42,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "14Pex"
+    },
+    {
+        "name": "Giammaria Bruognolo",
+        "id": "418700745",
+        "public_metrics": {
+            "followers_count": 139,
+            "following_count": 152,
+            "tweet_count": 297,
+            "listed_count": 0
+        },
+        "protected": true,
+        "username": "GimmyBruognolo"
+    },
+    {
+        "name": "Lorenzo Vettorino",
+        "id": "537708649",
+        "public_metrics": {
+            "followers_count": 51,
+            "following_count": 92,
+            "tweet_count": 62,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "Lorenzo_vettO"
+    },
+    {
+        "name": "GiorgioPompiliRossi",
+        "id": "439437364",
+        "public_metrics": {
+            "followers_count": 142,
+            "following_count": 313,
+            "tweet_count": 26,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "GiorgioPR_"
+    },
+    {
+        "name": "Gianmarco Pepe",
+        "id": "427083591",
+        "public_metrics": {
+            "followers_count": 129,
+            "following_count": 234,
+            "tweet_count": 130,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "pepinogianmarco"
+    },
+    {
+        "name": "Giorgia Cicatiello",
+        "id": "365387771",
+        "public_metrics": {
+            "followers_count": 115,
+            "following_count": 0,
+            "tweet_count": 35,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "GiorgiaCicatiel"
+    },
+    {
+        "name": "Andrea Malandruccol",
+        "id": "516655528",
+        "public_metrics": {
+            "followers_count": 132,
+            "following_count": 187,
+            "tweet_count": 981,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "Andreacdp1992"
+    },
+    {
+        "name": "Tony De Gennaro",
+        "id": "547634082",
+        "public_metrics": {
+            "followers_count": 95,
+            "following_count": 108,
+            "tweet_count": 181,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "TonyDeGennaro"
+    },
+    {
+        "name": "Repubblica",
+        "id": "18935802",
+        "public_metrics": {
+            "followers_count": 3207600,
+            "following_count": 393,
+            "tweet_count": 924894,
+            "listed_count": 12528
+        },
+        "protected": false,
+        "username": "repubblica"
+    },
+    {
+        "name": "The Bloody Beetroots",
+        "id": "22392838",
+        "public_metrics": {
+            "followers_count": 141158,
+            "following_count": 2430,
+            "tweet_count": 10517,
+            "listed_count": 1330
+        },
+        "protected": false,
+        "username": "BloodyBeetroots"
+    },
+    {
+        "name": "Good Old Boys™",
+        "id": "608922037",
+        "public_metrics": {
+            "followers_count": 2328,
+            "following_count": 1088,
+            "tweet_count": 250,
+            "listed_count": 14
+        },
+        "protected": false,
+        "username": "Good_Old_Boys"
+    },
+    {
+        "name": "Lisa",
+        "id": "600944394",
+        "public_metrics": {
+            "followers_count": 343,
+            "following_count": 324,
+            "tweet_count": 3277,
+            "listed_count": 1
+        },
+        "protected": false,
+        "username": "Lisamelis9"
+    },
+    {
+        "name": "NonLaSai!",
+        "id": "559127934",
+        "public_metrics": {
+            "followers_count": 142333,
+            "following_count": 158750,
+            "tweet_count": 31116,
+            "listed_count": 279
+        },
+        "protected": false,
+        "username": "NonLaSai"
+    },
+    {
+        "name": "Jessica Tiberi",
+        "id": "536251225",
+        "public_metrics": {
+            "followers_count": 38,
+            "following_count": 179,
+            "tweet_count": 458,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "TiberiJessica"
+    },
+    {
+        "name": "Chiara Zambon",
+        "id": "171567513",
+        "public_metrics": {
+            "followers_count": 27,
+            "following_count": 38,
+            "tweet_count": 5,
+            "listed_count": 0
+        },
+        "protected": false,
+        "username": "Chiara_Zambon"
+    },
+    {
+        "name": "Anthony",
+        "id": "469546161",
+        "public_metrics": {
+            "followers_count": 146,
+            "following_count": 174,
+            "tweet_count": 2051,
+            "listed_count": 4
+        },
+        "protected": false,
+        "username": "TonyDim1992"
+    },
+    {
+        "name": "Cesare Cremonini",
+        "id": "132539757",
+        "public_metrics": {
+            "followers_count": 1172135,
+            "following_count": 1198,
+            "tweet_count": 13796,
+            "listed_count": 1197
+        },
+        "protected": false,
+        "username": "CremoniniCesare"
+    },
+    {
+        "name": "Fabio Fazio",
+        "id": "1005827778",
+        "public_metrics": {
+            "followers_count": 791687,
+            "following_count": 181,
+            "tweet_count": 6985,
+            "listed_count": 1228
+        },
+        "protected": false,
+        "username": "fabfazio"
+    },
+    {
+        "name": "Le Iene",
+        "id": "239784688",
+        "public_metrics": {
+            "followers_count": 2340843,
+            "following_count": 56,
+            "tweet_count": 18908,
+            "listed_count": 1407
+        },
+        "protected": false,
+        "username": "redazioneiene"
+    },
+    {
+        "name": "Lorenzo Jovanotti",
+        "id": "101532373",
+        "public_metrics": {
+            "followers_count": 3735827,
+            "following_count": 1250,
+            "tweet_count": 16758,
+            "listed_count": 4407
+        },
+        "protected": false,
+        "username": "lorenzojova"
+    }
+]

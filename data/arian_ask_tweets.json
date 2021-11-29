@@ -1,0 +1,62 @@
+[
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@WojciechKusa @ecir2022 @allanhanbury @petrknoth @ProjectDossier congratulations!",
+        "lang": "en",
+        "id": "1464220630207893508",
+        "created_at": "2021-11-26T13:12:56.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 4,
+            "like_count": 41,
+            "quote_count": 1
+        },
+        "text": "Excited to share that our short paper \"Expert Finding in Legal Community Question Answering\" got accepted at #ecir2022 together with @Suzan and Gabriella Pasi.",
+        "lang": "en",
+        "id": "1463984339818094596",
+        "created_at": "2021-11-25T21:34:00.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @suzan: Today we have presentations by PhD students in the @ProjectDossier meeting in Austria. \n\nThe two @LIACS PhD students  @amin____a…",
+        "lang": "en",
+        "id": "1448381335282802692",
+        "created_at": "2021-10-13T20:13:14.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @suzan: In our @TMLeiden group meeting today we have a visit by @BenCarterette (chair of @ACMSIGIR), who is doing a virtual tour in the…",
+        "lang": "en",
+        "id": "1441410325421518848",
+        "created_at": "2021-09-24T14:32:56.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "RT @DESIRES_IR: Arian Askari presenting a work with Suzan Verberne on Combining lexical and neural retrieval with longformer-based summariz…",
+        "lang": "en",
+        "id": "1440266545142263814",
+        "created_at": "2021-09-21T10:47:57.000Z"
+    }
+]
