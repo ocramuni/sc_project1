@@ -7,3 +7,6 @@
 
 # Twitter API credentials file
 twitter_credentials.json
+
+# A merge of all Twitter data
+data/twitter_data.json
